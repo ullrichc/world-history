@@ -241,7 +241,7 @@
     const flight = globe.flyTo(globe.fitBox(ch.focus));
     animateTime(ch.start, BB.reducedMotion() ? 0 : 1600);
     refreshJourneySites();
-    history.replaceState(null, '', `#${ch.id}`);
+    try { history.replaceState(null, '', `#${ch.id}`); } catch (e) { /* sandboxed frames may refuse */ }
     if (opts.autoplay) {
       state.started = true;
       flight.then(() => { if (state.index === i && state.mode === 'journey') narrator.play(); });
