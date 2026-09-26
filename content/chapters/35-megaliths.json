@@ -1,0 +1,371 @@
+{
+  "id": "megaliths",
+  "order": 35,
+  "act": "transition",
+  "title": "The Age of Great Stones",
+  "subtitle": "Megaliths from Brittany to Malta, Newgrange, Orkney and Stonehenge",
+  "era": "Neolithic",
+  "start": 6800,
+  "end": 4200,
+  "dateLabel": "c. 4800–2200 BCE",
+  "regions": [
+    "europe"
+  ],
+  "focus": [
+    -10,
+    35,
+    16,
+    60
+  ],
+  "emblem": "megalith",
+  "summary": "From around 4700 BCE, farming communities along Europe’s Atlantic and Mediterranean coasts began to raise great stones as tombs, rows, circles and temples. Brittany, Iberia, Malta, Ireland, Orkney and Wessex each made the tradition their own, and new science is tracing where the stones, the animals and the people came from.",
+  "narration": [
+    "On the mornings around the winter solstice, a thin blade of light slips through a stone slot above the entrance of Newgrange in Ireland, creeps 19 metres up the passage and lights the chamber floor for about 17 minutes. The builders arranged this some 5,200 years ago, centuries before the pyramids of Giza.",
+    "Newgrange belongs to a tradition that the farmers of Atlantic Europe began in Brittany about fifteen hundred years earlier, and that travelled by sea along the Atlantic and Mediterranean coasts: chambered tombs, lines of standing stones, stone circles and, on Malta, temples of limestone. With only stone tools, timber, rope and muscle, people moved blocks weighing tens of tonnes, and at Locmariaquer in Brittany they raised a single standing stone some 20 metres long.",
+    "At Stonehenge the question is not only how, but from where. The giant sarsens came from about 25 kilometres to the north. The smaller bluestones came from the hills of west Wales, more than 200 kilometres away. And the six-tonne Altar Stone, scientists revealed in 2024, came from the far northeast of Scotland, more than 700 kilometres away. Nearby feasts drew pigs from all over Britain. Whatever else it was, Stonehenge was a monument that a whole island helped to build."
+  ],
+  "pronounce": {
+    "Locmariaquer": "Lok-mar-ya-kair",
+    "sarsens": "sar-sens"
+  },
+  "body": [
+    {
+      "heading": "A tradition born in Brittany",
+      "paragraphs": [
+        "Megalith simply means “great stone”. Between about 4700 and 2000 BCE, communities from Portugal to Sweden and from Ireland to Malta built tens of thousands of monuments of large stones: chambered tombs (dolmens and passage graves), single standing stones (menhirs), rows and circles. In 2019 Bettina Schulz Paulsson modelled 2,410 radiocarbon dates from across Europe and concluded that the earliest megaliths appeared in northwest France around 4700 BCE and spread by sea in several waves along the Atlantic and Mediterranean coasts over the following centuries.",
+        "Brittany has some of the oldest and largest. The cairn of Barnenez on the north coast of Finistère, about 75 m long, covers eleven passage graves; its first phase dates to around 4800 to 4500 BCE. Near Carnac, some 3,000 standing stones stand in parallel rows at Le Ménec, Kermario and Kerlescan, stretching for kilometres; they are hard to date but belong mostly to the fifth and fourth millennia BCE. At Locmariaquer, the Grand Menhir, now lying in four pieces, was about 20 m long and weighed an estimated 280 tonnes or more. It was raised around 4500 BCE from stone brought several kilometres, and later fell or was toppled.",
+        "Nearby, the passage grave of Gavrinis, on an island in the Gulf of Morbihan, is lined with slabs covered in swirling engraved lines. Its capstone is part of an older decorated menhir; another part of the same stone roofs the Table des Marchand tomb at Locmariaquer, 4 km away, and the carved images join across the break. By around 4000 BCE great standing stones were being broken up and recycled into tombs."
+      ]
+    },
+    {
+      "heading": "Iberia and the Mediterranean",
+      "paragraphs": [
+        "In southern Spain, the Dolmen de Menga at Antequera, built around 3800 to 3600 BCE, is a stone gallery about 27 m long roofed by capstones, the heaviest estimated at about 150 tonnes. A 2024 study in Science Advances by José Antonio Lozano Rodríguez, Leonardo García Sanjuán and colleagues examined how its stones were quarried, moved and set, and concluded that the builders applied practical knowledge of geology, friction, angles and loads amounting to an early form of engineering. Unusually, Menga’s axis points not to a sunrise but to a distinctive mountain, the Peña de los Enamorados.",
+        "In Portugal, the Almendres cromlech near Évora, with about 95 standing stones in two enclosures, may have begun as early as the sixth millennium BCE, though its dating is uncertain. On Malta and Gozo, communities built limestone “temples” from about 3600 BCE, among the oldest free-standing stone buildings anywhere. Ġgantija on Gozo has two lobed temples within one outer wall of huge blocks. Beneath Paola on Malta, the Ħal Saflieni Hypogeum was cut into the rock on three levels between about 4000 and 2500 BCE; it held the remains of perhaps 7,000 people and still bears spirals painted in red ochre. The Maltese temple culture came to an end around 2400 BCE."
+      ]
+    },
+    {
+      "heading": "Brú na Bóinne",
+      "paragraphs": [
+        "In a bend of the River Boyne in Ireland, three great passage tombs, Newgrange, Knowth and Dowth, were built around 3200 BCE. Newgrange is a mound about 85 m across, ringed by 97 kerbstones, with a 19 m passage leading to a cross-shaped chamber under a corbelled roof that has kept it dry for five thousand years. Above the entrance is a “roof box”: at sunrise around the winter solstice, light enters it, travels up the rising passage and lights the chamber floor for about 17 minutes. Michael O’Kelly, who excavated and restored the site from 1962 to 1975, witnessed the effect in 1967. Knowth holds more than 200 decorated stones, the largest collection of megalithic art in western Europe.",
+        "In 2020 Lara Cassidy, Daniel Bradley and colleagues published dozens of genomes from Irish Neolithic tombs. A man buried in the chamber at Newgrange was the child of first-degree relatives, a brother and sister or a parent and child. Because such unions are almost universally taboo except among some ruling elites, such as the royal families of ancient Egypt and the Inca, the team proposed that Newgrange was built for a dynastic elite. They also found distant relatives of the man in passage tombs at Carrowmore and Carrowkeel in County Sligo, more than 150 km away."
+      ]
+    },
+    {
+      "heading": "Orkney",
+      "paragraphs": [
+        "The Orkney islands off northern Scotland hold one of the densest Neolithic landscapes in Europe. Skara Brae, uncovered by a storm in 1850, is a village of stone houses lived in from about 3100 to 2500 BCE, with stone dressers, box beds, hearths and drains, linked by roofed passages. On a narrow strip of land between two lochs, the Stones of Stenness (around 3100 BCE) are among the earliest stone circles in Britain, and the Ring of Brodgar, about 104 m across, once had around 60 stones. Maeshowe, a chambered tomb of about 2800 BCE, is aligned so that the setting sun around the winter solstice shines down its passage.",
+        "Between the two circles lies the Ness of Brodgar, found in 2002 and excavated from 2004 to 2024 by a team led by Nick Card. It is a complex of large stone buildings with slate roofs and painted walls, used from about 3300 to 2400 BCE and enclosed by massive walls. Its use seems to have ended with a great feast that left the bones of hundreds of cattle around one building. After the final season the site was covered over to protect it. Grooved Ware, a flat-based pottery decorated with grooves, seems to have originated in Orkney around 3200 BCE and spread south as far as Wessex, a sign of long-distance ties across Britain."
+      ]
+    },
+    {
+      "heading": "Stonehenge and its stones",
+      "paragraphs": [
+        "Stonehenge on Salisbury Plain was built and rebuilt over some 1,500 years. Around 3000 BCE it began as a circular ditch and bank about 110 m across, with a ring of pits, the Aubrey Holes, that probably held bluestones and received cremated human remains. Around 2500 BCE the great sarsen circle and five trilithons were raised, stones weighing up to about 25 to 30 tonnes; the bluestones were rearranged several times in later centuries. In 2020 David Nash and colleagues analysed a core drilled from one sarsen in 1958 and returned in 2019, and compared it with sarsen boulders across southern England: 50 of the 52 surviving sarsens match West Woods, about 25 km to the north.",
+        "The bluestones came from the Preseli Hills of west Wales, more than 200 km away. Mike Parker Pearson, the geologists Richard Bevins and Rob Ixer and colleagues identified outcrops at Carn Goedog (spotted dolerite) and Craig Rhos-y-felin (rhyolite) with stone wedges and hearths that point to quarrying around 3400 to 3000 BCE. In 2021 Parker Pearson proposed that a stone circle at Waun Mawn, of the same diameter as Stonehenge’s ditch, was dismantled and carried east, a hypothesis others dispute. In 2024 a team led by Anthony Clarke at Curtin University dated tiny zircon and rutile crystals in the six-tonne Altar Stone and traced it to the Old Red Sandstone of northeast Scotland, more than 700 km away. Follow-up work pointed to the Scottish mainland rather than Orkney as the source. How it travelled, by sea or overland, is unknown.",
+        "About 3 km to the northeast, the huge henge of Durrington Walls was the scene of great winter feasts around 2500 BCE, probably by the people who raised the sarsens. Isotopes in pig bones studied by Richard Madgwick and colleagues in 2019 show that animals were brought from as far as Scotland, northeast England and west Wales."
+      ]
+    },
+    {
+      "heading": "What were they for?",
+      "paragraphs": [
+        "Megaliths were not one thing. Many were tombs holding the bones of many people over generations, often disarticulated and mixed, suggesting collective ancestors rather than individual heroes. Many were aligned on the sun: Newgrange and Maeshowe on midwinter, Stonehenge’s main axis on the midsummer sunrise and midwinter sunset.",
+        "For Stonehenge, Mike Parker Pearson and the Malagasy archaeologist Ramilisonina proposed in 1998 that stone stood for the permanent dead and timber, at Durrington Walls, for the living. Timothy Darvill and Geoffrey Wainwright argued that the bluestones were prized for healing. In 2022 Darvill proposed that the sarsens encode a solar calendar of 365 days, a claim the archaeoastronomers Giulio Magli and Juan Antonio Belmonte rejected in 2023. Parker Pearson also sees Stonehenge as a project that united the peoples of Britain, a reading the Welsh and Scottish stones make more compelling. The monument’s later history, and the arrival of the Beaker people, belong to chapter 42."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Did megaliths spread from one origin or arise many times?",
+      "views": [
+        {
+          "label": "A maritime spread from Brittany",
+          "text": "Bettina Schulz Paulsson’s 2019 Bayesian analysis of 2,410 radiocarbon dates placed the earliest megaliths in northwest France around 4700 BCE and traced three waves of spread along the coasts, implying skilled seafaring and long-distance contacts."
+        },
+        {
+          "label": "Several independent beginnings",
+          "text": "Other researchers stress local traditions of monumental burial, uneven radiocarbon sampling and possibly early dates from Iberia, such as the first phase of the Almendres cromlech, arguing that similar solutions to building with large stones could have arisen more than once."
+        }
+      ],
+      "status": "Maritime connections along the Atlantic facade are broadly accepted, and Brittany’s early date is well supported. Whether every regional tradition derives from it, or some began independently and were later connected, is still argued, and better dating of Iberian monuments could decide it."
+    },
+    {
+      "question": "How did the bluestones get to Stonehenge?",
+      "views": [
+        {
+          "label": "Moved by people",
+          "text": "Mike Parker Pearson, Richard Bevins, Rob Ixer and colleagues matched bluestones to specific Preseli outcrops, where they found quarry features, wedges and hearths dated to around 3400 to 3000 BCE, implying that people moved the stones some 200 km or more."
+        },
+        {
+          "label": "Moved by ice",
+          "text": "The geomorphologist Brian John and a few others argue that glaciers carried the bluestones east during an earlier ice age, so that the builders collected them nearer Salisbury Plain."
+        },
+        {
+          "label": "Doubts about Waun Mawn",
+          "text": "Some archaeologists who accept human transport question Parker Pearson’s 2021 proposal that a complete circle at Waun Mawn was dismantled and moved, arguing that the ring may never have been finished and that its dating is loose."
+        }
+      ],
+      "status": "Most archaeologists and geologists accept human transport, supported by the quarry evidence and now by the Scottish origin of the Altar Stone, which ice could not have carried south to Wiltshire. The Waun Mawn hypothesis remains contested."
+    },
+    {
+      "question": "What was Stonehenge for?",
+      "views": [
+        {
+          "label": "A place of the ancestors",
+          "text": "Parker Pearson and Ramilisonina (1998) saw the stone monument as a domain of the dead, linked by the River Avon to the timber circles of the living at Durrington Walls, and early Stonehenge was indeed a cemetery for cremations."
+        },
+        {
+          "label": "A place of healing",
+          "text": "Timothy Darvill and Geoffrey Wainwright suggested that the bluestones were believed to heal, drawing sick and injured people from afar."
+        },
+        {
+          "label": "A calendar",
+          "text": "The solstice axis is accepted, but Darvill’s 2022 claim that the sarsens encode a 365-day solar calendar was rejected by Giulio Magli and Juan Antonio Belmonte, who found the numerology and alignments unsupported."
+        },
+        {
+          "label": "A monument of unification",
+          "text": "Parker Pearson argues that bringing stones from Wales, and now apparently Scotland, and animals from across Britain made Stonehenge a shared project that bound distant communities together."
+        }
+      ],
+      "status": "These ideas are not exclusive. Stonehenge was probably a solar-aligned monument to ancestors that changed meaning over 1,500 years, and the new provenance studies strongly support its role as a focus for people from across Britain."
+    },
+    {
+      "question": "Was Newgrange built for a dynastic elite?",
+      "views": [
+        {
+          "label": "Yes, an elite lineage",
+          "text": "Lara Cassidy, Daniel Bradley and colleagues (2020) argued that the incestuous parentage of the man buried in Newgrange’s chamber, together with his distant kin in other major passage tombs, points to a powerful lineage that, like Egyptian or Inca royalty, broke normal marriage rules to keep status within the family."
+        },
+        {
+          "label": "Not proven",
+          "text": "Critics note that the argument rests on a single individual, that incest can have other explanations including abuse, that burial in a tomb does not prove rule, and that the sample of genomes is small. Some also question whether Neolithic Ireland had hereditary rulers at all."
+        }
+      ],
+      "status": "The genetic result itself is robust; its social meaning remains debated. More genomes from Brú na Bóinne and other passage tombs could show whether a distinct elite lineage existed."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Earliest megaliths",
+      "value": "Northwest France, c. 4700 BCE (Schulz Paulsson 2019)"
+    },
+    {
+      "label": "Grand Menhir, Locmariaquer",
+      "value": "About 20 m long, an estimated 280 tonnes or more"
+    },
+    {
+      "label": "Newgrange",
+      "value": "c. 3200 BCE, winter-solstice roof box"
+    },
+    {
+      "label": "Stonehenge sarsens",
+      "value": "50 of 52 from West Woods, about 25 km away (2020)"
+    },
+    {
+      "label": "Altar Stone",
+      "value": "From northeast Scotland, over 700 km away (2024)"
+    },
+    {
+      "label": "Ħal Saflieni Hypogeum",
+      "value": "Remains of perhaps 7,000 people"
+    }
+  ],
+  "sites": [
+    {
+      "id": "barnenez",
+      "name": "Barnenez",
+      "country": "France",
+      "region": "europe",
+      "lat": 48.67,
+      "lon": -3.86,
+      "start": 6800,
+      "end": 6500,
+      "dateLabel": "c. 4800–4500 BCE",
+      "type": "burial",
+      "summary": "Long stone cairn covering eleven passage graves, one of the oldest megalithic monuments in Europe."
+    },
+    {
+      "id": "carnac",
+      "name": "Carnac alignments",
+      "country": "France",
+      "region": "europe",
+      "lat": 47.59,
+      "lon": -3.08,
+      "start": 6500,
+      "end": 5300,
+      "dateLabel": "c. 4500–3300 BCE",
+      "type": "monument",
+      "summary": "Some 3,000 standing stones in parallel rows stretching for kilometres, the largest concentration of menhirs in the world."
+    },
+    {
+      "id": "locmariaquer",
+      "name": "Locmariaquer",
+      "country": "France",
+      "region": "europe",
+      "lat": 47.57,
+      "lon": -2.95,
+      "start": 6500,
+      "end": 6000,
+      "dateLabel": "c. 4500–4000 BCE",
+      "type": "monument",
+      "summary": "Site of the Grand Menhir, a broken standing stone about 20 m long, and the Table des Marchand tomb built from a recycled menhir."
+    },
+    {
+      "id": "gavrinis",
+      "name": "Gavrinis",
+      "country": "France",
+      "region": "europe",
+      "lat": 47.57,
+      "lon": -2.9,
+      "start": 6200,
+      "end": 6000,
+      "dateLabel": "c. 4200–4000 BCE",
+      "type": "art",
+      "summary": "Island passage grave lined with richly engraved slabs; its capstone joins a broken menhir reused at Locmariaquer."
+    },
+    {
+      "id": "dolmen-de-menga",
+      "name": "Dolmen de Menga",
+      "country": "Spain",
+      "region": "europe",
+      "lat": 37.02,
+      "lon": -4.55,
+      "start": 5800,
+      "end": 5600,
+      "dateLabel": "c. 3800–3600 BCE",
+      "type": "monument",
+      "summary": "Massive gallery dolmen at Antequera roofed with capstones of up to about 150 tonnes, oriented toward a mountain rather than the sun."
+    },
+    {
+      "id": "almendres",
+      "name": "Almendres cromlech",
+      "country": "Portugal",
+      "region": "europe",
+      "lat": 38.56,
+      "lon": -8.06,
+      "start": 7500,
+      "end": 5000,
+      "dateLabel": "c. 5500–3000 BCE",
+      "type": "monument",
+      "summary": "Enclosures of about 95 standing stones near Évora, possibly begun in the sixth millennium BCE and among the oldest stone circles in Europe."
+    },
+    {
+      "id": "ggantija",
+      "name": "Ġgantija",
+      "country": "Malta",
+      "region": "europe",
+      "lat": 36.05,
+      "lon": 14.27,
+      "start": 5600,
+      "end": 4500,
+      "dateLabel": "c. 3600–2500 BCE",
+      "type": "monument",
+      "summary": "Two lobed limestone temples on Gozo inside a wall of huge blocks, among the oldest free-standing stone buildings in the world."
+    },
+    {
+      "id": "hal-saflieni",
+      "name": "Ħal Saflieni Hypogeum",
+      "country": "Malta",
+      "region": "europe",
+      "lat": 35.87,
+      "lon": 14.51,
+      "start": 6000,
+      "end": 4500,
+      "dateLabel": "c. 4000–2500 BCE",
+      "type": "burial",
+      "summary": "Underground rock-cut burial complex on three levels, with red ochre spirals and the remains of perhaps 7,000 people."
+    },
+    {
+      "id": "newgrange",
+      "name": "Newgrange",
+      "country": "Ireland",
+      "region": "europe",
+      "lat": 53.69,
+      "lon": -6.48,
+      "start": 5200,
+      "end": 5200,
+      "dateLabel": "c. 3200 BCE",
+      "type": "monument",
+      "summary": "Great passage tomb whose roof box admits the winter-solstice sunrise; a genome from its chamber sparked debate about a Neolithic dynastic elite."
+    },
+    {
+      "id": "skara-brae",
+      "name": "Skara Brae",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 59.05,
+      "lon": -3.34,
+      "start": 5100,
+      "end": 4500,
+      "dateLabel": "c. 3100–2500 BCE",
+      "type": "settlement",
+      "summary": "Neolithic village of stone houses with built-in dressers and beds, linked by covered passages, revealed by a storm in 1850."
+    },
+    {
+      "id": "ness-of-brodgar",
+      "name": "Ness of Brodgar",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 58.99,
+      "lon": -3.21,
+      "start": 5300,
+      "end": 4400,
+      "dateLabel": "c. 3300–2400 BCE",
+      "type": "monument",
+      "summary": "Complex of monumental stone buildings with painted walls and slate roofs between the Ring of Brodgar and the Stones of Stenness."
+    },
+    {
+      "id": "stonehenge",
+      "name": "Stonehenge",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 51.18,
+      "lon": -1.83,
+      "start": 5000,
+      "end": 3500,
+      "dateLabel": "c. 3000–1500 BCE",
+      "type": "monument",
+      "summary": "Solstice-aligned monument of local sarsens, Welsh bluestones and a Scottish Altar Stone, built in stages over 1,500 years; nearby Durrington Walls hosted great feasts."
+    }
+  ],
+  "themes": [
+    "monuments",
+    "burial",
+    "society",
+    "genetics",
+    "seafaring",
+    "food"
+  ],
+  "sources": [
+    {
+      "cite": "O’Kelly, M. J. (1982). Newgrange: Archaeology, Art and Legend. London: Thames & Hudson."
+    },
+    {
+      "cite": "Parker Pearson, M. & Ramilisonina (1998). Stonehenge for the ancestors: the stones pass on the message. Antiquity 72, 308–326."
+    },
+    {
+      "cite": "Schulz Paulsson, B. (2019). Radiocarbon dates and Bayesian modeling support maritime diffusion model for megaliths in Europe. PNAS 116, 3460–3465."
+    },
+    {
+      "cite": "Madgwick, R. et al. (2019). Multi-isotope analysis reveals that feasts in the Stonehenge environs and across Wessex drew people and animals from throughout Britain. Science Advances 5, eaau6078."
+    },
+    {
+      "cite": "Cassidy, L. M. et al. (2020). A dynastic elite in monumental Neolithic society. Nature 582, 384–388."
+    },
+    {
+      "cite": "Nash, D. J. et al. (2020). Origins of the sarsen megaliths at Stonehenge. Science Advances 6, eabc0133."
+    },
+    {
+      "cite": "Parker Pearson, M. et al. (2021). The original Stonehenge? A dismantled stone circle in the Preseli Hills of west Wales. Antiquity 95, 85–103."
+    },
+    {
+      "cite": "Darvill, T. (2022). Keeping time at Stonehenge. Antiquity 96, 319–335."
+    },
+    {
+      "cite": "Magli, G. & Belmonte, J. A. (2023). Archaeoastronomy and the alleged ‘Stonehenge calendar’. Antiquity 97."
+    },
+    {
+      "cite": "Clarke, A. J. I. et al. (2024). A Scottish provenance for the Altar Stone of Stonehenge. Nature 632, 570–575."
+    }
+  ]
+}

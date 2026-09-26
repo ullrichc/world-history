@@ -1,0 +1,279 @@
+{
+  "id": "erectus-acheulean",
+  "order": 5,
+  "act": "toolmakers",
+  "title": "Walkers and Handaxe Makers",
+  "subtitle": "Homo erectus and the Acheulean in Africa",
+  "era": "Early Stone Age (Acheulean)",
+  "start": 2000000,
+  "end": 200000,
+  "dateLabel": "2 million–200,000 years ago",
+  "regions": ["africa"],
+  "focus": [15, -30, 45, 15],
+  "emblem": "handaxe",
+  "summary": "Around 2 million years ago a new kind of human appeared in Africa: taller, longer-legged and built for long days on the move. Homo erectus created the Acheulean handaxe, a design that lasted more than 1.5 million years, and may have been the first hominin to use fire.",
+  "narration": [
+    "In August 1984, Kamoya Kimeu, the most celebrated fossil hunter of his generation, noticed a small piece of skull on a slope near the Nariokotome River, west of Lake Turkana. Over the following years the team uncovered almost an entire skeleton: a boy of about eight who died some 1.5 million years ago. He is known as the Turkana Boy.",
+    "He belonged to Homo erectus, and his body tells a new story. Long legs, narrow hips and a tall, slender build suit long-distance walking in the heat, probably with plenty of sweating to keep cool. Footprints at Ileret, 1.5 million years old, show feet with arches like ours. Some researchers think these people could run animals to exhaustion under the midday sun, though others doubt it.",
+    "Homo erectus also made something new. From about 1.75 million years ago, at Kokiselei in Kenya and Konso in Ethiopia, knappers began shaping large flakes on both faces into teardrop-shaped handaxes. The Acheulean, as this tradition is called, lasted for more than 1.5 million years, one of the longest-lived designs ever made. Its best makers achieved a symmetry that still puzzles archaeologists, who debate whether it served use, teaching or display.",
+    "There are first hints of fire too: reddened earth at Koobi Fora, and ash deep inside Wonderwerk Cave in South Africa about a million years ago. And through it all, the climate of eastern Africa swung between wet and dry, testing these travellers again and again."
+  ],
+  "pronounce": {
+    "Kamoya Kimeu": "Ka-moy-ah Kee-may-oo",
+    "Nariokotome": "Nar-ee-oh-ko-toh-meh",
+    "Ileret": "Ee-leh-ret",
+    "Kokiselei": "Ko-kee-seh-lay",
+    "Konso": "Kon-so",
+    "Acheulean": "Ah-shoo-lee-an",
+    "Wonderwerk": "Von-der-verk",
+    "Koobi Fora": "Koo-bee For-ah"
+  },
+  "body": [
+    {
+      "heading": "A new kind of human",
+      "paragraphs": [
+        "Homo erectus was named from Java, where Eugène Dubois found a skullcap in 1891, but its roots are African. The earliest securely dated specimen is DNH 134, the braincase of a child of two or three from Drimolen in South Africa, dated to 2.04–1.95 million years ago and published in 2020 by Andy Herries, Stephanie Baker and colleagues. At Koobi Fora in Kenya, a skull fragment (KNM-ER 2598) may be about 1.9 million years old, and the well-preserved skull KNM-ER 3733 is about 1.6 million years old. Some researchers call the early African fossils Homo ergaster, a name given in 1975 to a Koobi Fora jaw, and reserve H. erectus for Asian fossils; others see one widespread, variable species.",
+        "Compared with earlier hominins, H. erectus had brains of about 600 to 900 cubic centimetres at first and more than 1,000 later, smaller teeth and jaws, a taller, more linear body and modern proportions of arms to legs. Its teeth grew faster than ours, suggesting a childhood shorter than a modern human’s but longer than an ape’s."
+      ]
+    },
+    {
+      "heading": "The Turkana Boy",
+      "paragraphs": [
+        "In August 1984 Kamoya Kimeu, leader of Richard Leakey’s fossil-hunting team, spotted a skull fragment near the Nariokotome River west of Lake Turkana. Excavations led by Leakey and Alan Walker over several seasons recovered the skull, jaw, spine, ribs, pelvis and limbs of one individual, KNM-WT 15000, about 1.5 million years old: the most complete early human skeleton known. Growth lines in his teeth indicate that he died at about eight years old, already around 1.6 metres tall. Early estimates that he would have reached 1.85 metres as an adult have since been revised downward.",
+        "The skeleton shows long legs, a barrel-shaped rib cage and narrow hips, a build that loses heat efficiently in hot, open country. Earlier suggestions that he suffered from a skeletal disorder have been reconsidered; a 2014 re-examination attributed the asymmetry of his spine to a slipped disc in the lower back."
+      ]
+    },
+    {
+      "heading": "Built to walk, and perhaps to run",
+      "paragraphs": [
+        "Footprints confirm the anatomy. In 2009 Matthew Bennett and colleagues described prints at Ileret, east of Lake Turkana, about 1.5 million years old, with a pronounced arch, a big toe in line with the others and a human-like transfer of weight. Later excavations reported by Kevin Hatala in 2016 revealed nearly 100 prints of at least 20 individuals, whose sizes suggest groups that included several adult males moving along the lake edge.",
+        "H. erectus probably also lost most of its body hair and relied on sweating to shed heat. In 2004 Dennis Bramble and Daniel Lieberman proposed that the genus evolved for endurance running, pointing to the nuchal ligament that steadies the head, an enlarged gluteus maximus, long Achilles tendons, short toes and large balance canals in the inner ear. Running could have helped scavengers reach carcasses first, or allowed hunters to chase animals in the heat until they collapsed.",
+        "Critics such as Travis Pickering and Henry Bunn argued in 2007 that such persistence hunting demands tracking skills and open terrain that early Homo may have lacked, and that the anatomy is equally well explained by long-distance walking. In 2024 Eugène Morin and Bruce Winterhalder compiled some 400 historical and ethnographic accounts of running hunts from around the world and argued that such hunts can be energetically efficient, reviving the hypothesis without settling when the behaviour began."
+      ]
+    },
+    {
+      "heading": "The first handaxes",
+      "paragraphs": [
+        "About 1.75 million years ago, toolmakers in eastern Africa began striking large flakes, often more than 10 centimetres long, from boulders and shaping them on both faces into handaxes, cleavers and picks. This is the Acheulean, named after Saint-Acheul in northern France, where such tools were collected in the nineteenth century. The oldest securely dated examples come from Kokiselei 4 near Lake Turkana, about 1.76 million years old (Christopher Lepre and colleagues, 2011), and from Konso in southern Ethiopia, about 1.75 million years old (Yonas Beyene and colleagues, 2013). FLK West at Olduvai Gorge has handaxes about 1.7 million years old.",
+        "Later Acheulean tools became thinner and more symmetrical, though not in a steady progression. At Konso, refined handaxes appear by about 850,000 years ago, and a handaxe knapped from a hippopotamus thigh bone about 1.4 million years old was described in 2020. In 2023 a team led by Margherita Mussi reported that H. erectus lived at Melka Kunture in the Ethiopian highlands, about 2,000 metres above sea level, close to 2 million years ago, making Oldowan tools and soon afterward some of the earliest Acheulean ones. At Simbiro III, part of the same site complex, knappers about 1.2 million years ago mass-produced handaxes from obsidian. Oldowan-style toolkits persisted alongside the Acheulean, and in Africa the Acheulean gave way to the Middle Stone Age between about 300,000 and 200,000 years ago."
+      ]
+    },
+    {
+      "heading": "Why so symmetrical?",
+      "paragraphs": [
+        "Handaxes are effective tools. Experiments show that they butcher large animals well, with long, durable edges that can be resharpened and enough weight for heavy cutting, and many carry wear traces from cutting meat, wood or plants. Yet many are more symmetrical than the work strictly requires, which has prompted other explanations.",
+        "One links handaxes to teaching and language. Studies by Dietrich Stout and colleagues show that learning to make a good handaxe takes many hours of practice, often hundreds, and that it engages regions of the inferior frontal cortex that overlap with those used in language; demanding skills may have favoured teaching and communication. Another, the ‘sexy handaxe’ hypothesis of Marek Kohn and Steven Mithen (1999), proposed that fine symmetrical handaxes advertised the maker’s skill, planning and health to potential mates, which would explain why some were made in large numbers and apparently little used. Critics reply that symmetry emerges naturally when knappers maintain an even edge, and that the display idea is hard to test."
+      ]
+    },
+    {
+      "heading": "Olorgesailie and a changing climate",
+      "paragraphs": [
+        "Olorgesailie, in the southern Kenya Rift, is strewn with thousands of Acheulean handaxes. Mary and Louis Leakey began work there in 1942, and Rick Potts of the Smithsonian Institution has led research since 1985. Its sediments record Acheulean activity from about 1.2 million to about 500,000 years ago as lakes rose and dried and faults and volcanoes reshaped the basin; a small H. erectus braincase about 900,000 years old was found there in 2003.",
+        "From such records Potts developed the variability selection hypothesis (1996, 1998): key human traits, such as larger brains, flexible behaviour and wide-ranging movement, evolved not because Africa steadily dried into savanna but because environments swung ever more widely between wet and dry. Drill cores from the Olorgesailie area, analysed in 2020, show a marked increase in environmental variability after about 400,000 years ago, when the Acheulean there was replaced by new technologies (chapter 11). Other researchers stress long-term drying and the spread of grasslands, as in Peter deMenocal’s dust records from ocean cores, or short pulses of extreme variability marked by deep, short-lived lakes, as proposed by Mark Maslin and Martin Trauth."
+      ]
+    },
+    {
+      "heading": "First sparks",
+      "paragraphs": [
+        "Chapter 9 examines fire in depth, but the earliest claims involve H. erectus in Africa. At Koobi Fora site FxJj20, about 1.5 million years old, reddened patches of sediment and heated stone artefacts, most recently studied by Sarah Hlubik and colleagues, suggest fire close to where hominins worked, although natural fires are hard to rule out. At Swartkrans, C. K. Brain and Andrew Sillen reported burnt bones in 1988 in deposits about 1 million years old or older. The strongest early case is Wonderwerk Cave in South Africa, where Francesco Berna and colleagues (2012) found microscopic ash of burnt grasses and leaves, and burnt bone, in Acheulean layers about 1 million years old, some 30 metres inside the cave.",
+        "Richard Wrangham argues that cooking began with H. erectus about 1.9 million years ago, explaining its smaller teeth and gut and larger brain. The archaeological record does not yet show regular fire use that early; habitual use becomes clear only within the last 400,000 years or so. Either cooking began earlier than the evidence shows, or the anatomical changes had other causes, such as better tools and more meat."
+      ]
+    },
+    {
+      "heading": "A long run",
+      "paragraphs": [
+        "H. erectus was one of the longest-lived human species. In Africa, the Daka skullcap from Bouri in Ethiopia and the Buia skull from Eritrea, both about 1 million years old, show it still flourishing, and African populations probably gave rise to later forms of Homo (chapter 10). Beyond Africa, where it spread early (chapter 6), H. erectus survived on Java until about 117,000–108,000 years ago."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Were early Homo built to run?",
+      "views": [
+        {"label": "Endurance runners", "text": "Dennis Bramble and Daniel Lieberman (2004) argue that a suite of features absent in australopiths, from the nuchal ligament to the Achilles tendon, evolved for running, enabling scavenging races and persistence hunting; Eugène Morin and Bruce Winterhalder (2024) found hundreds of historical records of running hunts."},
+        {"label": "Walkers first", "text": "Travis Pickering and Henry Bunn (2007) and others argue that the same traits serve long-distance walking and carrying, that persistence hunting needs tracking skills and terrain early Homo may not have had, and that butchery evidence better fits ambush or scavenging."}
+      ],
+      "status": "Few doubt that H. erectus was an efficient long-distance walker. Whether running shaped its evolution remains contested, since fossils cannot show how often it ran."
+    },
+    {
+      "question": "Why were handaxes symmetrical?",
+      "views": [
+        {"label": "Function", "text": "Many experimental archaeologists argue that symmetry produces balanced, durable edges that are easy to resharpen, so it follows from use in butchery and woodworking."},
+        {"label": "Teaching and language", "text": "Dietrich Stout and colleagues argue that making standardised handaxes required long apprenticeships and shared goals, favouring teaching and possibly aspects of language."},
+        {"label": "Display", "text": "Marek Kohn and Steven Mithen (1999) proposed that fine handaxes signalled the maker’s quality to potential mates, explaining apparently unused and oversized examples."}
+      ],
+      "status": "These explanations are not mutually exclusive. Use-wear studies, brain imaging of knappers and large statistical studies of handaxe shape continue to test them; the display hypothesis has the least direct support."
+    },
+    {
+      "question": "Did Homo erectus cook?",
+      "views": [
+        {"label": "Cooking from about 1.9 million years ago", "text": "Richard Wrangham argues that smaller teeth, a reduced gut and a larger brain in H. erectus imply cooked food, and that early fire traces at Koobi Fora and Wonderwerk support this."},
+        {"label": "Fire came later", "text": "Wil Roebroeks, Paola Villa and others argue that convincing evidence of habitual fire appears only in the last few hundred thousand years, and that early traces may reflect occasional use of natural fire."}
+      ],
+      "status": "Occasional fire use by about 1 million years ago is now widely accepted for Wonderwerk; regular cooking at 1.9 million years ago lacks archaeological support. Chapter 9 returns to the question."
+    },
+    {
+      "question": "Did climate variability drive human evolution?",
+      "views": [
+        {"label": "Variability selection", "text": "Rick Potts argues that increasingly unstable environments favoured flexible, wide-ranging, innovative hominins, citing the Olorgesailie basin and its drill cores."},
+        {"label": "Drying and pulses", "text": "Peter deMenocal emphasised long-term aridification and grassland expansion, while Mark Maslin and Martin Trauth proposed that brief phases of extreme variability, with deep lakes appearing and vanishing, drove bursts of speciation and dispersal."}
+      ],
+      "status": "Drill-core programmes across eastern Africa now allow these ideas to be tested against detailed records. Most researchers see climate as important but its effects as varying from basin to basin."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Oldest Homo erectus", "value": "DNH 134, Drimolen (South Africa), 2.04–1.95 million years"},
+    {"label": "Turkana Boy", "value": "KNM-WT 15000, about 1.5 million years, found 1984 by Kamoya Kimeu"},
+    {"label": "Oldest handaxes", "value": "Kokiselei 4, Kenya (1.76 million years) and Konso, Ethiopia (1.75 million years)"},
+    {"label": "Acheulean in Africa", "value": "About 1.75 million to 200,000 years ago"},
+    {"label": "Early fire", "value": "Wonderwerk Cave, about 1 million years; debated traces at Koobi Fora about 1.5 million"},
+    {"label": "Modern feet", "value": "Ileret footprints, Kenya, about 1.5 million years"}
+  ],
+  "sites": [
+    {
+      "id": "drimolen",
+      "name": "Drimolen",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -25.97, "lon": 27.76,
+      "start": 2040000, "end": 1950000,
+      "dateLabel": "2.04–1.95 million years ago",
+      "type": "fossil",
+      "summary": "Cave that yielded DNH 134, the oldest securely dated Homo erectus, alongside Paranthropus robustus, showing both lived together in southern Africa."
+    },
+    {
+      "id": "koobi-fora",
+      "name": "Koobi Fora",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 3.95, "lon": 36.25,
+      "start": 1900000, "end": 1500000,
+      "dateLabel": "about 1.9–1.5 million years ago",
+      "type": "fire",
+      "summary": "East Turkana area with early H. erectus skulls such as KNM-ER 3733, and site FxJj20, where reddened sediments and heated artefacts may be early traces of fire."
+    },
+    {
+      "id": "nariokotome",
+      "name": "Nariokotome III",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 4.13, "lon": 35.88,
+      "start": 1500000, "end": 1500000,
+      "dateLabel": "about 1.5 million years ago",
+      "type": "fossil",
+      "summary": "Find spot of the Turkana Boy (KNM-WT 15000), the most complete early Homo erectus skeleton, discovered in 1984."
+    },
+    {
+      "id": "ileret",
+      "name": "Ileret",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 4.3, "lon": 36.27,
+      "start": 1530000, "end": 1510000,
+      "dateLabel": "about 1.5 million years ago",
+      "type": "footprints",
+      "summary": "Footprints with modern arches and aligned big toes, made by groups of Homo erectus walking along a lake margin."
+    },
+    {
+      "id": "kokiselei",
+      "name": "Kokiselei 4",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 4.18, "lon": 35.87,
+      "start": 1760000, "end": 1760000,
+      "dateLabel": "about 1.76 million years ago",
+      "type": "tools",
+      "summary": "West Turkana site with the oldest securely dated Acheulean handaxes and picks, found alongside Oldowan tools."
+    },
+    {
+      "id": "konso",
+      "name": "Konso",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 5.35, "lon": 37.4,
+      "start": 1750000, "end": 850000,
+      "dateLabel": "1.75 million–850,000 years ago",
+      "type": "tools",
+      "summary": "Sequence spanning the earliest Acheulean at 1.75 million years to refined handaxes by 850,000 years, including a 1.4-million-year-old handaxe made of hippo bone."
+    },
+    {
+      "id": "olduvai-gorge",
+      "name": "Olduvai Gorge",
+      "country": "Tanzania",
+      "region": "africa",
+      "lat": -2.99, "lon": 35.35,
+      "start": 1700000, "end": 1000000,
+      "dateLabel": "about 1.7–1 million years ago",
+      "type": "tools",
+      "summary": "FLK West preserves some of the earliest Acheulean handaxes, about 1.7 million years old, and Bed II onward records the spread of the Acheulean."
+    },
+    {
+      "id": "melka-kunture",
+      "name": "Melka Kunture",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 8.7, "lon": 38.59,
+      "start": 2000000, "end": 1200000,
+      "dateLabel": "about 2–1.2 million years ago",
+      "type": "tools",
+      "summary": "Highland site complex at about 2,000 metres where Homo erectus made Oldowan and early Acheulean tools, and later obsidian handaxes at Simbiro III."
+    },
+    {
+      "id": "olorgesailie",
+      "name": "Olorgesailie",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": -1.58, "lon": 36.45,
+      "start": 1200000, "end": 500000,
+      "dateLabel": "about 1.2 million–500,000 years ago",
+      "type": "tools",
+      "summary": "Rift basin strewn with Acheulean handaxes, basis of Rick Potts’s variability selection hypothesis."
+    },
+    {
+      "id": "bouri",
+      "name": "Bouri (Daka)",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 10.3, "lon": 40.53,
+      "start": 1000000, "end": 1000000,
+      "dateLabel": "about 1 million years ago",
+      "type": "fossil",
+      "summary": "Middle Awash locality of the Daka skullcap, a Homo erectus about 1 million years old found with Acheulean tools."
+    },
+    {
+      "id": "swartkrans",
+      "name": "Swartkrans",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -26.01, "lon": 27.72,
+      "start": 1500000, "end": 1000000,
+      "dateLabel": "about 1.5–1 million years ago",
+      "type": "fire",
+      "summary": "Cave whose Member 3 contains burnt bones reported in 1988 as early evidence of fire, possibly tended by Homo erectus."
+    },
+    {
+      "id": "wonderwerk-cave",
+      "name": "Wonderwerk Cave",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -27.85, "lon": 23.55,
+      "start": 1000000, "end": 1000000,
+      "dateLabel": "about 1 million years ago",
+      "type": "fire",
+      "summary": "Microscopic ash and burnt bone in Acheulean layers deep inside the cave, reported in 2012, the strongest early evidence of fire use by hominins."
+    }
+  ],
+  "themes": ["species", "technology", "fire", "climate", "food"],
+  "sources": [
+    {"cite": "Herries, A. I. R. et al. (2020). Contemporaneity of Australopithecus, Paranthropus, and early Homo erectus in South Africa. Science 368, eaaw7293."},
+    {"cite": "Bennett, M. R. et al. (2009). Early hominin foot morphology based on 1.5-million-year-old footprints from Ileret, Kenya. Science 323, 1197–1201."},
+    {"cite": "Bramble, D. M. & Lieberman, D. E. (2004). Endurance running and the evolution of Homo. Nature 432, 345–352."},
+    {"cite": "Morin, E. & Winterhalder, B. (2024). Ethnography and ethnohistory support the efficiency of hunting through endurance running in humans. Nature Human Behaviour."},
+    {"cite": "Lepre, C. J. et al. (2011). An earlier origin for the Acheulian. Nature 477, 82–85."},
+    {"cite": "Beyene, Y. et al. (2013). The characteristics and chronology of the earliest Acheulean at Konso, Ethiopia. PNAS 110, 1584–1591."},
+    {"cite": "Mussi, M. et al. (2023). Early Homo erectus lived at high altitudes and produced both Oldowan and Acheulean tools. Science 382, 713–718."},
+    {"cite": "Kohn, M. & Mithen, S. (1999). Handaxes: products of sexual selection? Antiquity 73, 518–526."},
+    {"cite": "Potts, R. (1998). Variability selection in hominid evolution. Evolutionary Anthropology 7, 81–96."},
+    {"cite": "Berna, F. et al. (2012). Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave, Northern Cape province, South Africa. PNAS 109, E1215–E1220."}
+  ]
+}

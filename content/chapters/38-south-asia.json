@@ -1,0 +1,259 @@
+{
+  "id": "south-asia",
+  "order": 38,
+  "act": "transition",
+  "title": "From Microliths to Mehrgarh",
+  "subtitle": "South Asia’s hunters, herders and first farmers on the eve of the Indus civilisation",
+  "era": "Late Palaeolithic, Mesolithic, Neolithic and Early Harappan",
+  "start": 48000,
+  "end": 5300,
+  "dateLabel": "48,000 years ago to 3300 BCE",
+  "regions": ["asia"],
+  "focus": [60, 4, 92, 37],
+  "emblem": "cattle",
+  "summary": "From bow hunters in the Sri Lankan rainforest 48,000 years ago to the barley fields, zebu herds and drilled teeth of Mehrgarh, South Asia followed its own path to farming, carried mostly by local people rather than incoming migrants.",
+  "narration": [
+    "About 9,000 years ago, at the foot of the Bolan Pass in what is now Pakistan, a villager at Mehrgarh sat still while someone bored into a living molar with a tiny flint drill. Archaeologists have found eleven drilled teeth in the cemetery there, and the worn edges of the holes show that their owners went on chewing for years afterwards.",
+    "South Asia’s story is far older than its first farms. In a cave in the Sri Lankan rainforest called Fa Hien Lena, people were making tiny stone blades and bone arrowheads about 48,000 years ago, and hunting monkeys and squirrels high in the canopy. Across India, painted shelters like Bhimbetka and cemeteries beside the lakes of the Ganga plain show hunter-gatherers who thrived long after the Ice Age ended.",
+    "At Mehrgarh, by around 7000 BCE, people were growing barley and wheat, crops with roots in Southwest Asia, but their cattle were local: humped zebu, tamed from the wild oxen of India. Ancient DNA suggests that the farmers themselves were largely local too, descended from people who had lived in the region for thousands of years rather than from a wave of newcomers.",
+    "By 3300 BCE villages and small towns stretched from the hills of Balochistan to the plains of the Indus and the seasonal Ghaggar Hakra river. Their potters were scratching signs onto jars. Within a few centuries those towns would grow into the planned cities of the Indus civilisation."
+  ],
+  "pronounce": {
+    "Mehrgarh": "Mair-garh",
+    "Bolan": "Bo-lahn",
+    "Fa Hien Lena": "Fah Hyen Leh-nah",
+    "Bhimbetka": "Bheem-bet-kah",
+    "Ghaggar Hakra": "Gug-gur Huk-rah"
+  },
+  "body": [
+    {
+      "heading": "Rainforest hunters of Sri Lanka",
+      "paragraphs": [
+        "The deepest part of this story lies in the wet zone of south-western Sri Lanka. Fa-Hien Lena, a large cave named after the Chinese pilgrim Faxian, was first excavated by Siran Deraniyagala in the 1980s and again from 2009 by a Sri Lankan and international team including Oshan Wedage, Patrick Roberts and Michelle Langley. Its radiocarbon-dated layers run from about 48,000 to 4,000 years ago and contain some of the oldest microliths in South Asia: small, standardised stone pieces made to be set into hafted, composite tools.",
+        "In 2020 Langley and colleagues described small bone points with impact fractures, dated to about 48,000 years ago, as the earliest clear evidence of bow-and-arrow hunting outside Africa, along with bone tools for working fibre and hide and shell beads and ochre. The animal bones tell a matching story: a 2019 study led by Wedage showed that people here specialised in hunting monkeys and squirrels in the forest canopy. Rainforests, once thought to be barriers to early Homo sapiens, were home."
+      ]
+    },
+    {
+      "heading": "Painted shelters and a fossil that was not",
+      "paragraphs": [
+        "By the start of the Holocene, microlith-using hunter-gatherers lived across most of the subcontinent. Their best-known gallery is Bhimbetka, in the sandstone hills south of Bhopal, brought to archaeological attention by V. S. Wakankar in 1957 and inscribed by UNESCO in 2003. Hundreds of shelters carry paintings in red and white: deer, bison, boar and rhinoceros, hunters with bows, dancing lines of people, and much later riders on horses and elephants. The images are dated mainly by style and by which layer of paint lies over which, so the claim that the earliest belong to the Mesolithic is reasonable but not firmly measured.",
+        "Bhimbetka also gave science a cautionary tale. In 2021 a team led by geologist Gregory Retallack reported that an oval impression on the roof of the Auditorium Cave was Dickinsonia, one of the strange animals of the Ediacaran seas some 550 million years ago. Follow-up fieldwork concluded that the shape was the remains of a decayed beehive: even natural features on a famous rock surface need checking."
+      ]
+    },
+    {
+      "heading": "Lakeside cemeteries of the Ganga plain",
+      "paragraphs": [
+        "On the middle Ganga plain, in Pratapgarh district of Uttar Pradesh, hunter-gatherers camped beside horseshoe lakes left by wandering rivers. Excavations since the 1970s at Sarai Nahar Rai, Mahadaha and Damdama, led by teams from the University of Allahabad, uncovered dozens of graves: tall, robust men and women laid in shallow pits near hearths, sometimes in double graves, with ornaments of bone and antler. One skeleton at Sarai Nahar Rai was reported to have a microlith lodged among its ribs. Radiocarbon dates spread across roughly 10,000 to 7,000 years ago, although some are disputed. People ate wild cattle, deer, pig, turtle and fish, and probably wild grass seeds.",
+        "In Rajasthan, V. N. Misra’s excavations at Bagor revealed microlith makers whose animal bones, from about 5000 BCE, include sheep and goats that many specialists regard as domestic, a sign that herding could be adopted by foragers without a full farming package. Copper arrowheads appear in the later levels."
+      ]
+    },
+    {
+      "heading": "Mehrgarh: a village at the foot of the Bolan Pass",
+      "paragraphs": [
+        "Mehrgarh lies on the Kachi plain in Balochistan, where the Bolan Pass opens from the Iranian plateau onto the Indus lowlands. A French and Pakistani team led by Jean-François Jarrige excavated it from 1974, exposing a sequence from about 7000 BCE to about 2600 BCE. In the earliest, pre-pottery phase people built rectangular houses of mud brick and blocks of small compartments that the excavators interpret as granaries. The main crop was six-row naked barley, with einkorn, emmer and free-threshing wheat, and fruit such as dates and jujube.",
+        "The animal bones record a shift from hunting to herding. Early levels are rich in gazelle, wild sheep, nilgai and swamp deer; later ones are dominated by goats (some buried with the dead), sheep and cattle. Richard Meadow showed that the cattle became smaller and more numerous over time, the signature of the local domestication of humped zebu (Bos indicus) from the Indian aurochs, a separate event from the taming of humpless cattle in Southwest Asia, as genetic studies confirm.",
+        "Graves held beads of turquoise, lapis lazuli from the mountains of Afghanistan and shells from the Arabian Sea coast. In 2006 Andrea Coppa and colleagues reported eleven drilled molar crowns from nine adults, dated to about 9,000–7,500 years ago. In 2002 Christophe Moulherat and colleagues identified mineralised cotton fibres inside a copper bead from a burial of the sixth millennium BCE, among the oldest traces of cotton anywhere."
+      ]
+    },
+    {
+      "heading": "Many roads to farming",
+      "paragraphs": [
+        "Mehrgarh was not the only experiment. At Lahuradewa on the middle Ganga plain, Rakesh Tewari and colleagues reported rice from levels they date to the seventh millennium BCE or earlier. Dorian Fuller and others accept early use of rice but see gathering or cultivation of wild rice, with clearly domesticated rice appearing thousands of years later. At Bhirrana in Haryana, excavations by the Archaeological Survey of India produced radiocarbon dates as early as about 7500 BCE for the lowest levels, which would make it older than Mehrgarh; critics argue that the dated charcoal may be older than the deposits it came from.",
+        "In the Kashmir valley, Burzahom was settled from about 3000 BCE by people who lived in deep pit dwellings, made bone tools and used perforated rectangular stone harvesting knives like those of northern China; some were buried with dogs. In the southern Deccan, from about 3000 BCE, cattle herders built great ashmounds by repeatedly burning heaps of dung in their pens, at sites such as Utnur, Budihal, Kupgal and Sanganakallu. They grew mung bean, horsegram and two small millets that are native to India: a separate centre of domestication."
+      ]
+    },
+    {
+      "heading": "On the eve of the Indus cities",
+      "paragraphs": [
+        "In the fourth millennium BCE villages spread from the Balochistan uplands onto the Indus plain and along the Ghaggar Hakra, a river system that was more active then than today. Rafique Mughal’s surveys in Cholistan in the 1970s found dozens of sites with Hakra-ware pottery. At Harappa, the Harappa Archaeological Research Project led by Richard Meadow and Mark Kenoyer uncovered a Ravi-phase village (about 3700–2800 BCE) of craft workers making beads of stone and shell; some potsherds from about 3300 BCE carry incised marks resembling later Indus signs.",
+        "The following Kot Diji phase (about 3300–2600 BCE) saw walled settlements and increasingly standard pottery over a wide area. At Kalibangan in Rajasthan an Early Harappan field preserved criss-cross plough furrows. Around 2600 BCE these communities were transformed into the Mature Harappan civilisation, with its brick cities, weights, seals and script."
+      ]
+    },
+    {
+      "heading": "What ancient DNA says",
+      "paragraphs": [
+        "Most people in South Asia today carry varying mixtures of three ancestral streams, with East Asian-related ancestry added in some regions. The oldest, called Ancient Ancestral South Indian (AASI), is distantly related to the Andaman Islanders and goes back to the first modern humans in the region. The second is related to ancient people of the Iranian plateau. The third, from the Eurasian steppe, arrived later.",
+        "In 2019 Vasant Shinde, David Reich and colleagues published the first genome from an Indus city, a woman buried at Rakhigarhi between about 2800 and 2300 BCE. She had a mix of AASI and Iranian-related ancestry and no steppe ancestry, and her Iranian-related component had separated from that of the Iranian plateau’s farmers before farming began there. A companion study led by Vagheesh Narasimhan, with genomes from more than 500 ancient people, found the same profile in migrants from the Indus world buried in Turkmenistan and eastern Iran, and showed steppe ancestry entering South Asia after about 2000 BCE. The implication is that South Asian farming spread mainly through crops, animals and ideas taken up by local people."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Was farming in South Asia imported or home-grown?",
+      "views": [
+        {
+          "label": "Imported from Southwest Asia",
+          "text": "Many archaeobotanists, including Dorian Fuller, stress that einkorn and emmer wheat, and probably sheep and goats, were first domesticated in the Fertile Crescent and reached Mehrgarh as a ready-made package, much as farming reached Europe."
+        },
+        {
+          "label": "A largely local process",
+          "text": "Jean-François Jarrige argued that Mehrgarh was an independent early centre where barley and zebu were domesticated from local wild ancestors. Genetics supports continuity: the Rakhigarhi genome and the Narasimhan study found no major influx of Iranian farmers."
+        }
+      ],
+      "status": "Most researchers now see a mixture: some founder crops came from the west, while zebu, and perhaps barley, were tamed locally by people with deep regional roots. Better-dated plant remains from other early sites in Balochistan and eastern Iran are needed."
+    },
+    {
+      "question": "How old is rice farming in the Ganga plains?",
+      "views": [
+        {
+          "label": "Very early cultivation",
+          "text": "Rakesh Tewari, K. S. Saraswat and colleagues argue that rice at Lahuradewa, dated to the seventh millennium BCE or earlier, shows cultivation on the Ganga plain almost as early as in China."
+        },
+        {
+          "label": "Wild rice first, domestication later",
+          "text": "Dorian Fuller, Eleanor Kingwell-Banham and colleagues argue that rice grains or husks alone cannot show domestication. They suggest long management of wild rice, with non-shattering domesticated rice appearing only in the third or second millennium BCE, partly through crossing with japonica rice from China."
+        }
+      ],
+      "status": "Early use of rice is accepted; the date of true domestication is not. Systematic study of spikelet bases from early Ganga sites, as in the Yangtze, would decide it."
+    },
+    {
+      "question": "What does the genetic history mean for language?",
+      "views": [
+        {
+          "label": "Indo-Aryan speech arrived with steppe ancestry",
+          "text": "Narasimhan, Reich and many historical linguists link the arrival of steppe ancestry after 2000 BCE with the spread of Indo-Aryan languages, which are closely related to Iranian languages and to the Indo-European family of Europe."
+        },
+        {
+          "label": "Longer local continuity",
+          "text": "Some Indian scholars, pointing to the absence of steppe ancestry at Rakhigarhi and to continuities between Harappan and later Indian culture, argue that Indo-European languages or at least much of Vedic culture developed within South Asia."
+        },
+        {
+          "label": "The Dravidian question",
+          "text": "Asko Parpola and others read the Indus script as Dravidian; Fuller links Proto-Dravidian with the Southern Neolithic herders. Both remain hypotheses, because the Indus script is undeciphered."
+        }
+      ],
+      "status": "Most geneticists and linguists favour the arrival of Indo-Aryan languages in the second millennium BCE. The language of the Indus cities remains unknown, and genes alone cannot prove which language anyone spoke."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Earliest bow hunting outside Africa", "value": "Fa-Hien Lena, Sri Lanka, about 48,000 years ago"},
+    {"label": "First farming village", "value": "Mehrgarh, Balochistan, from about 7000 BCE"},
+    {"label": "Locally domesticated animal", "value": "Humped zebu cattle, from the Indian aurochs"},
+    {"label": "Early dentistry", "value": "Eleven drilled molars from nine adults at Mehrgarh, about 9,000–7,500 years ago"},
+    {"label": "Native crops of the south", "value": "Mung bean, horsegram and small millets, from about 3000 BCE"},
+    {"label": "Genetic streams", "value": "Ancient Ancestral South Indian, Iranian-related, and steppe ancestry after 2000 BCE"}
+  ],
+  "sites": [
+    {
+      "id": "fa-hien-lena",
+      "name": "Fa-Hien Lena",
+      "country": "Sri Lanka",
+      "region": "asia",
+      "lat": 6.65, "lon": 80.21,
+      "start": 48000, "end": 4000,
+      "dateLabel": "c. 48,000–4,000 years ago",
+      "type": "tools",
+      "summary": "Rainforest cave with early microliths, bone arrowheads from about 48,000 years ago and evidence of specialised hunting of monkeys and squirrels."
+    },
+    {
+      "id": "bhimbetka",
+      "name": "Bhimbetka rock shelters",
+      "country": "India",
+      "region": "asia",
+      "lat": 22.94, "lon": 77.61,
+      "start": 10000, "end": 1000,
+      "dateLabel": "paintings from perhaps 10,000 years ago into historical times",
+      "type": "art",
+      "summary": "Hundreds of sandstone shelters with paintings of animals, hunts and dances, dated mostly by style; a UNESCO World Heritage Site since 2003."
+    },
+    {
+      "id": "sarai-nahar-rai",
+      "name": "Sarai Nahar Rai",
+      "country": "India",
+      "region": "asia",
+      "lat": 25.80, "lon": 81.85,
+      "start": 10000, "end": 7000,
+      "dateLabel": "c. 8000–5000 BCE (dates debated)",
+      "type": "burial",
+      "summary": "Mesolithic lakeside camp and cemetery on the Ganga plain; one of several with robust hunter-gatherer burials, including one reported to have a microlith lodged among its ribs."
+    },
+    {
+      "id": "bagor",
+      "name": "Bagor",
+      "country": "India",
+      "region": "asia",
+      "lat": 25.36, "lon": 74.38,
+      "start": 7000, "end": 4800,
+      "dateLabel": "c. 5000–2800 BCE",
+      "type": "settlement",
+      "summary": "Microlith-using community in Rajasthan whose sheep and goat bones suggest foragers adopting herding, although whether the animals were domestic is debated."
+    },
+    {
+      "id": "mehrgarh",
+      "name": "Mehrgarh",
+      "country": "Pakistan",
+      "region": "asia",
+      "lat": 29.39, "lon": 67.61,
+      "start": 9000, "end": 4600,
+      "dateLabel": "c. 7000–2600 BCE",
+      "type": "farming",
+      "summary": "South Asia’s best-known early farming village: barley and wheat, local zebu domestication, mud-brick storage buildings, drilled teeth and early cotton."
+    },
+    {
+      "id": "burzahom",
+      "name": "Burzahom",
+      "country": "India (Kashmir)",
+      "region": "asia",
+      "lat": 34.17, "lon": 74.88,
+      "start": 5000, "end": 3700,
+      "dateLabel": "c. 3000–1700 BCE",
+      "type": "settlement",
+      "summary": "Neolithic pit dwellings, bone tools, perforated harvesting knives like those of northern China, and human burials with dogs."
+    },
+    {
+      "id": "sanganakallu",
+      "name": "Sanganakallu and Kupgal",
+      "country": "India",
+      "region": "asia",
+      "lat": 15.17, "lon": 76.97,
+      "start": 5000, "end": 3200,
+      "dateLabel": "3rd–2nd millennium BCE",
+      "type": "farming",
+      "summary": "Southern Neolithic hill settlements and ashmounds of burnt cattle dung, with native pulses and millets from a separate Indian centre of domestication."
+    },
+    {
+      "id": "harappa",
+      "name": "Harappa",
+      "country": "Pakistan",
+      "region": "asia",
+      "lat": 30.63, "lon": 72.87,
+      "start": 5700, "end": 4600,
+      "dateLabel": "c. 3700–2600 BCE (early phases)",
+      "type": "settlement",
+      "summary": "Ravi and Kot Diji phase village beneath the later city, with bead workshops and potsherds from about 3300 BCE bearing marks like later Indus signs."
+    },
+    {
+      "id": "kalibangan",
+      "name": "Kalibangan",
+      "country": "India",
+      "region": "asia",
+      "lat": 29.47, "lon": 74.13,
+      "start": 5000, "end": 4600,
+      "dateLabel": "c. 3000–2600 BCE (Early Harappan)",
+      "type": "farming",
+      "summary": "Early Harappan settlement on the Ghaggar with a buried field showing criss-cross plough furrows."
+    },
+    {
+      "id": "rakhigarhi",
+      "name": "Rakhigarhi",
+      "country": "India",
+      "region": "asia",
+      "lat": 29.29, "lon": 76.11,
+      "start": 4800, "end": 4300,
+      "dateLabel": "c. 2800–2300 BCE",
+      "type": "dna",
+      "summary": "Indus city whose cemetery yielded the first published Harappan genome (2019), with local and Iranian-related ancestry and no steppe ancestry."
+    }
+  ],
+  "themes": ["technology", "art", "burial", "farming", "animals", "food", "settlement", "genetics", "language"],
+  "sources": [
+    {"cite": "Langley, M. C. et al. (2020). Bows and arrows and complex symbolic displays 48,000 years ago in the South Asian tropics. Science Advances 6, eaba3831."},
+    {"cite": "Wedage, O. et al. (2019). Specialized rainforest hunting by Homo sapiens ~45,000 years ago. Nature Communications 10, 739."},
+    {"cite": "Jarrige, J.-F. (2008). Mehrgarh Neolithic. Pragdhara 18."},
+    {"cite": "Coppa, A. et al. (2006). Early Neolithic tradition of dentistry. Nature 440, 755–756."},
+    {"cite": "Moulherat, C. et al. (2002). First evidence of cotton at Neolithic Mehrgarh, Pakistan: analysis of mineralized fibres from a copper bead. Journal of Archaeological Science 29, 1393–1401."},
+    {"cite": "Fuller, D. Q. (2006). Agricultural origins and frontiers in South Asia: a working synthesis. Journal of World Prehistory 20, 1–86."},
+    {"cite": "Shinde, V. et al. (2019). An ancient Harappan genome lacks ancestry from steppe pastoralists or Iranian farmers. Cell 179, 729–735."},
+    {"cite": "Narasimhan, V. M. et al. (2019). The formation of human populations in South and Central Asia. Science 365, eaat7487."}
+  ]
+}

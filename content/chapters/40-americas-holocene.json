@@ -1,0 +1,289 @@
+{
+  "id": "americas-holocene",
+  "order": 40,
+  "act": "transition",
+  "title": "Maize, Mounds and Mummies",
+  "subtitle": "The Archaic Americas from the Great Lakes to the Andes",
+  "era": "Archaic and Preceramic periods",
+  "start": 11000,
+  "end": 3500,
+  "dateLabel": "c. 9000–1500 BCE",
+  "regions": ["americas"],
+  "focus": [-170, -45, -35, 75],
+  "emblem": "maize",
+  "summary": "In the millennia after the Ice Age, peoples of the Americas domesticated squash, maize, potatoes, manioc and llamas in several independent centres, hammered native copper, raised earthen mounds without farming, invented deliberate mummification and built the monumental centre of Caral without pottery.",
+  "narration": [
+    "On the desert coast of northern Chile, around 7,000 years ago, fishing families of the Chinchorro culture began to take their dead apart. They removed the skin and organs, strengthened the skeleton with sticks, packed the body with plant fibre and clay, and rebuilt the person, finishing with a painted mask. These are the oldest deliberately made mummies known anywhere.",
+    "Across the Americas, the thousands of years after the Ice Age were a time of patient experiment. In the dry hills of south-western Mexico people gathered a wild grass called teosinte, whose few hard seeds were hardly worth eating. Over millennia of planting and selecting, it became maize. Squash, beans, chilli and avocado joined it. In the Andes people tamed the potato, quinoa, the llama and the guinea pig, and on forest islands in the Bolivian Amazon they were growing manioc and squash more than 10,000 years ago.",
+    "Not every great work waited for farming. In Louisiana, around 3500 BCE, hunter-gatherers raised eleven earthen mounds at Watson Brake. Around the Great Lakes, people hammered lumps of pure copper into spear points and knives, among the earliest metal tools anywhere.",
+    "And on the coast of Peru, at Caral, people who made no pottery built stepped platforms and sunken circular plazas, some of the oldest monumental architecture in the Americas, at the same time as the pyramids were rising in Egypt."
+  ],
+  "pronounce": {
+    "Chinchorro": "Chin-chor-oh",
+    "teosinte": "tay-oh-sin-tay",
+    "quinoa": "keen-wah",
+    "Caral": "Kah-rahl"
+  },
+  "body": [
+    {
+      "heading": "The Archaic: many ways to live",
+      "paragraphs": [
+        "Archaeologists call the long period after the Ice Age hunters of the Paleoindian era the Archaic: in North America roughly 8000–1000 BCE. With the mammoths gone, people hunted deer and smaller game with spear-throwers, fished, collected shellfish and gathered nuts and seeds, which they ground on stone slabs. Many groups became more settled, returning to the same river valleys for generations.",
+        "At Koster in the lower Illinois Valley, excavated by Stuart Struever from 1969, more than a dozen occupation layers stack up over thousands of years, including houses from the Middle Archaic. Dogs buried there have been directly dated to about 10,000 years ago, among the oldest dog burials in the Americas. At Windover in Florida, people buried their dead in a peat pond between about 8,000 and 7,000 years ago. The waterlogged peat preserved twined fabrics of plant fibre and even brain tissue in many of the roughly 170 individuals recovered."
+      ]
+    },
+    {
+      "heading": "Copper, mounds and seed crops",
+      "paragraphs": [
+        "Around Lake Superior, glaciers and bedrock expose nuggets of almost pure native copper. The people of the Old Copper Complex cold-hammered and annealed it into spear points, knives, awls and fishhooks. A 2021 radiocarbon study led by David Pompeani pushed the start of this metalworking back to about 9,500 years ago, with a peak between about 7,000 and 5,000 years ago; later, copper was used mainly for ornaments. It was metalworking without smelting or casting.",
+        "At Watson Brake in Louisiana, Joe Saunders and colleagues showed in 1997 that eleven mounds joined by ridges in an oval about 280 metres across were begun around 3500 BCE. The builders ate fish, deer, nuts and wild seeds; they did not farm or make pottery. Watson Brake overturned the assumption that monuments require agriculture. The much larger Poverty Point, with its concentric ridges, followed around 1700–1100 BCE.",
+        "In the same region people domesticated their own crops, the Eastern Agricultural Complex studied by Bruce Smith: a native squash, sunflower, marsh elder and goosefoot, with domestic forms appearing between about 5,000 and 3,800 years ago. Eastern North America was one of the world’s independent centres of plant domestication."
+      ]
+    },
+    {
+      "heading": "From teosinte to maize",
+      "paragraphs": [
+        "At Guilá Naquitz, a small cave in the Oaxaca Valley excavated by Kent Flannery in the 1960s, Bruce Smith directly dated seeds of domesticated squash (Cucurbita pepo) to about 10,000 years ago, making squash one of the oldest crops in the Americas. The same cave yielded some of the earliest known maize cobs, about 6,250 years old: tiny, only a few centimetres long.",
+        "Maize comes from a lowland teosinte (Zea mays ssp. parviglumis). In 2002 Yoshihiro Matsuoka, John Doebley and colleagues used genetic markers to trace a single domestication to the Balsas River basin of south-western Mexico about 9,000 years ago. In 2009 Dolores Piperno and Anthony Ranere found maize starch and phytoliths on grinding tools at Xihuatoxtla rock shelter in the central Balsas Valley, dated to about 8,700 years ago.",
+        "Domestication was slow and scattered. Logan Kistler and colleagues showed in 2018 that maize reached South America only partly domesticated and continued to evolve there, with south-western Amazonia a secondary centre of improvement. Beans were domesticated separately in Mesoamerica and the Andes; chilli peppers and avocados were also first brought into cultivation in Mexico."
+      ]
+    },
+    {
+      "heading": "The Andes: tubers, camelids and cotton",
+      "paragraphs": [
+        "In the Ñanchoc Valley of northern Peru, Tom Dillehay’s team reported in 2007 remains of squash, peanuts and cotton from small Preceramic farming communities, the squash nearly 10,000 years old and the cotton several thousand years younger. Higher up, the potato was domesticated from wild relatives in the region of Lake Titicaca and southern Peru, along with quinoa and other hardy crops. On the high grasslands of the puna, work by Jane Wheeler at sites such as Telarmachay traces the domestication of llamas from wild guanacos and alpacas from vicuñas, by roughly 6,000–5,000 years ago; guinea pigs were also domesticated in the Andes for meat.",
+        "At Huaca Prieta, a great mound on the north coast of Peru excavated by Dillehay, Jeffrey Splitstoser and colleagues identified in 2016 a cotton fabric dyed with indigo about 6,200 years ago, the oldest known use of indigo anywhere."
+      ]
+    },
+    {
+      "heading": "Chinchorro: the first mummies",
+      "paragraphs": [
+        "The Chinchorro were fishers and shellfish gatherers on the Atacama coast of northern Chile and southern Peru. From about 5000 BCE they began to prepare some of their dead with extraordinary care: in so-called black mummies the body was taken apart, reinforced with sticks and reeds, filled with plant fibre, ash and clay, covered with skin and painted with manganese; later red mummies were painted with ochre. Infants, children and adults of both sexes were treated this way, so the practice was not reserved for a ruling class.",
+        "Hundreds of Chinchorro bodies have been found, many around Arica, and UNESCO inscribed the settlements and mummification sites in 2021. Some mummies seem to have been repaired and repainted, suggesting they were kept among the living for some time."
+      ]
+    },
+    {
+      "heading": "Caral and the Norte Chico",
+      "paragraphs": [
+        "In the valleys north of Lima, the region known as the Norte Chico, some thirty sites have monumental architecture from the Late Preceramic. The best studied is Caral in the Supe Valley, excavated by Ruth Shady Solís since 1994. In 2001 Shady, Jonathan Haas and Winifred Creamer published radiocarbon dates showing that its platform mounds and sunken circular plazas were in use around 2600 BCE; the occupation spans roughly 3000–1800 BCE. Caral had no pottery, and its people grew cotton, squash, beans, gourds and fruit with irrigation, while coastal sites such as Áspero harvested anchovies and sardines. Caral was inscribed by UNESCO in 2009."
+      ]
+    },
+    {
+      "heading": "Amazonia and the Arctic",
+      "paragraphs": [
+        "In the seasonally flooded savannas of the Llanos de Mojos in Bolivia, thousands of small forest islands rise above the grassland. In 2020 Umberto Lombardo and colleagues showed that many are human-made, built up from refuse, and that people grew manioc there about 10,350 years ago, squash about 10,250 years ago and maize by about 6,850 years ago, making south-western Amazonia an early centre of cultivation.",
+        "At the other end of the hemisphere, a new population crossed from Siberia about 5,000 years ago and spread across Arctic Alaska, Canada and Greenland: the Paleo-Inuit. In 2010 Morten Rasmussen and Eske Willerslev’s team sequenced a genome from a tuft of hair about 4,000 years old from a Saqqaq-culture site at Qeqertasussuk in Greenland. It was the first ancient human genome, and it showed that this man’s closest living relatives were the Chukchi and Koryak of north-eastern Siberia, not Native Americans or later Inuit. Later studies found that the Paleo-Inuit persisted for about 4,000 years before the ancestors of today’s Inuit spread from Alaska."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Were the Norte Chico monuments built on fish or on farming?",
+      "views": [
+        {
+          "label": "Maritime foundations",
+          "text": "Michael Moseley proposed in 1975 that the rich anchovy fishery of the Peruvian coast, not farming, supported the first large, complex societies of the Andes. Fish bones dominate food remains at Caral and other sites, and cotton was grown largely for nets."
+        },
+        {
+          "label": "Irrigation agriculture",
+          "text": "Jonathan Haas, Winifred Creamer and colleagues argue that the largest centres lay inland in the valleys, where irrigation farming made them possible. In 2013 they reported pollen, starch and phytoliths suggesting that maize was a significant food, a claim others consider weakly supported."
+        },
+        {
+          "label": "Exchange between coast and valley",
+          "text": "Ruth Shady emphasises a mixed economy in which inland farmers traded cotton and plant foods for fish from coastal settlements such as Áspero."
+        }
+      ],
+      "status": "Most specialists now see a combination: marine protein and irrigated plants, including industrial cotton, supported by exchange. The importance of maize at this early date remains disputed."
+    },
+    {
+      "question": "Why did people start growing teosinte?",
+      "views": [
+        {
+          "label": "For its grain",
+          "text": "The conventional view, supported by maize starch grains on grinding tools at Xihuatoxtla by about 8,700 years ago, is that people selected teosinte for its seeds, gradually turning a hard-cased grass into an exposed-kernel cereal."
+        },
+        {
+          "label": "For its sweet stalks",
+          "text": "Botanist Hugh Iltis, and later John Smalley and Michael Blake, argued that early teosinte was valued for sugary stalks that could be chewed or fermented into drinks, and that larger ears came later as a by-product."
+        }
+      ],
+      "status": "Both uses probably mattered. Genetic studies agree on a single origin in the Balsas region about 9,000 years ago followed by a long, geographically spread process of improvement, including later mixing with a highland teosinte in Mexico."
+    },
+    {
+      "question": "Why did the Chinchorro mummify their dead?",
+      "views": [
+        {
+          "label": "A response to loss",
+          "text": "Bernardo Arriaza has suggested that high infant and foetal mortality, possibly linked to arsenic in the region’s rivers, encouraged elaborate treatment of the dead, beginning with children."
+        },
+        {
+          "label": "Ancestors and identity",
+          "text": "Many specialists stress social and religious motives: preserved and repainted bodies kept ancestors present in the community and may have strengthened claims to territory and resources."
+        }
+      ],
+      "status": "The two ideas are compatible. Elevated arsenic has been measured in some Chinchorro remains, but it cannot explain on its own why a whole society adopted complex mummification for about 3,000 years."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Oldest domesticated crop in the Americas", "value": "Squash at Guilá Naquitz, about 10,000 years ago"},
+    {"label": "Maize", "value": "Domesticated from Balsas teosinte about 9,000 years ago"},
+    {"label": "First artificial mummies", "value": "Chinchorro, from about 5000 BCE; UNESCO 2021"},
+    {"label": "Mounds before farming", "value": "Watson Brake, Louisiana, begun about 3500 BCE"},
+    {"label": "Native copper tools", "value": "Great Lakes, from about 9,500 years ago"},
+    {"label": "Caral", "value": "Monumental centre without pottery, about 3000–1800 BCE"}
+  ],
+  "sites": [
+    {
+      "id": "koster",
+      "name": "Koster",
+      "country": "United States",
+      "region": "americas",
+      "lat": 39.25, "lon": -90.55,
+      "start": 10000, "end": 3000,
+      "dateLabel": "c. 8000–1000 BCE (Archaic layers)",
+      "type": "settlement",
+      "summary": "Deeply stratified site in the Illinois Valley with Archaic houses and dog burials dated to about 10,000 years ago."
+    },
+    {
+      "id": "windover",
+      "name": "Windover",
+      "country": "United States",
+      "region": "americas",
+      "lat": 28.55, "lon": -80.87,
+      "start": 8000, "end": 7000,
+      "dateLabel": "c. 6000–5000 BCE",
+      "type": "burial",
+      "summary": "Pond cemetery whose peat preserved woven fabrics and brain tissue from Early Archaic people."
+    },
+    {
+      "id": "keweenaw-copper",
+      "name": "Keweenaw Peninsula native copper",
+      "country": "United States",
+      "region": "americas",
+      "lat": 47.25, "lon": -88.40,
+      "start": 9500, "end": 3000,
+      "dateLabel": "from about 9,500 years ago",
+      "type": "metal",
+      "summary": "Source area of the native copper hammered into tools by the Old Copper Complex of the Great Lakes, one of the oldest metalworking traditions in the world."
+    },
+    {
+      "id": "watson-brake",
+      "name": "Watson Brake",
+      "country": "United States",
+      "region": "americas",
+      "lat": 32.37, "lon": -92.13,
+      "start": 5500, "end": 4800,
+      "dateLabel": "c. 3500–2800 BCE",
+      "type": "monument",
+      "summary": "Eleven earthen mounds joined by ridges in an oval, built by hunter-gatherers; the oldest known mound complex in North America."
+    },
+    {
+      "id": "guila-naquitz",
+      "name": "Guilá Naquitz",
+      "country": "Mexico",
+      "region": "americas",
+      "lat": 16.94, "lon": -96.37,
+      "start": 10000, "end": 6200,
+      "dateLabel": "c. 8000–4200 BCE",
+      "type": "farming",
+      "summary": "Oaxaca cave with domesticated squash seeds about 10,000 years old and some of the earliest maize cobs, about 6,250 years old."
+    },
+    {
+      "id": "xihuatoxtla",
+      "name": "Xihuatoxtla rock shelter",
+      "country": "Mexico",
+      "region": "americas",
+      "lat": 18.30, "lon": -99.50,
+      "start": 8700, "end": 8700,
+      "dateLabel": "about 8,700 years ago",
+      "type": "farming",
+      "summary": "Central Balsas Valley shelter where maize starch and phytoliths on grinding tools provide the earliest direct evidence of maize."
+    },
+    {
+      "id": "llanos-de-mojos",
+      "name": "Llanos de Mojos forest islands",
+      "country": "Bolivia",
+      "region": "americas",
+      "lat": -14.20, "lon": -65.20,
+      "start": 10400, "end": 6800,
+      "dateLabel": "c. 8400–4800 BCE",
+      "type": "farming",
+      "summary": "Human-made forest islands in the Amazonian savanna with evidence of manioc and squash cultivation from about 10,350 years ago."
+    },
+    {
+      "id": "huaca-prieta",
+      "name": "Huaca Prieta",
+      "country": "Peru",
+      "region": "americas",
+      "lat": -7.93, "lon": -79.30,
+      "start": 7800, "end": 4000,
+      "dateLabel": "c. 5800–2000 BCE",
+      "type": "settlement",
+      "summary": "Coastal mound with twined cotton textiles, including fabric dyed with indigo about 6,200 years ago."
+    },
+    {
+      "id": "chinchorro-arica",
+      "name": "Chinchorro sites, Arica",
+      "country": "Chile",
+      "region": "americas",
+      "lat": -18.48, "lon": -70.32,
+      "start": 7000, "end": 3500,
+      "dateLabel": "c. 5000–1500 BCE",
+      "type": "burial",
+      "summary": "Cemeteries of the Chinchorro fishers with the world’s oldest artificially mummified bodies. UNESCO World Heritage since 2021."
+    },
+    {
+      "id": "caral",
+      "name": "Caral",
+      "country": "Peru",
+      "region": "americas",
+      "lat": -10.89, "lon": -77.52,
+      "start": 5000, "end": 3800,
+      "dateLabel": "c. 3000–1800 BCE",
+      "type": "monument",
+      "summary": "Preceramic centre with platform mounds and sunken circular plazas, excavated by Ruth Shady Solís. UNESCO World Heritage since 2009."
+    },
+    {
+      "id": "qeqertasussuk",
+      "name": "Qeqertasussuk",
+      "country": "Greenland (Denmark)",
+      "region": "americas",
+      "lat": 68.85, "lon": -51.25,
+      "start": 4400, "end": 3400,
+      "dateLabel": "c. 2400–1400 BCE",
+      "type": "dna",
+      "summary": "Saqqaq-culture site whose frozen deposits yielded the hair used for the first sequenced ancient human genome (2010)."
+    }
+  ],
+  "routes": [
+    {
+      "id": "maize-south",
+      "label": "Maize spreads south",
+      "start": 8700,
+      "end": 6800,
+      "certainty": "established",
+      "path": [[-99.50, 18.30], [-90.50, 15.50], [-80.00, 8.50], [-74.50, 4.50], [-65.20, -14.20]]
+    },
+    {
+      "id": "paleo-inuit",
+      "label": "Paleo-Inuit spread from Siberia",
+      "start": 5500,
+      "end": 4500,
+      "certainty": "established",
+      "path": [[-173.00, 65.00], [-165.00, 67.50], [-140.00, 69.50], [-110.00, 68.50], [-85.00, 69.50], [-72.00, 77.00], [-51.25, 68.85]]
+    }
+  ],
+  "themes": ["farming", "food", "animals", "monuments", "settlement", "burial", "metal", "technology", "genetics", "migration", "society"],
+  "sources": [
+    {"cite": "Smith, B. D. (1997). The initial domestication of Cucurbita pepo in the Americas 10,000 years ago. Science 276, 932–934."},
+    {"cite": "Matsuoka, Y. et al. (2002). A single domestication for maize shown by multilocus microsatellite genotyping. PNAS 99, 6080–6084."},
+    {"cite": "Piperno, D. R. et al. (2009). Starch grain and phytolith evidence for early ninth millennium B.P. maize from the Central Balsas River Valley, Mexico. PNAS 106, 5019–5024."},
+    {"cite": "Kistler, L. et al. (2018). Multiproxy evidence highlights a complex evolutionary legacy of maize in South America. Science 362, 1309–1313."},
+    {"cite": "Saunders, J. W. et al. (1997). A mound complex in Louisiana at 5400–5000 years before the present. Science 277, 1796–1799."},
+    {"cite": "Shady Solís, R., Haas, J. and Creamer, W. (2001). Dating Caral, a preceramic site in the Supe Valley on the central coast of Peru. Science 292, 723–726."},
+    {"cite": "Moseley, M. E. (1975). The Maritime Foundations of Andean Civilization. Menlo Park: Cummings."},
+    {"cite": "Lombardo, U. et al. (2020). Early Holocene crop cultivation and landscape modification in Amazonia. Nature 581, 190–193."},
+    {"cite": "Splitstoser, J. C. et al. (2016). Early pre-Hispanic use of indigo blue in Peru. Science Advances 2."},
+    {"cite": "Rasmussen, M. et al. (2010). Ancient human genome sequence of an extinct Palaeo-Eskimo. Nature 463, 757–762."}
+  ]
+}

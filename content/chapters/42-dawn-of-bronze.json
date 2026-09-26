@@ -1,0 +1,420 @@
+{
+  "id": "dawn-of-bronze",
+  "order": 42,
+  "act": "metal",
+  "title": "A Patchwork Ending",
+  "subtitle": "How bronze, iron or no metal at all closed the Stone Age, region by region",
+  "era": "Bronze Age and Early Iron Age transitions",
+  "start": 5300,
+  "end": 2500,
+  "dateLabel": "c. 3300–500 BCE",
+  "regions": [
+    "europe",
+    "asia",
+    "africa",
+    "americas",
+    "oceania"
+  ],
+  "focus": [
+    -120,
+    -40,
+    150,
+    62
+  ],
+  "emblem": "globe",
+  "summary": "Bronze reached the Near East around 3000 BCE, Britain and central Europe around 2200 BCE, China around 1900 BCE and Southeast Asia later still, while much of Africa went straight from stone to iron and the Americas and Oceania followed their own paths: the Stone Age ended as a patchwork, not a single event.",
+  "narration": [
+    "In 2002, archaeologists working ahead of new housing near Amesbury, about five kilometres from Stonehenge, uncovered the grave of a man who had died around 2300 BCE. He was buried with three copper knives, a pair of gold hair ornaments, flint arrowheads and a small stone anvil for working metal. Chemical traces in his teeth showed that he had grown up far away, probably in the Alps. Within a few centuries, newcomers from the continent had replaced about nine tenths of the ancestry of Britain’s earlier farmers.",
+    "Bronze, copper hardened with a little tin, sounds like a single invention, but it arrived like a slow tide with many inlets. Tin is rare, found in a handful of places such as Cornwall, the Ore Mountains of central Europe and Central Asia, so bronze tied distant regions together through trade. The Near East and the Aegean were making copper alloys by around 3000 BCE. Central Europe and Britain followed around 2200 BCE, China around 1900 BCE, and Southeast Asia perhaps a thousand years later.",
+    "Much of Africa south of the Sahara never had a Bronze Age and moved from stone to iron. In the Andes, people hammered gold foil four thousand years ago but made bronze much later. Australia, New Guinea and the Pacific islands had no metalworking of their own at all.",
+    "So the Stone Age did not end on one day. It faded region by region, and in many places stone tools stayed in daily use for thousands of years more."
+  ],
+  "pronounce": {
+    "Amesbury": "Aimz-bree"
+  },
+  "body": [
+    {
+      "heading": "What bronze is, and why tin mattered",
+      "paragraphs": [
+        "Bronze is copper alloyed with roughly a tenth of tin. It is harder than copper, melts at a lower temperature and flows better into moulds. The first alloys, however, were mostly arsenical copper, made from ores rich in arsenic across the Near East and the Caucasus from the fifth and fourth millennia BCE; they were nearly as hard, but the fumes were poisonous and the arsenic content was hard to control.",
+        "Copper is widespread, but workable tin is found in only a few regions: Cornwall and Devon, Brittany, north-western Iberia, the Erzgebirge (Ore Mountains) on the Czech-German border, the mountains of Central Asia, and the tin belt of Southeast Asia. Bronze therefore required long-distance trade. Around 1900 BCE, Old Assyrian merchants recorded in thousands of clay letters how they carried tin and textiles by donkey caravan from Assur to Kanesh (Kültepe) in Anatolia, the tin itself coming from further east. At Kestel in the Taurus Mountains, Aslıhan Yener argued for tin mining in the third millennium BCE, a claim still debated. A 2022 isotope study suggested that tin ingots from the Uluburun shipwreck of about 1300 BCE came partly from Anatolia and partly from Central Asia."
+      ]
+    },
+    {
+      "heading": "The Near East, Egypt, the Indus and the Aegean",
+      "paragraphs": [
+        "Archaeologists conventionally start the Early Bronze Age of Mesopotamia and the Levant around 3300–3000 BCE, of the Aegean around 3200 BCE and of the Indus region around 3300 BCE, with Egypt’s Early Dynastic period from about 3100 BCE. These dates mark broad changes, cities, writing and states, more than the first tin bronze. Arsenical copper dominated for centuries; tin bronze became common in Mesopotamia only in the mid third millennium BCE, as in the royal tombs of Ur around 2600–2500 BCE, and in Egypt copper remained the main working metal until the second millennium BCE. Indus metalworkers used copper, arsenical copper and some tin bronze alongside a large stone-blade industry."
+      ]
+    },
+    {
+      "heading": "Europe: Beakers, daggers and Únětice",
+      "paragraphs": [
+        "In western and central Europe the centuries after 2800 BCE belong to the Bell Beaker phenomenon, named after its bell-shaped drinking cups, with archers’ wristguards, copper daggers and early gold. The Amesbury Archer, found by Wessex Archaeology in 2002 and dated to about 2380–2290 BCE, is the richest Beaker burial in Britain. In 2018 a study led by Iñigo Olalde and David Reich, analysing about 400 ancient genomes, found that people with Beaker-associated, largely steppe-related ancestry replaced about 90 percent of Britain’s gene pool within a few hundred years. Why remains debated; disease, including plague, is one suspect.",
+        "Tin bronze became normal in central Europe around 2200 BCE with the Únětice culture, known for its hoards and princely burial mounds such as Leubingen; the Nebra sky disc is usually attributed to its later phase, although a minority of researchers argue for a later date. In Scandinavia, which lacks copper and tin, Late Neolithic craftsmen made superb pressure-flaked flint daggers imitating metal ones, until imported bronze took over in the Nordic Bronze Age from about 1700 BCE."
+      ]
+    },
+    {
+      "heading": "East and Southeast Asia",
+      "paragraphs": [
+        "In north-western China, copper and bronze knives, mirrors and ornaments appear in Qijia-culture sites of the late third and early second millennia BCE, alongside links with the steppe. Around 1900–1500 BCE, at Erlitou in the middle Yellow River valley, craftsmen began casting the first bronze ritual vessels in assembled clay piece-moulds, a technique quite different from Western lost-wax casting, near a palace compound that many see as the seat of China’s first state.",
+        "In Southeast Asia the date is disputed. Excavations at Ban Chiang in north-eastern Thailand in the 1970s produced early dates that suggested bronze by the fourth millennium BCE. Later work, especially Charles Higham’s radiocarbon dating of human bone at Ban Non Wat and Ban Chiang, places the start of bronze around 1000 BCE, while Joyce White and colleagues argue for about 2000 BCE. In Japan, bronze and iron arrived almost together in the Yayoi period, a few centuries after wet-rice farming reached the islands in the first millennium BCE."
+      ]
+    },
+    {
+      "heading": "Africa: from stone to iron",
+      "paragraphs": [
+        "Egypt and Nubia, connected to the Mediterranean and the Near East, used copper and bronze. South of the Sahara, however, most regions moved directly from stone tools to iron in the first millennium BCE, without a Bronze Age. In central Nigeria, the Nok culture, famous for its terracotta sculptures, was smelting iron by the middle of the first millennium BCE, and iron working appears around the same time in the Great Lakes region of East Africa.",
+        "Some sites claim much earlier dates: Egaro and other sites in the Termit massif of Niger have produced radiocarbon dates of the second millennium BCE for iron working, and Oboui in the Central African Republic dates close to 2000 BCE. Most specialists treat these with caution because charcoal can be older than the furnace it lies in. Copper was mined and worked at Akjoujt in Mauritania in the first millennium BCE, and in the Aïr region of Niger. Across much of southern Africa, hunter-gatherers kept making Later Stone Age tools into recent centuries, alongside iron-using farmers."
+      ]
+    },
+    {
+      "heading": "The Americas and Oceania",
+      "paragraphs": [
+        "In the Americas metallurgy developed independently and late. After the cold-hammered copper of the Great Lakes, the next steps came in the Andes: gold beads from Jiskairumoko in the Lake Titicaca basin, published by Mark Aldenderfer and colleagues in 2008, date to about 2000 BCE, and at Waywaka near Andahuaylas, Joel Grossman found gold foil and a goldworker’s toolkit dated to roughly the middle of the second millennium BCE. Arsenical bronze spread on the north coast of Peru in the first millennium CE, tin bronze in the southern Andes later, and metalworking reached West Mexico only around 600–800 CE. Everyday tools across the Americas stayed mostly stone, bone and wood until European contact.",
+        "Australia, New Guinea and the islands of the Pacific never developed metallurgy. Makassan sailors from Sulawesi brought iron to northern Australia from at least the 1700s, and Pacific Islanders eagerly traded for European iron in the eighteenth century. The absence of metal says nothing about intelligence: these societies built ocean-going canoes, complex farming systems and sophisticated technologies of stone, shell, fibre and fire."
+      ]
+    },
+    {
+      "heading": "Stone that stayed, and a European yardstick",
+      "paragraphs": [
+        "Even in bronze-using Europe, stone kept working. At Grimes Graves in Norfolk, Neolithic miners sank more than 400 shafts, mostly around 2600–2300 BCE, using red-deer antler picks to reach the best flint, and the area was reused in the Bronze Age. At Krzemionki in Poland, inscribed by UNESCO in 2019, striped flint was mined from about 3900 to 1600 BCE. Flint sickles, arrowheads and scrapers remained common well into the second millennium BCE.",
+        "The three-age system of stone, bronze and iron was devised in the 1810s to 1830s by Christian Jürgensen Thomsen to order the Danish national collections, and it works well for Europe and the Near East. Critics have long noted that it does not fit most of Africa, the Americas or Oceania, and that it encouraged nineteenth-century writers to rank living peoples as “Stone Age” and therefore behind. Many regions now use their own sequences instead, and archaeologists treat “Stone Age” as a label for a technology, not for people."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Was Anatolia a source of Bronze Age tin?",
+      "views": [
+        {
+          "label": "Yes: Kestel and Göltepe",
+          "text": "Aslıhan Yener excavated mine galleries at Kestel and a processing settlement at Göltepe in the Taurus Mountains, dated to the third millennium BCE, and argued that they produced tin for Near Eastern bronze."
+        },
+        {
+          "label": "Too little to matter",
+          "text": "Archaeometallurgists such as James Muhly countered that the ores are low in tin and that Old Assyrian texts show tin arriving from the east, so Kestel could not have been a major source."
+        }
+      ],
+      "status": "Mining at Kestel is accepted, but what was extracted and on what scale remains disputed. Tin isotope studies of ingots, including those from the Uluburun wreck, are now testing individual sources directly and suggest a mix of Anatolian and Central Asian tin in the Late Bronze Age."
+    },
+    {
+      "question": "When did bronze reach Southeast Asia?",
+      "views": [
+        {
+          "label": "Early, around 2000 BCE or before",
+          "text": "Joyce White and colleagues, re-analysing Ban Chiang, argue for bronze by about 2000 BCE, which would allow a local or steppe-linked origin independent of China’s Shang dynasty."
+        },
+        {
+          "label": "Late, around 1000 BCE",
+          "text": "Charles Higham, Thomas Higham and Amphan Kijngam, using radiocarbon dates on human bone from Ban Non Wat and Ban Chiang, place the first bronze around 1000 BCE and link it to exchange with southern China after bronze working was established there."
+        }
+      ],
+      "status": "The later chronology is favoured by most researchers, but the debate continues because the two teams dated different materials. More dates from well-stratified burials and lead-isotope sourcing of the metal are the way forward."
+    },
+    {
+      "question": "Did Africans invent iron smelting independently?",
+      "views": [
+        {
+          "label": "Independent invention",
+          "text": "Researchers including Augustin Holl and contributors to the 2004 UNESCO volume edited by Hamady Bocoum point to early dates from Termit, Oboui and Nigeria, and to distinctive African furnace designs, as evidence that iron smelting was invented in sub-Saharan Africa."
+        },
+        {
+          "label": "Spread from the north",
+          "text": "Sceptics such as Stanley Alpern argue that the earliest reliable dates are close to or after the spread of iron in the Mediterranean and Nubia, and that the oldest dates are on charcoal that may predate the furnaces."
+        }
+      ],
+      "status": "Open. Most agree that sub-Saharan Africa went straight from stone to iron and that African smelters developed a remarkable variety of furnaces. Deciding priority needs dates on short-lived material directly associated with smelting."
+    },
+    {
+      "question": "Is the three-age system still useful?",
+      "views": [
+        {
+          "label": "A workable framework",
+          "text": "For Europe and western Asia, the sequence of stone, copper, bronze and iron still captures real changes in technology, trade and society, and it remains the shared vocabulary of museums and textbooks."
+        },
+        {
+          "label": "A regional yardstick",
+          "text": "Critics note that it was built on Danish collections, implies a single ladder of progress and fits much of the world badly. Africa uses Earlier, Middle and Later Stone Age; the Americas use Paleoindian, Archaic and Formative; Japan uses Jōmon and Yayoi."
+        }
+      ],
+      "status": "Most archaeologists use the terms as convenient period labels for Europe and the Near East and prefer regional sequences elsewhere, while stressing that the labels describe tools, not people."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Bronze",
+      "value": "Copper with roughly 10 percent tin; arsenical copper came first"
+    },
+    {
+      "label": "Near East and Aegean",
+      "value": "Early Bronze Age from about 3300–3000 BCE"
+    },
+    {
+      "label": "Britain",
+      "value": "Beaker newcomers from about 2450 BCE; about 90 percent genetic turnover"
+    },
+    {
+      "label": "China",
+      "value": "Bronze vessels at Erlitou, about 1900–1500 BCE"
+    },
+    {
+      "label": "Sub-Saharan Africa",
+      "value": "Mostly from stone directly to iron, in the first millennium BCE"
+    },
+    {
+      "label": "No metallurgy",
+      "value": "Australia, New Guinea and the Pacific islands before European contact"
+    }
+  ],
+  "sites": [
+    {
+      "id": "amesbury-archer",
+      "name": "Amesbury Archer (Boscombe Down)",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 51.17,
+      "lon": -1.76,
+      "start": 4380,
+      "end": 4290,
+      "dateLabel": "c. 2380–2290 BCE",
+      "type": "burial",
+      "summary": "Richest Beaker burial in Britain: a man raised probably in the Alps, buried with copper knives, gold ornaments, arrowheads and a metalworking stone."
+    },
+    {
+      "id": "grimes-graves",
+      "name": "Grimes Graves",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 52.48,
+      "lon": 0.67,
+      "start": 4600,
+      "end": 3300,
+      "dateLabel": "c. 2600–1300 BCE",
+      "type": "tools",
+      "summary": "Flint mine with more than 400 shafts dug with antler picks, mostly in the Late Neolithic and reused in the Bronze Age."
+    },
+    {
+      "id": "krzemionki",
+      "name": "Krzemionki",
+      "country": "Poland",
+      "region": "europe",
+      "lat": 50.97,
+      "lon": 21.49,
+      "start": 5900,
+      "end": 3600,
+      "dateLabel": "c. 3900–1600 BCE",
+      "type": "tools",
+      "summary": "Striped-flint mining landscape used from the Neolithic well into the Bronze Age. UNESCO World Heritage since 2019."
+    },
+    {
+      "id": "unetice",
+      "name": "Únětice",
+      "country": "Czechia",
+      "region": "europe",
+      "lat": 50.15,
+      "lon": 14.35,
+      "start": 4200,
+      "end": 3600,
+      "dateLabel": "c. 2200–1600 BCE",
+      "type": "burial",
+      "summary": "Type site of the Únětice culture, which established tin-bronze metallurgy in central Europe."
+    },
+    {
+      "id": "ur",
+      "name": "Ur",
+      "country": "Iraq",
+      "region": "asia",
+      "lat": 30.96,
+      "lon": 46.1,
+      "start": 4600,
+      "end": 4500,
+      "dateLabel": "c. 2600–2500 BCE (royal tombs)",
+      "type": "burial",
+      "summary": "Sumerian city whose royal tombs contain early tin-bronze alongside gold, silver and arsenical copper."
+    },
+    {
+      "id": "kultepe-kanesh",
+      "name": "Kültepe (Kanesh)",
+      "country": "Türkiye",
+      "region": "asia",
+      "lat": 38.85,
+      "lon": 35.63,
+      "start": 3950,
+      "end": 3750,
+      "dateLabel": "c. 1950–1750 BCE",
+      "type": "settlement",
+      "summary": "Anatolian trading city where thousands of Old Assyrian letters record caravans bringing tin and textiles from Assur."
+    },
+    {
+      "id": "erlitou",
+      "name": "Erlitou",
+      "country": "China",
+      "region": "asia",
+      "lat": 34.69,
+      "lon": 112.69,
+      "start": 3900,
+      "end": 3500,
+      "dateLabel": "c. 1900–1500 BCE",
+      "type": "metal",
+      "summary": "Palace centre with bronze workshops producing the first piece-mould cast ritual vessels in China."
+    },
+    {
+      "id": "ban-chiang",
+      "name": "Ban Chiang",
+      "country": "Thailand",
+      "region": "asia",
+      "lat": 17.41,
+      "lon": 103.24,
+      "start": 4000,
+      "end": 2000,
+      "dateLabel": "burials from c. 2000 BCE; bronze from c. 1000 BCE or earlier (debated)",
+      "type": "metal",
+      "summary": "Village cemetery with bronze and painted pottery, central to the debate over when metal reached Southeast Asia. UNESCO World Heritage since 1992."
+    },
+    {
+      "id": "nok",
+      "name": "Nok",
+      "country": "Nigeria",
+      "region": "africa",
+      "lat": 9.5,
+      "lon": 8.0,
+      "start": 3500,
+      "end": 2000,
+      "dateLabel": "c. 1500 BCE–1 CE; iron by mid-1st millennium BCE",
+      "type": "metal",
+      "summary": "Culture known for terracotta sculptures and early iron smelting in West Africa, without a preceding Bronze Age."
+    },
+    {
+      "id": "termit-egaro",
+      "name": "Termit massif (Egaro)",
+      "country": "Niger",
+      "region": "africa",
+      "lat": 16.0,
+      "lon": 11.4,
+      "start": 3500,
+      "end": 2500,
+      "dateLabel": "claimed iron working from the 2nd millennium BCE (contested)",
+      "type": "metal",
+      "summary": "Sites with some of the earliest claimed iron-working dates in Africa, still debated because of the dating of the charcoal."
+    },
+    {
+      "id": "akjoujt",
+      "name": "Akjoujt",
+      "country": "Mauritania",
+      "region": "africa",
+      "lat": 19.75,
+      "lon": -14.39,
+      "start": 3000,
+      "end": 2200,
+      "dateLabel": "1st millennium BCE",
+      "type": "metal",
+      "summary": "Copper mining and working region in the western Sahara, one of the few centres of early copper metallurgy in West Africa."
+    },
+    {
+      "id": "waywaka",
+      "name": "Waywaka",
+      "country": "Peru",
+      "region": "americas",
+      "lat": -13.65,
+      "lon": -73.38,
+      "start": 3700,
+      "end": 3300,
+      "dateLabel": "c. 1500 BCE",
+      "type": "metal",
+      "summary": "Andean site with hammered gold foil and a goldworker’s toolkit, among the earliest metalworking in South America."
+    }
+  ],
+  "routes": [
+    {
+      "id": "assyrian-tin-route",
+      "label": "Old Assyrian tin caravans",
+      "start": 3950,
+      "end": 3750,
+      "certainty": "established",
+      "path": [
+        [
+          43.26,
+          35.46
+        ],
+        [
+          40.2,
+          36.9
+        ],
+        [
+          37.4,
+          37.6
+        ],
+        [
+          35.63,
+          38.85
+        ]
+      ]
+    },
+    {
+      "id": "beakers-to-britain",
+      "label": "Beaker-associated migration to Britain",
+      "start": 4500,
+      "end": 4300,
+      "certainty": "established",
+      "path": [
+        [
+          6.0,
+          51.5
+        ],
+        [
+          3.6,
+          51.4
+        ],
+        [
+          1.4,
+          51.3
+        ],
+        [
+          -1.76,
+          51.17
+        ]
+      ]
+    }
+  ],
+  "themes": [
+    "metal",
+    "technology",
+    "migration",
+    "genetics",
+    "society",
+    "burial",
+    "settlement"
+  ],
+  "sources": [
+    {
+      "cite": "Roberts, B. W., Thornton, C. P. and Pigott, V. C. (2009). Development of metallurgy in Eurasia. Antiquity 83, 1012–1022."
+    },
+    {
+      "cite": "Yener, K. A. (2000). The Domestication of Metals: The Rise of Complex Metal Industries in Anatolia. Leiden: Brill."
+    },
+    {
+      "cite": "Olalde, I. et al. (2018). The Beaker phenomenon and the genomic transformation of northwest Europe. Nature 555, 190–196."
+    },
+    {
+      "cite": "Fitzpatrick, A. P. (2011). The Amesbury Archer and the Boscombe Bowmen: Bell Beaker Burials at Boscombe Down, Amesbury, Wiltshire. Salisbury: Wessex Archaeology."
+    },
+    {
+      "cite": "Liu, L. and Chen, X. (2012). The Archaeology of China: From the Late Paleolithic to the Early Bronze Age. Cambridge University Press."
+    },
+    {
+      "cite": "Higham, C., Higham, T. and Kijngam, A. (2011). Cutting a Gordian knot: the Bronze Age of Southeast Asia: origins, timing and impact. Antiquity 85, 583–598."
+    },
+    {
+      "cite": "Bocoum, H. (ed.) (2004). The Origins of Iron Metallurgy in Africa: New Light on Its Antiquity. Paris: UNESCO Publishing."
+    },
+    {
+      "cite": "Alpern, S. B. (2005). Did they or didn’t they invent it? Iron in sub-Saharan Africa. History in Africa 32, 41–94."
+    },
+    {
+      "cite": "Aldenderfer, M. et al. (2008). Four-thousand-year-old gold artifacts from the Lake Titicaca basin, southern Peru. PNAS 105, 5002–5005."
+    },
+    {
+      "cite": "Rowley-Conwy, P. (2007). From Genesis to Prehistory: The Archaeological Three Age System and its Contested Reception in Denmark, Britain, and Ireland. Oxford University Press."
+    }
+  ]
+}

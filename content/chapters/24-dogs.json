@@ -1,0 +1,255 @@
+{
+  "id": "dogs",
+  "order": 24,
+  "act": "one-species",
+  "title": "Wolf into Dog",
+  "subtitle": "The first domestic animal: timing, place and debates",
+  "era": "Upper Palaeolithic to Early Holocene",
+  "start": 35000,
+  "end": 10000,
+  "dateLabel": "35,000–10,000 years ago",
+  "regions": ["europe", "asia", "americas"],
+  "focus": [-15, 25, 160, 78],
+  "emblem": "dog",
+  "summary": "Dogs are the only animal domesticated by hunter-gatherers. Ancient genomes, burials and a 2026 record from Anatolia show how Ice Age wolves became dogs, while where it happened, and why, are still argued over.",
+  "narration": [
+    "About 14,200 years ago, on a hillside above the Rhine, a group of hunters buried two of their own: a man of about forty and a young woman. Beside them they laid a dog. It was only about seven months old, and it had been desperately ill. Its teeth record a bout of canine distemper that normally kills within three weeks. This puppy lived on for weeks more, which means someone kept it warm, clean and fed, long after it could be of any use.",
+    "Dogs are the only animal that people domesticated while they still lived entirely by hunting and gathering. Every other domestic animal came with farming, thousands of years later. Genomes show that all dogs descend from a population of Ice Age wolves that has since vanished, and that the ancestors of dogs split from other wolves somewhere between about 40,000 and 20,000 years ago. Where the taming happened is still argued over. Siberia, during the coldest millennia of the last glaciation, is a leading candidate, and the genes point broadly to eastern Eurasia, with western wolves adding their share later.",
+    "In 2026, ancient DNA pushed the oldest confirmed dog back to 15,800 years ago: a pup from Pınarbaşı, a hunters’ rock shelter in central Anatolia. By 14,000 years ago, closely related dogs lived from Anatolia to southern England. Candidates twice as old, from caves in Belgium and Moravia, remain disputed.",
+    "How a rival predator became a companion is the deepest puzzle. Perhaps the boldest wolves tamed themselves at the edge of human camps. Perhaps people raised pups on winter meat they could not eat themselves. Quite possibly, both."
+  ],
+  "pronounce": {
+    "Pınarbaşı": "Puh-nar-bah-shuh",
+    "Moravia": "Mo-ray-vee-uh"
+  },
+  "body": [
+    {
+      "heading": "A predator at the hearth",
+      "paragraphs": [
+        "Every farm animal was domesticated by farmers or herders within roughly the last 11,000 years. The dog is the exception. It was domesticated by hunter-gatherers during the last Ice Age, thousands of years before anyone planted a crop, and it remains the only large carnivore people have ever domesticated. That makes it a double puzzle: grey wolves hunted the same prey as people and were dangerous rivals, yet some of them became partners in hunting, hauling, guarding and companionship.",
+        "Genetics has reframed the question. All dogs share an ancestry distinct from every living wolf population. Dogs and modern wolves are sister branches of Late Pleistocene wolf populations, and the particular wolves that gave rise to dogs seem to have died out. Finding where and when domestication happened therefore means sequencing ancient wolves as well as ancient dogs."
+      ]
+    },
+    {
+      "heading": "Clocks in the genome",
+      "paragraphs": [
+        "Early genetic estimates, based on an assumed mutation rate, placed the split between dogs and wolves at around 16,000–11,000 years ago. In 2015 Pontus Skoglund, Love Dalén and colleagues sequenced a wolf rib from the Taimyr Peninsula in Arctic Siberia, radiocarbon dated to about 35,000 years ago. The Taimyr wolf belonged to a population that branched off very close to the moment when the lines leading to dogs and to modern wolves separated, so it acted as a calibration point: the ancestors of dogs had split from other wolves by 27,000–40,000 years ago. A population split is not the same as domestication, though. The lineage leading to dogs may have been a distinct wolf population for thousands of years before it had anything to do with people.",
+        "In 2020 Anders Bergström, Pontus Skoglund, Greger Larson and colleagues analysed 27 ancient dogs and found that by about 11,000 years ago at least five distinct lineages existed: in the Levant, in Karelia in northeastern Europe, around Lake Baikal, in the Americas, and one leading to the New Guinea singing dog and the dingo. After that, little wolf DNA entered dogs.",
+        "A 2022 follow-up in Nature by the same group sequenced 72 ancient wolves spanning 100,000 years. Dogs proved closer to ancient wolves from eastern Eurasia than to western ones, but early dogs in the Near East and Africa carried up to half of their ancestry from a separate source related to southwest Eurasian wolves. None of the ancient wolves sampled matched either source directly: the progenitor populations are still missing."
+      ]
+    },
+    {
+      "heading": "Siberia, and other candidates",
+      "paragraphs": [
+        "In 2021 the zooarchaeologist Angela Perri, with Greger Larson, David Meltzer and others, combined dog genetics, human genetics and archaeology into a specific scenario. During the Last Glacial Maximum, about 26,000–19,000 years ago, people and wolves in Siberia were squeezed into the same pockets of habitable land. The authors proposed that dogs were domesticated there by about 23,000 years ago, and that dogs later travelled with the people who crossed Beringia into the Americas.",
+        "The weakness of the hypothesis is that no dog bones of that age have been found in Siberia; the case rests on genetic dates. Others have favoured Europe, the Middle East, Central Asia or southern East Asia, and a 2016 study led by Laurent Frantz argued for two domestications, one in the west and one in the east. The wolf genomes of 2022 favour one main eastern origin with later mixing, and they explain why the answer has been so slippery: Late Pleistocene wolves formed a single, well-connected population across the northern hemisphere, so regional genetic differences are small."
+      ]
+    },
+    {
+      "heading": "Palaeolithic dogs? Goyet and Předmostí",
+      "paragraphs": [
+        "Bones offer older candidates. In 2009 Mietje Germonpré and colleagues identified a canid skull from Goyet Cave in Belgium, about 36,000 years old, as a “Palaeolithic dog” because of its short, broad snout. In 2012 they described similar skulls from Předmostí in Moravia, a Gravettian mammoth-hunters’ site roughly 31,000 years old; one had a fragment of bone wedged between its front teeth, which they read as placed there after death. A 33,000-year-old skull from Razboinichya Cave in the Altai was proposed in 2011 as an “incipient dog”.",
+        "Most specialists remain unconvinced. Pleistocene wolves varied more than modern ones, and a 2016 critique by Angela Perri, titled “A wolf in dog’s clothing”, argued that without a proper picture of that variation such skulls cannot be classed as dogs. The Goyet animal’s mitochondrial DNA falls outside all modern dog lineages, and no genome has yet confirmed a dog older than about 16,000 years. A 2020 dental microwear study at Předmostí found that the two skull types had eaten differently, which fits the idea that one group lived off human leftovers but does not prove domestication. Many now see them as unusual wolves, or “protodogs” that left no descendants."
+      ]
+    },
+    {
+      "heading": "The first confirmed dogs",
+      "paragraphs": [
+        "In March 2026 two papers in Nature transformed the record. A team led by William Marsh and Lachie Scarsbrook, with Laurent Frantz and Greger Larson, sequenced canids from Pınarbaşı, a hunter-gatherer rock shelter in central Anatolia, and from Gough’s Cave in southern England. A Pınarbaşı pup dated to about 15,800 years ago is the oldest genetically confirmed dog, roughly 5,000 years older than the previous record. The dogs there were buried and apparently fed fish. The Gough’s Cave dog, about 14,300 years old, was strikingly similar genetically, as was a dog from Kesslerloch in Switzerland.",
+        "The second team, led by Anders Bergström, analysed 216 dogs and wolves from Europe and neighbouring regions and confirmed the Kesslerloch animal, dated to about 14,200 years ago, as a dog. Europe’s Palaeolithic dogs came from the same eastern wolf source as all others, with small additions from western wolves, so they do not represent a separate domestication. Dogs that lived in Europe before farming still account for roughly half the ancestry of many popular European breeds.",
+        "Burials tell the same story from another angle. At Bonn-Oberkassel in Germany, quarry workers in 1914 found the grave of a man of about 40 and a woman of about 25, with red ochre, carved bone and antler objects and two dogs, dated to about 14,200 years ago. A 2018 re-study led by Luc Janssens showed that the younger dog died at about 28 weeks, after severe distemper between about 19 and 23 weeks of age. Without nursing, such a dog dies within about three weeks. In the Levant, at the Natufian village of ʿAin Mallaha, a woman buried about 12,000 years ago lay with her hand on a puppy three to five months old (chapter 29 describes the Natufians).",
+        "Skulls agree. A 2025 study in Science led by Allowen Evin compared hundreds of canid skulls spanning 50,000 years and found clearly domestic forms by about 11,000 years ago at Veretye in northern Russia, with variety in size and shape growing through the Holocene."
+      ]
+    },
+    {
+      "heading": "Dogs on the move",
+      "paragraphs": [
+        "Dogs spread with people. On Zhokhov Island in the Siberian Arctic, a camp about 9,500 years old has yielded parts of sledges and many dog bones. In 2020 Mikkel Sinding and colleagues sequenced a Zhokhov dog: modern Siberian huskies, Alaskan malamutes and Greenland sled dogs share most of their ancestry with it, along with traces from Pleistocene Siberian wolves. A 2025 study of 73 ancient dog genomes from eastern Eurasia found that dogs moved with hunter-gatherers, farmers and later pastoralists.",
+        "In the Americas, the oldest directly dated dogs come from Koster and Stilwell II in Illinois, about 10,000 years old and buried individually, as Angela Perri and colleagues reported in 2019. Older ties are hinted at in Alaska: a canid from Swan Point, dated to between about 12,900 and 11,300 years ago, had eaten salmon, which local wolves rarely caught, suggesting that people fed it. It matches no known dog lineage and may have been a tamed wolf (François Lanoë and colleagues, 2024). After 1492 the original American dogs were almost entirely replaced by European breeds; a 2018 study found that their closest surviving genetic relative is a transmissible cancer that still passes between dogs worldwide."
+      ]
+    },
+    {
+      "heading": "How a wolf becomes a dog",
+      "paragraphs": [
+        "The self-domestication model, developed by Raymond and Lorna Coppinger and popularised by Brian Hare and Vanessa Woods as “survival of the friendliest”, holds that the least fearful wolves began to exploit human camps, and that natural selection for tolerance of people did most of the work before humans took over breeding. Selection on behaviour did leave marks in the genome: in 2017 Bridgett vonHoldt and colleagues linked dogs’ hypersociability to variants in genes that, in humans, are involved in Williams–Beuren syndrome. Critics object that mobile Ice Age hunters left little refuse; a 2025 computer model by David Elzinga and colleagues found that self-domestication could nevertheless have run fast enough.",
+        "Other scenarios put people in charge from the start, with hunters raising pups taken from dens. A 2021 hypothesis by Maria Lahtinen and colleagues adds an ecological twist. Humans cannot live on lean meat alone, because the liver can safely process only limited protein; in a northern winter, when fat and plant foods were scarce, hunters would have had surplus lean meat. Feeding it to captive wolves cost nothing. The ideas are not exclusive: wolves may have come close on their own terms before people began to raise and select them."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "When were dogs domesticated?",
+      "views": [
+        {
+          "label": "Early, before the glacial maximum",
+          "text": "Mietje Germonpré and colleagues argue that skulls from Goyet (about 36,000 years), Předmostí (about 31,000) and Razboinichya Cave (about 33,000) belong to early dogs, pointing to their short snouts and crowded teeth. Genetic estimates that place the split between dog ancestors and other wolves at 27,000–40,000 years ago leave room for such an early start."
+        },
+        {
+          "label": "During or after the glacial maximum",
+          "text": "Angela Perri, Greger Larson and many geneticists argue that the population split need not mark domestication. Their Siberian scenario puts it around 23,000 years ago, and the oldest genetically confirmed dogs (Pınarbaşı, about 15,800 years; Gough’s Cave and Kesslerloch, about 14,300–14,200) are much younger than the disputed skulls."
+        }
+      ],
+      "status": "In 2026 the firm lower limit is about 15,800 years ago, and the close similarity of dogs from Anatolia to England shows that domestication must have begun well before that. Genomes from dogs older than 20,000 years, or from the missing progenitor wolves, would settle it; the Goyet and Předmostí skulls are widely regarded as unusual wolves or failed early relationships."
+    },
+    {
+      "question": "Where were dogs domesticated, and how many times?",
+      "views": [
+        {
+          "label": "One eastern origin",
+          "text": "The 2022 ancient-wolf study by Anders Bergström and colleagues found dogs closer to ancient eastern Eurasian wolves, and the 2021 synthesis by Angela Perri placed the process in Siberia. The 2026 European genomes show that even the oldest European dogs came from this eastern source."
+        },
+        {
+          "label": "Two origins or major western input",
+          "text": "Laurent Frantz and colleagues argued in 2016 for separate domestications in western and eastern Eurasia. The 2022 study found that early dogs in the Near East and Africa carry up to half of their ancestry from southwest Eurasian wolves, which could mean an independent domestication there or heavy mixing with local wolves."
+        }
+      ],
+      "status": "Most researchers now favour one main domestication in the east with later wolf admixture in the west, but because the source wolf populations have not been sampled, a second, partly independent domestication cannot be ruled out."
+    },
+    {
+      "question": "Did wolves domesticate themselves?",
+      "views": [
+        {
+          "label": "Self-domestication",
+          "text": "Raymond and Lorna Coppinger, and later Brian Hare and Vanessa Woods, argue that bold wolves scavenging around camps were naturally selected for friendliness. A 2025 agent-based model by David Elzinga and colleagues found the process could have been fast enough."
+        },
+        {
+          "label": "Human-driven taming",
+          "text": "Others argue that hunters deliberately raised wolf pups. Maria Lahtinen and colleagues (2021) proposed that surplus lean meat in harsh winters let people feed young wolves at no cost to themselves."
+        }
+      ],
+      "status": "The two ideas are not mutually exclusive and are hard to test with bones. Most researchers expect a gradual process in which a commensal phase was followed by active human control."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Oldest genetically confirmed dog", "value": "Pınarbaşı, Türkiye, about 15,800 years ago (reported 2026)"},
+    {"label": "Split of dog ancestors from other wolves", "value": "By about 27,000–40,000 years ago (Taimyr wolf, 2015)"},
+    {"label": "Dog lineages by 11,000 years ago", "value": "At least five (Bergström and colleagues, 2020)"},
+    {"label": "Oldest dog in a human grave", "value": "Bonn-Oberkassel, Germany, about 14,200 years ago"},
+    {"label": "Oldest sled dogs", "value": "Zhokhov Island, Siberian Arctic, about 9,500 years ago"}
+  ],
+  "sites": [
+    {
+      "id": "goyet-caves",
+      "name": "Goyet Caves",
+      "country": "Belgium",
+      "region": "europe",
+      "lat": 50.45, "lon": 5.02,
+      "start": 36000, "end": 36000,
+      "dateLabel": "about 36,000 years ago",
+      "type": "fossil",
+      "summary": "A short-snouted canid skull identified in 2009 as a “Palaeolithic dog”. Its mitochondrial DNA lies outside modern dog lineages, and many researchers see it as an unusual wolf."
+    },
+    {
+      "id": "predmosti",
+      "name": "Předmostí",
+      "country": "Czech Republic",
+      "region": "europe",
+      "lat": 49.47, "lon": 17.44,
+      "start": 31000, "end": 29000,
+      "dateLabel": "about 31,000 years ago",
+      "type": "fossil",
+      "summary": "Gravettian mammoth-hunters’ site with canid skulls proposed as early dogs, one with a bone fragment wedged between its teeth. The identification is widely disputed."
+    },
+    {
+      "id": "pinarbasi",
+      "name": "Pınarbaşı",
+      "country": "Türkiye",
+      "region": "asia",
+      "lat": 37.49, "lon": 33.04,
+      "start": 15800, "end": 15800,
+      "dateLabel": "about 15,800 years ago",
+      "type": "dna",
+      "summary": "Hunter-gatherer rock shelter in central Anatolia whose buried pup is the oldest genetically confirmed dog (2026). The dogs there seem to have been fed fish."
+    },
+    {
+      "id": "goughs-cave",
+      "name": "Gough’s Cave",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 51.28, "lon": -2.76,
+      "start": 14300, "end": 14300,
+      "dateLabel": "about 14,300 years ago",
+      "type": "dna",
+      "summary": "Magdalenian cave in Cheddar Gorge whose dog is genetically almost identical to the Anatolian dogs of Pınarbaşı, showing how quickly dogs spread across western Eurasia."
+    },
+    {
+      "id": "kesslerloch",
+      "name": "Kesslerloch",
+      "country": "Switzerland",
+      "region": "europe",
+      "lat": 47.74, "lon": 8.71,
+      "start": 14200, "end": 14200,
+      "dateLabel": "about 14,200 years ago",
+      "type": "dna",
+      "summary": "Magdalenian cave whose long-suspected dog was confirmed genetically in 2026. Its ancestry traces to the same eastern wolf source as all other dogs."
+    },
+    {
+      "id": "bonn-oberkassel",
+      "name": "Bonn-Oberkassel",
+      "country": "Germany",
+      "region": "europe",
+      "lat": 50.72, "lon": 7.16,
+      "start": 14200, "end": 14200,
+      "dateLabel": "about 14,200 years ago",
+      "type": "burial",
+      "summary": "Double human burial with two dogs, found in 1914. One puppy survived severe distemper for weeks, which implies that people nursed it."
+    },
+    {
+      "id": "ain-mallaha",
+      "name": "ʿAin Mallaha (Eynan)",
+      "country": "Israel",
+      "region": "asia",
+      "lat": 33.08, "lon": 35.58,
+      "start": 12000, "end": 12000,
+      "dateLabel": "about 12,000 years ago",
+      "type": "burial",
+      "summary": "Natufian village where a woman was buried with her hand resting on a puppy, one of the earliest signs of an emotional bond between people and dogs."
+    },
+    {
+      "id": "swan-point",
+      "name": "Swan Point",
+      "country": "United States (Alaska)",
+      "region": "americas",
+      "lat": 64.29, "lon": -146.1,
+      "start": 12900, "end": 11300,
+      "dateLabel": "about 12,900–11,300 years ago",
+      "type": "other",
+      "summary": "A canid that ate salmon, probably provided by people. It matches no known dog lineage and may have been a tamed wolf."
+    },
+    {
+      "id": "koster",
+      "name": "Koster and Stilwell II",
+      "country": "United States (Illinois)",
+      "region": "americas",
+      "lat": 39.25, "lon": -90.55,
+      "start": 10000, "end": 9500,
+      "dateLabel": "about 10,000 years ago",
+      "type": "burial",
+      "summary": "Individually buried dogs, directly radiocarbon dated in 2019, which are the oldest confirmed dogs in the Americas."
+    },
+    {
+      "id": "zhokhov-island",
+      "name": "Zhokhov Island",
+      "country": "Russia",
+      "region": "asia",
+      "lat": 76.15, "lon": 152.83,
+      "start": 9500, "end": 9500,
+      "dateLabel": "about 9,500 years ago",
+      "type": "settlement",
+      "summary": "Arctic hunting camp with sledge parts and dog bones. A Zhokhov dog genome is closely related to modern sled dogs."
+    }
+  ],
+  "themes": ["animals", "genetics", "burial", "society", "migration"],
+  "sources": [
+    {"cite": "Skoglund, P. et al. (2015). Ancient wolf genome reveals an early divergence of domestic dog ancestors and admixture into high-latitude breeds. Current Biology 25, 1515–1519."},
+    {"cite": "Bergström, A. et al. (2020). Origins and genetic legacy of prehistoric dogs. Science 370, 557–564.", "doi": "10.1126/science.aba9572"},
+    {"cite": "Bergström, A. et al. (2022). Grey wolf genomic history reveals a dual ancestry of dogs. Nature 607, 313–320.", "doi": "10.1038/s41586-022-04824-9"},
+    {"cite": "Perri, A.R. et al. (2021). Dog domestication and the dual dispersal of people and dogs into the Americas. Proceedings of the National Academy of Sciences 118."},
+    {"cite": "Janssens, L. et al. (2018). A new look at an old dog: Bonn-Oberkassel reconsidered. Journal of Archaeological Science 92."},
+    {"cite": "Lahtinen, M. et al. (2021). Excess protein enabled dog domestication during severe Ice Age winters. Scientific Reports 11, 7.", "doi": "10.1038/s41598-020-78214-4"},
+    {"cite": "Lanoë, F.B. et al. (2024). Late Pleistocene onset of mutualistic human/canid (Canis spp.) relationships in subarctic Alaska. Science Advances.", "doi": "10.1126/sciadv.ads1335"},
+    {"cite": "Evin, A. et al. (2025). The emergence and diversification of dog morphology. Science.", "doi": "10.1126/science.adt0995"},
+    {"cite": "Marsh, W.A., Scarsbrook, L. et al. (2026). Dogs were widely distributed across western Eurasia during the Palaeolithic. Nature 651, 995–1003.", "doi": "10.1038/s41586-026-10170-x"},
+    {"cite": "Bergström, A., Furtwängler, A., Johnston, S. et al. (2026). Genomic history of early dogs in Europe. Nature 651, 986–994.", "doi": "10.1038/s41586-026-10112-7"}
+  ]
+}

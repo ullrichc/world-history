@@ -1,0 +1,223 @@
+{
+  "id": "first-hominins",
+  "order": 1,
+  "act": "roots",
+  "title": "The First Upright Apes",
+  "subtitle": "Sahelanthropus, Orrorin, Ardipithecus and the origins of walking",
+  "era": "Late Miocene and Early Pliocene",
+  "start": 7000000,
+  "end": 4400000,
+  "dateLabel": "7–4.4 million years ago",
+  "regions": ["africa", "europe"],
+  "focus": [5, -5, 45, 50],
+  "emblem": "skull",
+  "summary": "The oldest proposed members of the human lineage, from Chad, Kenya and Ethiopia, mix ape and human traits. Whether they walked upright, what our last common ancestor with chimpanzees looked like, and why bipedalism evolved remain live debates.",
+  "narration": [
+    "On the 19th of July 2001, in the shifting dunes of the Djurab Desert in northern Chad, Ahounta Djimdoumalbaye spotted a dark, crushed skull lying in the sand. His team, led by the French palaeontologist Michel Brunet, named it Sahelanthropus tchadensis. Its nickname, Toumaï, means hope of life in the local Daza language. It is about 7 million years old.",
+    "Toumaï had a brain no bigger than a chimpanzee’s, but a shorter face and small canine teeth, worn flat at the tips instead of sharpened like an ape’s. Did it walk on two legs? A thigh bone found at the same spot has divided experts for twenty years, and a study published in early 2026 argues, once again, that it did.",
+    "Other candidates followed. In Kenya’s Tugen Hills, thigh bones about 6 million years old belong to a creature called Orrorin. In Ethiopia, a partial skeleton of Ardipithecus ramidus, nicknamed Ardi, shows that 4.4 million years ago a hominin could walk upright on the ground yet still had a grasping big toe for climbing trees.",
+    "These fossils overturned a comfortable story. Our ancestors did not stride out of the forest onto the open grasslands of eastern Africa. They began in wooded country across a wider stretch of the continent, as part-time walkers and part-time climbers. Why they first stood up at all is still one of the great open questions."
+  ],
+  "pronounce": {
+    "Djurab": "Joo-rab",
+    "Ahounta Djimdoumalbaye": "Ah-hoon-tah Jim-doo-mal-bye",
+    "Sahelanthropus tchadensis": "Sah-hel-an-thro-pus chad-en-sis",
+    "Toumaï": "Too-my",
+    "Daza": "Dah-zah",
+    "Orrorin": "Or-ror-in",
+    "Ardipithecus ramidus": "Ar-dee-pith-eh-kus ram-ih-dus",
+    "Tugen": "Too-gen"
+  },
+  "body": [
+    {
+      "heading": "A skull from the Djurab",
+      "paragraphs": [
+        "On 19 July 2001 Ahounta Djimdoumalbaye, a member of the Franco-Chadian palaeoanthropological mission led by Michel Brunet, found a cranium at locality TM 266 in the Toros-Menalla area of the Djurab Desert, northern Chad. Published in Nature in 2002 as Sahelanthropus tchadensis and nicknamed Toumaï, ‘hope of life’ in the Daza language, it was badly crushed and had to be reconstructed digitally. The animals found with it point to 7–6 million years ago, and a cosmogenic method based on beryllium isotopes gave about 7.2–6.8 million years.",
+        "Toumaï combines a chimpanzee-sized brain of about 360–370 cubic centimetres with features seen later in hominins: a relatively short face, a heavy brow ridge, and small canines worn flat at the tips rather than honed against the lower premolar as in apes. Brunet’s team argued that the foramen magnum, where the spinal cord leaves the skull, sat further forward than in apes, a clue to upright posture. Critics including Milford Wolpoff, Brigitte Senut and Martin Pickford questioned this and suggested Toumaï might be an ape. Toumaï lived in a mosaic of lake shore, gallery forest and grassland beside a much larger ancient Lake Chad."
+      ]
+    },
+    {
+      "heading": "The thigh bone that would not settle",
+      "paragraphs": [
+        "A partial femur found at TM 266 in 2001 was recognised as possibly hominin only in 2004, by Aude Bergeret, and stayed unpublished for years. In 2020 Roberto Macchiarelli and colleagues described it and concluded that its shaft lacked the features of a habitual biped. In 2022 Guillaume Daver, Franck Guy and colleagues from the original team published the femur together with two forearm bones (ulnae) in Nature and reached the opposite verdict: Sahelanthropus walked upright on the ground as a matter of routine but also climbed carefully in trees.",
+        "The argument did not end there. In a 2025 reply, Marine Cazenave and colleagues contended that neither the external shape nor the internal bone structure supports habitual bipedalism. In early 2026 a team led by Scott Williams of New York University reported in Science Advances a femoral tubercle, the attachment of the iliofemoral ligament that stabilises the hip when we stand, and found the femur long relative to the ulna, approaching the proportions of Australopithecus. One complication remains: nobody can be sure the limb bones belong to the same individual, or even the same species, as the skull."
+      ]
+    },
+    {
+      "heading": "Millennium Man",
+      "paragraphs": [
+        "In late 2000 a team led by Brigitte Senut and Martin Pickford recovered fossils of at least five individuals from the Lukeino Formation in the Tugen Hills of Kenya’s Baringo County, about 6 million years old according to argon–argon dating and palaeomagnetism of the surrounding volcanic rocks. Published in 2001 as Orrorin tugenensis (‘original man’ in the Tugen language) and nicknamed Millennium Man, the find includes teeth, jaw fragments, an upper arm bone, a finger bone and three partial femora.",
+        "The femora carry the argument. The best preserved has a long femoral neck and a groove for the obturator externus muscle, traits linked to upright walking. In 2008 Brian Richmond and William Jungers found it most similar to the femora of Australopithecus and Paranthropus, supporting bipedalism, while a 2013 analysis led by Sergio Almécija saw a mosaic that also recalls Miocene apes. Senut and Pickford’s claim that Orrorin lay closer to our own line than the australopiths has won little support. Its curved finger bone suggests that Orrorin still climbed."
+      ]
+    },
+    {
+      "heading": "Ardi and her kin",
+      "paragraphs": [
+        "In Ethiopia’s Middle Awash, Yohannes Haile-Selassie described Ardipithecus kadabba from teeth and bones 5.8–5.2 million years old, first as a subspecies in 2001 and as a species in 2004. Its canines still show some ape-like honing, but a toe bone about 5.2 million years old has a joint angled upward in a way that suggests pushing off from the toes while walking.",
+        "The younger Ardipithecus ramidus was named in 1994 from Aramis, where Tim White’s Middle Awash team had found its first fossil in 1992. In November 1994 the team found the first bones of a partial skeleton, ARA-VP-6/500, later nicknamed Ardi. The bones were so fragile and crushed that excavation, CT scanning and reconstruction took 15 years; in October 2009 the team described Ardi in 11 papers in Science. The skeleton lay between two volcanic ash layers dated to about 4.4 million years. Ardi was a female of about 50 kilograms and 1.2 metres, with a brain of 300–350 cubic centimetres.",
+        "Her anatomy is a mix no one predicted. The upper pelvis is short and broad like a biped’s, and the foot was stiffened for push-off, yet the big toe diverged and could grasp like an ape’s. The hands were flexible, and canines were small in both sexes. Owen Lovejoy and White argued that Ardi walked upright on the ground and clambered carefully in trees on her palms, and that she lacked the knuckle-walking specialisations of chimpanzees and gorillas. More Ar. ramidus fossils come from Gona, 4.5–4.3 million years old."
+      ]
+    },
+    {
+      "heading": "Woodland, not savanna",
+      "paragraphs": [
+        "For decades human origins were tied to open grassland. In 1983 the French palaeontologist Yves Coppens popularised the ‘East Side Story’, building on an idea of Adriaan Kortlandt: the rifting of East Africa had cut off drier eastern landscapes, where apes became upright hominins, from western forests, where apes stayed apes. Toumaï, found about 2,500 kilometres west of the Rift Valley, and an australopith jaw from Koro Toro in Chad (chapter 2) undercut the scenario, and Coppens himself acknowledged it.",
+        "The earliest hominins also lived in more wooded places than the savanna idea implied. White’s team reconstructed Aramis as woodland with patches of forest, based on fossil plants, snails, monkeys, antelopes and the carbon isotopes of soils and teeth. In 2010 Thure Cerling and colleagues countered that the same evidence pointed to a tree or bush savanna with only 5–25 percent tree cover. Both sides agreed that Ardi did not live on open grassland, and Orrorin and Sahelanthropus also lived in mosaics with trees nearby."
+      ]
+    },
+    {
+      "heading": "The ancestor we share with chimpanzees",
+      "paragraphs": [
+        "Genetics sets the time frame. Human and chimpanzee genomes differ at roughly 1.2 percent of their DNA letters, and turning that difference into time depends on the assumed mutation rate and generation length, so estimates of the split range from about 5 to 13 million years ago. Direct counts of new mutations in families, and longer generation times measured in wild apes by Kevin Langergraber and colleagues (2012), push the split earlier than older fossil-calibrated figures of 5–7 million years. A 2016 study led by Priya Moorjani estimated that the two genomes diverged on average around 12 million years ago; because the ancestral population already carried variation, the populations themselves separated somewhat later. A hominin in Chad at 7 million years is therefore genetically plausible.",
+        "What the ancestor looked like is disputed. For much of the twentieth century it was pictured as something like a chimpanzee, a knuckle-walking forest ape. The Ardipithecus team argued in 2009 and 2015 that chimpanzees and gorillas are themselves highly specialised and that the ancestor was a more generalised climber. In 2021 Thomas Prang and colleagues analysed Ardi’s hand and found it most similar to suspensory apes such as chimpanzees and bonobos, implying a more chimpanzee-like ancestor that hung and swung beneath branches."
+      ]
+    },
+    {
+      "heading": "Apes in Europe",
+      "paragraphs": [
+        "Miocene Europe was home to many apes, and some researchers look there for our origins. In 2017 Jochen Fuss, Madelaine Böhme and colleagues argued that Graecopithecus freybergi, known from a lower jaw found in 1944 at Pyrgos Vassilissis near Athens and a premolar from Bulgaria, both about 7.2 million years old, was a hominin because of the partly fused roots of its premolars. Most specialists replied that one dental trait in so fragmentary a sample cannot identify a hominin.",
+        "In 2019 Böhme’s team described Danuvius guggenmosi, an 11.6-million-year-old ape from the Hammerschmiede clay pit in Bavaria, and proposed that it combined straight, weight-bearing legs with hanging arms, a mode they called extended-limb clambering, which could have preceded bipedalism. Scott Williams and colleagues replied in Nature in 2020 that the bones did not demonstrate the claimed hip, knee and lower-back features. Most palaeoanthropologists still see Africa as the cradle of the lineage."
+      ]
+    },
+    {
+      "heading": "Why stand up?",
+      "paragraphs": [
+        "Bipedalism is the earliest defining trait of hominins, and explanations abound. Raymond Dart and others linked it to moving into open savanna. Peter Wheeler argued in the 1980s and 1990s that standing upright reduces the skin area struck by the midday sun and lifts the body into cooler breezes. Owen Lovejoy proposed in 1981 that males who carried food to mates gained a reproductive advantage, a scenario he later connected to Ardi’s small canines. In 2007 Michael Sockol, David Raichlen and Herman Pontzer measured chimpanzees on treadmills and found that human walking uses about 75 percent less energy than chimpanzee knuckle-walking.",
+        "Other ideas begin in the trees. Kevin Hunt noted in 1994 that chimpanzees stand upright mainly to feed from small trees, and in 2007 Susannah Thorpe, Roger Holder and Robin Crompton showed that orangutans walk upright on thin, flexible branches with straightened legs, suggesting that bipedalism began as a way of moving through the canopy. The earliest hominins, walkers and climbers in wooded settings, fit a gradual shift better than a sudden move onto grassland."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Did Sahelanthropus walk upright?",
+      "views": [
+        {"label": "A habitual biped", "text": "Michel Brunet’s team, Guillaume Daver and Franck Guy (2022) and Scott Williams’s group (2026) point to the forward position of the foramen magnum, a femur they read as adapted to upright walking, and a femoral tubercle for the hip ligament that bipeds rely on. They see an animal that walked upright on the ground and climbed in trees."},
+        {"label": "Not demonstrated", "text": "Roberto Macchiarelli, Marine Cazenave and colleagues argue that the femur’s shape and internal structure match apes that are not habitual bipeds, that the skull’s posture clues are ambiguous, and that the limb bones cannot be securely tied to the skull. Some critics consider Sahelanthropus an ape close to the common ancestor rather than a hominin."}
+      ],
+      "status": "Unresolved in 2026. The bones are fragmentary and may come from different individuals. A pelvis, a foot or a more complete skeleton from Toros-Menalla would settle the question."
+    },
+    {
+      "question": "Was our last common ancestor with chimpanzees chimp-like?",
+      "views": [
+        {"label": "No, a generalised climber", "text": "Tim White, Owen Lovejoy and Gen Suwa argue from Ardi that chimpanzees and gorillas evolved knuckle-walking, large canines and other specialisations independently, and that the ancestor was a more generalised ape that clambered in trees on its palms."},
+        {"label": "Broadly, yes", "text": "Thomas Prang, Scott Williams and others argue that Ardi’s hand and features shared by the African apes point to an ancestor with suspensory adaptations like those of chimpanzees and bonobos, so the chimpanzee remains a reasonable, if imperfect, model."}
+      ],
+      "status": "The dispute turns on how a few crushed fossils are read, and on whether the similarities of chimpanzees and gorillas are inherited or evolved in parallel. African ape fossils from 10–7 million years ago, still extremely rare, are needed."
+    },
+    {
+      "question": "Did the human lineage begin outside Africa?",
+      "views": [
+        {"label": "A European contribution", "text": "Madelaine Böhme, Jochen Fuss and colleagues argue that Graecopithecus had hominin-like premolar roots about 7.2 million years ago and that Danuvius shows a way of moving that could precede bipedalism. Other researchers have proposed that 5.7-million-year-old footprints at Trachilos on Crete were made by a hominin."},
+        {"label": "An African origin", "text": "Most researchers answer that these claims rest on isolated teeth, fragmentary bones or ambiguous traces, whereas all securely identified early hominins, and both living African apes, are African."}
+      ],
+      "status": "An African origin remains the consensus. European Miocene apes matter for understanding ape evolution as a whole, and better-preserved fossils could still change parts of the picture."
+    },
+    {
+      "question": "Why did bipedalism evolve?",
+      "views": [
+        {"label": "Advantages on the ground", "text": "Reduced heat load (Peter Wheeler), cheaper walking between scattered food patches (Sockol, Raichlen and Pontzer, 2007) and carrying food or infants (Owen Lovejoy) all favour upright walking on the ground."},
+        {"label": "Origins in the trees", "text": "Kevin Hunt’s postural-feeding model and the arboreal-bipedalism model of Susannah Thorpe and Robin Crompton suggest that upright posture arose among branches and was later used on the ground."}
+      ],
+      "status": "The earliest fossils come from wooded habitats and combine walking and climbing traits, which weakens a pure savanna explanation. Most researchers think several advantages combined, and that the first hominins were not yet the efficient long-distance walkers seen later."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Oldest proposed hominin", "value": "Sahelanthropus tchadensis (Toumaï), about 7 million years, Chad"},
+    {"label": "Oldest hominin femora", "value": "Orrorin tugenensis, about 6 million years, Tugen Hills, Kenya"},
+    {"label": "Ardi", "value": "Partial skeleton of Ardipithecus ramidus, 4.4 million years, Aramis, Ethiopia; published 2009"},
+    {"label": "Brain size", "value": "About 300–370 cubic centimetres, similar to a chimpanzee"},
+    {"label": "Human–chimpanzee split", "value": "Genetic estimates range from about 5 to 13 million years ago"}
+  ],
+  "sites": [
+    {
+      "id": "toros-menalla",
+      "name": "Toros-Menalla (TM 266)",
+      "country": "Chad",
+      "region": "africa",
+      "lat": 16.25, "lon": 17.5,
+      "start": 7200000, "end": 6800000,
+      "dateLabel": "about 7.2–6.8 million years ago",
+      "type": "fossil",
+      "summary": "Desert locality where the cranium of Sahelanthropus tchadensis (Toumaï) was found in 2001, together with a disputed femur and two ulnae. It lies about 2,500 kilometres west of the Rift Valley."
+    },
+    {
+      "id": "kapsomin",
+      "name": "Kapsomin, Lukeino Formation",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 0.8, "lon": 35.8,
+      "start": 6000000, "end": 5700000,
+      "dateLabel": "about 6 million years ago",
+      "type": "fossil",
+      "summary": "Tugen Hills locality that yielded Orrorin tugenensis in 2000, including three partial femora that are the oldest proposed evidence of hominin bipedalism from the leg."
+    },
+    {
+      "id": "middle-awash",
+      "name": "Middle Awash (western margin)",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 10.3, "lon": 40.4,
+      "start": 5800000, "end": 5200000,
+      "dateLabel": "5.8–5.2 million years ago",
+      "type": "fossil",
+      "summary": "Localities that produced Ardipithecus kadabba, including a toe bone whose upward-angled joint suggests toe-off during upright walking."
+    },
+    {
+      "id": "aramis",
+      "name": "Aramis",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 10.5, "lon": 40.5,
+      "start": 4400000, "end": 4400000,
+      "dateLabel": "about 4.4 million years ago",
+      "type": "fossil",
+      "summary": "Middle Awash site of Ardipithecus ramidus and the partial skeleton Ardi, sandwiched between volcanic ashes dated to 4.4 million years. Its habitat, woodland or tree savanna, is debated."
+    },
+    {
+      "id": "gona",
+      "name": "Gona",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 11.1, "lon": 40.35,
+      "start": 4500000, "end": 4300000,
+      "dateLabel": "4.5–4.3 million years ago",
+      "type": "fossil",
+      "summary": "Afar research area that produced further Ardipithecus ramidus fossils, and later some of the oldest Oldowan stone tools."
+    },
+    {
+      "id": "pyrgos-vassilissis",
+      "name": "Pyrgos Vassilissis",
+      "country": "Greece",
+      "region": "europe",
+      "lat": 38.04, "lon": 23.7,
+      "start": 7200000, "end": 7200000,
+      "dateLabel": "about 7.2 million years ago",
+      "type": "fossil",
+      "summary": "Find spot, near Athens, of the Graecopithecus lower jaw, which a 2017 study argued was a hominin. Most specialists consider the evidence too thin."
+    },
+    {
+      "id": "hammerschmiede",
+      "name": "Hammerschmiede",
+      "country": "Germany",
+      "region": "europe",
+      "lat": 47.92, "lon": 10.59,
+      "start": 11620000, "end": 11620000,
+      "dateLabel": "about 11.6 million years ago",
+      "type": "fossil",
+      "summary": "Bavarian clay pit that yielded Danuvius guggenmosi, an ape proposed in 2019 to show a way of moving that could have preceded bipedalism. The interpretation is contested."
+    }
+  ],
+  "themes": ["species", "climate"],
+  "sources": [
+    {"cite": "Brunet, M. et al. (2002). A new hominid from the Upper Miocene of Chad, Central Africa. Nature 418, 145–151."},
+    {"cite": "Daver, G. et al. (2022). Postcranial evidence of late Miocene hominin bipedalism in Chad. Nature 609, 94–100.", "doi": "10.1038/s41586-022-04901-z"},
+    {"cite": "Cazenave, M. et al. (2025). Postcranial evidence does not support habitual bipedalism in Sahelanthropus tchadensis: a reply to Daver et al. (2022). Journal of Human Evolution 198, 103557."},
+    {"cite": "Williams, S. A. et al. (2026). Earliest evidence of hominin bipedalism in Sahelanthropus tchadensis. Science Advances 12, eadv0130.", "doi": "10.1126/sciadv.adv0130"},
+    {"cite": "Richmond, B. G. & Jungers, W. L. (2008). Orrorin tugenensis femoral morphology and the evolution of hominin bipedalism. Science 319, 1662–1665.", "doi": "10.1126/science.1154197"},
+    {"cite": "White, T. D. et al. (2009). Ardipithecus ramidus and the paleobiology of early hominids. Science 326, 75–86."},
+    {"cite": "Prang, T. C. et al. (2021). Ardipithecus hand provides evidence that humans and chimpanzees evolved from an ancestor with suspensory adaptations. Science Advances 7, eabf2474.", "doi": "10.1126/sciadv.abf2474"},
+    {"cite": "Moorjani, P. et al. (2016). Variation in the molecular clock of primates. PNAS 113, 10607–10612.", "doi": "10.1073/pnas.1600374113"},
+    {"cite": "Böhme, M. et al. (2019). A new Miocene ape and locomotion in the ancestor of great apes and humans. Nature 575, 489–493.", "doi": "10.1038/s41586-019-1731-0"},
+    {"cite": "Williams, S. A. et al. (2020). Reevaluating bipedalism in Danuvius. Nature 586.", "doi": "10.1038/s41586-020-2736-4"}
+  ]
+}

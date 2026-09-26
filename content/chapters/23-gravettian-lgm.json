@@ -1,0 +1,352 @@
+{
+  "id": "gravettian-lgm",
+  "order": 23,
+  "act": "one-species",
+  "title": "The Gravettian and the Ice Maximum",
+  "subtitle": "Mammoth hunters, “Venus” figurines and the coldest millennia",
+  "era": "Mid Upper Palaeolithic (Gravettian, Solutrean, Epigravettian)",
+  "start": 34000,
+  "end": 19000,
+  "dateLabel": "34,000–19,000 years ago",
+  "regions": [
+    "europe"
+  ],
+  "focus": [
+    -10,
+    36,
+    45,
+    58
+  ],
+  "emblem": "venus",
+  "summary": "From Portugal to the Russian Plain, Gravettian hunters shared weapons, figurines and lavish burial customs while belonging to genetically distinct populations. Then the Last Glacial Maximum drove Europe’s people into southern refuges, where the Solutreans made their laurel-leaf points.",
+  "narration": [
+    "About 30,000 years ago, in the Pavlov Hills of Moravia, someone modelled a small woman from wet loess and set her in a fire. She came out hard, the oldest known figure of fired clay. Around her camp lay thousands of fragments of clay animals, many cracked and burst by the heat, perhaps on purpose.",
+    "Archaeologists call this culture the Gravettian. Its makers spread a shared set of weapons and a shared fashion in art from the Atlantic to the River Don. They carved female figures in ivory and stone, from Willendorf in Austria to Kostenki in Russia. They buried some of their dead with astonishing wealth: at Sungir, east of Moscow, two children lay head to head beneath some 10,000 ivory beads, each one cut and drilled by hand. Yet ancient genomes show that beneath this common culture lived at least two distinct populations.",
+    "Then the cold deepened. From about 26,000 years ago, ice sheets spread across Scandinavia and the British Isles, sea level fell by more than 120 metres, and northern Europe emptied of people. Human life drew back into southern refuges in Iberia, Italy, the Balkans and the plains north of the Black Sea. In France and Spain, the Solutreans flaked stone points as thin as laurel leaves and sewed with fine eyed needles, and so came through the coldest millennia of the Ice Age."
+  ],
+  "pronounce": {
+    "Gravettian": "Grav-et-ee-an",
+    "Sungir": "Soon-gheer",
+    "Solutreans": "So-loo-tree-anz",
+    "Kostenki": "Kos-tyen-kee",
+    "Willendorf": "Vil-en-dorf"
+  },
+  "body": [
+    {
+      "heading": "One culture, several peoples",
+      "paragraphs": [
+        "The Gravettian, named after La Gravette in the Dordogne, flourished from about 33,000 to 26,000 years ago. Its hallmark is the Gravette point, a narrow blade with one edge blunted by steep retouch, probably used as a projectile tip; in central and eastern Europe shouldered points were common. Gravettian people hunted mammoth, reindeer and horse, trapped hares and foxes for fur, made cordage and nets, and gathered in large seasonal camps on river terraces and loess plains.",
+        "In 2023 a Nature study led by Cosimo Posth, He Yu and Johannes Krause, analysing genomes of 356 hunter-gatherers (116 of them new), showed that the Gravettian was not one people. Individuals from France and Iberia formed a ‘Fournol’ cluster; those from Moravia and Italy a ‘Věstonice’ cluster. A shared culture had spread across genetically distinct populations. After the glacial maximum, Fournol-related ancestry persisted in the southwest, while Věstonice ancestry disappeared, even from Italy, once assumed to have sheltered it."
+      ]
+    },
+    {
+      "heading": "Dolní Věstonice, Pavlov and Předmostí",
+      "paragraphs": [
+        "Beneath the Pavlov Hills in south Moravia, excavations since the 1920s by Karel Absolon, Bohuslav Klíma, Jiří Svoboda and others uncovered camps with hearths, huts and heaps of mammoth bone. The Věstonice Venus, 11 centimetres tall and found in 1925, is made of fired loess, and the sites have yielded thousands of fragments of fired clay figures of animals and people. Pamela Vandiver, Olga Soffer and colleagues argued in 1989 that many were put into the fire wet so that they would crack or explode, perhaps in some kind of performance or divination. These people made ceramics but not pots.",
+        "Clay fragments from Pavlov I and Dolní Věstonice also carry impressions of cordage, netting and plain-woven textiles, identified by Soffer, James Adovasio and David Hyland. Clothes, bags and nets of plant fibre, rarely preserved, were part of Gravettian life.",
+        "In 1986 excavators uncovered a triple burial at Dolní Věstonice: three young people side by side, their heads covered in red ochre, the middle one with a malformed skeleton. That individual was long interpreted as a woman; genetic sexing published in 2016 showed all three were male. At Předmostí near Přerov, Karel Maška excavated in 1894 a mass grave of about 20 people amid the bones of more than 1,000 mammoths; most of the human remains were destroyed by fire at Mikulov Castle in 1945. Large canid skulls from Předmostí feature in the debate on the first dogs (chapter 24)."
+      ]
+    },
+    {
+      "heading": "Figures of women",
+      "paragraphs": [
+        "Gravettian ‘Venus’ figurines, a nineteenth-century name now used with caution, occur from the Pyrenees to the Don. The Venus of Willendorf, 11 centimetres of limestone once coloured with red ochre, was found in 1908 in the Wachau valley of Austria and is about 30,000 years old. In 2022 a micro-CT study led by Gerhard Weber compared its oolitic stone with samples across Europe and found the closest match near Lake Garda in northern Italy, implying that the figure or its stone travelled hundreds of kilometres across or around the Alps.",
+        "Other famous examples are the ivory figure from Lespugue in the French Pyrenees, with swelling breasts and buttocks; the relief of a woman holding a horn at Laussel in the Dordogne; the tiny ivory head with a grid-patterned hood or hairstyle from Brassempouy; and series of ivory and marl figures from Kostenki on the Don and Avdeevo near Kursk. Not all are obese or pregnant: they range from slender young women to heavy mature bodies, and several wear caps, belts or bands that Soffer and colleagues identified in 2000 as depictions of woven clothing.",
+        "What they meant is debated. Many writers saw fertility charms or a Great Mother goddess, a view Marija Gimbutas extended to later prehistory. In 1996 LeRoy McDermott argued that their distortions match a woman’s view of her own body, making them self-representations. A 2020 study led by physician Richard Johnson linked the most obese figures to times and places closest to the ice sheets, suggesting that fat bodies symbolised survival. Others see idealised images of health and maturity, or objects with many uses; their variety makes a single meaning unlikely."
+      ]
+    },
+    {
+      "heading": "Burials rich and strange",
+      "paragraphs": [
+        "At Sungir, on the Klyazma River near Vladimir in Russia, Otto Bader’s excavations from 1955 revealed an adult man and, in a separate grave, two children laid head to head, all about 34,000 years old and belonging to an early Upper Palaeolithic culture just before the Gravettian. The man wore about 3,000 mammoth-ivory beads, probably sewn onto clothing, and some 25 ivory bracelets; the children had around 10,000 beads between them, carved ivory animals and spears of straightened mammoth tusk more than 2 metres long. Experiments by Randall White suggest that each bead took most of an hour to make, so the beads alone represent thousands of hours of work.",
+        "A 2017 study in Science led by Martin Sikora and Eske Willerslev sequenced four Sungir individuals and found that they were not close kin: the two children were not siblings. Their genetic diversity implied that small bands belonged to wider mating networks that avoided inbreeding, much as among recent hunter-gatherers.",
+        "In Liguria, the cave of Arene Candide held ‘Il Principe’, a youth of about 15 buried around 28,000 years ago with a cap of hundreds of perforated shells, red ochre, four ‘bâtons percés’ of elk antler and a long flint blade in his hand; injuries to his jaw and shoulder may have killed him. At Krems-Wachtberg in Austria, two newborns about 30,000 years old were buried under a mammoth shoulder blade with ivory beads; in 2020 ancient DNA showed they were identical twins, the oldest known, one dying at birth and the other at about seven weeks."
+      ]
+    },
+    {
+      "heading": "The Last Glacial Maximum",
+      "paragraphs": [
+        "From about 26,500 to 19,000 years ago the world’s ice sheets reached their greatest extent. The Fennoscandian ice sheet covered Scandinavia, the Baltic and parts of Germany, Poland and Russia, and met the British–Irish ice sheet in the northern North Sea; the Alps and Pyrenees carried ice caps. Global sea level fell by about 120–130 metres, exposing Doggerland and the northern Adriatic. Much of the land between the ice and the Mediterranean was polar desert or dry steppe-tundra, with permafrost reaching deep into western and central Europe.",
+        "People withdrew from the north for thousands of years; Britain and the north European plain appear empty. Populations survived in refugia: southwest France and northern Spain, the rest of Iberia, Italy, the Balkans and parts of the Ukrainian and Russian plains, where Epigravettian groups kept hunting mammoth. Genetic data show a fall in population and the loss of some lineages, including the Věstonice cluster."
+      ]
+    },
+    {
+      "heading": "The Solutrean",
+      "paragraphs": [
+        "In France and Iberia the Solutrean, named after the Roche de Solutré in Burgundy, flourished from about 25,000 to 20,000 years ago. Its masterpieces are bifacial ‘laurel-leaf’ points, some so large and thin, like those in a cache found at Volgu, that they can hardly have been practical. Solutrean knappers heated flint to make it flake more predictably and refined pressure flaking. Eyed bone needles for close-fitting clothing appear in western Europe at this time, and the cave of Parpalló near Valencia yielded thousands of engraved and painted stone plaquettes.",
+        "In 2012 Dennis Stanford and Bruce Bradley set out the ‘Solutrean hypothesis’: that Solutrean people followed the edge of the North Atlantic sea ice, hunting seals, and founded the Clovis culture of North America. Most researchers reject it. Clovis appears about 13,000 years ago, several thousand years after the Solutrean ended; shared features of bifacial flaking arose independently in many places; no Solutrean artefacts or art have been found in America; and ancient genomes from the Americas, beginning with the Clovis-associated Anzick child in 2014, show descent from East Asian and Ancient North Eurasian ancestors with no trace of an Ice Age European source."
+      ]
+    },
+    {
+      "heading": "Houses of mammoth bone",
+      "paragraphs": [
+        "On the plains of Russia and Ukraine, where trees were scarce, people built with mammoth bone. At Kostenki 11 on the Don, Alexander Pryor and colleagues in 2020 described a circular structure about 12.5 metres across made from the bones of more than 60 mammoths, dated to about 25,000 years ago. Charcoal shows that conifer wood was burned, and charred plant remains hint at plant foods; the structure may have served for storage or gatherings rather than simply as a dwelling. Better-known mammoth-bone houses at Mezhyrich and Mezin in Ukraine are later, around 15,000 years old."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "What were the ‘Venus’ figurines for?",
+      "views": [
+        {
+          "label": "Fertility and goddess",
+          "text": "Early scholars and later Marija Gimbutas saw the emphasis on breasts, bellies and hips as celebrating fertility or a mother goddess."
+        },
+        {
+          "label": "Self-representation",
+          "text": "LeRoy McDermott (1996) argued that the proportions match what a woman sees looking down at her own body, so women may have made them."
+        },
+        {
+          "label": "Survival in the cold",
+          "text": "Richard Johnson and colleagues (2020) found the most obese figures closest to the ice sheets and argued that they idealised the body fat needed to survive hard times."
+        },
+        {
+          "label": "Many meanings",
+          "text": "Olga Soffer, James Adovasio, Sarah Nelson and others stress the range of ages, bodies and clothing and see social roles, status or group identity rather than a single symbol."
+        }
+      ],
+      "status": "No consensus. The figurines span thousands of kilometres and years, and most researchers now avoid a single explanation. Careful study of context, wear and manufacture, as with Willendorf’s stone, is adding more than new theories."
+    },
+    {
+      "question": "Did Solutreans cross the Atlantic to America?",
+      "views": [
+        {
+          "label": "Yes, along the ice edge",
+          "text": "Dennis Stanford and Bruce Bradley argued that similarities between Solutrean and Clovis bifaces, and a few early east-coast American finds, reflect Solutrean seafarers who followed the sea-ice edge."
+        },
+        {
+          "label": "No",
+          "text": "Lawrence Straus, David Meltzer and Ted Goebel (2005) and later Michael O’Brien and colleagues point to a gap of several thousand years, the lack of Solutrean art or tools in America, convergent technology, and genomes that trace Native Americans to Asia."
+        }
+      ],
+      "status": "Rejected by nearly all specialists. Ancient DNA from the Americas has made the hypothesis very hard to sustain."
+    },
+    {
+      "question": "Why were the Sungir children buried with such wealth?",
+      "views": [
+        {
+          "label": "Inherited status",
+          "text": "Because young children could hardly have earned such honours, some scholars see the beads and spears as signs of status passed down within families, an early form of social ranking."
+        },
+        {
+          "label": "Special individuals and ritual",
+          "text": "Vincenzo Formicola (2007) noted that many rich Upper Palaeolithic burials, including Sungir’s, involved people with unusual bodies or conditions; Erik Trinkaus and Alexandra Buzhilova (2018) described abnormalities in one of the children and suggested special treatment of exceptional individuals."
+        }
+      ],
+      "status": "Open. Burials this rich are rare, which argues against routine hereditary ranking but does not exclude it. Genomes and isotopes from more burials will help show whether wealth followed kinship."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Gravettian",
+      "value": "About 33,000–26,000 years ago, from Portugal to the Don"
+    },
+    {
+      "label": "Oldest fired-clay figure",
+      "value": "Věstonice Venus, about 30,000 years, 11 cm"
+    },
+    {
+      "label": "Sungir beads",
+      "value": "About 13,000 ivory beads in two graves, about 34,000 years ago"
+    },
+    {
+      "label": "Last Glacial Maximum",
+      "value": "About 26,500–19,000 years ago; sea level about 120 m lower"
+    },
+    {
+      "label": "Kostenki 11 ring",
+      "value": "About 12.5 m across, bones of more than 60 mammoths, about 25,000 years"
+    },
+    {
+      "label": "Gravettian genomes",
+      "value": "Fournol and Věstonice clusters (Posth et al. 2023)"
+    }
+  ],
+  "sites": [
+    {
+      "id": "dolni-vestonice",
+      "name": "Dolní Věstonice and Pavlov",
+      "country": "Czech Republic",
+      "region": "europe",
+      "lat": 48.88,
+      "lon": 16.65,
+      "start": 32000,
+      "end": 29000,
+      "dateLabel": "about 32,000–29,000 years ago",
+      "type": "settlement",
+      "summary": "Gravettian camps below the Pavlov Hills with the fired-clay Věstonice Venus, textile impressions and a triple burial."
+    },
+    {
+      "id": "predmosti",
+      "name": "Předmostí u Přerova",
+      "country": "Czech Republic",
+      "region": "europe",
+      "lat": 49.47,
+      "lon": 17.44,
+      "start": 31000,
+      "end": 27000,
+      "dateLabel": "about 31,000–27,000 years ago",
+      "type": "burial",
+      "summary": "Mammoth-hunters’ site with a mass grave of about 20 people and bones of more than 1,000 mammoths; most human remains were lost in 1945."
+    },
+    {
+      "id": "willendorf",
+      "name": "Willendorf",
+      "country": "Austria",
+      "region": "europe",
+      "lat": 48.32,
+      "lon": 15.4,
+      "start": 30000,
+      "end": 30000,
+      "dateLabel": "about 30,000 years ago",
+      "type": "art",
+      "summary": "Wachau site of the Venus of Willendorf, carved from oolitic limestone whose closest match lies near Lake Garda in Italy."
+    },
+    {
+      "id": "krems-wachtberg",
+      "name": "Krems-Wachtberg",
+      "country": "Austria",
+      "region": "europe",
+      "lat": 48.41,
+      "lon": 15.6,
+      "start": 31000,
+      "end": 30000,
+      "dateLabel": "about 30,000 years ago",
+      "type": "burial",
+      "summary": "Gravettian camp with a double infant burial beneath a mammoth scapula; ancient DNA showed the babies were identical twins."
+    },
+    {
+      "id": "sungir",
+      "name": "Sungir",
+      "country": "Russia",
+      "region": "europe",
+      "lat": 56.17,
+      "lon": 40.5,
+      "start": 35000,
+      "end": 34000,
+      "dateLabel": "about 34,000 years ago",
+      "type": "burial",
+      "summary": "Open-air site near Vladimir with spectacular burials of a man and two children, adorned with some 13,000 ivory beads."
+    },
+    {
+      "id": "kostenki",
+      "name": "Kostenki (Kostenki 1 and 11)",
+      "country": "Russia",
+      "region": "europe",
+      "lat": 51.39,
+      "lon": 39.04,
+      "start": 30000,
+      "end": 22000,
+      "dateLabel": "about 30,000–22,000 years ago",
+      "type": "settlement",
+      "summary": "Cluster of sites on the Don with Gravettian ‘Venus’ figurines and, at Kostenki 11, a ring of mammoth bones about 25,000 years old."
+    },
+    {
+      "id": "arene-candide",
+      "name": "Arene Candide",
+      "country": "Italy",
+      "region": "europe",
+      "lat": 44.16,
+      "lon": 8.33,
+      "start": 28000,
+      "end": 28000,
+      "dateLabel": "about 28,000 years ago",
+      "type": "burial",
+      "summary": "Ligurian coastal cave with the richly equipped burial of ‘Il Principe’, a teenage youth with a shell cap and elk-antler batons."
+    },
+    {
+      "id": "brassempouy",
+      "name": "Brassempouy (Grotte du Pape)",
+      "country": "France",
+      "region": "europe",
+      "lat": 43.63,
+      "lon": -0.7,
+      "start": 26000,
+      "end": 26000,
+      "dateLabel": "about 26,000 years ago",
+      "type": "art",
+      "summary": "Cave in the Landes that yielded the ‘Lady with the Hood’, a tiny ivory head with a grid-patterned headdress or hairstyle."
+    },
+    {
+      "id": "lespugue",
+      "name": "Lespugue",
+      "country": "France",
+      "region": "europe",
+      "lat": 43.23,
+      "lon": 0.66,
+      "start": 26000,
+      "end": 26000,
+      "dateLabel": "about 26,000 years ago",
+      "type": "art",
+      "summary": "Pyrenean cave where one of the most stylised Gravettian ivory figures of a woman was found in 1922."
+    },
+    {
+      "id": "laussel",
+      "name": "Laussel",
+      "country": "France",
+      "region": "europe",
+      "lat": 44.93,
+      "lon": 1.12,
+      "start": 27000,
+      "end": 25000,
+      "dateLabel": "about 27,000–25,000 years ago",
+      "type": "art",
+      "summary": "Rock shelter in the Dordogne with a limestone relief of a woman holding a horn, originally coloured with red ochre."
+    },
+    {
+      "id": "solutre",
+      "name": "Roche de Solutré",
+      "country": "France",
+      "region": "europe",
+      "lat": 46.3,
+      "lon": 4.72,
+      "start": 25000,
+      "end": 20000,
+      "dateLabel": "Solutrean about 25,000–20,000 years ago",
+      "type": "tools",
+      "summary": "Limestone escarpment in Burgundy whose foot holds vast deposits of horse bones and gave its name to the Solutrean."
+    }
+  ],
+  "themes": [
+    "art",
+    "ornament",
+    "burial",
+    "genetics",
+    "climate",
+    "settlement",
+    "technology",
+    "society"
+  ],
+  "sources": [
+    {
+      "cite": "Posth, C. et al. (2023). Palaeogenomics of Upper Palaeolithic to Neolithic European hunter-gatherers. Nature 615, 117–126."
+    },
+    {
+      "cite": "Sikora, M. et al. (2017). Ancient genomes show social and reproductive behavior of early Upper Paleolithic foragers. Science 358, 659–662."
+    },
+    {
+      "cite": "Weber, G. W. et al. (2022). The microstructure and the origin of the Venus from Willendorf. Scientific Reports 12."
+    },
+    {
+      "cite": "Pryor, A. J. E. et al. (2020). The chronology and function of a new circular mammoth-bone structure at Kostenki 11. Antiquity 94."
+    },
+    {
+      "cite": "Teschler-Nicola, M. et al. (2020). Ancient DNA reveals monozygotic newborn twins from the Upper Palaeolithic. Communications Biology 3."
+    },
+    {
+      "cite": "Soffer, O., Adovasio, J. M. & Hyland, D. C. (2000). The “Venus” figurines: textiles, basketry, gender, and status in the Upper Paleolithic. Current Anthropology 41."
+    },
+    {
+      "cite": "Vandiver, P. B., Soffer, O., Klíma, B. & Svoboda, J. (1989). The origins of ceramic technology at Dolní Věstonice, Czechoslovakia. Science 246, 1002–1008."
+    },
+    {
+      "cite": "Straus, L. G., Meltzer, D. J. & Goebel, T. (2005). Ice Age Atlantis? Exploring the Solutrean–Clovis ‘connection’. World Archaeology 37."
+    },
+    {
+      "cite": "Johnson, R. J. et al. (2021). Upper Paleolithic figurines showing women with obesity may represent survival symbols of climatic change. Obesity 29."
+    },
+    {
+      "cite": "Clark, P. U. et al. (2009). The Last Glacial Maximum. Science 325, 710–714."
+    }
+  ]
+}

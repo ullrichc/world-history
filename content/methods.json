@@ -1,0 +1,166 @@
+{
+  "methods": [
+    {
+      "id": "radiocarbon",
+      "name": "Radiocarbon dating (with calibration and AMS)",
+      "range": "up to about 50,000 years",
+      "how": "Cosmic rays constantly create radioactive carbon-14 in the upper atmosphere, and every plant and animal takes it up while alive. After death the carbon-14 decays with a half-life of about 5,730 years, so the fraction left in charcoal, bone collagen, shell or seeds gives the time since death. Accelerator mass spectrometry (AMS), in use since the late 1970s, counts carbon-14 atoms directly and needs only about a milligram of carbon, so single seeds or small bone samples can be dated. Because atmospheric carbon-14 has varied, raw results are converted to calendar ages with calibration curves, currently IntCal20, SHCal20 and Marine20, and are often combined with the order of layers in Bayesian statistical models.",
+      "strengths": "It is the most widely used method for the last 50,000 years and dates the organic material of interest itself, such as a charred seed or a cut-marked bone. In the Holocene, calibrated and modelled dates can often be narrowed to a few decades.",
+      "caveats": "Contamination matters most for old samples: just 1 percent of modern carbon makes a sample of infinite age look about 37,000 years old, which is why stricter cleaning methods, such as ultrafiltration of bone collagen, have revised many Palaeolithic chronologies. People and animals that ate marine or freshwater food absorb ‘old’ carbon and can appear centuries too old (reservoir effects), and flat stretches of the calibration curve produce wide calendar ranges.",
+      "example": "Radiocarbon dates from about 40 sites across Europe, processed with improved pretreatment, led Tom Higham and colleagues to conclude in 2014 that Neanderthal-associated industries ended between about 41,000 and 39,000 years ago."
+    },
+    {
+      "id": "luminescence",
+      "name": "Luminescence dating (OSL, TL and IRSL)",
+      "range": "from a few hundred years to about 200,000 years with quartz; up to about 500,000 years with feldspar or burnt flint",
+      "how": "Buried mineral grains absorb energy from natural radioactivity in the surrounding sediment and from cosmic rays, which traps electrons in defects of their crystal lattice. Sunlight, for sediments, or strong heat, for burnt flint, pottery or hearth stones, empties the traps and resets the clock. In the laboratory, stimulating the grains with light (optically stimulated luminescence, OSL, mostly for quartz; infrared stimulated luminescence, IRSL, for feldspar) or with heat (thermoluminescence, TL) releases the stored energy as light. Dividing the total radiation dose this represents by the yearly dose rate measured at the site gives the age.",
+      "strengths": "It dates the sediments that contain artefacts and fossils directly, even where there is no organic material or volcanic rock. Single-grain OSL can spot grains that have moved in from other layers.",
+      "caveats": "Grains not fully exposed to light before burial give ages that are too old, and burrowing animals or trampling can mix grains between layers. Dose rates depend on past water content and radioactivity, and some feldspar signals fade over time, so uncertainties of 5 to 10 percent are usual.",
+      "example": "Thermoluminescence dates on burnt flints from Jebel Irhoud in Morocco, published in 2017 by Daniel Richter and colleagues, placed the oldest known Homo sapiens fossils at about 315,000 years ago."
+    },
+    {
+      "id": "uranium-series",
+      "name": "Uranium-series dating",
+      "range": "a few hundred to about 500,000 years (uranium–thorium); uranium–lead reaches millions of years",
+      "how": "Uranium dissolves in groundwater and is built into calcite as stalagmites, flowstones and thin crusts form, while thorium, which does not dissolve, is almost absent at first. Uranium-234 then decays into thorium-230 at a known rate, so the ratio between them in the calcite gives its age. Laser ablation now allows dating of very thin crusts that have grown over cave paintings, and the same principle is applied, with more difficulty, to teeth and bones. The related uranium–lead method dates older flowstones, for example in South African caves.",
+      "strengths": "It is precise, reaches far beyond radiocarbon and suits caves, where flowstones above and below fossils can bracket their age.",
+      "caveats": "Bones and teeth take up and lose uranium after burial, so their dates are often minimum ages or depend on models, and dirt containing thorium must be corrected for. Crusts over rock art give only a minimum age for the painting, and disputed sampling has produced controversial results, such as the claimed Neanderthal paintings in Spanish caves more than 64,000 years old.",
+      "example": "In 2024 Adhi Agus Oktaviana, Maxime Aubert and colleagues used laser-ablation uranium-series dating of calcite crusts to show that a painted scene of human-like figures and a pig in Leang Karampuang, Sulawesi, is at least 51,200 years old."
+    },
+    {
+      "id": "argon-argon",
+      "name": "Argon–argon and potassium–argon dating",
+      "range": "from a few thousand years to billions of years; in human evolution mainly from about 100,000 to 7 million years",
+      "how": "Radioactive potassium-40 in volcanic minerals decays into argon-40, a gas, with a half-life of about 1.25 billion years. The heat of an eruption drives out existing argon, so the argon that accumulates afterwards measures the time since the lava cooled or the ash fell. The older potassium–argon method measures potassium and argon in separate portions of a sample; in argon–argon dating the sample is first irradiated in a nuclear reactor so that some potassium becomes argon-39, allowing both to be measured together in single crystals heated by a laser.",
+      "strengths": "It gives precise ages, often to within a few thousand years for layers millions of years old, and is the backbone of East African chronology, where fossils lie between datable volcanic ash layers.",
+      "caveats": "It dates the eruption, not the fossil, so the relationship between the ash and the find must be secure. Older crystals incorporated from earlier eruptions or reworked by rivers can give ages that are too old, and the method only works where volcanic material is present.",
+      "example": "In 1961 potassium–argon dating by Jack Evernden and Garniss Curtis showed that the layer at Olduvai Gorge containing the Paranthropus boisei skull OH 5 was about 1.75 million years old, far older than most researchers had expected."
+    },
+    {
+      "id": "palaeomagnetism",
+      "name": "Palaeomagnetism",
+      "range": "tens of thousands to millions of years, by matching reversals and excursions of Earth’s magnetic field",
+      "how": "Earth’s magnetic field has flipped polarity many times at irregular intervals, with magnetic north and south swapping places. Magnetic minerals in cooling lava, or in fine sediment as it settles, align with the field of the time and preserve its direction. By sampling a sequence of layers and matching its pattern of normal and reversed polarity to the dated geomagnetic polarity time scale, researchers can tell which interval a deposit belongs to; the most recent full reversal, the Matuyama–Brunhes, happened about 773,000 years ago.",
+      "strengths": "Reversals are global and, in geological terms, almost instantaneous, so they provide fixed time lines that can be recognised in caves, lake beds and river deposits worldwide, including deposits that cannot be dated in any other way.",
+      "caveats": "A single polarity reading could fit many intervals, so the method needs independent age estimates to choose the right match. Sediments can be remagnetised later, and gaps in a sequence can make patterns ambiguous.",
+      "example": "The discovery in 1995 that the Matuyama–Brunhes reversal lies in level TD7 at Gran Dolina, Atapuerca, showed that the Homo antecessor fossils in the level below are older than about 780,000 years, and in 2026 a record of the same reversal was used to date hominin fossils from a cave at Thomas Quarry near Casablanca, Morocco, to about 773,000 years ago."
+    },
+    {
+      "id": "electron-spin-resonance",
+      "name": "Electron spin resonance (ESR) dating",
+      "range": "roughly 20,000 to 2 million years",
+      "how": "Like luminescence, ESR measures electrons trapped in crystal defects by natural radiation, but it detects them directly by placing the sample in a strong magnetic field and measuring how it absorbs microwaves, without emptying the traps. It is applied mainly to tooth enamel and to quartz grains in sediments. For teeth it is usually combined with uranium-series measurements (US-ESR) to model how much uranium the tooth took up after burial.",
+      "strengths": "It can date fossil teeth themselves, including hominin teeth, over a range far beyond radiocarbon and many luminescence methods, and small enamel fragments can be measured with little damage.",
+      "caveats": "Ages depend on reconstructing the radiation dose from the surrounding sediment and the history of uranium uptake, so uncertainties of 10 to 20 percent are common. Results are most convincing when they agree with other methods.",
+      "example": "Combined uranium-series and ESR dating of Homo naledi teeth, together with dates on flowstones, placed the Rising Star Cave fossils between about 335,000 and 236,000 years ago (Paul Dirks and colleagues, 2017)."
+    },
+    {
+      "id": "cosmogenic-burial",
+      "name": "Cosmogenic nuclide burial dating",
+      "range": "about 200,000 to 5 million years",
+      "how": "Near the ground surface, cosmic rays turn a few atoms in quartz grains into rare isotopes, aluminium-26 and beryllium-10, at a nearly fixed ratio. When the quartz is washed deep into a cave or buried under thick sediment, production stops and both isotopes decay, aluminium-26 about twice as fast as beryllium-10, so their falling ratio records the time since burial. The isochron version measures several samples from one layer to correct for isotopes inherited before burial. A related method uses beryllium isotopes formed in the atmosphere and trapped in lake and river sediments.",
+      "strengths": "It can date cave and river deposits in regions without volcanic rocks, such as the South African caves and parts of China, across the key period of human evolution.",
+      "caveats": "It requires quartz buried quickly and deeply, and older sediment reworked into a deposit can give misleading ages. Uncertainties are often 100,000 to 300,000 years, and in complex caves such as Sterkfontein the relationship between the dated sediment and the fossils is sometimes disputed.",
+      "example": "In 2015 Darryl Granger and colleagues used aluminium–beryllium isochron dating to place the Little Foot skeleton at Sterkfontein at about 3.67 million years, much older than an age of about 2.2 million years that others had derived from flowstones."
+    },
+    {
+      "id": "tephrochronology",
+      "name": "Tephrochronology",
+      "range": "any age at which volcanic ash is preserved, from recent centuries to millions of years",
+      "how": "An eruption spreads ash (tephra) over a wide area within days or weeks, leaving a layer with a distinctive chemical fingerprint in its glass shards and crystals. Geochemists measure major and trace elements with electron microprobes and laser-ablation mass spectrometry, match layers between sites, and date them by argon–argon, radiocarbon or other methods. Invisible shards, called cryptotephra, can be extracted from cave and lake sediments far from the volcano.",
+      "strengths": "A tephra layer is an instantaneous time line: sites containing the same ash are contemporaneous at that level, which allows correlation across whole regions and between archaeological sites and climate records.",
+      "caveats": "Ash can be reworked by wind, water or burrowing animals, and different eruptions of the same volcano may be chemically similar. A tephra dates the sediment, so the finds must be securely related to it.",
+      "example": "In 2022 Céline Vidal and colleagues matched ash above the Omo Kibish 1 fossils in Ethiopia to a large eruption of the Shala volcano about 233,000 years ago, showing that these early Homo sapiens fossils are at least that old."
+    },
+    {
+      "id": "dendrochronology",
+      "name": "Dendrochronology (tree-ring dating)",
+      "range": "back to about 12,000 years ago in central Europe; older ‘floating’ sequences exist",
+      "how": "Trees in seasonal climates add one ring a year, and ring widths vary with the weather, producing patterns shared by trees of the same region. Overlapping sequences from living trees, old buildings, archaeological timbers and subfossil trunks from rivers and bogs have been linked into master chronologies reaching back more than 12,000 years in central Europe. A timber’s ring pattern is matched against the master to give the calendar year of each ring and, if the outermost ring under the bark survives, the year the tree was felled.",
+      "strengths": "It gives exact calendar years, the most precise dates in archaeology, and tree rings also provide the backbone of the radiocarbon calibration curve.",
+      "caveats": "It needs wood with enough rings, usually 50 or more, from a species and region with a master chronology, and it dates the felling rather than the use, since timbers could be stored or reused. Few Stone Age sites preserve wood, except in waterlogged conditions.",
+      "example": "Tree rings in the timber piles of Arbon Bleiche 3, a Neolithic lakeside village on Lake Constance in Switzerland, show that it was built and lived in between 3384 and 3370 BCE, a span of only about 15 years."
+    },
+    {
+      "id": "amino-acid-racemisation",
+      "name": "Amino acid racemisation",
+      "range": "thousands to a few million years, depending on temperature",
+      "how": "Living organisms build their proteins almost entirely from the ‘left-handed’ (L) forms of amino acids. After death these slowly convert into a mixture of left- and right-handed (D) forms, so the ratio of D to L rises with time. Modern methods analyse proteins sealed inside mineral crystals, such as the calcite lids (opercula) of freshwater snails or ostrich eggshell, which behave as closed systems.",
+      "strengths": "It is relatively cheap, needs little material and works on common fossils such as shells, beyond the range of radiocarbon, allowing sites to be placed in order of age and correlated with particular interglacials.",
+      "caveats": "The reaction speeds up strongly with temperature, so results depend on a site’s temperature history and must be calibrated against sites dated by other methods. It gives relative ages more reliably than absolute ones.",
+      "example": "Amino acid ratios in snail opercula, analysed by Kirsty Penkman and colleagues, supported an age of about 700,000 years for the flint tools at Pakefield in Suffolk, reported in 2005 by Simon Parfitt and colleagues as the oldest evidence of humans in northern Europe at the time."
+    },
+    {
+      "id": "biostratigraphy",
+      "name": "Biostratigraphy (biochronology)",
+      "range": "any age with suitable fossils; resolution typically tens to hundreds of thousands of years",
+      "how": "Animal species evolve, appear and disappear at particular times. When those times are known from well-dated sequences, the combination of species in a layer, or the evolutionary stage of a fast-changing lineage such as pigs, elephants or voles, indicates its approximate age. In Europe, changes in the teeth of water voles, including the replacement of Mimomys by Arvicola, are key markers; in East Africa, pig teeth have long been used.",
+      "strengths": "It can date deposits that contain no volcanic rock or datable minerals and provides an independent check on numerical dates.",
+      "caveats": "It assumes that first and last appearances are known and were the same everywhere, but species may have appeared or survived at different times in different regions. It usually gives broad age ranges rather than precise dates.",
+      "example": "In the 1970s the evolutionary stage of fossil pig teeth at Koobi Fora, studied by Basil Cooke and by Tim White and John Harris, indicated that the KNM-ER 1470 skull was younger than the 2.6 million years first obtained for the overlying KBS Tuff, which was later redated to about 1.9 million years."
+    },
+    {
+      "id": "ancient-dna",
+      "name": "Ancient DNA",
+      "range": "about 430,000 years for humans so far; more than 1 million years for mammoths preserved in permafrost",
+      "how": "DNA survives in bones and teeth as short fragments that become rarer with time and warmth; the dense petrous bone of the inner ear preserves it best. In clean laboratories, researchers extract the fragments, convert them into sequencing libraries and read millions of them, often enriching human DNA with capture probes. Characteristic chemical damage at the ends of ancient molecules helps separate genuine ancient DNA from modern contamination.",
+      "strengths": "It reveals relationships, population movements, interbreeding, sex and even some physical traits directly, and has discovered whole groups, such as the Denisovans, that are almost invisible in the fossil record.",
+      "caveats": "DNA preserves poorly in hot climates, so there are few ancient genomes older than about 20,000 years from tropical Africa or Southeast Asia, which biases the picture. Contamination from modern people and microbes must be controlled, and sampling destroys part of irreplaceable fossils, which raises ethical questions, including consultation with descendant communities.",
+      "example": "In 2010 DNA from a finger bone found in Denisova Cave, Siberia, revealed the Denisovans, a previously unknown human group, and in the same year the first Neanderthal genome showed that Neanderthals had interbred with the ancestors of non-Africans."
+    },
+    {
+      "id": "sediment-dna",
+      "name": "Sediment DNA",
+      "range": "hundreds of thousands of years in caves; about 2 million years in permanently frozen ground",
+      "how": "Animals and people shed DNA into the ground through bones, faeces, hair and body fluids, and some of it binds to mineral particles in cave sediments. Researchers take small sediment samples, extract the DNA and use capture probes to fish out mitochondrial or nuclear sequences of mammals, including hominins, which are identified by comparison with reference genomes.",
+      "strengths": "It shows which humans and animals were present in a layer even when no bones survive, and can be sampled systematically across a whole excavation profile.",
+      "caveats": "DNA can move between layers with water or disturbance, so its link to the dated sediment must be checked, and the quantities are tiny and easily contaminated. It usually recovers short mitochondrial sequences, which give limited detail.",
+      "example": "In 2020 Dongju Zhang, Qiaomei Fu and colleagues found Denisovan mitochondrial DNA in sediment layers of Baishiya Karst Cave on the Tibetan Plateau dating to about 100,000 and 60,000 years ago, and possibly 45,000 years ago."
+    },
+    {
+      "id": "palaeoproteomics",
+      "name": "Palaeoproteomics (ancient proteins)",
+      "range": "about 2 million years for hominin tooth enamel so far; older in cold settings and for other animals",
+      "how": "Proteins such as bone collagen and the proteins of tooth enamel are more durable than DNA. Mass spectrometers break them into peptides and read their amino acid sequences, which are encoded by genes and therefore carry evolutionary information. A quick screening version, ZooMS (zooarchaeology by mass spectrometry), uses collagen peptide fingerprints to identify which animal a scrap of bone came from.",
+      "strengths": "It works on fossils far too old or from climates too warm for DNA, identifies tiny bone fragments, and enamel proteins reveal sex, because one form of the protein amelogenin is encoded on the Y chromosome.",
+      "caveats": "Proteins carry far less information than genomes, so they can place a fossil among broad lineages but rarely resolve close relationships. Contamination and chemical changes after death must be carefully excluded.",
+      "example": "In 2025 a team led by Qiaomei Fu recovered dozens of ancient proteins from the Harbin skull and identified Denisovan-specific variants, while Takumi Tsutaya and colleagues used proteins to show that the Penghu 1 jaw from Taiwan belonged to a Denisovan man."
+    },
+    {
+      "id": "stable-isotopes",
+      "name": "Stable isotope analysis",
+      "range": "tooth enamel for millions of years; bone collagen usually for tens of thousands of years",
+      "how": "Elements such as carbon, nitrogen, oxygen and strontium occur as stable isotopes whose ratios differ between foods, water sources and rocks, and these ratios are recorded in bones and teeth. Carbon distinguishes tropical grasses and sedges (C4 plants) from trees and shrubs (C3 plants), nitrogen rises with each step up the food chain, oxygen reflects temperature and water sources, and strontium mirrors the geology of the place where a person or animal lived while its teeth formed.",
+      "strengths": "It gives direct evidence of what individuals ate and where they grew up, and sampling in sequence along a tooth can reveal seasonal changes and movements.",
+      "caveats": "Bone collagen, needed for most nitrogen measurements, rarely survives beyond tens of thousands of years except in cold places, although newer methods can measure nitrogen in enamel: a 2025 study led by Tina Lüdecke used them on Australopithecus teeth from Sterkfontein and found little sign of meat eating. Isotope baselines vary between regions and periods, so values must be compared with those of local plants and animals.",
+      "example": "Carbon isotopes in the tooth enamel of Paranthropus boisei, measured by Thure Cerling and colleagues in 2011, showed that about three quarters of its diet came from C4 plants such as grasses and sedges rather than from hard nuts."
+    },
+    {
+      "id": "residue-use-wear",
+      "name": "Residue and use-wear analysis",
+      "range": "any age at which tool surfaces are well preserved",
+      "how": "Use-wear analysts examine tool edges under low- and high-power microscopes, recognising the chipping, polish and scratches left by cutting meat, scraping hide, working wood or bone, or impact as a projectile, and compare them with traces on experimental replicas. Residue analysts identify material left on tools and pots, such as starch grains, phytoliths, blood, fats, resins and adhesives, using microscopy and chemical methods such as gas chromatography with mass spectrometry. Fats absorbed into pottery walls reveal what was cooked or stored, including milk.",
+      "strengths": "They show directly how tools and vessels were used, rather than inferring function from shape, and can detect hafting, plant processing and cooking that otherwise leave no trace.",
+      "caveats": "Different activities can produce similar traces, and trampling, soil chemistry or excavation damage can mimic wear. Residues may come from the burial environment or from handling, so control samples from the surrounding sediment are essential.",
+      "example": "Residues on stone tools from Sibudu Cave in South Africa, analysed by Lyn Wadley and colleagues in 2009, show that Middle Stone Age people more than 60,000 years ago hafted them with a compound glue of plant gum and ochre."
+    },
+    {
+      "id": "climate-archives",
+      "name": "Climate archives (ice cores, benthic foraminifera and the LR04 stack)",
+      "range": "ice cores continuously to about 800,000 years; ocean sediment records over millions of years (LR04 covers 5.3 million years)",
+      "how": "Ice sheets preserve annual layers of snow with bubbles of ancient air, whose carbon dioxide and methane can be measured directly, while the oxygen isotope ratio of the ice reflects temperature. On the ocean floor, tiny foraminifera build calcite shells whose oxygen isotope ratio rises as ice sheets lock up isotopically light water and deep water cools. In 2005 Lorraine Lisiecki and Maureen Raymo combined 57 such seafloor records into the LR04 stack, a reference curve for the last 5.3 million years that defines the numbered Marine Isotope Stages.",
+      "strengths": "Together they provide a continuous, global framework of glacial and interglacial cycles against which fossils and archaeological sites can be placed, and Greenland ice records abrupt changes almost year by year.",
+      "caveats": "The LR04 time scale is tuned to astronomical cycles and is less precise than direct dating, and its global signal can hide regional differences, such as changes in African rainfall, which need local archives like lake cores. Continuous Antarctic ice cores reach about 800,000 years and Greenland cores only the last glacial cycle, although in 2025 a European team reported drilling ice more than 1.2 million years old near Dome C in Antarctica.",
+      "example": "Greenland ice cores show that the Younger Dryas cold spell ended about 11,700 years ago with a warming of several degrees within a few decades, the boundary now used to define the start of the Holocene."
+    },
+    {
+      "id": "remote-sensing",
+      "name": "Remote sensing and lidar",
+      "range": "any age, for features visible at or just below the surface",
+      "how": "Aerial photographs, satellite images and drone surveys reveal buried ditches, walls and structures through differences in crop growth, soil colour or shadow, often best seen in low sunlight or during drought. Lidar (light detection and ranging) fires hundreds of thousands of laser pulses per second from an aircraft or drone and filters out those reflected by vegetation, producing a detailed model of the ground surface even beneath forest. Geophysical methods such as magnetometry and ground-penetrating radar extend the view below the surface.",
+      "strengths": "They map whole landscapes quickly and without digging, revealing settlement plans, field systems and monuments that ground survey would miss, and they help target excavation.",
+      "caveats": "Features seen from above cannot be dated or reliably interpreted without checks on the ground and excavation, and natural features can be mistaken for human ones. Deeply buried Stone Age sites and small hunter-gatherer camps are usually invisible to these methods.",
+      "example": "Satellite imagery has revealed thousands of ‘desert kites’, stone-walled funnels used to trap wild animals, across Southwest Asia, and magnetometry at Trypillia megasites in Ukraine such as Maidanetske has mapped the plans of thousands of burnt houses."
+    }
+  ]
+}

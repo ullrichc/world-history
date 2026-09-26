@@ -1,0 +1,222 @@
+{
+  "id": "denisovans",
+  "order": 13,
+  "act": "many-humans",
+  "title": "The Denisovans",
+  "subtitle": "A people found in DNA first, and only later in bone",
+  "era": "Middle and Late Pleistocene",
+  "start": 300000,
+  "end": 30000,
+  "dateLabel": "about 300,000–30,000 years ago",
+  "regions": ["asia", "oceania"],
+  "focus": [70, -12, 150, 56],
+  "emblem": "dna",
+  "summary": "Discovered in 2010 through the genome of a finger bone from a Siberian cave, the Denisovans have since been traced by proteins and DNA to the Tibetan Plateau, Laos, the Taiwan Strait and northeast China, where the Harbin skull finally gave them a face. Their DNA survives in people across Asia and Oceania.",
+  "narration": [
+    "In 2008, archaeologists in Denisova Cave, in the Altai Mountains of Siberia, found a fragment of a child’s little finger. Two years later, geneticists in Leipzig read its DNA and discovered a kind of human no one had known existed. They named them after the cave: the Denisovans.",
+    "For a decade, the Denisovans were a genome without a face. Then fossils began to surface: a jaw kept by a Buddhist monk on the Tibetan Plateau, a child’s tooth from a cave in Laos, a jaw dredged up by fishermen from the Taiwan Strait. Each was identified not by its shape but by the ancient proteins inside it. In 2025 a massive skull from Harbin in northeast China, hidden in a well for decades after its discovery, was linked to the Denisovans by its proteins and by DNA from the hardened plaque on its teeth.",
+    "These people lived from the cold Altai to the tropics. At a cave 3,280 metres above sea level on the Tibetan Plateau they hunted blue sheep and wild yak, and they were still there perhaps 40,000 years ago.",
+    "They live on in us. People in New Guinea and Australia carry several percent Denisovan DNA, and the Ayta Magbukon of the Philippines carry the most of all. Many Tibetans owe their ease at high altitude to a gene inherited from Denisovans."
+  ],
+  "pronounce": {
+    "Denisova": "Deh-nee-soh-va",
+    "Denisovans": "Deh-nee-soh-vans",
+    "Ayta Magbukon": "Eye-tah Mag-boo-kon",
+    "Altai": "Al-tie"
+  },
+  "body": [
+    {
+      "heading": "A genome before a face",
+      "paragraphs": [
+        "Denisova Cave lies in the Anui valley of the Russian Altai. In 2008 excavators from Novosibirsk, led by Anatoly Derevianko and Michael Shunkov, recovered a fragment of a girl’s little finger. When Svante Pääbo’s group in Leipzig sequenced its mitochondrial DNA in 2010, it matched neither modern humans nor Neanderthals. The nuclear genome, published by David Reich, Pääbo and colleagues later that year, showed that the girl belonged to a sister group of the Neanderthals, named Denisovans after the cave. The girl, Denisova 3, lived roughly 76,000–52,000 years ago.",
+        "The cave has since produced several very large Denisovan molars and a bone fragment, Denisova 11, first recognised as human by collagen fingerprinting. Its genome, reported in 2018 by Viviane Slon and colleagues, came from a girl of at least 13, who lived about 90,000 years ago, whose mother was a Neanderthal and whose father was a Denisovan. DNA recovered from the cave’s sediments shows Denisovans present from roughly 250,000 years ago, with Neanderthals at other times. In 2025 the Leipzig group released a preprint describing a high-coverage genome from Denisova 25, a molar about 200,000 years old, the oldest human genome of such quality; it indicates that people in Oceania and South Asia inherited DNA from a deeply divergent Denisovan population."
+      ]
+    },
+    {
+      "heading": "On the roof of the world",
+      "paragraphs": [
+        "The first Denisovan fossil found outside Siberia came from Baishiya Karst Cave, a Buddhist sacred site 3,280 metres above sea level on the northeastern Tibetan Plateau in Gansu, China. A monk found a half mandible there in 1980. In 2019 Fahu Chen, Frido Welker, Jean-Jacques Hublin and colleagues extracted ancient proteins from one of its molars, identified it as Denisovan, and dated a carbonate crust on the bone to at least 160,000 years ago. The jaw is robust, with very large molars.",
+        "Sediment DNA published in 2020 showed Denisovans in the cave around 100,000 and 60,000 years ago. In 2024 a Nature study led by Huan Xia and Dongju Zhang identified about 2,500 bone fragments by their proteins and anatomy. Among them was a Denisovan rib from layers dated to about 48,000–32,000 years ago. Cut marks and impact scars show that Denisovans butchered blue sheep, wild yak, horses, woolly rhinoceros and spotted hyena, took marmots and birds, and used bones as tools. They lived at high altitude through cold and warm periods for more than 100,000 years."
+      ]
+    },
+    {
+      "heading": "Into the tropics and across the strait",
+      "paragraphs": [
+        "In 2022 Fabrice Demeter, Clément Zanolli and colleagues described a child’s molar from Tam Ngu Hao 2 (Cobra Cave) in the Annamite mountains of northern Laos, dated to about 164,000–131,000 years ago. Its shape closely matches the Baishiya molars, and proteins suggest the child was probably a girl. It placed Denisovans, or a close relative, in the forests of Southeast Asia.",
+        "The Penghu 1 jaw was dredged up by fishermen from the Penghu Channel between Taiwan and the Penghu islands, seafloor that was dry land when glacial sea levels were low, and bought from an antique shop in Tainan. Described in 2015 as archaic Homo, it probably dates to one of the low sea-level phases between about 190,000 and 10,000 years ago. In 2025 Takumi Tsutaya, Frido Welker and colleagues recovered more than 4,000 amino acids from it, including two Denisovan-specific variants and a Y-chromosome form of the enamel protein amelogenin, which shows that it came from a male.",
+        "In September 2026 two papers in Nature reported new Denisovan fossils from Bianfu Cave, in an abandoned quarry in Yunnan in southwestern China: four teeth, two skull fragments and part of an arm bone, from layers the team estimates at roughly 170,000–130,000 years old, alongside more than 1,300 stone and bone tools and butchered animal bones. The finds take the number of known Denisovan fossils past 20."
+      ]
+    },
+    {
+      "heading": "The Harbin skull and a Denisovan face",
+      "paragraphs": [
+        "According to his family, a labourer found a nearly complete skull in 1933 while a bridge was being built over the Songhua River at Harbin in northeast China, and hid it in a well. It reached scientists in 2018. In 2021 Qiang Ji, Xijun Ni and colleagues named it Homo longi, “Dragon Man”, and uranium-series dating gave a minimum age of about 146,000 years. The skull is huge, with a brain of about 1,420 cubic centimetres, a massive brow, broad square eye sockets, a wide nose and an enormous molar.",
+        "In June 2025 teams led by Qiaomei Fu at the Institute of Vertebrate Paleontology and Paleoanthropology in Beijing published two studies. Ancient proteins from the skull included Denisovan-specific variants, and mitochondrial DNA recovered from the dental calculus fell within the Denisovan range, close to early Denisovans from the Siberian cave. Harbin became the first Denisovan with a face.",
+        "Before any skull was known, David Gokhman and Liran Carmel had tried in 2019 to predict Denisovan anatomy from DNA methylation, chemical marks that switch genes off, in the Denisova 3 genome. They predicted traits such as a wide skull and a long dental arch. The Baishiya jaw and the Harbin skull broadly fit the direction of these predictions, but the method rests on a single finger bone and on gene effects inferred from modern skeletal disorders, so it could never say how large any difference was."
+      ]
+    },
+    {
+      "heading": "What to call them",
+      "paragraphs": [
+        "“Denisovan” is a population label, not a species name. Now that Harbin is linked to them, some researchers, including Xijun Ni and Chris Stringer, argue that Denisovans should be called Homo longi. In 2024 Christopher Bae and Xiujie Wu proposed Homo juluensis, “big head”, for fossils from Xujiayao and Xuchang in northern China, a group they suggested might also include the Denisovans; under the rules of zoological naming, the older name would take precedence if both describe the same species. Many geneticists prefer to keep “Denisovans” until more fossils with DNA or proteins are known, and that usage is kept here."
+      ]
+    },
+    {
+      "heading": "Denisovan DNA in living people",
+      "paragraphs": [
+        "Papuans, Aboriginal Australians and other Oceanians carry the most Denisovan DNA, several percent of their genomes (estimates range from about 3 to 6 percent). In 2021 Maximilian Larena and Mattias Jakobsson found the highest level of all in the Ayta Magbukon, an Indigenous people of the Bataan peninsula on Luzon in the Philippines, with roughly 30–40 percent more Denisovan ancestry than Papuans. East and South Asians carry much smaller amounts.",
+        "These segments came from more than one Denisovan population. Sharon Browning and colleagues (2018) found two distinct pulses in East Asians, one from a group close to the Altai Denisovans. Guy Jacobs, Murray Cox and colleagues (2019) found in Papuans segments from two Denisovan groups that had separated from the Siberian ones hundreds of thousands of years earlier, and suggested that one of them may have interbred with modern humans in or near New Guinea. If so, Denisovans lived east of the Wallace Line and must have crossed the sea.",
+        "Some inherited variants proved useful. In 2014 Emilia Huerta-Sánchez, Rasmus Nielsen and colleagues showed that the version of EPAS1 that helps Tibetans live at high altitude without overproducing red blood cells came from Denisovans, a fitting legacy for a people who lived at Baishiya. Other introgressed variants in Asian and Oceanian populations affect immunity.",
+        "The Denisovans had deep roots of their own. Their genome carries a small share of DNA from an older, unidentified “superarchaic” population that may have separated from other human lineages up to about 2 million years ago (Alan Rogers and colleagues, 2020), perhaps descendants of an early Homo erectus dispersal into Asia."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "What species were the Denisovans?",
+      "views": [
+        {
+          "label": "Homo longi",
+          "text": "Qiang Ji, Xijun Ni, Chris Stringer and colleagues named Homo longi in 2021 from the Harbin skull. Now that proteins and mitochondrial DNA tie Harbin to the Denisovans, they argue that this is the correct species name, with priority over later proposals."
+        },
+        {
+          "label": "Homo juluensis",
+          "text": "Christopher Bae and Xiujie Wu (2024) grouped large-brained, wide-faced fossils from Xujiayao, Xuchang and possibly Baishiya and Penghu into Homo juluensis, and suggested that Denisovans belong there. Critics note that the defining fossils have no molecular data."
+        },
+        {
+          "label": "Keep an informal label",
+          "text": "Many geneticists and some palaeoanthropologists argue that with a handful of fossils and uncertain boundaries between Denisovans, Neanderthals and other East Asian groups, a population label is more honest than a formal species."
+        }
+      ],
+      "status": "Since 2025 the name Homo longi has gained support, but no consensus exists. A Denisovan skull with nuclear DNA, or proteins from more Chinese fossils, would clarify how many groups there were."
+    },
+    {
+      "question": "Where did Denisovans meet our ancestors?",
+      "views": [
+        {
+          "label": "Mainland Asia",
+          "text": "The known fossils all come from mainland Asia and the continental shelf, and the Denisovan segments in East Asians point to contact with northern Denisovans. Some geneticists think most mixing took place as modern humans spread through mainland Southeast Asia."
+        },
+        {
+          "label": "Island Southeast Asia and New Guinea",
+          "text": "The very high Denisovan ancestry in Papuans and the Ayta Magbukon, and the deep divergence of the Denisovan groups involved, lead Murray Cox, João Teixeira and others to argue for encounters in Wallacea or New Guinea, implying that Denisovans crossed water."
+        }
+      ],
+      "status": "Both are probably right: there were several encounters with different Denisovan groups. A Denisovan fossil east of the Wallace Line would settle the second question."
+    },
+    {
+      "question": "Which other Asian fossils are Denisovan?",
+      "views": [
+        {
+          "label": "Many of them",
+          "text": "Qiaomei Fu’s team and others suggest that big-faced Middle Pleistocene skulls from Dali and Jinniushan, and the Xujiayao remains, may also belong to the Denisovan lineage, given their resemblances to Harbin and to Denisovan teeth."
+        },
+        {
+          "label": "Only with molecules",
+          "text": "Others warn that East Asian fossils of this period vary widely, and that only specimens identified by DNA or proteins should be called Denisovan, lest the category swallow every archaic East Asian."
+        }
+      ],
+      "status": "Protein analysis is now being applied to Chinese collections, so the list of confirmed Denisovans should grow quickly."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Identified", "value": "2010, from the genome of a finger bone from Denisova Cave"},
+    {"label": "Fossils", "value": "More than 20 fragments by 2026, from Siberia, Tibet, Laos, the Taiwan Strait and China"},
+    {"label": "First skull", "value": "Harbin, at least 146,000 years old, linked by proteins and DNA in 2025"},
+    {"label": "Highest site", "value": "Baishiya Karst Cave, 3,280 metres, used from at least 160,000 to about 40,000 years ago"},
+    {"label": "Living legacy", "value": "Several percent of Oceanian genomes; highest in the Ayta Magbukon of the Philippines"},
+    {"label": "High-altitude gene", "value": "EPAS1 variant in Tibetans, inherited from Denisovans"}
+  ],
+  "sites": [
+    {
+      "id": "denisova-cave",
+      "name": "Denisova Cave",
+      "country": "Russia",
+      "region": "asia",
+      "lat": 51.40, "lon": 84.68,
+      "start": 250000, "end": 50000,
+      "dateLabel": "about 250,000–50,000 years ago",
+      "type": "dna",
+      "summary": "The cave that gave the Denisovans their name: genomes from a finger bone, teeth and the first-generation Neanderthal–Denisovan girl Denisova 11, plus DNA from the sediments of both groups."
+    },
+    {
+      "id": "baishiya-karst-cave",
+      "name": "Baishiya Karst Cave",
+      "country": "China",
+      "region": "asia",
+      "lat": 35.45, "lon": 102.57,
+      "start": 160000, "end": 32000,
+      "dateLabel": "at least 160,000 to about 32,000 years ago",
+      "type": "fossil",
+      "summary": "A sacred cave at 3,280 metres on the Tibetan Plateau with the Xiahe mandible, Denisovan sediment DNA and a Denisovan rib about 48,000–32,000 years old among butchered animal bones."
+    },
+    {
+      "id": "tam-ngu-hao-2",
+      "name": "Tam Ngu Hao 2 (Cobra Cave)",
+      "country": "Laos",
+      "region": "asia",
+      "lat": 20.21, "lon": 103.41,
+      "start": 164000, "end": 131000,
+      "dateLabel": "about 164,000–131,000 years ago",
+      "type": "fossil",
+      "summary": "A cave in the Annamite mountains that yielded a child’s molar resembling the Baishiya Denisovan teeth, the first evidence of Denisovans in tropical Southeast Asia."
+    },
+    {
+      "id": "penghu-channel",
+      "name": "Penghu Channel",
+      "country": "Taiwan",
+      "region": "asia",
+      "lat": 23.50, "lon": 119.90,
+      "start": 190000, "end": 10000,
+      "dateLabel": "probably 190,000–130,000 or 70,000–10,000 years ago",
+      "type": "fossil",
+      "summary": "Seafloor, dry land in glacial periods, from which fishermen dredged the Penghu 1 jaw, identified in 2025 by ancient proteins as a male Denisovan."
+    },
+    {
+      "id": "harbin",
+      "name": "Harbin",
+      "country": "China",
+      "region": "asia",
+      "lat": 45.77, "lon": 126.62,
+      "start": 146000, "end": 146000,
+      "dateLabel": "at least 146,000 years ago",
+      "type": "fossil",
+      "summary": "Findspot of the near-complete “Dragon Man” skull, named Homo longi in 2021 and identified as Denisovan in 2025 from proteins and mitochondrial DNA in dental calculus."
+    },
+    {
+      "id": "xujiayao",
+      "name": "Xujiayao",
+      "country": "China",
+      "region": "asia",
+      "lat": 40.10, "lon": 113.98,
+      "start": 220000, "end": 160000,
+      "dateLabel": "roughly 220,000–160,000 years ago",
+      "type": "fossil",
+      "summary": "A site in the Nihewan basin with fragments of large-brained archaic humans, the basis of the proposed species Homo juluensis and possible Denisovans."
+    },
+    {
+      "id": "jinniushan",
+      "name": "Jinniushan",
+      "country": "China",
+      "region": "asia",
+      "lat": 40.58, "lon": 122.44,
+      "start": 260000, "end": 260000,
+      "dateLabel": "about 260,000 years ago",
+      "type": "fossil",
+      "summary": "A cave that yielded a partial skeleton with a large skull, one of several Middle Pleistocene Chinese fossils suggested as possible Denisovans since the Harbin identification."
+    }
+  ],
+  "themes": ["species", "genetics", "food", "animals", "climate", "migration"],
+  "sources": [
+    {"cite": "Reich, D. et al. (2010). Genetic history of an archaic hominin group from Denisova Cave in Siberia. Nature 468, 1053–1060."},
+    {"cite": "Slon, V. et al. (2018). The genome of the offspring of a Neanderthal mother and a Denisovan father. Nature 561, 113–116."},
+    {"cite": "Chen, F. et al. (2019). A late Middle Pleistocene Denisovan mandible from the Tibetan Plateau. Nature 569, 409–412."},
+    {"cite": "Xia, H. et al. (2024). Middle and Late Pleistocene Denisovan subsistence at Baishiya Karst Cave. Nature."},
+    {"cite": "Tsutaya, T. et al. (2025). A male Denisovan mandible from Pleistocene Taiwan. Science.", "doi": "10.1126/science.ads3888"},
+    {"cite": "Fu, Q. et al. (2025). The proteome of the late Middle Pleistocene Harbin individual. Science."},
+    {"cite": "Fu, Q. et al. (2025). Denisovan mitochondrial DNA from dental calculus of the >146,000-year-old Harbin cranium. Cell."},
+    {"cite": "Huerta-Sánchez, E. et al. (2014). Altitude adaptation in Tibetans caused by introgression of Denisovan-like DNA. Nature 512, 194–197."},
+    {"cite": "Jacobs, G. S. et al. (2019). Multiple deeply divergent Denisovan ancestries in Papuans. Cell 177, 1010–1021."},
+    {"cite": "Larena, M. et al. (2021). Philippine Ayta possess the highest level of Denisovan ancestry in the world. Current Biology 31, 4219–4230."}
+  ]
+}

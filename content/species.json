@@ -1,0 +1,627 @@
+{
+  "species": [
+    {
+      "id": "sahelanthropus-tchadensis",
+      "name": "Sahelanthropus tchadensis",
+      "nickname": "Toumaï",
+      "group": "early",
+      "start": 7000000,
+      "end": 7000000,
+      "startMax": 7200000,
+      "endMin": 6800000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "about 360–370 cm³ (one reconstructed skull)",
+      "stature": "unknown",
+      "discovered": "2001, Toros-Menalla, Djurab Desert, Chad (Ahounta Djimdoumalbaye, in Michel Brunet’s team); named in 2002",
+      "keyFossils": "Toumaï cranium (TM 266-01-060-1), several jaws and teeth, a femur and two ulnae",
+      "summary": "Known from a crushed but nearly complete cranium and a handful of jaws, teeth and limb bones from the Djurab Desert of Chad, Sahelanthropus lived about 7 million years ago, close to the time when the human and chimpanzee lineages separated. Its braincase was chimpanzee-sized, but its canines were small and worn at the tip, and the opening for the spinal cord sits further forward than in apes, which its discoverers read as a sign of upright posture. It lived some 2,500 kilometres west of the East African Rift, showing that early hominins were not confined to East Africa. The age comes from beryllium isotopes formed in the atmosphere and trapped in the surrounding sediments, and from the animal fossils found with it.",
+      "debate": "Whether Sahelanthropus walked upright, and so whether it is a hominin at all, is contested. A femur found in 2001 was only described in 2020, when Roberto Macchiarelli and colleagues argued it came from a quadruped; in 2022 Guillaume Daver, Franck Guy and colleagues countered that the femur and two ulnae show habitual bipedalism combined with climbing. A 2026 study led by Scott Williams identified a femoral tubercle, a feature known only in bipeds, tipping the balance toward upright walking, although it cannot be proven that the limb bones belong to the same species as the skull. Some researchers still see it as an ape living near the split rather than a member of our lineage.",
+      "status": "debated",
+      "chapter": "first-hominins"
+    },
+    {
+      "id": "orrorin-tugenensis",
+      "name": "Orrorin tugenensis",
+      "nickname": "Millennium Man",
+      "group": "early",
+      "start": 6100000,
+      "end": 5700000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "unknown",
+      "stature": "unknown",
+      "discovered": "2000, Lukeino Formation, Tugen Hills, Kenya (Brigitte Senut and Martin Pickford); named in 2001",
+      "keyFossils": "Three partial femora (including BAR 1002’00), jaw fragments, teeth, part of a humerus and a finger bone",
+      "summary": "Found in the Tugen Hills of Kenya in 2000, and therefore nicknamed “Millennium Man”, Orrorin lived about 6 million years ago. It is known from a small collection of fragments, including three partial thigh bones, teeth with thick enamel and small canines, and arm and finger bones. The thigh bones have a long femoral neck and a distribution of bone inside the neck that is expected in an animal carrying its weight on two legs, while the curved finger bone suggests it also climbed. Its discoverers argued it was a direct human ancestor and that the australopiths were a side branch, a view few others share.",
+      "debate": "Most researchers accept that Orrorin walked upright to some degree, based on CT scans of the femoral neck published in 2004 and later shape analyses of the femur, but how human-like its gait was is disputed. Its place in the tree is uncertain: Senut and Pickford see it as ancestral to Homo, bypassing Australopithecus, while others treat it as an early hominin of unclear relationships or even an ape. With no skull and few teeth, it is hard to compare directly with Sahelanthropus.",
+      "status": "debated",
+      "chapter": "first-hominins"
+    },
+    {
+      "id": "ardipithecus-kadabba",
+      "name": "Ardipithecus kadabba",
+      "nickname": "",
+      "group": "early",
+      "start": 5800000,
+      "end": 5200000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "unknown",
+      "stature": "unknown",
+      "discovered": "1997, Middle Awash, Afar, Ethiopia (Yohannes Haile-Selassie); named as a subspecies in 2001 and as a species in 2004",
+      "keyFossils": "Jaw fragment ALA-VP-2/10 (holotype), isolated teeth, hand and arm bones, toe bone AME-VP-1/71",
+      "summary": "Ardipithecus kadabba is known from teeth and scattered bones found in 5.8- to 5.2-million-year-old deposits of the Middle Awash in Ethiopia; its name comes from the Afar word for a basal family ancestor. It was first described in 2001 as a subspecies of Ar. ramidus and raised to a separate species in 2004, when new teeth showed a more ape-like arrangement in which the upper canine was sharpened against the lower premolar. A toe bone about 5.2 million years old has a joint angled upwards in a way associated with pushing off the ground in upright walking. Its fossils come from wooded, well-watered environments.",
+      "debate": "The toe bone is several hundred thousand years younger than most other kadabba fossils and comes from a different locality, so its attribution and its evidence for bipedalism are questioned. Haile-Selassie, Gen Suwa and Tim White noted in 2004 that the teeth of Sahelanthropus, Orrorin and Ar. kadabba are so similar that they might belong to a single genus, while others think the differences are real.",
+      "status": "established",
+      "chapter": "first-hominins"
+    },
+    {
+      "id": "ardipithecus-ramidus",
+      "name": "Ardipithecus ramidus",
+      "nickname": "Ardi",
+      "group": "early",
+      "start": 4500000,
+      "end": 4300000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "about 300–350 cm³",
+      "stature": "about 1.2 m (Ardi)",
+      "discovered": "1992, Aramis, Middle Awash, Ethiopia (Gen Suwa, in a team led by Tim White and Berhane Asfaw); named in 1994; Ardi found in 1994",
+      "keyFossils": "Ardi partial skeleton (ARA-VP-6/500), more than 100 other specimens from Aramis, fossils from As Duma, Gona",
+      "summary": "Ardipithecus ramidus lived about 4.4 million years ago in the Afar region of Ethiopia. Its best-known fossil, the partial female skeleton nicknamed Ardi, was excavated from 1994 onwards but published only in 2009, after years of painstaking restoration of the crushed bones. Ardi combined a pelvis that the team interpreted as adapted for upright walking with a divergent, grasping big toe and long arms suited to climbing, a mix unlike any living ape. Small, blunt canines in males suggest less fighting between males than in chimpanzees.",
+      "debate": "The 2009 descriptions, led by Tim White and Owen Lovejoy, argued that Ardi shows the last common ancestor with chimpanzees was not chimpanzee-like and never knuckle-walked; others, including Thomas Prang and colleagues in a 2021 study of its hand, see ape-like traits consistent with a more chimpanzee-like ancestor. Its habitat is also disputed: the team reconstructed woodland, while Thure Cerling and colleagues argued for more open, tree-studded grassland. Whether it is a direct ancestor of Australopithecus remains open.",
+      "status": "established",
+      "chapter": "first-hominins"
+    },
+    {
+      "id": "australopithecus-anamensis",
+      "name": "Australopithecus anamensis",
+      "nickname": "",
+      "group": "australopith",
+      "start": 4200000,
+      "end": 3800000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "about 365–370 cm³ (MRD cranium)",
+      "stature": "unknown",
+      "discovered": "1965, Kanapoi, Kenya (a humerus found by Bryan Patterson’s team); named in 1995 by Meave Leakey and colleagues from fossils from Kanapoi and Allia Bay",
+      "keyFossils": "KNM-KP 29281 mandible (holotype), KNM-KP 29285 tibia, Asa Issie fossils, MRD-VP-1/1 cranium (Woranso-Mille)",
+      "summary": "The earliest undisputed species of Australopithecus lived between about 4.2 and 3.8 million years ago in Kenya and Ethiopia. A shin bone from Kanapoi shows a knee built to carry the body’s weight on two legs, while its jaws were long and parallel-sided with large canines, more ape-like than those of later australopiths. In 2019 Yohannes Haile-Selassie’s team described MRD, a nearly complete 3.8-million-year-old cranium from Woranso-Mille in Ethiopia and the first skull of the species, with a small brain and a projecting face.",
+      "debate": "Anamensis was long seen as the direct ancestor of Au. afarensis in a single evolving lineage. The MRD skull, together with a 3.9-million-year-old frontal bone from Belohdelie attributed to afarensis, suggests the two species overlapped for at least 100,000 years, so afarensis may have split off from part of the anamensis population rather than replacing it gradually. Others argue that the dating and attribution of the Belohdelie bone are too uncertain to prove overlap.",
+      "status": "established",
+      "chapter": "australopiths"
+    },
+    {
+      "id": "australopithecus-afarensis",
+      "name": "Australopithecus afarensis",
+      "nickname": "Lucy",
+      "group": "australopith",
+      "start": 3850000,
+      "end": 2950000,
+      "startMax": 3900000,
+      "endMin": 2900000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "about 380–550 cm³",
+      "stature": "about 1.05–1.5 m",
+      "discovered": "1973–1974, Hadar, Ethiopia (Donald Johanson’s team) and 1974–1975, Laetoli, Tanzania (Mary Leakey’s team); named in 1978",
+      "keyFossils": "Lucy (AL 288-1), the “First Family” (AL 333), the Dikika child Selam (DIK-1-1), Kadanuumuu (KSD-VP-1/1), Laetoli jaw LH 4 (holotype), Laetoli footprints",
+      "summary": "Au. afarensis is the best-known early hominin, represented by hundreds of fossils from Ethiopia, Kenya and Tanzania dated between about 3.9 and 2.9 million years ago. Lucy, found at Hadar in 1974 and about 3.2 million years old, preserved some 40 percent of a skeleton and showed that upright walking came long before big brains. The Laetoli footprints, pressed into wet volcanic ash about 3.66 million years ago and usually attributed to this species, record a human-like, heel-first stride. Curved fingers and upward-facing shoulder joints suggest it still climbed regularly, and the brain of the 3.3-million-year-old Dikika child indicates slow, human-like brain growth.",
+      "debate": "Researchers disagree about how much time it spent in trees: some read the curved fingers and shoulders as signs of active climbing, others as leftovers from its ancestors. Cut-marked animal bones from Dikika, about 3.4 million years old, were claimed in 2010 as evidence of butchery with stone tools, but critics argue the marks could come from trampling. The degree of size difference between males and females, and what it implies for social life, is also debated.",
+      "status": "established",
+      "chapter": "australopiths"
+    },
+    {
+      "id": "australopithecus-deyiremeda",
+      "name": "Australopithecus deyiremeda",
+      "nickname": "",
+      "group": "australopith",
+      "start": 3500000,
+      "end": 3300000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "unknown",
+      "stature": "unknown",
+      "discovered": "Named in 2015 by Yohannes Haile-Selassie and colleagues from jaws and teeth found at Burtele and Waytaleyta, Woranso-Mille, Afar, Ethiopia",
+      "keyFossils": "Maxilla BRT-VP-3/1 (holotype), mandibles and teeth, the Burtele foot (BRT-VP-2/73)",
+      "summary": "Named in 2015 from 3.5- to 3.3-million-year-old jaws and teeth found at Woranso-Mille in Ethiopia’s Afar region, Au. deyiremeda lived at the same time and in the same region as Lucy’s species. Its name means “close relative” in the Afar language. In November 2025 Haile-Selassie and colleagues assigned to it the Burtele foot, eight bones found in 2009 that have a grasping, opposable big toe: this species walked on two legs but in a different way from afarensis, and still climbed trees. It is among the clearest evidence that two australopith species shared the same landscape in the middle Pliocene.",
+      "debate": "When it was named, several researchers, including Fred Spoor and colleagues, questioned whether its jaws differ enough from Au. afarensis or Kenyanthropus platyops to justify a new species. The Burtele foot was published in 2012 without a species name because no skull or teeth were found with it; the 2025 study links it to deyiremeda through new fossils from the same deposits. How the coexisting Afar hominins divided their diets and habitats is now a central question.",
+      "status": "debated",
+      "chapter": "australopiths"
+    },
+    {
+      "id": "kenyanthropus-platyops",
+      "name": "Kenyanthropus platyops",
+      "nickname": "Flat-faced man of Kenya",
+      "group": "australopith",
+      "start": 3500000,
+      "end": 3300000,
+      "endMin": 3200000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "unknown",
+      "stature": "unknown",
+      "discovered": "1999, Lomekwi, West Turkana, Kenya (Justus Erus, in Meave Leakey’s team); named in 2001",
+      "keyFossils": "KNM-WT 40000 cranium (holotype), KNM-WT 38350 maxilla",
+      "summary": "Kenyanthropus was named in 2001 by Meave Leakey and colleagues from a distorted cranium about 3.5 million years old found west of Lake Turkana. Its face is unusually flat below the nose and its molars small for an australopith, a combination its describers saw as distinct from Au. afarensis, which lived at the same time. It comes from the same area as Lomekwi 3, where 3.3-million-year-old stone tools were found in 2011, and is one candidate for their maker. Its flat face has also been compared with that of Homo rudolfensis.",
+      "debate": "Tim White argued in 2003 that the flat face could be an artefact of distortion, because the cranium is broken into many small pieces shifted by expanding mudstone, and that it may be a variant of Au. afarensis. Others accept it as a separate genus or species. A well-preserved face from the same period would settle the matter.",
+      "status": "debated",
+      "chapter": "australopiths"
+    },
+    {
+      "id": "australopithecus-bahrelghazali",
+      "name": "Australopithecus bahrelghazali",
+      "nickname": "Abel",
+      "group": "australopith",
+      "start": 3600000,
+      "end": 3500000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "unknown",
+      "stature": "unknown",
+      "discovered": "1995, Koro Toro, Bahr el Ghazal, Chad (Michel Brunet’s team); named in 1996",
+      "keyFossils": "KT12/H1 mandible fragment “Abel” (holotype) and a few teeth",
+      "summary": "Found in 1995 in the Bahr el Ghazal region of Chad and nicknamed Abel in memory of the geologist Abel Brillanceau, this partial jaw is the only australopith known from west of the Rift Valley, some 2,500 kilometres from the East African sites. Beryllium isotope dating of the deposits gave about 3.6 million years. Its discoverers argued that the shape of its chin region and its three-rooted premolars set it apart from Au. afarensis. Its main importance is geographic: it shows australopiths ranged across a far wider part of Africa than the fossil-rich rift valleys suggest.",
+      "debate": "Many researchers regard it as a western population of Au. afarensis, since the claimed differences rest on a single partial jaw and a few teeth. Others accept it as a distinct species. Either way, it implies that the fossil record from eastern and southern Africa is a geographically biased sample of where hominins lived.",
+      "status": "debated",
+      "chapter": "australopiths"
+    },
+    {
+      "id": "australopithecus-africanus",
+      "name": "Australopithecus africanus",
+      "nickname": "Taung Child, Mrs Ples",
+      "group": "australopith",
+      "start": 3000000,
+      "end": 2100000,
+      "startMax": 3700000,
+      "endMin": 2000000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "about 400–560 cm³",
+      "stature": "about 1.1–1.4 m",
+      "discovered": "1924, Taung limeworks, South Africa (quarry workers; described by Raymond Dart in 1925)",
+      "keyFossils": "Taung Child (holotype), Mrs Ples (Sts 5), Sts 14 partial skeleton, StW 431, Makapansgat fossils; Little Foot (StW 573) according to some",
+      "summary": "Au. africanus was the first australopith ever named: in 1925 Raymond Dart described the skull of a young child from the Taung limeworks as a small-brained human ancestor, a claim most experts rejected for two decades. Hundreds of fossils from Sterkfontein and Makapansgat have since filled out the species, including the adult cranium Mrs Ples, found by Robert Broom and John Robinson in 1947. It walked upright but had relatively long arms and a brain of about 400 to 560 cm³. Damage in the Taung skull’s eye sockets, identified by Lee Berger in 2006, suggests the child was killed by a large bird of prey.",
+      "debate": "Its age range is uncertain because South African cave deposits are hard to date: cosmogenic nuclide dating led by Darryl Granger in 2022 placed the Sterkfontein Member 4 fossils at about 3.4 to 3.7 million years, much older than the 2.6 to 2.0 million years usually assumed, but others dispute this. Ron Clarke assigns Little Foot and some other Sterkfontein fossils to a second species, Au. prometheus, and a 2025 study led by Jesse Martin argued that Little Foot may represent a species of its own; many researchers still count these fossils within africanus. Whether africanus was ancestral to Homo, to Paranthropus robustus or to neither remains open.",
+      "status": "established",
+      "chapter": "australopiths"
+    },
+    {
+      "id": "australopithecus-garhi",
+      "name": "Australopithecus garhi",
+      "nickname": "",
+      "group": "australopith",
+      "start": 2500000,
+      "end": 2500000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "about 450 cm³ (one skull)",
+      "stature": "unknown",
+      "discovered": "1997, Bouri Peninsula, Middle Awash, Ethiopia; named in 1999 by Berhane Asfaw, Tim White and colleagues",
+      "keyFossils": "BOU-VP-12/130 cranium (holotype), a partial skeleton from the same horizon (attribution uncertain)",
+      "summary": "Au. garhi was named in 1999 from a 2.5-million-year-old skull from the Bouri Peninsula in Ethiopia’s Middle Awash; garhi means “surprise” in the Afar language. It had a small brain and a projecting face with very large premolars and molars. Antelope bones from the same layer nearby carry cut marks and hammerstone impact scars, which suggested to the team that garhi, or a contemporary, used stone tools to take meat and marrow. A partial skeleton from the same horizon has a long thigh bone relative to its arm, as in later Homo, but cannot be assigned to garhi with certainty.",
+      "debate": "Its discoverers suggested it might be ancestral to Homo, since it lived at the right time and place, but its huge teeth make many researchers doubtful. The 2025 report of Homo teeth 2.78 and 2.59 million years old at nearby Ledi-Geraru, and of a different, unnamed australopith there at 2.63 million years, shows that several lineages overlapped in the Afar at this time.",
+      "status": "established",
+      "chapter": "australopiths"
+    },
+    {
+      "id": "australopithecus-sediba",
+      "name": "Australopithecus sediba",
+      "nickname": "Karabo (MH1)",
+      "group": "australopith",
+      "start": 1980000,
+      "end": 1977000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "about 420 cm³ (MH1)",
+      "stature": "about 1.3 m (estimated)",
+      "discovered": "2008, Malapa, Cradle of Humankind, South Africa (Matthew Berger, aged nine, and Lee Berger); named in 2010",
+      "keyFossils": "MH1 “Karabo” (juvenile male, holotype), MH2 (adult female), remains of further individuals from Malapa",
+      "summary": "In August 2008 nine-year-old Matthew Berger spotted a fossil collarbone at Malapa, a collapsed cave north of Johannesburg, leading to two partial skeletons described by his father Lee Berger and colleagues in 2010. Uranium–lead dating of flowstone and palaeomagnetism place them at about 1.98 million years ago. Au. sediba combined a small brain and long, climbing arms with a hand that had a long, Homo-like thumb, human-like features of the pelvis, and an ankle and heel that suggest an unusual way of walking. Vertebrae described in 2021 show a lower back curved like that of a habitual upright walker.",
+      "debate": "Berger and colleagues proposed sediba as a possible ancestor of Homo, or close to it. The main objection is timing: fossils attributed to Homo, such as the 2.8-million-year-old jaw from Ledi-Geraru and a 2.33-million-year-old upper jaw from Hadar, are older than Malapa, so sediba could only be a late-surviving population of an ancestral species. Many researchers instead see it as a southern African australopith that evolved some Homo-like features independently.",
+      "status": "established",
+      "chapter": "australopiths"
+    },
+    {
+      "id": "paranthropus-aethiopicus",
+      "name": "Paranthropus aethiopicus",
+      "nickname": "Black Skull",
+      "group": "paranthropus",
+      "start": 2700000,
+      "end": 2300000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "about 410 cm³ (Black Skull)",
+      "stature": "unknown",
+      "discovered": "1967, Omo, Ethiopia (French team of Camille Arambourg and Yves Coppens); named in 1968",
+      "keyFossils": "Omo 18 mandible (holotype), KNM-WT 17000 “Black Skull”, teeth from the Omo and West Turkana",
+      "summary": "The oldest widely accepted Paranthropus lived in the Omo valley of Ethiopia and around Lake Turkana between about 2.7 and 2.3 million years ago. Its best fossil is the Black Skull, found by Alan Walker in 1985 west of Lake Turkana, stained dark by manganese and about 2.5 million years old. It had a huge sagittal crest, a strongly projecting, dish-shaped face and large chewing teeth, with a braincase of only about 410 cm³. Its mix of primitive and robust features makes it the likely ancestor of P. boisei.",
+      "debate": "Some researchers prefer to keep the robust species in Australopithecus, and it has long been argued whether southern African P. robustus descends from aethiopicus or evolved its massive jaws independently; most phylogenetic analyses favour a single Paranthropus lineage. A 2.6-million-year-old Paranthropus jaw reported from Ethiopia’s Afar region in 2026 shows the genus ranged more widely, and in more varied habitats, than its classic sites suggest.",
+      "status": "established",
+      "chapter": "australopiths"
+    },
+    {
+      "id": "paranthropus-boisei",
+      "name": "Paranthropus boisei",
+      "nickname": "Nutcracker Man",
+      "group": "paranthropus",
+      "start": 2300000,
+      "end": 1300000,
+      "endMin": 1200000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "about 475–545 cm³",
+      "stature": "roughly 1.2–1.4 m (estimated)",
+      "discovered": "1959, Olduvai Gorge, Tanzania (Mary Leakey); named Zinjanthropus boisei by Louis Leakey",
+      "keyFossils": "OH 5 “Zinj” (holotype), KNM-ER 406, KNM-ER 732, Konso KGA10-525, Peninj mandible, a partial skeleton with hand and foot bones from Koobi Fora (2025)",
+      "summary": "Mary Leakey’s discovery of the OH 5 skull at Olduvai Gorge in July 1959 made the Leakeys famous, and the potassium–argon date of about 1.75 million years obtained for its layer in 1961 revealed how deep human prehistory ran. P. boisei had the largest molars and thickest enamel of any hominin, a broad face and a sagittal crest anchoring massive chewing muscles. Carbon isotopes show that it ate mostly grasses and sedges rather than hard nuts, so its nickname misleads. In 2025 Carrie Mongle and colleagues described the first hand bones confidently linked to the species, from a partial skeleton more than 1.5 million years old at Koobi Fora, combining gorilla-like gripping strength with human-like dexterity.",
+      "debate": "Because its hand was unknown, stone tools found alongside it were usually credited to Homo; the 2025 hand fossils suggest it was physically capable of making tools, reopening the question of who made the Oldowan tools of this period. How it used its enormous teeth is also debated: isotopes point to grasses and sedges, and the fine wear on its teeth does not show the pitting expected from cracking hard objects, suggesting tough rather than hard foods.",
+      "status": "established",
+      "chapter": "australopiths"
+    },
+    {
+      "id": "paranthropus-robustus",
+      "name": "Paranthropus robustus",
+      "nickname": "",
+      "group": "paranthropus",
+      "start": 2000000,
+      "end": 1000000,
+      "startMax": 2040000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "about 450–530 cm³",
+      "stature": "about 1.0–1.2 m",
+      "discovered": "1938, Kromdraai, South Africa (schoolboy Gert Terblanche; described and named by Robert Broom)",
+      "keyFossils": "TM 1517 (holotype, Kromdraai), SK 48 (Swartkrans), DNH 7, DNH 152 and DNH 155 (Drimolen)",
+      "summary": "In 1938 a schoolboy, Gert Terblanche, gave Robert Broom teeth from Kromdraai near Johannesburg, leading to the first robust australopith, which Broom named Paranthropus robustus. Hundreds of teeth and bones, especially from Swartkrans and Drimolen, show a species with a crested skull, huge cheek teeth and a small brain, living between about 2 and 1 million years ago. At Drimolen it lived alongside early Homo erectus about 2 million years ago. Bone tools worn from digging into termite mounds, and burnt bones at Swartkrans, may be linked to it or to Homo.",
+      "debate": "In 2025 Clément Zanolli and colleagues argued that the Swartkrans jaw SK 15, about 1.4 million years old and long assigned to early Homo, belongs to a second, smaller southern Paranthropus species, P. capensis; others want more fossils before accepting it. A 2025 study led by Palesa Madupe used enamel proteins to identify the sex of individual Swartkrans teeth and found more variation than body size alone suggested. Whether robustus descends from East African Paranthropus or from a local australopith such as Au. africanus is unresolved.",
+      "status": "established",
+      "chapter": "australopiths"
+    },
+    {
+      "id": "homo-ledi-geraru",
+      "name": "Homo sp. (Ledi-Geraru)",
+      "nickname": "",
+      "group": "early-homo",
+      "start": 2800000,
+      "end": 2590000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "unknown",
+      "stature": "unknown",
+      "discovered": "2013, Ledi-Geraru, Afar, Ethiopia (Chalachew Seyoum, in a project co-directed by Kaye Reed); published in 2015",
+      "keyFossils": "LD 350-1 mandible; isolated teeth described in 2025",
+      "summary": "In 2013 the Ethiopian graduate student Chalachew Seyoum found half of a lower jaw, LD 350-1, in 2.8-million-year-old sediments at Ledi-Geraru in the Afar. Published in 2015, it combines a primitive, receding chin region with slender molars and other features seen in later Homo, making it the oldest fossil widely attributed to our genus. In 2025 Brian Villmoare and colleagues reported more Homo teeth from Ledi-Geraru dated to 2.78 and 2.59 million years, together with teeth of a previously unknown kind of Australopithecus about 2.63 million years old. The fossils are too incomplete to name a species, but they place the origin of Homo close to 3 million years ago, at a time when open habitats were spreading in the region.",
+      "debate": "Many researchers accept LD 350-1 as early Homo; others note that a single jaw and some teeth cannot define a genus and that its features might fall within a variable australopith. It may belong to the lineage that led to Homo habilis, but the link is unproven. The overlap with an unnamed australopith at the same site shows that the transition to Homo was not a simple succession.",
+      "status": "debated",
+      "chapter": "genus-homo"
+    },
+    {
+      "id": "homo-habilis",
+      "name": "Homo habilis",
+      "nickname": "Handy man",
+      "group": "early-homo",
+      "start": 2300000,
+      "end": 1440000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "about 500–800 cm³",
+      "stature": "about 1.0–1.35 m",
+      "discovered": "1960, Olduvai Gorge, Tanzania (Jonathan Leakey found OH 7); named in 1964 by Louis Leakey, Phillip Tobias and John Napier",
+      "keyFossils": "OH 7 (holotype), OH 13, OH 24 “Twiggy”, OH 62, KNM-ER 1813, KNM-ER 42703, AL 666-1 (Hadar)",
+      "summary": "Named in 1964 from fossils found at Olduvai Gorge, Homo habilis, “handy man”, was linked by its discoverers to the Oldowan stone tools found in the same beds. It lived in East Africa between about 2.3 and 1.4 million years ago, alongside Paranthropus boisei and, later, Homo erectus. Its brain was larger than an australopith’s, but its body remained small, and the partial skeleton OH 62 suggests relatively long arms. A 2015 virtual reconstruction of the OH 7 jaw by Fred Spoor and colleagues found it surprisingly primitive, while the braincase was larger than previously thought.",
+      "debate": "Its fossils vary so much in size and shape that some researchers divide them among two or more species, including H. rudolfensis, while others see one variable species. Bernard Wood and Mark Collard argued in 1999 that its body proportions and chewing apparatus are closer to australopiths and that it should be moved to Australopithecus. The 1.44-million-year-old upper jaw KNM-ER 42703, described in 2007, shows habilis and erectus overlapped for hundreds of thousands of years, challenging the idea that one simply turned into the other.",
+      "status": "established",
+      "chapter": "genus-homo"
+    },
+    {
+      "id": "homo-rudolfensis",
+      "name": "Homo rudolfensis",
+      "nickname": "",
+      "group": "early-homo",
+      "start": 2000000,
+      "end": 1780000,
+      "startMax": 2400000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "about 700–750 cm³",
+      "stature": "unknown",
+      "discovered": "1972, Koobi Fora, Kenya (Bernard Ngeneo, in Richard Leakey’s team); named in 1986 by Valery Alexeev",
+      "keyFossils": "KNM-ER 1470 cranium (holotype), KNM-ER 62000 face, KNM-ER 1802 mandible, Uraha mandible UR 501 (Malawi)",
+      "summary": "Discovered in 1972 east of Lake Turkana, the skull KNM-ER 1470 caused a sensation: it had a brain of about 750 cm³ and seemed, from the first dating of a volcanic ash above it, to be 2.6 million years old. After years of dispute the ash was redated to about 1.9 million years. Its long, flat face and large brain distinguish it from Homo habilis, and in 1986 it became the type of a separate species named after Lake Rudolf, the old name of Lake Turkana. In 2012 Meave Leakey’s team described a face and jaws from 1.95 to 1.78 million years ago that match 1470, strengthening the case for two contemporary kinds of early Homo.",
+      "debate": "The main question is whether rudolfensis is a separate species or the large end of a variable H. habilis. KNM-ER 1470 has no teeth or lower jaw, which makes matching it with other fossils difficult, and this is why the 2012 finds mattered. Some researchers have pointed to resemblances between its flat face and Kenyanthropus platyops, and a few suggest moving it to that genus.",
+      "status": "debated",
+      "chapter": "genus-homo"
+    },
+    {
+      "id": "homo-erectus",
+      "name": "Homo erectus",
+      "nickname": "Upright human",
+      "group": "erectus",
+      "start": 2000000,
+      "end": 110000,
+      "startMax": 2100000,
+      "endMin": 108000,
+      "regions": [
+        "africa",
+        "asia"
+      ],
+      "brain": "about 550–1,250 cm³",
+      "stature": "about 1.45–1.85 m",
+      "discovered": "1891, Trinil, Java (Eugène Dubois)",
+      "keyFossils": "Trinil 2 skullcap, Turkana Boy (KNM-WT 15000), KNM-ER 3733, DNH 134 (Drimolen), Dmanisi skulls, Sangiran 17, Zhoukoudian, Ngandong",
+      "summary": "Homo erectus was the longest-lived human species, known from about 2 million years ago in South Africa and Kenya to about 110,000 years ago at Ngandong on Java. Below the neck it was built much like us, with long legs, a narrow pelvis and relatively short arms suited to walking and running long distances, and its brain grew from about 550 to more than 1,200 cm³ over its long history. It made Acheulean handaxes in Africa and western Asia, may have used fire by about a million years ago, and was the first hominin known to spread widely across Asia. The 1.5-million-year-old Turkana Boy, found by Kamoya Kimeu in 1984, is one of the most complete early human skeletons.",
+      "debate": "Many researchers call the early African fossils Homo ergaster, a name given in 1975 to a jaw from Koobi Fora, and keep erectus for the thicker-skulled Asian populations; others see one widespread species. The skulls from Dmanisi in Georgia, about 1.8 million years old, were named Homo georgicus in 2002, but the variation among them led David Lordkipanidze and colleagues in 2013 to argue that many early Homo fossils may belong to a single variable lineage. Open questions include whether Asian erectus gave rise to island hominins such as H. floresiensis, and how the 1.4- to 1.1-million-year-old “Pink” face from Sima del Elefante in Spain, attributed in 2025 to Homo affinis erectus, fits into the story of early Europe.",
+      "status": "established",
+      "chapter": "erectus-acheulean"
+    },
+    {
+      "id": "homo-antecessor",
+      "name": "Homo antecessor",
+      "nickname": "Pioneer man",
+      "group": "archaic",
+      "start": 900000,
+      "end": 780000,
+      "startMax": 950000,
+      "endMin": 772000,
+      "regions": [
+        "europe"
+      ],
+      "brain": "probably about 1,000 cm³ (estimated from fragments)",
+      "stature": "roughly 1.6–1.8 m (estimated from limb bones)",
+      "discovered": "1994, Gran Dolina (level TD6), Sierra de Atapuerca, Spain (team of Eudald Carbonell, Juan Luis Arsuaga and José María Bermúdez de Castro); named in 1997",
+      "keyFossils": "ATD6-5 mandible (holotype), ATD6-69 juvenile face, ATD6-15 frontal bone",
+      "summary": "Homo antecessor was named in 1997 from fragments of several individuals found from 1994 onwards in level TD6 of Gran Dolina, a cave in the Sierra de Atapuerca of northern Spain. The fossils are older than about 780,000 years, because the last reversal of Earth’s magnetic field is recorded in the layer above them. The face of a boy, ATD6-69, looks surprisingly modern, with a hollowed cheek below the eye, while the teeth and brow are more primitive. Many of the bones carry cut marks from butchery, making TD6 one of the oldest known cases of cannibalism.",
+      "debate": "Its discoverers first proposed antecessor as the last common ancestor of Neanderthals and modern humans. In 2020 Frido Welker and colleagues sequenced enamel proteins from an antecessor tooth and found it to be a close sister lineage of that shared ancestor rather than the ancestor itself. Some researchers doubt that it is distinct from other early populations, and the 2025 description of the older “Pink” face from nearby Sima del Elefante, which lacks antecessor’s modern-looking midface, suggests that Europe saw more than one early human population.",
+      "status": "established",
+      "chapter": "first-europeans"
+    },
+    {
+      "id": "homo-heidelbergensis",
+      "name": "Homo heidelbergensis",
+      "nickname": "Heidelberg man",
+      "group": "archaic",
+      "start": 700000,
+      "end": 200000,
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "brain": "about 1,100–1,400 cm³",
+      "stature": "about 1.6–1.8 m",
+      "discovered": "1907, Mauer sand pit near Heidelberg, Germany (the worker Daniel Hartmann; named in 1908 by Otto Schoetensack)",
+      "keyFossils": "Mauer 1 mandible (holotype), Kabwe 1 (Broken Hill) skull, Bodo cranium, Petralona skull, Arago 21, Boxgrove tibia",
+      "summary": "The name Homo heidelbergensis comes from a massive, chinless jaw found in 1907 in a sand pit at Mauer, near Heidelberg, and now dated to about 609,000 years ago. It is used for large-brained Middle Pleistocene humans of Africa and Europe between roughly 700,000 and 200,000 years ago, such as the Bodo cranium from Ethiopia, the Kabwe skull from Zambia and the Petralona skull from Greece. They had brains of about 1,100 to 1,400 cm³, heavy brow ridges and tall, robust bodies. They made Acheulean handaxes and later prepared-core tools, and hunted large animals, as at Boxgrove in England about 500,000 years ago.",
+      "debate": "Many researchers now doubt the name works. The 430,000-year-old Sima de los Huesos fossils, once seen as heidelbergensis, have Neanderthal features and Neanderthal-lineage DNA, and some argue the Mauer jaw itself could be an early member of the Neanderthal line, which would leave African fossils such as Kabwe, redated in 2020 to about 299,000 years, under the older name Homo rhodesiensis. In 2021 Mirjana Roksandic, Predrag Radović, Xiujie Wu and Christopher Bae proposed Homo bodoensis for African Middle Pleistocene humans, arguing that both older names were problematic; critics, including Eric Delson and Chris Stringer in 2022, objected that the proposal conflicts with the rules of zoological naming, and it has not been widely adopted. How Chinese Middle Pleistocene fossils such as Dali and Jinniushan relate to this group is also disputed.",
+      "status": "debated",
+      "chapter": "middle-pleistocene"
+    },
+    {
+      "id": "homo-naledi",
+      "name": "Homo naledi",
+      "nickname": "",
+      "group": "early-homo",
+      "start": 335000,
+      "end": 236000,
+      "regions": [
+        "africa"
+      ],
+      "brain": "about 465–610 cm³",
+      "stature": "about 1.4–1.5 m",
+      "discovered": "2013, Rising Star Cave, Cradle of Humankind, South Africa (cavers Rick Hunter and Steven Tucker); named in 2015 by Lee Berger and colleagues",
+      "keyFossils": "More than 1,500 bones from the Dinaledi Chamber, the Neo skeleton (LES1) from the Lesedi Chamber, the child’s skull Leti",
+      "summary": "In 2013 two cavers squeezed through a chute about 18 centimetres wide in the Rising Star Cave near Johannesburg and found a chamber strewn with bones; the excavation, led by Lee Berger with a team of slim scientists able to fit through, recovered more than 1,500 fossils from at least 15 individuals. Homo naledi combined a brain of only about 465 to 610 cm³ and curved fingers with human-like wrists, feet and legs. Dating published in 2017 showed that the fossils are only about 335,000 to 236,000 years old, so this small-brained species lived at the same time as early Homo sapiens in Africa. How so many bodies came to lie in a dark chamber far from any entrance remains unexplained.",
+      "debate": "Berger and colleagues argued in 2023 that naledi deliberately buried its dead, engraved cross-hatched marks on the cave wall and used fire to light its way, which would be remarkable for a species with such a small brain. Reviewers for the journal eLife and many other researchers judged the evidence incomplete, pointing to the lack of detailed geological and dating analyses of the claimed graves and engravings. Its place in the family tree is also unclear: it may be a late survivor of an early Homo lineage or a small-brained offshoot of later Homo.",
+      "status": "established",
+      "chapter": "middle-pleistocene"
+    },
+    {
+      "id": "homo-floresiensis",
+      "name": "Homo floresiensis",
+      "nickname": "Hobbit",
+      "group": "erectus",
+      "start": 700000,
+      "end": 60000,
+      "endMin": 50000,
+      "regions": [
+        "oceania"
+      ],
+      "brain": "about 420 cm³ (LB1)",
+      "stature": "about 1.0–1.1 m",
+      "discovered": "2003, Liang Bua, Flores, Indonesia (Indonesian–Australian team led by R. P. Soejono and Mike Morwood); named in 2004",
+      "keyFossils": "LB1 partial skeleton (holotype), remains of other individuals from Liang Bua, jaw fragment, teeth and humerus from Mata Menge",
+      "summary": "Found in 2003 in Liang Bua cave on the Indonesian island of Flores, the partial skeleton LB1 belonged to an adult about 1.06 metres tall with a brain of about 420 cm³, smaller than that of most australopiths. Homo floresiensis had long feet, short legs and primitive wrist and shoulder bones. Revised dating in 2016 placed the Liang Bua skeletons between about 100,000 and 60,000 years ago, and stone tools attributed to the species between about 190,000 and 50,000 years ago. Fossils from Mata Menge in central Flores show that tiny hominins already lived on the island about 700,000 years ago, and a humerus described in 2024 suggests they were even slightly smaller than LB1.",
+      "debate": "Early critics argued that LB1 was a modern human with a disorder such as microcephaly, but further individuals and detailed studies of the wrist, feet and brain shape have persuaded most researchers that it is a distinct species. The main open question is its ancestry: the Mata Menge finds support island dwarfing of an Asian Homo erectus population that reached Flores by about 1 million years ago, while analyses by Debbie Argue and colleagues suggest descent from an earlier, habilis-like hominin. Why it disappeared, around the time modern humans reached the region, is unknown.",
+      "status": "established",
+      "chapter": "island-hominins"
+    },
+    {
+      "id": "homo-luzonensis",
+      "name": "Homo luzonensis",
+      "nickname": "Callao Man",
+      "group": "erectus",
+      "start": 67000,
+      "end": 50000,
+      "regions": [
+        "asia"
+      ],
+      "brain": "unknown",
+      "stature": "unknown",
+      "discovered": "2007, Callao Cave, northern Luzon, Philippines (Armand Mijares’s team); named in 2019 by Florent Détroit and colleagues",
+      "keyFossils": "CCH1 foot bone, teeth of the holotype CCH6, finger and toe bones, part of a juvenile femur",
+      "summary": "In 2007 archaeologists led by Armand Mijares found a foot bone in Callao Cave on Luzon, in the northern Philippines. Later excavations recovered teeth and finger and toe bones from at least three individuals, and in 2019 Florent Détroit and colleagues named a new species, Homo luzonensis. Uranium-series dating gave minimum ages of about 67,000 and 50,000 years for the fossils. Its cheek teeth are very small and simple, while its curved finger and toe bones resemble those of australopiths, suggesting it still climbed.",
+      "debate": "With so few fossils, some researchers question whether luzonensis is truly distinct or an unusual population of Homo erectus. How its ancestors reached Luzon, which was never connected to the mainland, is unknown; butchered rhinoceros bones and stone tools at Kalinga show that hominins were on the island about 709,000 years ago. As on Flores, isolation is thought to have shaped its unusual anatomy, but no reliable estimate of its body size is yet possible.",
+      "status": "established",
+      "chapter": "island-hominins"
+    },
+    {
+      "id": "neanderthals",
+      "name": "Homo neanderthalensis",
+      "nickname": "Neanderthals",
+      "group": "archaic",
+      "start": 400000,
+      "end": 40000,
+      "startMax": 430000,
+      "endMin": 37000,
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "brain": "about 1,200–1,750 cm³",
+      "stature": "about 1.5–1.75 m",
+      "discovered": "1856, Feldhofer Cave, Neander Valley, Germany (quarry workers; recognised by Johann Carl Fuhlrott; named in 1864 by William King); earlier finds from Engis (1829) and Gibraltar (1848) were recognised later",
+      "keyFossils": "Feldhofer 1, La Chapelle-aux-Saints 1, La Ferrassie 1, Shanidar 1 and Shanidar Z, Kebara 2, Krapina, Vindija 33.19, Altai Neanderthal (Denisova 5), Chagyrskaya 8",
+      "summary": "Neanderthals lived across Europe and western and central Asia, from Gibraltar to the Altai Mountains of Siberia, from roughly 400,000 to 40,000 years ago; the 430,000-year-old Sima de los Huesos people in Spain already belonged to their lineage. They were stocky and strong, with large brains, big noses and long, low skulls, suited to cold climates but living in warm ones too. They made Mousterian tools, often by the Levallois method, hunted large game, produced birch-tar glue, cared for injured people and buried at least some of their dead; eagle talons, pigments and engraved lines suggest symbolic behaviour. Genomes sequenced since 2010 show that they interbred with Homo sapiens, leaving about 2 percent Neanderthal DNA in people of non-African descent today.",
+      "debate": "Why Neanderthals disappeared is the central debate: explanations include competition with incoming Homo sapiens, small and inbred populations, climate swings such as Heinrich event 4, disease, and absorption through interbreeding, and many researchers now favour a combination. How far their symbolic life matched ours is also argued: uranium-series dates of more than 64,000 years for painted marks in three Spanish caves (2018) are disputed, while the rings of broken stalagmites built deep in Bruniquel Cave in France about 176,000 years ago are widely accepted. Genomes such as that of Thorin, a late Neanderthal from Grotte Mandrin described in 2024, show that late populations were small and long isolated from one another.",
+      "status": "established",
+      "chapter": "neanderthals"
+    },
+    {
+      "id": "denisovans",
+      "name": "Denisovans",
+      "nickname": "Dragon Man (the Harbin skull)",
+      "group": "archaic",
+      "start": 250000,
+      "end": 40000,
+      "startMax": 430000,
+      "endMin": 30000,
+      "regions": [
+        "asia"
+      ],
+      "brain": "about 1,420 cm³ (Harbin skull); otherwise unknown",
+      "stature": "unknown",
+      "discovered": "2008, Denisova Cave, Altai Mountains, Siberia (finger bone excavated by Russian archaeologists; identified from its DNA in 2010 by Svante Pääbo’s team)",
+      "keyFossils": "Denisova 3 finger bone, Denisova 4 and 8 molars, Denisova 11, Xiahe mandible, Tam Ngu Hao 2 molar (Laos), Harbin cranium, Penghu 1 mandible, Baishiya rib fragment",
+      "summary": "Denisovans were first identified in 2010 not from their bones but from DNA in a finger bone from Denisova Cave in Siberia, which revealed a population closely related to Neanderthals that had separated from them more than 400,000 years ago. For a decade they were known only from a few teeth and scraps, until ancient proteins identified a jaw from Xiahe on the Tibetan Plateau in 2019. In 2025 proteins showed that the Penghu 1 jaw, dredged from the seabed off Taiwan, belonged to a Denisovan man, and proteins plus mitochondrial DNA from dental calculus showed that the Harbin skull from northeast China, more than 146,000 years old, was Denisovan, giving the group a face: heavy brows, a broad face, very large molars and a brain of about 1,420 cm³. Their genes survive in living people, especially in New Guinea, Australia and the Philippines, and a Denisovan version of the EPAS1 gene helps Tibetans live at high altitude.",
+      "debate": "The Harbin skull had been named Homo longi, “dragon man”, in 2021 by Qiang Ji, Xijun Ni and colleagues, so many now argue that Denisovans should take that name, while others want nuclear DNA or more fossils first. In 2024 Xiujie Wu and Christopher Bae proposed Homo juluensis, based on the large-headed Xujiayao fossils, to include the Xuchang, Xiahe and Penghu remains and the Denisovans, a proposal that competes with Homo longi and has not been widely adopted. A 2025 reconstruction of the million-year-old Yunxian 2 skull by Xijun Ni, Chris Stringer and colleagues placed it on the Homo longi branch, implying that the lineages leading to Denisovans, Neanderthals and modern humans separated more than a million years ago, far earlier than most genetic estimates; this remains debated.",
+      "status": "established",
+      "chapter": "denisovans"
+    },
+    {
+      "id": "homo-sapiens",
+      "name": "Homo sapiens",
+      "nickname": "Modern humans",
+      "group": "sapiens",
+      "start": 315000,
+      "end": 0,
+      "startMax": 350000,
+      "regions": [
+        "africa",
+        "europe",
+        "asia",
+        "oceania",
+        "americas"
+      ],
+      "brain": "about 1,100–1,700 cm³ (living average about 1,350)",
+      "stature": "about 1.4–1.9 m, varying widely between populations",
+      "discovered": "Named by Carl Linnaeus in 1758; the oldest fossils assigned to the species, from Jebel Irhoud, Morocco, were found in 1961 and redated in 2017",
+      "keyFossils": "Jebel Irhoud 1 and 10, Florisbad, Omo Kibish 1, Herto (BOU-VP-16/1), Misliya 1, Skhul and Qafzeh, Apidima 1 (disputed)",
+      "summary": "Our species emerged in Africa: the oldest fossils with sapiens-like faces, from Jebel Irhoud in Morocco, are about 315,000 years old, and Omo Kibish 1 in Ethiopia is at least 233,000 years old. Early members of the species had modern faces but longer, lower braincases; the rounded skull of living people appeared gradually over the following 200,000 years. Small groups reached western Asia by about 190,000 years ago, as the Misliya jaw shows, but the ancestors of all living non-Africans left Africa roughly 60,000 to 50,000 years ago, mixing with Neanderthals and Denisovans as they spread. They reached Sahul by at least 50,000 years ago and the Americas by the end of the last Ice Age, perhaps as early as 23,000 years ago.",
+      "debate": "Most researchers now favour a pan-African origin, in which populations across the continent, linked by intermittent gene flow, gradually assembled modern traits, rather than a single cradle in East Africa. Genetic models differ: a 2025 study by Trevor Cousins, Aylwyn Scally and Richard Durbin inferred that all living humans descend from two populations that separated about 1.5 million years ago and merged about 300,000 years ago in proportions of roughly 80 and 20 percent, while Aaron Ragsdale and colleagues (2023) favour a weakly structured ancestral population with continuous mixing. Whether the Jebel Irhoud people belong in Homo sapiens or represent a close relative is also argued.",
+      "status": "established",
+      "chapter": "origin-of-sapiens"
+    }
+  ],
+  "geneFlow": [
+    {
+      "from": "neanderthals",
+      "to": "homo-sapiens",
+      "when": 47000,
+      "label": "Neanderthal ancestry in all non-Africans",
+      "amount": "roughly 2 percent of every non-African genome",
+      "confidence": "established",
+      "text": "Neanderthal DNA segments found in all non-African populations point to interbreeding soon after the main dispersal of modern humans from Africa. Two 2024 studies, one led by Arev Sümer and Johannes Krause using 45,000-year-old genomes from Ranis in Germany and Zlatý kůň in Czechia, the other led by Leonardo Iasi and Benjamin Peter, dated the main period of mixing to roughly 50,000 to 43,500 years ago, centred near 47,000 years ago."
+    },
+    {
+      "from": "neanderthals",
+      "to": "homo-sapiens",
+      "when": 42000,
+      "label": "Local mixing with the first modern Europeans",
+      "amount": "about 3 to 9 percent in some individuals",
+      "confidence": "established",
+      "text": "Some of the earliest modern humans in Europe carried long Neanderthal segments from recent ancestors: the roughly 40,000-year-old Oase 1 jaw from Romania had a Neanderthal ancestor only four to six generations back, and people from Bacho Kiro Cave in Bulgaria, about 45,000 years old, had Neanderthal ancestors a few generations back. These early groups left little or no ancestry in later Europeans."
+    },
+    {
+      "from": "denisovans",
+      "to": "homo-sapiens",
+      "when": 45000,
+      "label": "Denisovan ancestry in New Guinea, Australia and the Philippines",
+      "amount": "about 3–6 percent in Papuans and Aboriginal Australians; highest in the Ayta Magbukon of Luzon",
+      "confidence": "established",
+      "text": "Papuan and Aboriginal Australian genomes contain several percent Denisovan DNA, and a 2021 study led by Maximilian Larena found the highest levels in the Ayta Magbukon, a Philippine Negrito group. Guy Jacobs, Murray Cox and colleagues showed in 2019 that Papuans carry segments from two distinct Denisovan populations, implying separate pulses of mixing, perhaps in Wallacea or New Guinea; some estimates place one of them as late as roughly 30,000 years ago, which is debated."
+    },
+    {
+      "from": "denisovans",
+      "to": "homo-sapiens",
+      "when": 45000,
+      "label": "Denisovan ancestry in mainland Asians",
+      "amount": "a few tenths of a percent or less in East and South Asians",
+      "confidence": "established",
+      "text": "Mainland East and South Asians carry a much smaller Denisovan share. Sharon Browning, Joshua Akey and colleagues reported in 2018 that East Asians carry segments from two different Denisovan groups, one closely related to the Altai Denisovans, implying more than one pulse. A Denisovan version of the EPAS1 gene, identified by Emilia Huerta-Sánchez and colleagues in 2014, helps Tibetans cope with high altitude."
+    },
+    {
+      "from": "homo-sapiens",
+      "to": "neanderthals",
+      "when": 250000,
+      "label": "Early modern human DNA replaces Neanderthal mitochondria and Y chromosomes",
+      "amount": "a few percent of later Neanderthal genomes; all of their mitochondrial DNA and Y chromosomes",
+      "confidence": "established",
+      "text": "Neanderthal nuclear genomes are closest to Denisovans, yet their mitochondrial DNA and Y chromosomes are closer to those of modern humans. Cosimo Posth and colleagues (2017) and Martin Petr and colleagues (2020) explained this by early mixing, more than 200,000 years ago, with a population related to Homo sapiens whose maternal and paternal lineages then spread through the small Neanderthal population. A 2024 analysis led by Liming Li and Joshua Akey estimated the main early pulse at roughly 250,000 years ago."
+    },
+    {
+      "from": "homo-sapiens",
+      "to": "neanderthals",
+      "when": 100000,
+      "label": "A later modern human pulse into eastern Neanderthals",
+      "amount": "small; detected in the Altai Neanderthal genome",
+      "confidence": "debated",
+      "text": "Martin Kuhlwilm, Sergi Castellano and colleagues reported in 2016 that the Altai Neanderthal from Siberia carries DNA from an early modern human population that separated from other Africans very early, suggesting mixing around 100,000 years ago, possibly in western Asia, where early Homo sapiens are known at Skhul and Qafzeh. The timing and size of this pulse are less certain than for the older one."
+    },
+    {
+      "from": "neanderthals",
+      "to": "denisovans",
+      "when": 90000,
+      "label": "Denisova 11: a Neanderthal mother and a Denisovan father",
+      "amount": "a first-generation hybrid; Neanderthal segments also occur in other Denisovan genomes",
+      "confidence": "established",
+      "text": "A bone fragment from Denisova Cave, recognised as human by collagen fingerprinting, yielded a genome in 2018 showing that its owner, a girl at least 13 years old who lived about 90,000 years ago, had a Neanderthal mother and a Denisovan father (Viviane Slon, Svante Pääbo and colleagues). Her mother’s population was closer to later Neanderthals from Croatia than to earlier Altai Neanderthals, and her father himself had some Neanderthal ancestry, so the two groups met repeatedly."
+    },
+    {
+      "from": "superarchaic",
+      "to": "denisovans",
+      "when": 400000,
+      "label": "A deeply divergent “superarchaic” lineage in Denisovan genomes",
+      "amount": "uncertain; estimates range from under 1 to several percent",
+      "confidence": "debated",
+      "text": "Denisovan genomes contain segments more distant from all other humans than Neanderthal DNA is, suggesting mixing with a population that split from the human line well over a million years ago; some researchers suggest a late form of Homo erectus in Asia (Kay Prüfer and colleagues, 2014). Alan Rogers and colleagues argued in 2020 that a similar event affected the shared ancestors of Neanderthals and Denisovans about 700,000 years ago, from a lineage that separated about 2 million years ago. The timing and identity of the source remain uncertain."
+    },
+    {
+      "from": "ghost-archaic",
+      "to": "homo-sapiens",
+      "when": 43000,
+      "label": "Ghost archaic ancestry in West Africans",
+      "amount": "estimated at 2–19 percent in Yoruba and Mende genomes",
+      "confidence": "debated",
+      "text": "Arun Durvasula and Sriram Sankararaman reported in 2020 that genomes of Yoruba and Mende people from West Africa contain segments best explained by mixing, perhaps around 43,000 years ago, with an unknown archaic population that split from the ancestors of Neanderthals and modern humans between about 360,000 and 1 million years ago. No fossils or ancient genomes of this population are known, since DNA rarely survives in tropical Africa. Aaron Ragsdale and colleagues showed in 2023 that long-standing, weakly connected structure among ancestral African populations could produce similar signals without any separate archaic group."
+    }
+  ]
+}

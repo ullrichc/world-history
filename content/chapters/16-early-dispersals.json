@@ -1,0 +1,274 @@
+{
+  "id": "early-dispersals",
+  "order": 16,
+  "act": "many-humans",
+  "title": "Early Journeys out of Africa",
+  "subtitle": "Homo sapiens in Greece, the Levant, Arabia and Asia before the great dispersal",
+  "era": "Middle Palaeolithic and Middle Stone Age",
+  "start": 210000,
+  "end": 50000,
+  "dateLabel": "about 210,000–50,000 years ago",
+  "regions": ["europe", "asia"],
+  "focus": [0, -5, 110, 47],
+  "emblem": "footprints",
+  "summary": "Fossils, footprints and genes show that Homo sapiens left Africa repeatedly long before the main dispersal of about 60,000–50,000 years ago, reaching the Levant, Arabia, Southeast Asia and perhaps Greece and France. Most of these groups left few or no descendants among living people, but they mixed with Neanderthals.",
+  "narration": [
+    "About 120,000 years ago, on the muddy shore of a lake in what is now the Nefud Desert of Saudi Arabia, a few people walked among elephants, camels and wild horses. Their footprints hardened, were buried, and came to light again in 2017, when erosion stripped away the sediments above them.",
+    "These travellers were Homo sapiens, and they were not the first of their kind to leave Africa. A jaw from Misliya Cave in Israel is between 194,000 and 177,000 years old. A broken skull from Apidima in Greece may be older still, though not everyone agrees. At Skhul and Qafzeh, near the eastern Mediterranean coast, people buried their dead with deer antlers, red ochre and seashells more than 90,000 years ago.",
+    "Some went much further. Teeth from a cave in Sumatra are about 70,000 years old, and a skull from Tam Pà Ling in Laos is of similar age. In a rock shelter above the Rhône in France, a single child’s tooth hints that modern humans visited Europe 54,000 years ago, some ten thousand years before they settled there for good.",
+    "Yet most people living outside Africa today descend from a later wave. The earlier pioneers seem to have faded away when climate closed the green corridors they had followed, or to have been absorbed by others. Their clearest trace is in the genomes of the Neanderthals they met."
+  ],
+  "pronounce": {
+    "Nefud": "Neh-food",
+    "Misliya": "Mis-lee-yah",
+    "Apidima": "Ah-pee-dee-mah",
+    "Skhul": "Skool",
+    "Qafzeh": "Kaf-zeh",
+    "Tam Pà Ling": "Tam Pah Ling"
+  },
+  "body": [
+    {
+      "heading": "Leaving early",
+      "paragraphs": [
+        "Most people outside Africa today descend from a dispersal about 60,000–50,000 years ago (chapter 18). Yet fossils, footprints and stone tools show Homo sapiens outside Africa much earlier. These early movements seem to have followed humid phases, when rains turned the Sahara, Sinai and Arabia into grassland with lakes and rivers. How many of the pioneers survived, and what they left behind, is one of the liveliest questions in the field."
+      ]
+    },
+    {
+      "heading": "Apidima and Misliya",
+      "paragraphs": [
+        "Two broken skulls embedded in a block of cemented cave sediment were recovered from Apidima Cave on the Mani peninsula of southern Greece in 1978. In 2019 Katerina Harvati and colleagues reconstructed them from CT scans. Apidima 2, a face, is Neanderthal-like and was dated by uranium-series to at least 170,000 years ago. Apidima 1, the back of a braincase, is rounded and lacks the Neanderthal bun; the team identified it as an early Homo sapiens at least 210,000 years old, the oldest outside Africa. Critics note that the fragment is small and distorted, and that one region of the skull is a thin basis for naming a species.",
+        "The earliest widely accepted Homo sapiens outside Africa is a left upper jaw with teeth from Misliya Cave on Mount Carmel, Israel, published in 2018 by Israel Hershkovitz and colleagues. Three dating methods place it between about 194,000 and 177,000 years ago, with Levallois-based tools of the Early Middle Palaeolithic."
+      ]
+    },
+    {
+      "heading": "Skhul and Qafzeh: burials in the Levant",
+      "paragraphs": [
+        "In the early 1930s Dorothy Garrod’s excavations on Mount Carmel uncovered skeletons at es-Skhul, and René Neuville found more at Qafzeh near Nazareth, where Bernard Vandermeersch resumed work in 1965. The Skhul and Qafzeh people, dated mostly to about 120,000–90,000 years ago by thermoluminescence and electron spin resonance, look largely modern with some archaic traits. They buried their dead: at Qafzeh an adolescent was laid with deer antlers on the chest, and a young woman was buried with a small child. Qafzeh also has lumps of red ochre and seashells carried from the coast some 35 kilometres away, and perforated Nassarius shells from Skhul are among the oldest possible beads anywhere.",
+        "In 2025 a team including Anne Dambricourt Malassé and Israel Hershkovitz re-examined the skull of Skhul I, a child of about three to five years, and argued that it combines a modern braincase with a Neanderthal-like lower jaw, making it possibly the oldest known individual of mixed ancestry. The claim rests on anatomy alone, since no DNA survives.",
+        "The Levant was a shared zone. Neanderthals are known from Tabun, Kebara and Amud, the latter two mainly between about 70,000 and 50,000 years ago, and in 2021 Hershkovitz’s team described a different archaic population at Nesher Ramla, dated to about 140,000–120,000 years ago. All of these groups made Levallois tools, so stone tools alone rarely reveal who occupied a cave."
+      ]
+    },
+    {
+      "heading": "Green Arabia",
+      "paragraphs": [
+        "Today the interior of the Arabian Peninsula is desert, but during humid phases monsoon rains reached far north, filling lakes and rivers. Huw Groucutt, Michael Petraglia and colleagues have mapped thousands of these palaeolakes. At Khall Amayshan 4 in the Nefud Desert they found occupation phases at about 400,000, 300,000, 200,000, 130,000–75,000 and 55,000 years ago, each coinciding with a humid window and each with a different toolkit (2021).",
+        "At Alathar, another ancient lake bed in the Nefud, Mathew Stewart and colleagues (2020) identified seven human footprints among hundreds left by elephants, camels, horses and other animals, dated by luminescence to about 120,000 years ago. The prints were probably made by Homo sapiens, since Neanderthals are not known in the region at that time. At nearby Al Wusta, a human finger bone dated directly by uranium-series to about 88,000 years is the oldest directly dated Homo sapiens fossil outside Africa and the Levant (Groucutt and colleagues, 2018).",
+        "At Jebel Faya in the United Arab Emirates, Simon Armitage and colleagues (2011) dated an assemblage of handaxes, scrapers and other tools to about 125,000 years ago and argued that it resembled East African Middle Stone Age toolkits, suggesting a crossing of the southern Red Sea when sea levels were low. Others see these tools as a local Arabian development or link them to the Levant."
+      ]
+    },
+    {
+      "heading": "Southern and eastern Asia",
+      "paragraphs": [
+        "In the Annamite mountains of northern Laos, Tam Pà Ling cave has yielded a skull, jaws, a frontal bone and other remains since 2009. Luminescence and uranium-series dating of the sediments and bones places them between about 86,000 and 68,000 years ago (Sarah Freidline, Kira Westaway, Fabrice Demeter and colleagues, 2023). At Lida Ajer in Sumatra, teeth collected by Eugène Dubois in the late 1880s were dated in 2017 to about 73,000–63,000 years ago, showing modern humans living in tropical rainforest.",
+        "Claims from southern China go further back. In 2015 Wu Liu, María Martinón-Torres and colleagues reported 47 modern human teeth from Fuyan Cave in Hunan, dated by overlying flowstone to 120,000–80,000 years ago, and a partial jaw from Zhiren Cave in Guangxi had been dated to about 100,000 years. In 2021, however, a study led by Xue-feng Sun combined new dating of sediments and teeth with ancient DNA at Fuyan and several other southern Chinese caves, and concluded that the human remains there are far younger than claimed, supporting a late arrival of Homo sapiens in the region. The species of the Zhiren jaw is itself debated."
+      ]
+    },
+    {
+      "heading": "Grotte Mandrin",
+      "paragraphs": [
+        "At Grotte Mandrin in the Rhône valley of France, Ludovic Slimak’s team excavated a layer, called E, sandwiched between Neanderthal occupations. It contains a distinctive industry of tiny points and blades, which they call the Neronian and compare with the Initial Upper Palaeolithic of the Levant. In 2022 they reported that a child’s milk tooth from this layer belongs to Homo sapiens, and dated the layer to about 56,800–51,700 years ago using luminescence and a count of soot films on the cave wall. If correct, modern humans briefly reached western Europe about 54,000 years ago, some 10,000 years before they are otherwise known there, and then disappeared. Critics question whether a single milk tooth can be securely assigned to a species, and whether the Neronian requires a migration to explain it."
+      ]
+    },
+    {
+      "heading": "Traces in Neanderthal genomes",
+      "paragraphs": [
+        "Some early dispersals left their mark not in us but in Neanderthals. In 2016 Martin Kuhlwilm and colleagues found DNA from early modern humans in the Altai Neanderthal genome, from contact more than 100,000 years ago. Neanderthal mitochondrial DNA and Y chromosomes were replaced by versions from an African population related to Homo sapiens (Cosimo Posth and colleagues, 2017; Martin Petr and colleagues, 2020), and a 2024 analysis by Liming Li and Joshua Akey detected gene flow from modern humans into Neanderthals around 250,000–200,000 and again around 120,000–100,000 years ago, times that match the fossils from Misliya, Apidima, Skhul and Qafzeh.",
+        "Living non-Africans, however, show little or no sign of these early groups. Luca Pagani and colleagues (2016) reported that about 2 percent of Papuan genomes might come from an earlier dispersal, but other studies found no such trace. That is why many researchers speak of “failed dispersals”: groups that spread when climate opened green corridors and then shrank, retreated or were absorbed when it closed. Others dislike the term, since these people lived outside Africa for thousands of years and their genes survive in Neanderthal genomes."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Was Apidima 1 an early Homo sapiens?",
+      "views": [
+        {
+          "label": "Yes, at least 210,000 years ago",
+          "text": "Katerina Harvati and colleagues (2019) argue that the rounded back of the Apidima 1 braincase, without an occipital bun, matches Homo sapiens and not Neanderthals, and that uranium-series dating of the bone shows it is older than the Neanderthal-like Apidima 2 in the same block."
+        },
+        {
+          "label": "Not proven",
+          "text": "Critics argue that the fragment preserves too little anatomy, is distorted by the surrounding sediment, and that the dating of fossils embedded in cemented breccia is uncertain; some think both skulls could belong to one variable archaic population."
+        }
+      ],
+      "status": "The claim is taken seriously and fits genetic evidence for early gene flow into Neanderthals, but it is not universally accepted. A better-preserved fossil of similar age in southeastern Europe would be decisive."
+    },
+    {
+      "question": "Were modern humans in southern China before 80,000 years ago?",
+      "views": [
+        {
+          "label": "An early presence",
+          "text": "Wu Liu, María Martinón-Torres and colleagues argued from the Fuyan teeth, sealed below flowstone dated to more than 80,000 years ago, and from the Zhiren and Luna cave finds, that Homo sapiens lived in southern China by 120,000–80,000 years ago."
+        },
+        {
+          "label": "A late arrival",
+          "text": "Xue-feng Sun and colleagues (2021) re-dated the sediments and remains at several of these caves and concluded that the human teeth are much younger than the flowstones, having moved down through the deposits, so the evidence for an early presence evaporates."
+        }
+      ],
+      "status": "Opinion has shifted towards a late arrival in China, around or after 50,000 years ago, though the original teams dispute the redating. Direct dating of the Fuyan teeth themselves remains the crucial test."
+    },
+    {
+      "question": "Was Grotte Mandrin layer E made by Homo sapiens?",
+      "views": [
+        {
+          "label": "A modern human incursion",
+          "text": "Ludovic Slimak and colleagues (2022) argue that the milk tooth is modern human, that the Neronian tools resemble the Levantine Initial Upper Palaeolithic, and that the layer, dated to about 54,000 years ago, sits between Neanderthal layers, recording a short-lived visit."
+        },
+        {
+          "label": "Unproven",
+          "text": "Sceptics note that identifications from isolated milk teeth are difficult, that the tool comparisons can be read differently, and that the dating combines methods with large uncertainties."
+        }
+      ],
+      "status": "The finding is widely discussed and plausible given the 2024 evidence for modern humans at Ranis in Germany by about 47,000–45,000 years ago, but ancient DNA from layer E would settle it."
+    },
+    {
+      "question": "Did the early dispersals fail?",
+      "views": [
+        {
+          "label": "Dead ends",
+          "text": "Genomes of living non-Africans trace almost entirely to one dispersal about 60,000–50,000 years ago; many geneticists therefore see earlier groups as having died out or retreated to Africa without descendants."
+        },
+        {
+          "label": "Partial legacies",
+          "text": "Michael Petraglia, Huw Groucutt and others argue for multiple dispersals, some of which may have lasted in South Asia or Arabia, and point to the traces in Neanderthal genomes and the possible early signal in Papuans."
+        }
+      ],
+      "status": "Both views agree that pre-60,000 dispersals contributed little or nothing to most living people; they disagree about how long the early groups persisted and where."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Oldest claimed outside Africa", "value": "Apidima 1, Greece, at least 210,000 years (contested)"},
+    {"label": "Oldest widely accepted", "value": "Misliya maxilla, Israel, 194,000–177,000 years"},
+    {"label": "Arabian footprints", "value": "Alathar, Nefud Desert, about 120,000 years"},
+    {"label": "Oldest directly dated fossil in Arabia", "value": "Al Wusta finger bone, about 88,000 years"},
+    {"label": "Southeast Asia", "value": "Tam Pà Ling, Laos, 86,000–68,000 years"},
+    {"label": "Western Europe", "value": "Grotte Mandrin layer E, about 54,000 years (debated)"}
+  ],
+  "sites": [
+    {
+      "id": "apidima-cave",
+      "name": "Apidima Cave",
+      "country": "Greece",
+      "region": "europe",
+      "lat": 36.63, "lon": 22.38,
+      "start": 210000, "end": 170000,
+      "dateLabel": "at least 210,000 and 170,000 years ago",
+      "type": "fossil",
+      "summary": "A coastal cave in the Mani peninsula where two skulls were found in 1978; Apidima 1, at least 210,000 years old, has been claimed as the oldest Homo sapiens outside Africa."
+    },
+    {
+      "id": "misliya-cave",
+      "name": "Misliya Cave",
+      "country": "Israel",
+      "region": "asia",
+      "lat": 32.71, "lon": 34.97,
+      "start": 194000, "end": 177000,
+      "dateLabel": "about 194,000–177,000 years ago",
+      "type": "fossil",
+      "summary": "A collapsed cave on Mount Carmel whose upper jaw with teeth is the oldest widely accepted Homo sapiens fossil outside Africa."
+    },
+    {
+      "id": "es-skhul",
+      "name": "es-Skhul",
+      "country": "Israel",
+      "region": "asia",
+      "lat": 32.67, "lon": 34.97,
+      "start": 130000, "end": 100000,
+      "dateLabel": "about 130,000–100,000 years ago",
+      "type": "burial",
+      "summary": "A rock shelter on Mount Carmel with burials of early modern humans, perforated shell beads and the child Skhul I, recently argued to show mixed ancestry."
+    },
+    {
+      "id": "qafzeh-cave",
+      "name": "Qafzeh Cave",
+      "country": "Israel",
+      "region": "asia",
+      "lat": 32.68, "lon": 35.30,
+      "start": 100000, "end": 90000,
+      "dateLabel": "about 100,000–90,000 years ago",
+      "type": "burial",
+      "summary": "A cave near Nazareth with burials of early modern humans, including an adolescent with deer antlers, alongside red ochre and marine shells brought from the coast."
+    },
+    {
+      "id": "jebel-faya",
+      "name": "Jebel Faya",
+      "country": "United Arab Emirates",
+      "region": "asia",
+      "lat": 25.12, "lon": 55.85,
+      "start": 125000, "end": 40000,
+      "dateLabel": "from about 125,000 years ago",
+      "type": "tools",
+      "summary": "A rock shelter whose oldest tool assemblage, about 125,000 years old, has been linked to East African toolmakers crossing the southern Red Sea."
+    },
+    {
+      "id": "tam-pa-ling",
+      "name": "Tam Pà Ling",
+      "country": "Laos",
+      "region": "asia",
+      "lat": 20.21, "lon": 103.41,
+      "start": 86000, "end": 68000,
+      "dateLabel": "about 86,000–68,000 years ago",
+      "type": "fossil",
+      "summary": "A mountain cave that has yielded a modern human skull, jaws and other bones, the oldest Homo sapiens fossils in mainland Southeast Asia."
+    },
+    {
+      "id": "lida-ajer",
+      "name": "Lida Ajer",
+      "country": "Indonesia",
+      "region": "asia",
+      "lat": -0.30, "lon": 100.65,
+      "start": 73000, "end": 63000,
+      "dateLabel": "about 73,000–63,000 years ago",
+      "type": "fossil",
+      "summary": "A cave in the Padang Highlands of Sumatra whose modern human teeth, first collected in the 1880s, show people in tropical rainforest by about 70,000 years ago."
+    },
+    {
+      "id": "fuyan-cave",
+      "name": "Fuyan Cave",
+      "country": "China",
+      "region": "asia",
+      "lat": 25.62, "lon": 111.57,
+      "start": 120000, "end": 80000,
+      "dateLabel": "claimed 120,000–80,000 years ago (disputed)",
+      "type": "fossil",
+      "summary": "A cave in Daoxian, Hunan, with 47 modern human teeth first dated to 120,000–80,000 years ago; later redating suggests they are far younger."
+    },
+    {
+      "id": "grotte-mandrin",
+      "name": "Grotte Mandrin",
+      "country": "France",
+      "region": "europe",
+      "lat": 44.49, "lon": 4.75,
+      "start": 56800, "end": 51700,
+      "dateLabel": "about 54,000 years ago",
+      "type": "tools",
+      "summary": "A rock shelter above the Rhône where a thin layer with Neronian tools and a modern human milk tooth lies between Neanderthal layers; also the findspot of the Neanderthal “Thorin”."
+    }
+  ],
+  "routes": [
+    {"id": "sinai-early", "label": "Early crossings into the Levant", "start": 200000, "end": 90000, "certainty": "debated",
+     "path": [[31.25, 30.05], [32.3, 30.6], [33.8, 31.1], [34.6, 31.8], [34.97, 32.7]]},
+    {"id": "bab-el-mandeb-early", "label": "Southern Red Sea crossing into Arabia", "start": 130000, "end": 75000, "certainty": "debated",
+     "path": [[42.6, 11.6], [43.35, 12.6], [44.5, 14.5], [48.0, 16.5], [53.0, 18.5], [56.5, 21.5], [55.85, 25.1]]},
+    {"id": "levant-nefud-early", "label": "Into green Arabia from the Levant", "start": 130000, "end": 75000, "certainty": "debated",
+     "path": [[35.5, 32.0], [36.8, 30.5], [38.0, 29.3], [39.0, 28.2]]},
+    {"id": "arabia-asia-early", "label": "Early spread into South and Southeast Asia", "start": 100000, "end": 65000, "certainty": "debated",
+     "path": [[56.3, 25.3], [57.5, 26.8], [61.5, 25.3], [66.5, 25.0], [72.5, 22.5], [78.5, 21.0], [87.5, 23.0], [95.0, 21.5], [103.4, 20.2]]},
+    {"id": "sunda-early", "label": "South to Sumatra", "start": 80000, "end": 65000, "certainty": "debated",
+     "path": [[95.0, 21.5], [98.5, 15.0], [100.5, 7.0], [101.0, 2.5], [100.65, -0.3]]},
+    {"id": "levant-to-rhone", "label": "Possible route to Grotte Mandrin", "start": 56000, "end": 52000, "certainty": "debated",
+     "path": [[35.6, 33.9], [36.0, 36.5], [32.0, 37.5], [27.0, 39.5], [23.5, 41.5], [19.5, 44.0], [14.5, 45.8], [9.5, 45.2], [6.5, 44.8], [4.75, 44.49]]}
+  ],
+  "themes": ["species", "migration", "burial", "ornament", "genetics", "climate", "technology"],
+  "sources": [
+    {"cite": "Harvati, K. et al. (2019). Apidima Cave fossils provide earliest evidence of Homo sapiens in Eurasia. Nature 571, 500–504."},
+    {"cite": "Hershkovitz, I. et al. (2018). The earliest modern humans outside Africa. Science 359, 456–459."},
+    {"cite": "Groucutt, H. S. et al. (2018). Homo sapiens in Arabia by 85,000 years ago. Nature Ecology & Evolution 2, 800–809."},
+    {"cite": "Stewart, M. et al. (2020). Human footprints provide snapshot of last interglacial ecology in the Arabian interior. Science Advances 6."},
+    {"cite": "Groucutt, H. S. et al. (2021). Multiple hominin dispersals into Southwest Asia over the past 400,000 years. Nature 597, 376–380."},
+    {"cite": "Armitage, S. J. et al. (2011). The southern route “out of Africa”: evidence for an early expansion of modern humans into Arabia. Science 331, 453–456."},
+    {"cite": "Freidline, S. E. et al. (2023). Early presence of Homo sapiens in Southeast Asia by 86–68 kyr at Tam Pà Ling, Northern Laos. Nature Communications 14."},
+    {"cite": "Westaway, K. E. et al. (2017). An early modern human presence in Sumatra 73,000–63,000 years ago. Nature 548, 322–325."},
+    {"cite": "Sun, X.-F. et al. (2021). Ancient DNA and multimethod dating confirm the late arrival of anatomically modern humans in southern China. PNAS 118."},
+    {"cite": "Slimak, L. et al. (2022). Modern human incursion into Neanderthal territories 54,000 years ago at Mandrin, France. Science Advances 8."}
+  ]
+}

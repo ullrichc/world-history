@@ -1,0 +1,316 @@
+{
+  "id": "the-longest-age",
+  "order": 0,
+  "act": "prologue",
+  "title": "The Longest Age",
+  "subtitle": "What the Stone Age was, and how we know",
+  "era": "Stone Age: Palaeolithic, Mesolithic and Neolithic",
+  "start": 3300000,
+  "end": 5000,
+  "dateLabel": "3.3 million–5,000 years ago",
+  "regions": [
+    "africa",
+    "europe",
+    "asia",
+    "oceania",
+    "americas"
+  ],
+  "focus": [
+    -170,
+    -50,
+    180,
+    72
+  ],
+  "emblem": "globe",
+  "summary": "The Stone Age spans more than 99 percent of the human technological past, from the first knapped stones 3.3 million years ago to the spread of metal. This prologue explains where the name came from, why it undersells the period, and how dating methods, ancient DNA and ancient proteins let us read it.",
+  "narration": [
+    "On a dry hillside west of Lake Turkana in northern Kenya, archaeologists in 2011 found sharp-edged stones that someone had struck from lava cobbles 3.3 million years ago. They are the oldest known tools made by breaking stone. From that moment until metal arrived, only 5,000 to 7,000 years ago in the places that had it first, our ancestors and their relatives lived in what we call the Stone Age. It covers more than 99 percent of the human technological past.",
+    "The name was born in a museum. In Copenhagen in the early 1800s, a merchant’s son named Christian Jürgensen Thomsen sorted Denmark’s antiquities into stone, bronze and iron, and his guidebook of 1836 turned a filing system into a history. The label stuck, though it misleads. Stone is simply what survives. Wood, bone, hide, plant fibre and string did much of the work, and nearly all of it has rotted away.",
+    "So how can we know anything about so distant a past? We read clocks hidden in volcanic ash, cave crystals and grains of sand. We recover DNA from bones, and even from the dirt of cave floors, and proteins from tooth enamel 2 million years old. Ice cores and the mud of the deep ocean record the climates people lived through.",
+    "This journey begins even earlier, with the first upright apes in Africa some 7 million years ago, and it ends as copper and bronze begin to change the world. It crosses every inhabited continent. Along the way we will meet many kinds of humans, and many arguments, because the evidence is still coming out of the ground. Welcome to the longest age of all."
+  ],
+  "pronounce": {
+    "Jürgensen": "Yur-gen-sen",
+    "Thomsen": "Tom-sen",
+    "Turkana": "Tur-kah-nah"
+  },
+  "body": [
+    {
+      "heading": "A museum’s filing system",
+      "paragraphs": [
+        "The Stone Age began as a way of arranging display cases. In 1816 Christian Jürgensen Thomsen, a Copenhagen merchant’s son and self-taught antiquarian, took charge of Denmark’s national collection of antiquities. He sorted the objects by the material of their cutting tools and by which things had been found together in graves and hoards: first stone, then bronze, then iron. In 1836 Thomsen set out the scheme in a guidebook, Ledetraad til Nordisk Oldkyndighed, translated into English in 1848 as A Guide to Northern Antiquities.",
+        "Later scholars divided the stone part. In Pre-historic Times (1865) the English banker and naturalist John Lubbock coined ‘Palaeolithic’ (old stone) for the age of flaked tools and extinct animals such as the mammoth, and ‘Neolithic’ (new stone) for the age of polished axes. Hodder Westropp proposed ‘Mesolithic’ for the hunter-gatherers in between, and ‘Chalcolithic’ came into use for the Copper Age. In 1929 John Goodwin and Clarence van Riet Lowe, finding the European terms a poor fit for southern Africa, divided the African record into an Earlier, Middle and Later Stone Age, a scheme still used across the continent.",
+        "Each region now has its own sequence: Lower, Middle and Upper Palaeolithic in Europe and West Asia, the pottery-rich Jōmon in Japan, Paleoindian and Archaic in the Americas. These words describe ways of making things, not stages of human worth. ‘Stone Age’ is a technological label, and the people in this story were as intelligent and inventive as anyone alive today."
+      ]
+    },
+    {
+      "heading": "More than stones",
+      "paragraphs": [
+        "Stone dominates museum cases for one reason: it survives. Where conditions are exceptional, glimpses of the rest appear, such as the wooden spears of Schöningen in Germany or traces of birch-tar glue on tool edges. These perishable or ‘invisible’ technologies probably made up most of the toolkit for most of the Stone Age.",
+        "String is a good example. In 2020 a team led by Bruce Hardy reported a tiny fragment of three-ply cord, twisted from the inner bark of a conifer and stuck to a stone tool at Abri du Maras in southern France, made by Neanderthals roughly 41,000–52,000 years ago. In 2024 Nicholas Conard and Veerle Rots showed that a 20-centimetre baton of mammoth ivory with four spirally grooved holes, found in 2015 at Hohle Fels cave in southwest Germany and about 37,000 years old, was most likely a rope-making tool: with replicas, experimenters quickly twisted cattail fibres into several metres of strong rope. Cord implies nets, snares, bags and lashings, a technology almost never preserved.",
+        "The label also hides how long stone stayed useful: flint sickles remained common well into the Bronze Age, and in highland New Guinea ground stone axes were still quarried and traded in the twentieth century."
+      ]
+    },
+    {
+      "heading": "Most of the human story",
+      "paragraphs": [
+        "The oldest known knapped stone tools, from Lomekwi 3 in Kenya, are about 3.3 million years old. The first smelted copper appears in southeast Europe and Iran around 7,000 years ago, and bronze became common in Mesopotamia and neighbouring regions around 5,000 years ago. On any reckoning the Stone Age covers more than 99 percent of the time that humans and their relatives have been making tools. Homo sapiens has existed for less than a tenth of it.",
+        "There was no single end date. Southwest Asia and southeast Europe moved into copper and bronze first; China used bronze on a large scale only from about 4,000 years ago; much of sub-Saharan Africa went straight from stone to iron within the last 3,000 years, without a Bronze Age. In the Americas people hammered native copper around the Great Lakes for thousands of years and Andean societies later smelted metals, but stone remained the everyday material. Australia and most Pacific islands used no metal until contact with Europeans. This history follows the story to the arrival of metal, about 5,000 years ago in the first places to have it; a late chapter traces how the change played out region by region."
+      ]
+    },
+    {
+      "heading": "Clocks in rocks and bones",
+      "paragraphs": [
+        "Most dates in this app come from physics. Radiocarbon dating, developed by Willard Libby in the late 1940s, measures the decay of carbon-14 in once-living material such as charcoal, bone or seeds. Carbon-14 halves every 5,730 years, so after about 50,000 years too little is left to measure reliably. Raw radiocarbon ages must also be calibrated against tree rings and other records to become calendar years.",
+        "Older sites need other clocks. Potassium–argon and argon–argon dating measure the argon that accumulates in volcanic minerals after an eruption. East Africa’s Rift Valley is layered with volcanic ash, which is why it provides the backbone of dates for early human fossils: in 1961 potassium–argon dating showed that Bed I at Olduvai Gorge, with the skull nicknamed ‘Nutcracker Man’, was about 1.75 million years old, far older than most scholars had expected. Palaeomagnetism exploits the fact that Earth’s magnetic field has flipped many times; the last full reversal happened about 780,000 years ago, so a layer magnetised in the reverse direction must be older.",
+        "Other methods count accumulated damage. Luminescence dating measures energy stored in quartz and feldspar grains by natural radiation: optically stimulated luminescence (OSL) dates when sediment last saw sunlight, and thermoluminescence (TL) when burnt flint was last heated. Electron spin resonance (ESR) works similarly on tooth enamel. Uranium-series dating measures the build-up of thorium in cave crusts and stalagmites, back to roughly 500,000 years; uranium–lead dating reaches millions. Cosmogenic nuclide dating uses aluminium-26 and beryllium-10, created in quartz by cosmic rays at the surface, which decay at different rates once a rock is buried in a cave. No method is perfect, so good sites are dated by several, and dates in this app are given as ranges."
+      ]
+    },
+    {
+      "heading": "Molecules that remember",
+      "paragraphs": [
+        "Since the 1990s, genetics has become a second archive. Svante Pääbo’s laboratory recovered Neanderthal mitochondrial DNA in 1997, published a draft Neanderthal genome in 2010 and, the same year, identified the Denisovans from the DNA of a finger bone, a human group first known almost entirely from its genes. Pääbo received the Nobel Prize in Physiology or Medicine in 2022. The oldest human DNA sequenced so far, from the Sima de los Huesos in Spain, is about 430,000 years old. DNA can even be recovered without bones: in 2017 Viviane Slon and colleagues extracted Neanderthal and Denisovan DNA from cave sediments, and in 2022 environmental DNA from northern Greenland revealed an ecosystem about 2 million years old.",
+        "Proteins last longer than DNA, especially the tough proteins of tooth enamel. Palaeoproteomics, the study of ancient protein sequences, has placed Homo antecessor from Spain, about 800,000 years old, on the human family tree and identified a Denisovan jaw from the Tibetan Plateau. In 2025 a team led by Palesa Madupe read enamel proteins from four Paranthropus robustus teeth about 2 million years old from Swartkrans in South Africa and determined each individual’s sex, and a team led by Daniel Green recovered enamel protein fragments up to 18 million years old from mammal fossils in Kenya’s Turkana Basin.",
+        "Chemistry also tells us what people ate and where they grew up. Carbon isotopes in enamel distinguish diets based on trees and shrubs from diets rich in tropical grasses and sedges; nitrogen isotopes indicate how much meat was eaten; strontium isotopes match a tooth to the geology of the place where its owner spent childhood, revealing who moved."
+      ]
+    },
+    {
+      "heading": "Archives of climate",
+      "paragraphs": [
+        "Deep-sea sediments record the climate swings people lived through: they contain the shells of foraminifera whose oxygen isotopes track global ice volume and ocean temperature. In 2005 Lorraine Lisiecki and Maureen Raymo combined 57 such records into the LR04 stack, which covers the last 5.3 million years and anchors the numbered marine isotope stages used throughout archaeology: odd numbers for warm stages, even numbers for cold ones.",
+        "Antarctic ice cores trap bubbles of ancient air. The European Project for Ice Coring in Antarctica recovered 800,000 years of carbon dioxide and temperature at Dome C, and in January 2025 its successor project reached bedrock at nearby Little Dome C, retrieving a 2,800-metre core with ice more than 1.2 million years old. It should illuminate the Mid-Pleistocene Transition, when the rhythm of ice ages lengthened from about 41,000 to about 100,000 years. Lake cores, stalagmites, pollen and fossil soils show how particular landscapes changed."
+      ]
+    },
+    {
+      "heading": "How to read this journey",
+      "paragraphs": [
+        "For most of the story, dates are given as ‘years ago’ counted back from the year 2000. For roughly the last 12,000 years, where archaeologists commonly use calendar dates, chapters give years BCE (before the Common Era): 9600 BCE is about 11,600 years ago. Uncertain dates appear as ranges, such as 3.3–2.6 million years ago, and the dating method is named where it matters.",
+        "‘Hominin’ means humans and all extinct relatives more closely related to us than to chimpanzees and bonobos. Species names are working hypotheses, so each chapter sets out the main arguments and the evidence on each side, naming researchers and years. The story runs broadly in time order and moves between continents as the evidence does, beginning in Africa, where the earliest hominins, tools and members of our own species have been found."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Is “Stone Age” still a useful label?",
+      "views": [
+        {
+          "label": "Keep it, with care",
+          "text": "Most archaeologists still use the three-age terms and their subdivisions because they provide a shared vocabulary across two centuries of literature, and because stone really is the most continuous record of behaviour over 3.3 million years. Museums, textbooks and site reports worldwide are organised this way."
+        },
+        {
+          "label": "Replace or regionalise it",
+          "text": "Critics note that the terms grew out of Scandinavian museum collections and a Victorian idea of progress, privilege the one material that survives, and fit Africa, Australia and the Americas poorly. John Shea (2013) proposed describing stone tools by technological modes labelled A to I rather than by named ages, building on the five modes Grahame Clark outlined in 1969, and African specialists debate whether the boundaries of the Earlier, Middle and Later Stone Age still mean anything."
+        }
+      ],
+      "status": "In 2026 the old names remain in everyday use, but most researchers treat them as loose labels for technological traditions rather than stages that all humans passed through, and increasingly describe what people actually did, such as knapping methods, hafting or ornament making."
+    },
+    {
+      "question": "How far back can ancient molecules take us?",
+      "views": [
+        {
+          "label": "A deep molecular record",
+          "text": "Palaeoproteomics has moved from human enamel about 800,000 years old (Homo antecessor, 2020) to Paranthropus about 2 million years old and mammal enamel up to 18 million years old (both 2025). Researchers in the field expect proteins to help sort out relationships among early hominins that will never yield DNA."
+        },
+        {
+          "label": "A thin signal",
+          "text": "Others stress that enamel preserves only a handful of proteins, so each fragment carries few informative differences; contamination, chemical damage and tiny sample sizes make family-tree placements tentative. Hominin DNA has not been recovered from anything older than about 430,000 years, and warm climates destroy it quickly."
+        }
+      ],
+      "status": "Proteins now reliably reveal sex and broad relationships for some species more than 2 million years old, but detailed family trees of early hominins still rest mainly on anatomy. More samples, especially from Africa, will show how far the molecular record can reach."
+    },
+    {
+      "question": "When did the Stone Age begin?",
+      "views": [
+        {
+          "label": "3.3 million years ago",
+          "text": "Sonia Harmand and colleagues argue that the Lomekwi 3 artefacts were deliberately knapped and securely dated, marking the start of stone-tool making some 700,000 years before the Oldowan."
+        },
+        {
+          "label": "About 2.6 million years ago or a little earlier",
+          "text": "Some archaeologists regard Lomekwi as a single, contested site and begin the continuous record of flaked tools with the Oldowan at Nyayanga, Ledi-Geraru and Gona, between about 3.0 and 2.6 million years ago."
+        },
+        {
+          "label": "Earlier than we can see",
+          "text": "Chimpanzees and capuchin monkeys use stones as hammers, sometimes producing flakes by accident, so hominins probably pounded with stones long before they knapped them on purpose, leaving traces that are hard to recognise, such as the disputed 3.39-million-year-old cut marks at Dikika."
+        }
+      ],
+      "status": "The 3.3-million-year date is widely cited, and chapter 3 examines the evidence. Either way, the Stone Age did not begin with a single invention but with a gradual change in how our relatives used stone."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Span",
+      "value": "About 3.3 million to 5,000 years ago, more than 99 percent of the human technological past"
+    },
+    {
+      "label": "Three-age system",
+      "value": "Christian Jürgensen Thomsen, Copenhagen, published 1836"
+    },
+    {
+      "label": "Palaeolithic and Neolithic",
+      "value": "Terms coined by John Lubbock in Pre-historic Times, 1865"
+    },
+    {
+      "label": "Radiocarbon limit",
+      "value": "About 50,000 years"
+    },
+    {
+      "label": "Oldest hominin proteins",
+      "value": "About 2 million years, Paranthropus robustus, Swartkrans (2025)"
+    },
+    {
+      "label": "Oldest deep ice core",
+      "value": "More than 1.2 million years, Little Dome C, Antarctica (2025)"
+    }
+  ],
+  "sites": [
+    {
+      "id": "lomekwi-3",
+      "name": "Lomekwi 3",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 3.91,
+      "lon": 35.87,
+      "start": 3300000,
+      "end": 3300000,
+      "dateLabel": "3.3 million years ago",
+      "type": "tools",
+      "summary": "The oldest known knapped stone tools, found in 2011 west of Lake Turkana and dated by argon–argon and palaeomagnetism. They mark the conventional beginning of the Stone Age."
+    },
+    {
+      "id": "swartkrans",
+      "name": "Swartkrans",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -26.01,
+      "lon": 27.72,
+      "start": 2000000,
+      "end": 2000000,
+      "dateLabel": "about 2 million years ago",
+      "type": "fossil",
+      "summary": "Cave in the Cradle of Humankind. In 2025 enamel proteins from four Paranthropus robustus teeth about 2 million years old revealed each individual’s sex, the oldest hominin protein sequences so far."
+    },
+    {
+      "id": "sima-de-los-huesos",
+      "name": "Sima de los Huesos, Atapuerca",
+      "country": "Spain",
+      "region": "europe",
+      "lat": 42.35,
+      "lon": -3.52,
+      "start": 430000,
+      "end": 430000,
+      "dateLabel": "about 430,000 years ago",
+      "type": "dna",
+      "summary": "A shaft deep in the Atapuerca hills holding remains of at least 28 early Neanderthal relatives. Their DNA, about 430,000 years old, is the oldest human genetic material sequenced to date."
+    },
+    {
+      "id": "denisova-cave",
+      "name": "Denisova Cave",
+      "country": "Russia",
+      "region": "asia",
+      "lat": 51.4,
+      "lon": 84.68,
+      "start": 300000,
+      "end": 20000,
+      "dateLabel": "about 300,000–20,000 years ago",
+      "type": "dna",
+      "summary": "Altai cave where a finger bone’s DNA revealed the Denisovans in 2010. Its sediments later yielded Neanderthal and Denisovan DNA without any bones, a new way to detect who lived at a site."
+    },
+    {
+      "id": "abri-du-maras",
+      "name": "Abri du Maras",
+      "country": "France",
+      "region": "europe",
+      "lat": 44.31,
+      "lon": 4.55,
+      "start": 52000,
+      "end": 41000,
+      "dateLabel": "about 52,000–41,000 years ago",
+      "type": "tools",
+      "summary": "Rock shelter in the Ardèche where a fragment of three-ply cord twisted from inner bark was found on a Neanderthal stone tool, reported in 2020: rare direct evidence of fibre technology."
+    },
+    {
+      "id": "hohle-fels",
+      "name": "Hohle Fels",
+      "country": "Germany",
+      "region": "europe",
+      "lat": 48.38,
+      "lon": 9.75,
+      "start": 37000,
+      "end": 37000,
+      "dateLabel": "about 37,000 years ago",
+      "type": "tools",
+      "summary": "Swabian Jura cave that yielded a mammoth-ivory baton with four spirally grooved holes. Experiments published in 2024 showed it was most likely used to make rope."
+    },
+    {
+      "id": "lake-mungo",
+      "name": "Lake Mungo",
+      "country": "Australia",
+      "region": "oceania",
+      "lat": -33.72,
+      "lon": 143.1,
+      "start": 42000,
+      "end": 40000,
+      "dateLabel": "about 42,000–40,000 years ago",
+      "type": "burial",
+      "summary": "Dry lake in New South Wales where the burials known as Mungo Lady and Mungo Man were dated by optically stimulated luminescence to around 40,000 years, a showcase of luminescence dating."
+    },
+    {
+      "id": "monte-verde",
+      "name": "Monte Verde",
+      "country": "Chile",
+      "region": "americas",
+      "lat": -41.5,
+      "lon": -73.2,
+      "start": 14500,
+      "end": 14500,
+      "dateLabel": "about 14,500 years ago",
+      "type": "settlement",
+      "summary": "Waterlogged campsite in southern Chile whose radiocarbon dates showed that people had reached South America before the Clovis culture, preserving wood, plants and even a footprint."
+    }
+  ],
+  "themes": [
+    "technology",
+    "species",
+    "genetics",
+    "climate",
+    "migration"
+  ],
+  "sources": [
+    {
+      "cite": "Thomsen, C. J. (1836). Ledetraad til Nordisk Oldkyndighed. Copenhagen: Kongelige Nordiske Oldskrift-Selskab. English translation: A Guide to Northern Antiquities (1848)."
+    },
+    {
+      "cite": "Lubbock, J. (1865). Pre-historic Times, as Illustrated by Ancient Remains, and the Manners and Customs of Modern Savages. London: Williams and Norgate."
+    },
+    {
+      "cite": "Goodwin, A. J. H. & van Riet Lowe, C. (1929). The Stone Age Cultures of South Africa. Annals of the South African Museum 27, 1–289."
+    },
+    {
+      "cite": "Harmand, S. et al. (2015). 3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya. Nature 521, 310–315.",
+      "doi": "10.1038/nature14464"
+    },
+    {
+      "cite": "Hardy, B. L. et al. (2020). Direct evidence of Neanderthal fibre technology and its cognitive and behavioral implications. Scientific Reports 10, 4889.",
+      "doi": "10.1038/s41598-020-61839-w"
+    },
+    {
+      "cite": "Conard, N. J. & Rots, V. (2024). Rope making in the Aurignacian of Central Europe more than 35,000 years ago. Science Advances 10, eadh5217.",
+      "doi": "10.1126/sciadv.adh5217"
+    },
+    {
+      "cite": "Slon, V. et al. (2017). Neandertal and Denisovan DNA from Pleistocene sediments. Science 356, 605–608."
+    },
+    {
+      "cite": "Madupe, P. P. et al. (2025). Enamel proteins reveal biological sex and genetic variability in southern African Paranthropus. Science 388, 969.",
+      "doi": "10.1126/science.adt9539"
+    },
+    {
+      "cite": "Green, D. R. et al. (2025). Eighteen million years of diverse enamel proteomes from the East African Rift. Nature.",
+      "doi": "10.1038/s41586-025-09040-9"
+    },
+    {
+      "cite": "Lisiecki, L. E. & Raymo, M. E. (2005). A Pliocene–Pleistocene stack of 57 globally distributed benthic δ18O records. Paleoceanography 20, PA1003."
+    }
+  ]
+}

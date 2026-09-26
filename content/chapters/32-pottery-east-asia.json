@@ -1,0 +1,201 @@
+{
+  "id": "pottery-east-asia",
+  "order": 32,
+  "act": "warming",
+  "title": "Pots Before Farms",
+  "subtitle": "Hunter-gatherer pottery and the Jōmon world",
+  "era": "Late Upper Palaeolithic to Jōmon",
+  "start": 20000,
+  "end": 3000,
+  "dateLabel": "c. 18,000–1000 BCE",
+  "regions": ["asia"],
+  "focus": [108, 22, 146, 50],
+  "emblem": "pottery",
+  "summary": "In East Asia people made pottery long before anyone farmed: at Xianrendong in China some 20,000 years ago, and in Japan and the Amur basin soon after. In Japan, Jōmon foragers went on making pots, figurines and long-lived villages for more than ten thousand years, while managing forests and seas.",
+  "narration": [
+    "At the far end of Eurasia from Star Carr, people had been cooking in clay for thousands of years before anyone there planted a crop. In Xianrendong Cave in southern China, fragments of pots come from layers dated to about 20,000 years ago, in the depths of the last Ice Age. Pottery, it turns out, was an invention of hunter-gatherers.",
+    "In Japan the oldest pots are a few thousand years younger, and chemists have scraped their blackened crusts to learn what was cooked in them: fish and shellfish, again and again. From these beginnings grew the Jōmon, named for the cord patterns pressed into its clay. For more than ten thousand years Jōmon people fished, gathered chestnuts and walnuts, hunted deer and boar, and built villages that lasted for generations. At Sannai-Maruyama, in the far north of Honshu, a settlement lived in for some 1,700 years grew up around a structure raised on six chestnut posts, each about a metre thick.",
+    "They fired some of the most extravagant pottery ever made, vessels crowned with swirling flames of clay, and thousands of figurines with masks and goggle eyes. They were not farmers in any ordinary sense, yet they tended chestnut groves and domesticated beans. Their skeletons show remarkably few signs of violence, and their genes still run in people across the Japanese islands today."
+  ],
+  "pronounce": {
+    "Xianrendong": "Shyen-ren-dong",
+    "Jōmon": "Joh-mon",
+    "Sannai-Maruyama": "San-nigh Mah-roo-yah-mah",
+    "Honshu": "Hon-shoo"
+  },
+  "body": [
+    {
+      "heading": "Pottery before farming",
+      "paragraphs": [
+        "For a century archaeologists treated pottery as part of a “Neolithic package” that arrived together with farming, villages and polished stone axes. East Asia broke that package apart. In 2012 a team led by Wu Xiaohong and Ofer Bar-Yosef reported radiocarbon dates from Xianrendong Cave in Jiangxi province, southern China: the layers holding the oldest sherds date to between about 20,000 and 19,000 years ago, near the coldest part of the last Ice Age. Some sherds are scorched on the outside, as if from cooking. At Yuchanyan Cave in Hunan, Elisabetta Boaretto and colleagues dated pottery to roughly 18,000 to 15,000 years ago.",
+        "In northern Japan, charred residue on plain sherds from Odai Yamamoto I has been dated to about 16,500 years ago, and in the Amur River basin of the Russian Far East, at sites such as Gasya and Khummi, pottery appears from about 16,000 years ago. The people who made these vessels were mobile or semi-settled hunter-gatherers and fishers. Whether pottery was invented once and spread, or several times in different parts of East Asia, is unresolved; differences in shape, clay and timing make several separate beginnings plausible."
+      ]
+    },
+    {
+      "heading": "What the first pots cooked",
+      "paragraphs": [
+        "Chemistry can reveal what went into a pot. Fats and oils soak into porous clay and survive for millennia, and their molecular makeup and carbon isotopes point to their source. In 2013 Oliver Craig and colleagues analysed charred deposits on 101 sherds from Incipient Jōmon sites across Japan, roughly 15,000 to 11,800 years old. Most held fats from fish and shellfish, marine or freshwater. A 2016 study led by Alexandre Lucquin found the same aquatic signal continuing through some 9,000 years of Jōmon history. Studies of early pots from the Russian Far East have found aquatic signals too, although some groups also cooked land animals and plants, so the new containers served different needs in different places.",
+        "Why would hunter-gatherers bother with heavy, breakable containers? Boiling makes it possible to render oil from fish, open shellfish, soften tough plants, leach bitter acorns and make soups for infants and the old. Brian Hayden has argued that the earliest pots, which are rare, were prestige vessels for feasts. The residue evidence so far favours everyday processing of aquatic foods, at least in Japan."
+      ]
+    },
+    {
+      "heading": "Across Eurasia",
+      "paragraphs": [
+        "From the Pacific, hunter-gatherer pottery spread west across Siberia and the steppe over the following millennia, reaching the Volga region by around 7000 BCE and the Baltic and the Ertebølle foragers of Denmark by about 4700 BCE (chapter 31). Modelling by Peter Jordan and colleagues in 2016 traced this as a slow dispersal among hunter-gatherers across northern Eurasia, separate from the pottery that farmers in Southwest Asia adopted around 7000 BCE and from the independent invention of pottery in the Sahara (chapter 36)."
+      ]
+    },
+    {
+      "heading": "Ten thousand years of Jōmon",
+      "paragraphs": [
+        "In 1877 the American zoologist Edward S. Morse, digging the Ōmori shell mound in Tokyo, described its pottery as “cord marked”. Translated into Japanese as Jōmon, the phrase became the name of a culture that lasted from about 14,500 BCE until rice farming arrived in the first millennium BCE. Archaeologists divide it into six periods: Incipient, Initial, Early, Middle, Late and Final. Populations peaked in the Middle Jōmon, roughly 3500 to 2500 BCE, especially in the chestnut and walnut forests of central and northeastern Honshu.",
+        "Jōmon potters made some of the most extravagant vessels ever fired. Middle Jōmon “flame-style” pots from the Shinano River basin in Niigata have rims that erupt into swirling crests; a group from the Sasayama site is a National Treasure. They also made thousands of clay figurines called dogū: pregnant women, masked figures, and the goggle-eyed dogū of the Final Jōmon, named for eyes that resemble snow goggles. Many were deliberately broken. Lacquer from the urushi tree was used early: red lacquered threads from the Kakinoshima site in Hokkaido are about 9,000 years old. Around the coasts, thousands of shell middens record meals of clams, oysters, fish, seals and deer."
+      ]
+    },
+    {
+      "heading": "Sannai-Maruyama",
+      "paragraphs": [
+        "Sannai-Maruyama, in Aomori at the northern tip of Honshu, came to light in 1992 during work on a baseball stadium; the project was cancelled and the site preserved. It was lived in from about 3900 to 2200 BCE. Excavators have found hundreds of pit dwellings, long communal buildings, rows of adult graves along a road, infants buried in pots, and mounds of discarded pottery and figurines. Its best-known feature is a rectangle of six post holes, 4.2 m apart, that held chestnut trunks about a metre across. How tall the structure stood, and whether it had floors or a roof, is unknown; the full-size reconstruction on the site is one guess.",
+        "Pollen from the site is dominated by chestnut, and studies of chestnut wood and DNA suggest that the villagers managed groves of the trees. Jadeite from Itoigawa, more than 400 km to the southwest, and obsidian from Hokkaido show exchange networks reaching across seas and mountains."
+      ]
+    },
+    {
+      "heading": "Foragers who cultivated",
+      "paragraphs": [
+        "The Jōmon were long described as “affluent foragers” with no need to farm. That picture has blurred. Impressions of seeds in pottery, cast in silicone and studied by Hiroki Obata and others, show soybeans and azuki beans growing larger over the Middle Jōmon, a sign of cultivation and early domestication. In 2011 Gyoung-Ah Lee, Gary Crawford and colleagues argued that soybean was domesticated separately in Japan, Korea and China. Jōmon people also grew bottle gourd, managed chestnut and lacquer trees, and may have domesticated barnyard millet in the north. None of this made them dependent on crops. Wet rice farming arrived with the Yayoi culture, in northern Kyushu from around 1000 to 800 BCE according to radiocarbon dates, and spread north over the following centuries."
+      ]
+    },
+    {
+      "heading": "Genes, peace and neighbours",
+      "paragraphs": [
+        "Jōmon genomes, such as those from Funadomari on Rebun Island and the Ikawazu shell mound in Aichi, belong to a deeply divergent East Asian lineage that became isolated on the archipelago early, perhaps during or before the Last Glacial Maximum, although estimates vary widely. In 2021 Niall Cooke, Shigeki Nakagome and colleagues showed that modern Japanese carry three layers of ancestry: Jōmon, a northeast Asian component that came with Yayoi rice farmers, and an East Asian component that arrived in the Kofun period. The Ainu of Hokkaido retain the most Jōmon ancestry, Okinawans the next most, and mainland Japanese a minority share.",
+        "A 2016 survey by Hisashi Nakao and colleagues found signs of violent injury on only about 1.8 percent of Jōmon skeletons, low compared with many prehistoric societies. Across the Korea Strait, the Chulmun (or Jeulmun) comb-pattern pottery culture flourished from around 8000 BCE, with still older sherds at Gosan-ri on Jeju Island, and its foragers took up millet cultivation from around 3500 BCE. In 2021 seventeen Jōmon sites in Hokkaido and northern Tohoku, including Sannai-Maruyama, became a UNESCO World Heritage Site."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Why did hunter-gatherers invent pottery?",
+      "views": [
+        {"label": "Processing aquatic foods", "text": "Oliver Craig, Alexandre Lucquin, Peter Jordan and colleagues point to lipid residues showing that early Jōmon and Russian Far Eastern pots were mostly used for fish and shellfish, perhaps to render oil, cook seasonal gluts and store food. On this view pottery was a practical tool for intensive use of rivers and coasts."},
+        {"label": "Feasting and prestige", "text": "Brian Hayden has argued that the first pots were costly, scarce objects used in competitive feasts, which would explain why so few vessels appear at the earliest sites."},
+        {"label": "Cooking in the cold", "text": "Researchers working in southern China, including the Xianrendong team, have suggested that boiling helped people extract more energy from limited foods, including starchy plants and bone grease, during the harsh conditions of the Last Glacial Maximum."}
+      ],
+      "status": "Residue evidence supports aquatic processing in Japan and the Russian Far East, but the oldest Chinese pots have been less studied chemically. Most researchers now think pottery was invented more than once in East Asia and served different purposes in different places."
+    },
+    {
+      "question": "Were the Jōmon farmers?",
+      "views": [
+        {"label": "Affluent foragers", "text": "The classic view holds that abundant nuts, fish, shellfish and game allowed the Jōmon to live in large, long-lasting villages without farming, making them a textbook case of complex hunter-gatherers."},
+        {"label": "Low-level food producers", "text": "Gary Crawford, Hiroki Obata, Junko Habu and others emphasise managed chestnut and lacquer groves, domesticated soybean and azuki beans, and possible barnyard millet domestication. They see the Jōmon as practising food production that never became dependence on staple crops, what Bruce Smith called low-level food production."}
+      ],
+      "status": "Most specialists now accept that Jōmon people cultivated and domesticated some plants, but that wild foods remained the backbone of their economy until rice farming arrived with Yayoi migrants. The case shows that the line between foraging and farming is a continuum."
+    },
+    {
+      "question": "Was Jōmon society unusually peaceful?",
+      "views": [
+        {"label": "Low violence", "text": "Hisashi Nakao and colleagues (2016) surveyed thousands of Jōmon skeletons and found violent injuries on about 1.8 percent, a rate lower than many estimates for prehistoric foragers, suggesting that warfare was not a constant feature of hunter-gatherer life."},
+        {"label": "Caution", "text": "Critics note that many injuries leave no mark on bone, that samples come mostly from shell middens in certain regions and periods where bones survive well, and that low rates may reflect low population density rather than a peaceful culture. Comparisons across studies use different methods."}
+      ],
+      "status": "The low rate is widely accepted as real for the available samples, and it contrasts with the fortified villages and higher injury rates of the Yayoi period. What it says about hunter-gatherer violence in general remains contested."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Oldest pottery", "value": "Xianrendong, China, about 20,000–19,000 years ago"},
+    {"label": "Oldest pottery in Japan", "value": "Odai Yamamoto I, about 16,500 years ago"},
+    {"label": "First contents identified", "value": "Fish and shellfish in Incipient Jōmon pots (2013)"},
+    {"label": "Sannai-Maruyama", "value": "c. 3900–2200 BCE, Aomori"},
+    {"label": "Violent injuries", "value": "About 1.8 percent of Jōmon skeletons (2016 study)"},
+    {"label": "World Heritage", "value": "17 Jōmon sites in northern Japan, 2021"}
+  ],
+  "sites": [
+    {
+      "id": "xianrendong",
+      "name": "Xianrendong Cave",
+      "country": "China",
+      "region": "asia",
+      "lat": 28.72, "lon": 117.18,
+      "start": 20000, "end": 19000,
+      "dateLabel": "c. 18,000–17,000 BCE",
+      "type": "tools",
+      "summary": "Cave in Jiangxi whose oldest pottery sherds, some scorched from cooking, come from layers dated to about 20,000 years ago, the earliest known pottery."
+    },
+    {
+      "id": "yuchanyan",
+      "name": "Yuchanyan Cave",
+      "country": "China",
+      "region": "asia",
+      "lat": 25.50, "lon": 111.50,
+      "start": 18300, "end": 15500,
+      "dateLabel": "c. 16,300–13,500 BCE",
+      "type": "tools",
+      "summary": "Cave in Hunan with some of the world’s oldest pottery, dated by radiocarbon on associated charcoal and bone."
+    },
+    {
+      "id": "odai-yamamoto-i",
+      "name": "Odai Yamamoto I",
+      "country": "Japan",
+      "region": "asia",
+      "lat": 41.05, "lon": 140.63,
+      "start": 16500, "end": 16000,
+      "dateLabel": "c. 14,500 BCE",
+      "type": "tools",
+      "summary": "Site on the Tsugaru peninsula whose plain sherds carry charred residue dated to about 16,500 years ago, the oldest pottery in Japan."
+    },
+    {
+      "id": "gasya",
+      "name": "Gasya",
+      "country": "Russia",
+      "region": "asia",
+      "lat": 48.74, "lon": 135.63,
+      "start": 16000, "end": 13000,
+      "dateLabel": "c. 14,000–11,000 BCE",
+      "type": "tools",
+      "summary": "Amur River site with some of the earliest pottery of the Russian Far East, made by Late Glacial fisher-hunters."
+    },
+    {
+      "id": "omori-shell-mound",
+      "name": "Ōmori shell mound",
+      "country": "Japan",
+      "region": "asia",
+      "lat": 35.59, "lon": 139.73,
+      "start": 4000, "end": 3000,
+      "dateLabel": "c. 2000–1000 BCE",
+      "type": "settlement",
+      "summary": "Late Jōmon shell midden in Tokyo excavated by Edward S. Morse in 1877, the birthplace of Japanese scientific archaeology and of the name “cord marked” pottery."
+    },
+    {
+      "id": "sannai-maruyama",
+      "name": "Sannai-Maruyama",
+      "country": "Japan",
+      "region": "asia",
+      "lat": 40.81, "lon": 140.70,
+      "start": 5900, "end": 4200,
+      "dateLabel": "c. 3900–2200 BCE",
+      "type": "settlement",
+      "summary": "Large, long-lived Jōmon village with hundreds of pit houses, a six-post chestnut structure, cemeteries along a road and evidence of managed chestnut groves."
+    },
+    {
+      "id": "gosan-ri",
+      "name": "Gosan-ri",
+      "country": "South Korea",
+      "region": "asia",
+      "lat": 33.30, "lon": 126.17,
+      "start": 12000, "end": 11000,
+      "dateLabel": "c. 10,000 BCE",
+      "type": "tools",
+      "summary": "Site on Jeju Island with Korea’s oldest known pottery, a forerunner of the Chulmun comb-pattern tradition."
+    }
+  ],
+  "themes": ["technology", "food", "art", "settlement", "farming", "genetics", "violence"],
+  "sources": [
+    {"cite": "Boaretto, E. et al. (2009). Radiocarbon dating of charcoal and bone collagen associated with early pottery at Yuchanyan Cave, Hunan Province, China. PNAS 106, 9595–9600."},
+    {"cite": "Wu, X. et al. (2012). Early pottery at 20,000 years ago in Xianrendong Cave, China. Science 336, 1696–1700."},
+    {"cite": "Craig, O. E. et al. (2013). Earliest evidence for the use of pottery. Nature 496, 351–354."},
+    {"cite": "Lucquin, A. et al. (2016). Ancient lipids document continuity in the use of early hunter–gatherer pottery through 9,000 years of Japanese prehistory. PNAS 113, 3991–3996."},
+    {"cite": "Jordan, P. et al. (2016). Modelling the diffusion of pottery technologies across Afro-Eurasia: emerging insights and future research. Antiquity 90."},
+    {"cite": "Habu, J. (2004). Ancient Jomon of Japan. Cambridge: Cambridge University Press."},
+    {"cite": "Lee, G.-A., Crawford, G. W., Liu, L., Sasaki, Y. & Chen, X. (2011). Archaeological soybean (Glycine max) in East Asia: does size matter? PLOS ONE 6, e26720."},
+    {"cite": "Nakao, H. et al. (2016). Violence in the prehistoric period of Japan: the spatio-temporal pattern of skeletal evidence for violence in the Jomon period. Biology Letters 12, 20160028."},
+    {"cite": "Cooke, N. P. et al. (2021). Ancient genomics reveals tripartite origins of Japanese populations. Science Advances 7, eabh2419."}
+  ]
+}

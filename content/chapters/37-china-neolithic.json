@@ -1,0 +1,402 @@
+{
+  "id": "china-neolithic",
+  "order": 37,
+  "act": "transition",
+  "title": "Millet, Rice and Jade",
+  "subtitle": "Neolithic China from Cishan to Shimao, and the crossing to Taiwan",
+  "era": "Neolithic China",
+  "start": 10000,
+  "end": 3800,
+  "dateLabel": "c. 8000–1800 BCE",
+  "regions": [
+    "asia"
+  ],
+  "focus": [
+    100,
+    18,
+    126,
+    44
+  ],
+  "emblem": "rice",
+  "summary": "Two separate farming traditions, millet on the northern loess and rice in the Yangtze wetlands, grew over thousands of years into jade-rich, walled and water-engineered societies such as Liangzhu and Shimao, while people from the southern coast settled Taiwan and began the Austronesian expansion.",
+  "narration": [
+    "Around 10,000 years ago, at a place called Cishan on the edge of the North China Plain, villagers dug storage pits into the ground and filled them with the tiny seeds of broomcorn millet. Far to the south, in the wetlands of the lower Yangtze, their contemporaries at Shangshan were mixing rice husks into their pottery clay and, according to a 2024 study, brewing rice into a kind of beer.",
+    "These were two separate inventions of farming, one built on dry loess and millet, the other on marshes and rice, and neither happened quickly. For thousands of years people went on hunting, fishing and gathering acorns and wild grain while their crops slowly changed. At Jiahu, about 9,000 years ago, villagers played flutes cut from the wing bones of cranes and scratched signs onto tortoise shells.",
+    "By 5,000 years ago the scale had changed. At Liangzhu, near modern Hangzhou, a walled city of about 300 hectares sat behind a system of earthen dams, and its leaders were buried with carved jade tubes, discs and axes. Far to the north, on the Loess Plateau, the stone walls of Shimao rose above the valleys, with carved faces set into its central platform and dozens of skulls, most of them from men, buried by its gate.",
+    "Meanwhile, people from the southern coast crossed a narrow strait to Taiwan. Their descendants would carry the Austronesian languages across more than half the globe, from Madagascar to Rapa Nui."
+  ],
+  "pronounce": {
+    "Cishan": "Tsuh-shahn",
+    "Shangshan": "Shahng-shahn",
+    "Jiahu": "Jyah-hoo",
+    "Liangzhu": "Lyahng-joo",
+    "Hangzhou": "Hahng-joe",
+    "Shimao": "Shr-mao"
+  },
+  "body": [
+    {
+      "heading": "Two cradles, two crops",
+      "paragraphs": [
+        "China did not have one agricultural revolution but at least two. In the north, on the wind-blown loess of the Yellow River basin, the crops were broomcorn millet (Panicum miliaceum) and foxtail millet (Setaria italica): drought-tolerant grasses with seeds the size of a pinhead. Starch grains on grinding stones and on an early potsherd from Nanzhuangtou (about 11,500–11,000 years ago) and Donghulin (about 11,000–9,500 years ago) show that people near modern Beijing were already processing millet-like grasses at the end of the Ice Age.",
+        "The clearest early evidence comes from Cishan in Hebei, where excavators in the 1970s found dozens of storage pits with decayed grain. In 2009 Lu Houyuan and colleagues re-examined new pits using husk phytoliths (microscopic silica bodies that differ between the two millets) and biomolecular markers. The stored grain, dated to about 10,300–8,700 years ago, was almost entirely broomcorn millet; foxtail millet appeared only after about 8,700 years ago and later became the staple of the Yangshao villages. Pigs and dogs completed the northern farmyard.",
+        "In the south the crop was rice. At Shangshan in Zhejiang, occupied from about 11,000 years ago, potters tempered their clay with rice husks and chaff. A 2024 study in PNAS analysed residues inside Shangshan vessels from about 10,000–9,000 years ago and found rice phytoliths, starch damaged by fermentation and the remains of Monascus mould and yeast: evidence, the authors argue, of a rice beer made with a qu-type starter, one of the ways a new crop could become socially important long before it fed people year round."
+      ]
+    },
+    {
+      "heading": "Rice in slow motion",
+      "paragraphs": [
+        "Wild rice sheds its grains as soon as they ripen; domesticated rice holds them until harvest. That single trait, visible in the scar on the spikelet base, lets archaeobotanists watch domestication happen. At Tianluoshan, a waterlogged village near Hemudu dated to about 7,000 years ago, Dorian Fuller and colleagues found in 2009 that the share of non-shattering spikelets rose only from 27 to 39 percent between about 6,900 and 6,600 years ago. The villagers were still eating large amounts of acorns, water chestnuts and wild rice.",
+        "Hemudu and Tianluoshan also preserve an astonishing wooden world: houses raised on piles and joined with mortise-and-tenon joints, paddles, bone spades made from water-buffalo shoulder blades, and lacquered wood. At Kuahuqiao, near Hangzhou, excavators in 2002 uncovered a pine dugout canoe about 5.6 metres long, dated to about 8,000 years ago, beside a mix of wild-type and domestic-type rice.",
+        "In 2024 a team including Lu Houyuan used a different marker, the fish-scale pattern on rice leaf phytoliths, in long sediment sequences from Shangshan and Hehuashan. They proposed a trajectory stretching over 100,000 years: wild rice growing locally, gathering by about 24,000 years ago, cultivation of still-wild plants by about 13,000 years ago and domestication by about 11,000 years ago."
+      ]
+    },
+    {
+      "heading": "Jiahu: flutes, drink and signs",
+      "paragraphs": [
+        "Jiahu, on the Huai River plain in Henan, was occupied between about 7000 and 5700 BCE. Its cemetery yielded more than thirty flutes made from the wing bones of red-crowned cranes, with five to eight finger holes; announced in Nature in 1999 by Zhang Juzhong and colleagues, some can still be played. In 2004 Patrick McGovern’s team analysed residues in Jiahu jars dated to about 7000–6600 BCE and identified a fermented drink of rice, honey and fruit, probably hawthorn or grape.",
+        "Signs incised on tortoise shells, most dated to about 6600–6200 BCE, include shapes that resemble later Chinese characters for “eye” and some numerals. The 2003 report by Li Xueqin and colleagues was careful: this was sign use, not writing, part of a long tradition that eventually led to the oracle-bone script some 5,000 years later. Jiahu also grew rice, showing how early the crop moved north of the Yangtze."
+      ]
+    },
+    {
+      "heading": "Painted pots, jade dragons and graded graves",
+      "paragraphs": [
+        "Between about 5000 and 3000 BCE the Yangshao culture spread across the middle Yellow River. At Banpo, near Xi’an, excavated in the 1950s, a ditch enclosed round and square semi-subterranean houses, with kilns and a cemetery outside; children were buried in pottery urns among the houses. Yangshao potters painted fish, human faces and spirals in red and black. At Xishuipo in Puyang, grave M45, dated to roughly 6,500 years ago, held a tall man flanked by a dragon and a tiger laid out in white clamshells, often called China’s first dragon.",
+        "In the north-east the Hongshan culture (about 4500–3000 BCE) built a ritual landscape at Niuheliang in Liaoning between about 3500 and 3000 BCE: stone cairn tombs, round and square altars and a so-called Goddess Temple where a clay female head with inlaid jade eyes was found. Hongshan carvers made coiled jade “pig dragons”. In Shandong, Dawenkou cemeteries (about 4100–2600 BCE) show graves grading from bare pits to burials with ivory, jade and dozens of fine pots, plus signs incised on large jars."
+      ]
+    },
+    {
+      "heading": "Liangzhu: a city built on water",
+      "paragraphs": [
+        "The Liangzhu culture of the lower Yangtze (about 3300–2300 BCE) produced the most ambitious Neolithic landscape in East Asia. Its capital, north-west of Hangzhou, covered about 300 hectares inside walls laid on stone foundations, with a raised palace platform at Mojiaoshan and elite cemeteries at Fanshan and Yaoshan full of jade cong tubes, bi discs and ceremonial axes carved with a recurring god-and-beast face.",
+        "Beyond the city lay eleven earthen dams, high dams closing valley mouths and low dams linking hills on the plain. Radiocarbon dates published by Liu Bin and colleagues in 2017 place their construction around 5,100–4,900 years ago; the team estimated that building the water-control system took thousands of workers several years. UNESCO inscribed the site in 2019 as evidence of an early rice-based urban society. Stalagmites from Shennong and Jiulong caves, studied by Zhang Haiwei and colleagues in 2021, record exceptionally heavy monsoon rains around 4,345–4,324 years ago, when flood silts buried much of the Liangzhu heartland."
+      ]
+    },
+    {
+      "heading": "Walls, sacrifice and the first metal",
+      "paragraphs": [
+        "During the Longshan period (about 3000–1900 BCE) walled towns multiplied along the Yellow River. At Taosi in Shanxi, the middle-phase enclosure of about 2.8 square kilometres was among the largest in prehistoric China. The excavators interpreted a semicircular rammed-earth structure with gaps between pillars as a solar observatory marking solstices, though a 2025 paper argues that the surrounding walls would have blocked the sunrise.",
+        "Shimao, in northern Shaanxi (about 2300–1800 BCE), was a stone-walled enclosure of more than 400 hectares centred on Huangchengtai, a terraced platform with about 70 stone carvings of faces, animals and geometric designs. Pits by the east gate held around 80 skulls. A 2025 Nature study led by Fu Qiaomei, based on genomes from 169 people, found that Shimao’s population descended mainly from local Yangshao-period farmers, reconstructed patrilineal families over four generations, and showed that the skull-pit victims were mostly men while the attendants killed for elite tombs were almost all women.",
+        "Many of these centres declined around 2200–1900 BCE, during the drought known as the 4.2-thousand-year event. Metal arrived from the north-west: a bronze knife from Linjia in Gansu, dated to about 2900–2740 BCE, may itself be an import, and copper working spread through Qijia communities before the bronze vessels of Erlitou."
+      ]
+    },
+    {
+      "heading": "Genes, languages and the crossing to Taiwan",
+      "paragraphs": [
+        "Ancient DNA shows two distinct Neolithic populations. A 2020 Science study led by Melinda Yang and Qiaomei Fu, with genomes from 26 people spanning 9,500 to 300 years ago, found that northern farmers along the Yellow River were closest to most present-day East Asians, while early people from Fujian and the Taiwan Strait islands were closest to Austronesian speakers. Northern ancestry later spread south. Two 2019 language studies, Laurent Sagart’s team in PNAS and Zhang Menghan’s in Nature, placed the origin of the Sino-Tibetan family among northern millet farmers about 7,200 or 5,900 years ago.",
+        "On Liang Island, off Fujian, a man buried in a shell midden about 8,300 years ago carries an ancestral form of mitochondrial lineage E, today found almost only among Austronesian speakers. Around 6,000 years ago the Dapenkeng culture, with cord-marked pottery, appeared in Taiwan, and by about 5,000 years ago rice and millet were grown at Nanguanli. Linguists led by Robert Blust note that nine of the ten primary branches of Austronesian are spoken only on Taiwan. By about 2000 BCE red-slipped pottery like Taiwan’s appeared at Nagsabaran in northern Luzon, and nephrite from Fengtian in eastern Taiwan later travelled across the South China Sea. The Pacific voyages that followed belong to a later chapter."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "When was rice domesticated?",
+      "views": [
+        {
+          "label": "Early domestication",
+          "text": "Lu Houyuan, Zuo Xinxin, Jiang Leping and colleagues argue from phytoliths at Shangshan and Hehuashan, including the number of fish-scale decorations on leaf phytoliths and direct radiocarbon dates on phytolith carbon, that domesticated rice was present by about 11,000–9,000 years ago, making the lower Yangtze one of the earliest centres of plant domestication anywhere (Science, 2024)."
+        },
+        {
+          "label": "Protracted domestication",
+          "text": "Dorian Fuller, Qin Ling and colleagues rely on spikelet bases, which record the loss of shattering directly. At Tianluoshan only 27–39 percent of spikelets were non-shattering around 6,900–6,600 years ago, so they see millennia of cultivation of largely wild rice and full domestication only around 6,000 years ago. They question whether phytolith patterns track domestication rather than growing conditions."
+        }
+      ],
+      "status": "Both sides now agree that rice was being cultivated in the lower Yangtze by about 10,000 years ago and that change was slow; the dispute is over when fully domestic rice dominated. Well-dated spikelet bases from Shangshan-period sites would settle much of it."
+    },
+    {
+      "question": "Was Liangzhu a state?",
+      "views": [
+        {
+          "label": "An early state",
+          "text": "Colin Renfrew and Liu Bin (Antiquity, 2018), and most Chinese archaeologists, argue that a planned capital, dams needing thousands of workers, a standardised jade iconography across the region and a steep burial hierarchy show a state-level society around 3000 BCE, without writing or metal."
+        },
+        {
+          "label": "A complex chiefdom or theocratic polity",
+          "text": "More cautious scholars, applying definitions that stress bureaucracy, record keeping and firm control over a large territory, note that the evidence for administration beyond the Liangzhu basin is thin and that shared jade symbols could reflect religion rather than government."
+        }
+      ],
+      "status": "The dispute is partly about definitions. UNESCO’s 2019 inscription and ongoing survey of the wider water system have strengthened the case that Liangzhu was an exceptionally centralised society; whether to call it a state still depends on the criteria used."
+    },
+    {
+      "question": "Where did the Austronesians begin?",
+      "views": [
+        {
+          "label": "Out of Taiwan",
+          "text": "Peter Bellwood, Robert Blust and colleagues argue that rice and millet farmers from coastal south China settled Taiwan about 6,000 years ago and that their descendants moved to the Philippines about 4,000 years ago and onward. Evidence: Taiwan’s deep linguistic diversity, red-slipped pottery and Taiwan jade in Luzon, and ancient genomes from Liangdao and Fujian closely related to Austronesian speakers."
+        },
+        {
+          "label": "Island Southeast Asian origins",
+          "text": "Wilhelm Solheim’s Nusantao model, and later genetic arguments by Stephen Oppenheimer and others, placed the key developments in island Southeast Asia, with maritime trade networks spreading languages and goods in several directions rather than a single migration."
+        }
+      ],
+      "status": "In 2026 the Out of Taiwan model is the majority view for the language family, reinforced by ancient DNA. Debate continues over how much of the spread was migration versus mixing with local peoples, and over the role of farming as opposed to seafaring and trade."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Earliest millet store",
+      "value": "Broomcorn millet in pits at Cishan, about 10,300–8,700 years ago"
+    },
+    {
+      "label": "Rice cultivation",
+      "value": "Lower Yangtze, by about 10,000 years ago; domestication timing debated"
+    },
+    {
+      "label": "Oldest playable flutes in China",
+      "value": "Crane-bone flutes from Jiahu, about 7000–5700 BCE"
+    },
+    {
+      "label": "Liangzhu",
+      "value": "Walled city of about 300 hectares with eleven dams, about 3300–2300 BCE; UNESCO 2019"
+    },
+    {
+      "label": "Shimao",
+      "value": "Stone-walled centre of more than 400 hectares, about 2300–1800 BCE"
+    },
+    {
+      "label": "Taiwan settled",
+      "value": "About 6,000 years ago; departures to Luzon by about 2000 BCE"
+    }
+  ],
+  "sites": [
+    {
+      "id": "cishan",
+      "name": "Cishan",
+      "country": "China",
+      "region": "asia",
+      "lat": 36.57,
+      "lon": 114.11,
+      "start": 10300,
+      "end": 8700,
+      "dateLabel": "c. 8300–6700 BCE",
+      "type": "farming",
+      "summary": "Storage pits held broomcorn millet, identified by husk phytoliths and biomolecular markers and dated to about 10,300–8,700 years ago. Foxtail millet appears only after about 8,700 years ago."
+    },
+    {
+      "id": "shangshan",
+      "name": "Shangshan",
+      "country": "China",
+      "region": "asia",
+      "lat": 29.46,
+      "lon": 119.96,
+      "start": 11000,
+      "end": 8500,
+      "dateLabel": "c. 9000–6500 BCE",
+      "type": "farming",
+      "summary": "Early pottery tempered with rice husks, rice phytoliths and residues of a fermented rice drink make Shangshan the key site in the debate over when rice cultivation began."
+    },
+    {
+      "id": "jiahu",
+      "name": "Jiahu",
+      "country": "China",
+      "region": "asia",
+      "lat": 33.61,
+      "lon": 113.67,
+      "start": 9000,
+      "end": 7700,
+      "dateLabel": "c. 7000–5700 BCE",
+      "type": "settlement",
+      "summary": "Village with more than thirty crane-bone flutes, residues of a fermented rice, honey and fruit drink, early rice, and signs incised on tortoise shells."
+    },
+    {
+      "id": "kuahuqiao",
+      "name": "Kuahuqiao",
+      "country": "China",
+      "region": "asia",
+      "lat": 30.15,
+      "lon": 120.22,
+      "start": 8200,
+      "end": 7000,
+      "dateLabel": "c. 6200–5000 BCE",
+      "type": "settlement",
+      "summary": "Waterlogged lakeside village with a pine dugout canoe about 5.6 metres long, dated to about 8,000 years ago, and a mix of wild-type and domestic-type rice."
+    },
+    {
+      "id": "tianluoshan",
+      "name": "Tianluoshan",
+      "country": "China",
+      "region": "asia",
+      "lat": 30.01,
+      "lon": 121.38,
+      "start": 7000,
+      "end": 5500,
+      "dateLabel": "c. 5000–3500 BCE",
+      "type": "farming",
+      "summary": "Hemudu-culture village where rice spikelet bases record slow domestication, with non-shattering types rising from 27 to 39 percent over about three centuries."
+    },
+    {
+      "id": "banpo",
+      "name": "Banpo",
+      "country": "China",
+      "region": "asia",
+      "lat": 34.27,
+      "lon": 109.05,
+      "start": 6800,
+      "end": 6300,
+      "dateLabel": "c. 4800–4300 BCE",
+      "type": "settlement",
+      "summary": "Ditch-enclosed Yangshao village with semi-subterranean houses, kilns, painted pottery and a cemetery, excavated in the 1950s near Xi’an."
+    },
+    {
+      "id": "xishuipo",
+      "name": "Xishuipo",
+      "country": "China",
+      "region": "asia",
+      "lat": 35.71,
+      "lon": 115.01,
+      "start": 6600,
+      "end": 6300,
+      "dateLabel": "c. 4600–4300 BCE",
+      "type": "burial",
+      "summary": "Yangshao-period grave M45, a man flanked by a dragon and a tiger made from clamshells, dated to roughly 6,500 years ago, though the dating is not fully settled."
+    },
+    {
+      "id": "niuheliang",
+      "name": "Niuheliang",
+      "country": "China",
+      "region": "asia",
+      "lat": 41.33,
+      "lon": 119.51,
+      "start": 5500,
+      "end": 5000,
+      "dateLabel": "c. 3500–3000 BCE",
+      "type": "monument",
+      "summary": "Hongshan ritual complex of stone cairn tombs, altars and the “Goddess Temple”, with a clay head with jade eyes and jade pig-dragons; no ordinary settlement has been found."
+    },
+    {
+      "id": "liangzhu",
+      "name": "Liangzhu",
+      "country": "China",
+      "region": "asia",
+      "lat": 30.4,
+      "lon": 119.99,
+      "start": 5300,
+      "end": 4300,
+      "dateLabel": "c. 3300–2300 BCE",
+      "type": "settlement",
+      "summary": "Walled city of about 300 hectares with a palace platform, jade-rich elite cemeteries and eleven dams built about 5,100–4,900 years ago. UNESCO World Heritage since 2019."
+    },
+    {
+      "id": "taosi",
+      "name": "Taosi",
+      "country": "China",
+      "region": "asia",
+      "lat": 35.88,
+      "lon": 111.5,
+      "start": 4300,
+      "end": 3900,
+      "dateLabel": "c. 2300–1900 BCE",
+      "type": "settlement",
+      "summary": "Longshan-period walled town of about 2.8 square kilometres with a highly unequal cemetery and a semicircular structure claimed as a solar observatory."
+    },
+    {
+      "id": "shimao",
+      "name": "Shimao",
+      "country": "China",
+      "region": "asia",
+      "lat": 38.57,
+      "lon": 110.29,
+      "start": 4300,
+      "end": 3800,
+      "dateLabel": "c. 2300–1800 BCE",
+      "type": "settlement",
+      "summary": "Stone-walled centre of more than 400 hectares with the terraced Huangchengtai platform, about 70 stone carvings and skull pits by the east gate; ancient DNA published in 2025 reveals patrilineal kinship."
+    },
+    {
+      "id": "liangdao",
+      "name": "Liangdao (Liang Island)",
+      "country": "Taiwan (Matsu Islands)",
+      "region": "asia",
+      "lat": 26.36,
+      "lon": 120.25,
+      "start": 8300,
+      "end": 7500,
+      "dateLabel": "c. 6300–5600 BCE",
+      "type": "burial",
+      "summary": "Burials in a shell midden, the oldest about 8,300 years old, whose DNA links early coastal people of the Taiwan Strait with present-day Austronesian speakers."
+    }
+  ],
+  "routes": [
+    {
+      "id": "out-of-taiwan",
+      "label": "Out of Taiwan",
+      "start": 6000,
+      "end": 3800,
+      "certainty": "established",
+      "path": [
+        [
+          119.6,
+          26.1
+        ],
+        [
+          121.4,
+          25.15
+        ],
+        [
+          121.1,
+          22.75
+        ],
+        [
+          121.95,
+          20.45
+        ],
+        [
+          121.65,
+          18.2
+        ]
+      ]
+    }
+  ],
+  "themes": [
+    "farming",
+    "food",
+    "settlement",
+    "monuments",
+    "society",
+    "genetics",
+    "language",
+    "seafaring",
+    "music",
+    "migration"
+  ],
+  "sources": [
+    {
+      "cite": "Lu, H. et al. (2009). Earliest domestication of common millet (Panicum miliaceum) in East Asia extended to 10,000 years ago. PNAS 106, 7367–7372.",
+      "doi": "10.1073/pnas.0900158106"
+    },
+    {
+      "cite": "Fuller, D. Q. et al. (2009). The domestication process and domestication rate in rice: spikelet bases from the Lower Yangtze. Science 323, 1607–1610.",
+      "doi": "10.1126/science.1166605"
+    },
+    {
+      "cite": "Zhang, J. et al. (2024). Rice’s trajectory from wild to domesticated in East Asia. Science 384, 901–906.",
+      "doi": "10.1126/science.ade4487"
+    },
+    {
+      "cite": "McGovern, P. E. et al. (2004). Fermented beverages of pre- and proto-historic China. PNAS 101, 17593–17598.",
+      "doi": "10.1073/pnas.0407921102"
+    },
+    {
+      "cite": "Liu, B. et al. (2017). Earliest hydraulic enterprise in China, 5,100 years ago. PNAS 114, 13637–13642.",
+      "doi": "10.1073/pnas.1710516114"
+    },
+    {
+      "cite": "Zhang, H. et al. (2021). Collapse of the Liangzhu and other Neolithic cultures in the lower Yangtze region in response to climate change. Science Advances 7, eabi9275.",
+      "doi": "10.1126/sciadv.abi9275"
+    },
+    {
+      "cite": "Renfrew, C. and Liu, B. (2018). The emergence of complex society in China: the case of Liangzhu. Antiquity 92, 975–990."
+    },
+    {
+      "cite": "Yang, M. A. et al. (2020). Ancient DNA indicates human population shifts and admixture in northern and southern China. Science 369, 282–288.",
+      "doi": "10.1126/science.aba0909"
+    },
+    {
+      "cite": "Fu, Q. and colleagues (2025). Ancient DNA from Shimao city records kinship practices in Neolithic China. Nature.",
+      "doi": "10.1038/s41586-025-09799-x"
+    },
+    {
+      "cite": "Hung, H.-C. et al. (2007). Ancient jades map 3,000 years of prehistoric exchange in Southeast Asia. PNAS 104, 19745–19750.",
+      "doi": "10.1073/pnas.0707304104"
+    }
+  ]
+}

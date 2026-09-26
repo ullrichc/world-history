@@ -1,0 +1,310 @@
+{
+  "id": "first-farmers",
+  "order": 33,
+  "act": "transition",
+  "title": "The First Farmers",
+  "subtitle": "Domestication and villages in Southwest Asia, from Jericho to Çatalhöyük",
+  "era": "Pre-Pottery Neolithic A and B, early Pottery Neolithic",
+  "start": 11700,
+  "end": 7950,
+  "dateLabel": "c. 9700–5950 BCE",
+  "regions": [
+    "asia"
+  ],
+  "focus": [
+    30,
+    29,
+    50,
+    40
+  ],
+  "emblem": "wheat",
+  "summary": "Between about 9700 and 6000 BCE, people across the Fertile Crescent turned wild wheat, barley, lentils, goats, sheep, cattle and pigs into domesticates and built towns such as Jericho, ʿAin Ghazal and Çatalhöyük. It happened slowly, in many places and among distinct peoples, and it came at a real cost to health.",
+  "narration": [
+    "Jōmon villagers tended chestnut groves for thousands of years without ever coming to depend on crops. In the hills and valleys of Southwest Asia, people took the other road. Around 11,000 years ago, beside a spring in the Jordan Valley at Jericho, villagers built a round stone tower more than eight metres tall with a staircase inside. No one is sure what it was for. It is one of the oldest monuments raised by a community on its way to farming.",
+    "Domestication was not a single invention. Wild wheat and barley scatter their seeds when ripe; over centuries of harvesting and sowing, plants whose ears held on slowly became the norm, a change that took perhaps two thousand years. Goats were herded in the Zagros mountains of Iran, cattle were tamed from the enormous wild aurochs, and settlers carried pigs, cattle and deer across the sea to Cyprus. Ancient DNA shows that the first farmers of Iran, the Levant and Anatolia were distinct peoples, each making the change in its own way.",
+    "The results cut both ways. Villages grew into towns like Çatalhöyük, where people climbed in through their roofs and buried their dead beneath the floors. Births rose, and so did tooth decay, disease and back-breaking work at the grinding stone. Why people chose this path, and whether they ever really chose it, is one of the great arguments in archaeology."
+  ],
+  "pronounce": {
+    "Zagros": "Zag-ross",
+    "Çatalhöyük": "Chah-tahl-huh-yook"
+  },
+  "body": [
+    {
+      "heading": "Villages on the brink",
+      "paragraphs": [
+        "Archaeologists divide the early Neolithic of Southwest Asia using terms Kathleen Kenyon devised at Jericho: the Pre-Pottery Neolithic A (PPNA, about 9700 to 8800 BCE), with round houses and cultivated but still wild-type cereals, and the Pre-Pottery Neolithic B (PPNB, about 8800 to 7000 BCE), with rectangular houses, plastered floors and fully domestic plants and animals. Pottery came into use around 7000 BCE. The setting was the Fertile Crescent, the arc of hills and valleys running from the southern Levant through southeastern Anatolia to the Zagros mountains of Iran.",
+        "At Tell es-Sultan, ancient Jericho, Kenyon’s trenches in the 1950s exposed a PPNA stone wall and a solid round tower about 8.5 m high and 9 m across at the base, with an internal staircase of 22 steps, built roughly 11,000 years ago. Kenyon saw a fortification. Ofer Bar-Yosef argued in 1986 that the wall held back floods and debris flows and that the tower had a communal or ritual role. In 2008 Ran Barkai and Roy Liran showed that at sunset on the summer solstice the shadow of a nearby mountain falls across the tower, and proposed that it was a monument meant to bind the community together. Tell es-Sultan became a UNESCO World Heritage Site in 2023.",
+        "Storage came before domestication. At Dhraʿ, near the Dead Sea, Ian Kuijt and Bill Finlayson excavated granaries of about 9300 BCE with suspended floors on stone supports, built to keep wild barley dry and away from rodents. At Gilgal I in the Jordan Valley, Mordechai Kislev and colleagues found carbonised figs of a seedless kind that must be propagated from cuttings, and proposed in 2006 that they were the earliest domesticated crop. Critics replied that such figs also occur on wild trees and could simply have been gathered."
+      ]
+    },
+    {
+      "heading": "Crops: a slow revolution",
+      "paragraphs": [
+        "The founder crops of Southwest Asia were emmer and einkorn wheat, barley, lentil, pea, chickpea, bitter vetch and flax. Domestication shows in the plants themselves: ears that no longer shatter when ripe, so that the seed depends on people to harvest and sow it, and larger grains. Measuring these traits in charred remains from many sites, Ken-ichi Tanno and George Willcox showed in 2006 that non-shattering wheat became dominant only gradually, over roughly two to three thousand years. Dorian Fuller, Robin Allaby and Eleni Asouti describe a protracted process spread across many places, with long periods of cultivating wild plants. Shahal Abbo, Avi Gopher and Simcha Lev-Yadun argue instead for faster, deliberate domestication within a core area of southeastern Turkey, where genetic studies had placed the wild ancestors of einkorn."
+      ]
+    },
+    {
+      "heading": "Animals and islands",
+      "paragraphs": [
+        "Goats were among the first herd animals. At Ganj Dareh in the Zagros, Melinda Zeder and Brian Hesse showed in 2000 that around 8000 BCE people were killing mostly young males while keeping females to breed, a herding signature that appears before goats became smaller. Ancient goat genomes show that domestication drew on several wild populations across the region. Sheep were domesticated from wild mouflon in eastern Anatolia and the Zagros; at Aşıklı Höyük in Cappadocia, dung layers and urine salts inside the village track sheep and goats kept in pens during the ninth millennium BCE. Cattle were tamed from wild aurochs in the upper Euphrates and Tigris valleys around 8500 BCE; a 2012 study by Ruth Bollongino and colleagues estimated from ancient mitochondrial DNA that only about 80 wild females founded the domestic herds. Pigs were domesticated at sites such as Çayönü.",
+        "Farmers took their animals to sea. Cyprus, never joined to the mainland, was visited by hunter-gatherers by around 10,000 BCE, and by about 8600 BCE villagers at Klimonas were growing cereals. At Shillourokambos, from about 8400 BCE, settlers brought cattle, goats, sheep, pigs and fallow deer across at least 60 km of open water. There, around 7500 BCE, a cat was buried beside a person, the oldest known burial of a human with a cat, although it was probably a tamed wildcat rather than a domestic pet."
+      ]
+    },
+    {
+      "heading": "Many peoples, many centres",
+      "paragraphs": [
+        "Ancient DNA has shown that farming was not the invention of a single people. In 2016 teams led by Iosif Lazaridis and by Farnaz Broushaki published genomes of early farmers from the Zagros, the Levant and Anatolia. The groups were as genetically different from one another as Europeans and East Asians are today, each descended largely from local hunter-gatherers. Crops, animals and ideas moved between them; the people mostly did not, until later mixing. Anatolian farmers went on to settle Europe (chapter 34), while ancestry related to the Zagros farmers spread east toward South Asia."
+      ]
+    },
+    {
+      "heading": "Houses of the living and the dead",
+      "paragraphs": [
+        "PPNB villages grew large. ʿAin Ghazal, on the edge of modern Amman, eventually covered more than 10 hectares of rectangular houses whose lime-plaster floors consumed great quantities of fuel. The dead were often buried beneath floors and their skulls later removed. At Jericho, ʿAin Ghazal, Tell Aswad and Kfar HaHoresh, some skulls were remodelled with plaster into lifelike faces, sometimes with shells for eyes, and kept among the living. In 1983 and 1985 two pits at ʿAin Ghazal yielded about 30 statues and busts of lime plaster modelled over bundles of reeds, some nearly a metre tall, with eyes outlined in bitumen, buried roughly 9,000 years ago. At Çayönü in southeastern Anatolia, a “skull building” held the remains of hundreds of people."
+      ]
+    },
+    {
+      "heading": "Çatalhöyük",
+      "paragraphs": [
+        "On the Konya plain of central Anatolia, Çatalhöyük grew between about 7100 and 5950 BCE into a town of several thousand people. Houses were packed wall to wall without streets; people entered by ladders through the roof, cooked, slept and worked in rooms whose white walls were replastered again and again, and buried their dead beneath the platforms. Walls bore paintings of vultures beside headless human bodies and crowds teasing huge wild bulls, reliefs of paired leopards, and aurochs horns set in plaster.",
+        "James Mellaart, who excavated there from 1961 to 1965, called many rooms shrines and made the site famous for its “Mother Goddess”, a clay figurine of a heavy seated woman flanked by two felines, found in a grain bin. Ian Hodder’s project from 1993 to 2017 found ritual woven through ordinary houses rather than confined to temples, that most figurines depict animals or are ambiguous, and that bone chemistry and skeletal wear show men and women eating similar diets and doing similar work. A 2025 genetic study in Science led by Eren Yüncü and Mehmet Somel of Middle East Technical University in Ankara reported that people buried in the same house were more often related through their mothers than their fathers, and that girls received grave goods more often than boys, hinting at households organised around women."
+      ]
+    },
+    {
+      "heading": "The price of grain",
+      "paragraphs": [
+        "Farming fed more people, but not always better. Skeletons from early farming communities show more tooth decay from starchy diets, more growth defects in tooth enamel from childhood stress, and more infectious disease spread by crowding, waste and animals. At Abu Hureyra in Syria, Theya Molleson traced deformed toes, knees and lower backs to long hours kneeling at grinding stones. Yet births increased. Jean-Pierre Bocquet-Appel identified a Neolithic Demographic Transition: a rise in the share of children and adolescents in cemeteries that signals higher fertility, probably due to settled life and soft weaning foods. Populations grew even as individual health often declined.",
+        "Why did people do it? In the 1930s V. Gordon Childe called it the Neolithic Revolution and tied it to a drying climate. Later explanations have pointed to the stress of the Younger Dryas cold spell, the stable warm climate and higher carbon dioxide of the Holocene that made cultivation reliable, population pressure, competitive feasting (Brian Hayden), a “revolution of symbols” in which new beliefs came first (Jacques Cauvin, 1994), and niche construction, the gradual reshaping of environments by people, plants and animals together (Bruce Smith, Melinda Zeder). James C. Scott’s Against the Grain (2017) stressed the drudgery and disease of grain farming and its later role in making states possible, since grain can be seen, measured and taxed. David Graeber and David Wengrow’s The Dawn of Everything (2021) described three thousand years of “play farming”, in which people experimented with cultivation and could, and sometimes did, walk away from it."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Why did people start farming?",
+      "views": [
+        {
+          "label": "Climate",
+          "text": "Ofer Bar-Yosef and others linked the shift to the Younger Dryas cold spell, which stressed wild food supplies, while Peter Richerson, Robert Boyd and Robert Bettinger argued that farming was nearly impossible in the unstable Pleistocene and almost inevitable in the stable, carbon dioxide rich Holocene."
+        },
+        {
+          "label": "Population pressure",
+          "text": "Lewis Binford and Mark Nathan Cohen proposed that growing populations, especially in marginal zones, forced people to intensify food production even at the cost of more work."
+        },
+        {
+          "label": "Social and symbolic drivers",
+          "text": "Jacques Cauvin argued that a ‘revolution of symbols’ preceded farming, and Brian Hayden that ambitious individuals staged competitive feasts that demanded surplus food. Monuments such as Göbekli Tepe (chapter 30) fit these ideas."
+        },
+        {
+          "label": "Niche construction",
+          "text": "Bruce Smith and Melinda Zeder see farming as the outcome of long, gradual relationships between people, plants and animals in rich environments, not a response to crisis."
+        }
+      ],
+      "status": "Few researchers now defend a single cause. A stable Holocene climate seems to have been a precondition, and most see social life, long-term niche construction and local ecological conditions interacting differently in each region of the Fertile Crescent."
+    },
+    {
+      "question": "Was domestication fast or slow, in one centre or many?",
+      "views": [
+        {
+          "label": "Rapid, core area",
+          "text": "Shahal Abbo, Avi Gopher and Simcha Lev-Yadun argue that the founder crops were domesticated quickly and consciously in a core area of southeastern Turkey, pointing to genetic studies that locate wild einkorn and chickpea ancestors there."
+        },
+        {
+          "label": "Protracted, dispersed",
+          "text": "Dorian Fuller, Robin Allaby, George Willcox and Eleni Asouti point to archaeobotanical sequences in which domestic traits spread slowly over two to three millennia at many sites across the Levant, Anatolia and the Zagros, with long phases of cultivating wild-type plants."
+        }
+      ],
+      "status": "The protracted, multi-centred model is now more widely accepted, strengthened by genetic evidence that the Zagros, Levantine and Anatolian farmers were distinct populations. Whether early farmers selected plants deliberately or domestication traits spread as unconscious side-effects of harvesting remains debated."
+    },
+    {
+      "question": "Was there a Mother Goddess at Çatalhöyük?",
+      "views": [
+        {
+          "label": "A goddess-centred religion",
+          "text": "James Mellaart interpreted seated female figurines, bull horns and wall reliefs as evidence of a mother goddess cult, an idea taken up by Marija Gimbutas and by the modern goddess movement, which saw Neolithic Anatolia as woman-centred."
+        },
+        {
+          "label": "Ritual in everyday life",
+          "text": "Ian Hodder and his team found that most figurines are animals or of uncertain sex, that ritual was part of ordinary houses, and that men and women had similar diets and workloads. On this view the seated woman may represent a powerful older woman rather than a deity."
+        }
+      ],
+      "status": "Few archaeologists now accept a single Mother Goddess, but the 2025 genetic study reporting female-line kinship in households and more grave goods for girls suggests that women held a central social position. How that translated into belief is still open."
+    },
+    {
+      "question": "Was farming a trap or a triumph?",
+      "views": [
+        {
+          "label": "A costly trap",
+          "text": "Mark Nathan Cohen and George Armelagos compiled skeletal evidence for declining health with farming, Jared Diamond called it the ‘worst mistake in the history of the human race’, and James C. Scott argued that grain agriculture tied people to drudgery and, later, to taxing states."
+        },
+        {
+          "label": "A choice with benefits",
+          "text": "Jean-Pierre Bocquet-Appel emphasised that farming allowed more children to be born and populations to boom, and David Graeber and David Wengrow argue that early cultivation was flexible and reversible, not a trap, with people moving in and out of farming for millennia."
+        }
+      ],
+      "status": "Both effects are real: farming populations grew fast while many individuals were less healthy. Research now focuses on regional differences, since health declines were marked in some regions and mild in others."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Tower of Jericho",
+      "value": "About 8.5 m high, built roughly 11,000 years ago"
+    },
+    {
+      "label": "Early granaries",
+      "value": "Dhraʿ, Jordan, c. 9300 BCE, before domestic cereals"
+    },
+    {
+      "label": "Founder crops",
+      "value": "Emmer, einkorn, barley, lentil, pea, chickpea, bitter vetch, flax"
+    },
+    {
+      "label": "Early goat herding",
+      "value": "Ganj Dareh, Iran, c. 8000 BCE"
+    },
+    {
+      "label": "Cattle founders",
+      "value": "About 80 wild females (2012 ancient DNA estimate)"
+    },
+    {
+      "label": "Çatalhöyük",
+      "value": "c. 7100–5950 BCE, several thousand residents"
+    }
+  ],
+  "sites": [
+    {
+      "id": "tell-es-sultan",
+      "name": "Tell es-Sultan (Jericho)",
+      "country": "Palestine",
+      "region": "asia",
+      "lat": 31.87,
+      "lon": 35.44,
+      "start": 11600,
+      "end": 9000,
+      "dateLabel": "c. 9600–7000 BCE",
+      "type": "settlement",
+      "summary": "Spring-fed mound with a PPNA wall and an 8.5 m stone tower, followed by PPNB houses with plastered skulls; a UNESCO World Heritage Site since 2023."
+    },
+    {
+      "id": "dhra",
+      "name": "Dhraʿ",
+      "country": "Jordan",
+      "region": "asia",
+      "lat": 31.25,
+      "lon": 35.55,
+      "start": 11500,
+      "end": 11100,
+      "dateLabel": "c. 9500–9100 BCE",
+      "type": "farming",
+      "summary": "PPNA village near the Dead Sea with purpose-built granaries on raised floors, storing wild barley before domestication."
+    },
+    {
+      "id": "gilgal-i",
+      "name": "Gilgal I",
+      "country": "Palestine",
+      "region": "asia",
+      "lat": 31.99,
+      "lon": 35.46,
+      "start": 11400,
+      "end": 11200,
+      "dateLabel": "c. 9400–9200 BCE",
+      "type": "farming",
+      "summary": "Jordan Valley village where carbonised seedless figs were proposed as the earliest domesticated plant, a claim still debated."
+    },
+    {
+      "id": "ain-ghazal",
+      "name": "ʿAin Ghazal",
+      "country": "Jordan",
+      "region": "asia",
+      "lat": 31.99,
+      "lon": 35.98,
+      "start": 9250,
+      "end": 7000,
+      "dateLabel": "c. 7250–5000 BCE",
+      "type": "art",
+      "summary": "One of the largest Neolithic villages of the Levant, known for plastered skulls and two caches of lime-plaster statues and busts."
+    },
+    {
+      "id": "asikli-hoyuk",
+      "name": "Aşıklı Höyük",
+      "country": "Türkiye",
+      "region": "asia",
+      "lat": 38.35,
+      "lon": 34.23,
+      "start": 10350,
+      "end": 9300,
+      "dateLabel": "c. 8350–7300 BCE",
+      "type": "settlement",
+      "summary": "Densely packed mudbrick village in Cappadocia whose dung and urine-salt layers record the early penning and management of sheep and goats."
+    },
+    {
+      "id": "catalhoyuk",
+      "name": "Çatalhöyük",
+      "country": "Türkiye",
+      "region": "asia",
+      "lat": 37.67,
+      "lon": 32.83,
+      "start": 9100,
+      "end": 7950,
+      "dateLabel": "c. 7100–5950 BCE",
+      "type": "settlement",
+      "summary": "Neolithic town of houses entered through the roof, with burials under floors, wall paintings and reliefs, studied by James Mellaart and Ian Hodder."
+    },
+    {
+      "id": "shillourokambos",
+      "name": "Shillourokambos",
+      "country": "Cyprus",
+      "region": "asia",
+      "lat": 34.73,
+      "lon": 33.17,
+      "start": 10400,
+      "end": 9000,
+      "dateLabel": "c. 8400–7000 BCE",
+      "type": "farming",
+      "summary": "Early farming village on Cyprus to which settlers ferried cattle, sheep, goats, pigs and deer, and where a cat was buried beside a human."
+    }
+  ],
+  "themes": [
+    "farming",
+    "animals",
+    "food",
+    "settlement",
+    "society",
+    "genetics",
+    "burial",
+    "art"
+  ],
+  "sources": [
+    {
+      "cite": "Zeder, M. A. & Hesse, B. (2000). The initial domestication of goats (Capra hircus) in the Zagros Mountains 10,000 years ago. Science 287, 2254–2257."
+    },
+    {
+      "cite": "Kislev, M. E., Hartmann, A. & Bar-Yosef, O. (2006). Early domesticated fig in the Jordan Valley. Science 312, 1372–1374."
+    },
+    {
+      "cite": "Tanno, K. & Willcox, G. (2006). How fast was wild wheat domesticated? Science 311, 1886."
+    },
+    {
+      "cite": "Kuijt, I. & Finlayson, B. (2009). Evidence for food storage and predomestication granaries 11,000 years ago in the Jordan Valley. PNAS 106, 10966–10970."
+    },
+    {
+      "cite": "Bocquet-Appel, J.-P. (2011). When the world’s population took off: the springboard of the Neolithic Demographic Transition. Science 333, 560–561."
+    },
+    {
+      "cite": "Bollongino, R. et al. (2012). Modern taurine cattle descended from small number of Near-Eastern founders. Molecular Biology and Evolution 29, 2101–2104."
+    },
+    {
+      "cite": "Lazaridis, I. et al. (2016). Genomic insights into the origin of farming in the ancient Near East. Nature 536, 419–424."
+    },
+    {
+      "cite": "Hodder, I. (2006). The Leopard’s Tale: Revealing the Mysteries of Çatalhöyük. London: Thames & Hudson."
+    },
+    {
+      "cite": "Yüncü, E. et al. (2025). Female lineages and changing kinship patterns in Neolithic Çatalhöyük. Science."
+    },
+    {
+      "cite": "Scott, J. C. (2017). Against the Grain: A Deep History of the Earliest States. New Haven: Yale University Press."
+    },
+    {
+      "cite": "Graeber, D. & Wengrow, D. (2021). The Dawn of Everything: A New History of Humanity. London: Allen Lane."
+    }
+  ]
+}

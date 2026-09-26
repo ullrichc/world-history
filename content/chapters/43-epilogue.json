@@ -1,0 +1,356 @@
+{
+  "id": "epilogue",
+  "order": 43,
+  "act": "metal",
+  "title": "What the Stone Age Left Us",
+  "subtitle": "Genes, crops, languages, inequality, a myth to unlearn and the questions still open",
+  "era": "The Stone Age and its legacy",
+  "start": 3300000,
+  "end": 4000,
+  "dateLabel": "3.3 million years ago to the present",
+  "regions": [
+    "africa",
+    "europe",
+    "asia",
+    "oceania",
+    "americas"
+  ],
+  "focus": [
+    -170,
+    -50,
+    180,
+    72
+  ],
+  "emblem": "hand",
+  "summary": "The Stone Age is not behind us: it lives on in our genomes, our crops and animals, the languages we speak, our diseases and our arguments about inequality, while new methods keep rewriting its story.",
+  "narration": [
+    "Strike a flake from a lump of volcanic glass and its edge is only a few millionths of a millimetre across, finer than a surgeon’s steel. The skill that made it is at least 3.3 million years old, and people still practise it today. For more than 99 percent of the time since the first stone tools, every human story was a Stone Age story.",
+    "That long past is not behind us. It is inside us. Most people alive today carry a little Neanderthal DNA, and many in Asia and Oceania carry Denisovan DNA too, including a gene variant that helps Tibetans thrive in thin mountain air. Our grain fields and herds, many of the languages we speak and some of the diseases we fear took shape in the last few thousand years of the Stone Age, as people settled, farmed and herded. So did one of our oldest arguments: whether inequality grew step by step with farming, or whether our ancestors tried many ways of living together and sometimes kept would-be rulers in check.",
+    "The hunched, grunting caveman of cartoons was invented in the nineteenth century, partly to rank living peoples as primitive. The real people of the Stone Age crossed seas, painted caves, cared for the sick and injured, and shaped whole landscapes with fire. Their descendants include everyone alive today.",
+    "The story is far from finished. A skull found in Harbin nearly a century ago has only just been identified, through its proteins and DNA, as a Denisovan. Cave floors yield DNA without bones, lasers see through forest canopies, and ancient proteins reach back millions of years. The next discovery may already be waiting in a museum drawer, or a few centimetres under someone’s feet."
+  ],
+  "pronounce": {
+    "Denisovan": "Deh-nee-so-van",
+    "Harbin": "Har-bin"
+  },
+  "body": [
+    {
+      "heading": "The longest chapter",
+      "paragraphs": [
+        "The oldest known stone tools, from Lomekwi 3 in Kenya, are about 3.3 million years old. Metal came into everyday use in parts of western Eurasia a little over 5,000 years ago, and in many regions much later or not at all before recent centuries. Measured against the whole span, the age of metals is a thin top layer: more than 99 percent of the time since the first known tools falls within the Stone Age, and it includes the evolution of our genus, the origin of our species, the settlement of every continent except Antarctica, the first art and music, and the independent invention of farming in several parts of the world.",
+        "As the previous chapter showed, the Stone Age did not end at one moment. That is its first lesson: human history is regional and plural, and the three-age labels describe tools, not the worth of the people who used them."
+      ]
+    },
+    {
+      "heading": "Ancient relatives in our genomes",
+      "paragraphs": [
+        "Since the first Neanderthal genome was published by Richard Green, Svante Pääbo and colleagues in 2010, we have known that people outside Africa carry roughly 1–2 percent Neanderthal DNA, and later work found traces in African populations too, brought back by later migrations. Two 2024 studies placed the main period of mixing at around 47,000 years ago. Denisovan ancestry reaches several percent in Papuans, Aboriginal Australians and some Philippine groups, the highest among the Ayta Magbukon.",
+        "Some of these inherited variants were useful. A Denisovan version of the EPAS1 gene helps Tibetans live at high altitude (Emilia Huerta-Sánchez and colleagues, 2014), and Neanderthal variants influence immunity, skin and hair. Others carry risks: in 2020 Hugo Zeberg and Svante Pääbo showed that the main genetic risk factor for severe Covid-19 on chromosome 3 was inherited from Neanderthals, while another Neanderthal segment offers some protection. In 2025 proteins and DNA finally tied the Harbin skull and the Penghu jaw from Taiwan to the Denisovans, giving our long-lost relatives a face."
+      ]
+    },
+    {
+      "heading": "Bodies reshaped by farming and herding",
+      "paragraphs": [
+        "Farming changed not only diets but human bodies. Most adults in the world cannot digest the milk sugar lactose; the variants that keep the lactase enzyme working evolved independently in Europe, East Africa and Arabia. In 2022 Richard Evershed, Mark Thomas and colleagues combined animal-fat residues from nearly 7,000 pottery sherds with the ancient DNA of more than 1,700 people and found that Europeans used milk for thousands of years before lactase persistence was common. The variant rose mainly in the Bronze and Iron Ages, and the best explanation was not steady nutritional benefit but famine and disease, when diarrhoea from undigested milk could kill.",
+        "Pigmentation changed too. European hunter-gatherers such as Cheddar Man probably had dark skin and, often, light eyes; genetic variants for lighter skin arrived with Anatolian farmers and steppe herders and kept increasing into historical times. A 2024 Nature study led by William Barrie found that gene variants raising the risk of multiple sclerosis today rose in frequency among steppe herders, probably because they helped fight infections from livestock. Two 2024 studies of the salivary amylase genes showed that copies multiplied long ago and became more common after farming spread."
+      ]
+    },
+    {
+      "heading": "Crops, animals, languages and germs",
+      "paragraphs": [
+        "Most of the world’s staple foods were domesticated by Stone Age people: wheat, barley, rice, millets, maize, potatoes, sorghum, manioc, beans and bananas, and cattle, sheep, goats, pigs and llamas. Rice, wheat and maize alone supply about half of humanity’s food energy. The dog, our oldest companion, joined us earlier still, before farming.",
+        "Many of the world’s largest language families spread with farmers or herders: Austronesian from Taiwan, Bantu from west-central Africa, Sino-Tibetan with northern Chinese millet farmers, and Indo-European, most branches of which spread with steppe herders. Crowded settlements and close contact with animals also created crowd diseases. Ancient pathogen DNA has found plague in Neolithic Sweden and on the steppe, hepatitis B in Bronze Age people, and a split between measles and the cattle disease rinderpest dated by Ariane Düx and colleagues (2020) to around the sixth century BCE."
+      ]
+    },
+    {
+      "heading": "Who gets to rule? Inequality before history",
+      "paragraphs": [
+        "Stone Age societies were not all equal. At Sungir in Russia, about 34,000 years ago, two children were buried with thousands of ivory beads; at Varna, around 4500 BCE, a few graves held most of the gold. But large settlements such as Çatalhöyük and the Trypillia megasites show little sign of rulers. In The Creation of Inequality (2012) Kent Flannery and Joyce Marcus traced how particular social logics, such as ranking kin groups by descent, allowed hereditary inequality to take hold. In The Dawn of Everything (2021) David Graeber and David Wengrow argued that prehistoric people consciously experimented with many political arrangements, including seasonal ones, and that there was no single path from bands to states.",
+        "Numbers help. In 2017 Timothy Kohler and colleagues measured house sizes across the world as a proxy for wealth and found that inequality rose after farming, especially in the Old World, where draught animals and ploughs let some households farm far more land than others."
+      ]
+    },
+    {
+      "heading": "The caveman myth",
+      "paragraphs": [
+        "The caveman, hunched, hairy and dim, is a Victorian invention. In Pre-historic Times (1865), John Lubbock, who coined the words Palaeolithic and Neolithic, explained ancient Europeans through comparisons with “modern savages”. Between 1911 and 1913 Marcellin Boule reconstructed the Neanderthal from La Chapelle-aux-Saints as a stooped, bent-kneed brute; in 1957 William Straus and A. J. E. Cave showed that the man had severe arthritis and that Neanderthals stood as upright as we do.",
+        "The same thinking justified colonial rule. Aboriginal Australians, Tasmanians, the San and others were labelled “Stone Age peoples” or “living fossils”, as if they had no history. In fact, living foragers such as the Hadza, the Ju/’hoansi and the BaYaka have long histories of change, trade and contact with farmers and states, as the “Kalahari debate” sparked by Edwin Wilmsen in 1989 made clear. They are contemporary peoples, not relics."
+      ]
+    },
+    {
+      "heading": "Skills that survive",
+      "paragraphs": [
+        "Stone Age skills never vanished. Twentieth-century researchers such as François Bordes in France and Don Crabtree in the United States taught themselves to knap flint and obsidian, founding experimental archaeology and a worldwide hobby. An obsidian edge can be far finer than surgical steel, and Crabtree reportedly had obsidian blades he made used in his own heart surgery in the 1970s. Cordage, basketry, tanning, fermentation, bread and fire-making are all Stone Age inventions still in daily use. In Australia, Aboriginal cultural burning, practised for thousands of years, is now part of modern fire management."
+      ]
+    },
+    {
+      "heading": "What may change next",
+      "paragraphs": [
+        "The next decade will bring surprises. Sediment DNA can now reveal who lived in a cave without a single bone, as at Denisova and Baishiya Karst Cave, and environmental DNA from Greenland has reached back two million years. Ancient proteins survive far longer than DNA: in 2025 enamel proteins were read from Paranthropus teeth about two million years old. Lidar has revealed a network of settlements in Ecuador’s Upano Valley, published in 2024, and hidden earthworks across Amazonia.",
+        "Big questions remain open: when people first reached the Americas (the White Sands footprints suggest 23,000–21,000 years ago, and the debate continues), when they reached Sahul (about 65,000 or about 50,000 years ago), what Denisovans looked like from head to toe, and what happened in the parts of Africa and Asia where ancient DNA is still scarce. The Stone Age is still being excavated, one layer at a time."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "How did social inequality arise?",
+      "views": [
+        {
+          "label": "A path with identifiable steps",
+          "text": "Kent Flannery and Joyce Marcus (2012) argue that inequality emerged through specific, repeated social processes, such as the rise of ranked clans and hereditary leadership, which archaeology can trace from village societies to chiefdoms and kingdoms."
+        },
+        {
+          "label": "Many experiments, no single path",
+          "text": "David Graeber and David Wengrow (2021) argue that prehistoric people consciously tried egalitarian, seasonal and hierarchical arrangements, that large settlements could exist without rulers, and that the question is how we got stuck in one form."
+        },
+        {
+          "label": "Material drivers",
+          "text": "Timothy Kohler, Michael Smith and colleagues use measures such as house-size inequality to show that wealth gaps grew with farming and especially with ploughs and draught animals, which made land and livestock inheritable wealth."
+        }
+      ],
+      "status": "Critics of Graeber and Wengrow say they overstate the evidence for deliberate choice; critics of evolutionary models say they flatten variety. Most archaeologists now accept both regularities and real diversity, and are testing them with larger datasets."
+    },
+    {
+      "question": "Did farmers spread the world’s great language families?",
+      "views": [
+        {
+          "label": "Farming and language dispersal",
+          "text": "Peter Bellwood and Colin Renfrew argue that growing farming populations carried their languages with them, explaining Austronesian, Bantu, Sino-Tibetan and, in Renfrew’s version, Indo-European."
+        },
+        {
+          "label": "Many routes to spread",
+          "text": "Others stress that languages also spread by shift, with people adopting a new language without being replaced, and through herders or elites. Indo-European spread largely with steppe herders, and Pama-Nyungan spread across Australia without farming."
+        }
+      ],
+      "status": "Ancient DNA confirms that several great families spread with moving populations, but not all, and the correlation between genes and language is loose. Each family has to be judged on its own evidence."
+    },
+    {
+      "question": "Why did lactase persistence spread?",
+      "views": [
+        {
+          "label": "Steady nutritional advantage",
+          "text": "The classic view holds that milk drinkers gained calories, protein, calcium and, in northern latitudes, help with vitamin D, so the variant spread wherever dairying was practised."
+        },
+        {
+          "label": "Selection in crises",
+          "text": "Richard Evershed, Mark Thomas and colleagues (2022) found that the amount of milk use did not predict when the variant rose. They argue that it spread mainly during famines and epidemics, when lactose intolerance could turn deadly."
+        }
+      ],
+      "status": "The crisis model is now widely discussed but still being tested, including with ancient DNA from Africa and Asia, where lactase persistence evolved separately."
+    },
+    {
+      "question": "Can living foragers tell us about the Stone Age?",
+      "views": [
+        {
+          "label": "Careful analogy",
+          "text": "Since the 1966 Man the Hunter conference, researchers have studied peoples such as the Hadza and Ju/’hoansi to understand how foragers share food, move, raise children and use energy, and use those findings to frame hypotheses about the past."
+        },
+        {
+          "label": "Contemporary peoples with their own histories",
+          "text": "Critics, including Edwin Wilmsen in the Kalahari debate, show that today’s foragers have been shaped by centuries of contact with herders, farmers, states and markets, and warn that treating them as windows on the past repeats colonial ideas."
+        }
+      ],
+      "status": "Ethnography remains a valuable source of possibilities, never a direct picture of prehistory. Research is increasingly carried out in partnership with the communities concerned."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Length of the Stone Age",
+      "value": "About 3.3 million years, more than 99 percent of the time since the first known stone tools"
+    },
+    {
+      "label": "Neanderthal DNA",
+      "value": "Roughly 1–2 percent in people outside Africa"
+    },
+    {
+      "label": "Denisovan DNA",
+      "value": "Several percent in Papuans, Aboriginal Australians and some Philippine groups"
+    },
+    {
+      "label": "Staple crops",
+      "value": "Rice, wheat and maize, all domesticated in the Stone Age, supply about half of human food energy"
+    },
+    {
+      "label": "Lactase persistence",
+      "value": "Rose mainly in the Bronze and Iron Ages in Europe"
+    },
+    {
+      "label": "Denisovans identified",
+      "value": "Harbin skull and Penghu jaw tied to Denisovans in 2025"
+    }
+  ],
+  "sites": [
+    {
+      "id": "lomekwi-3",
+      "name": "Lomekwi 3",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 3.91,
+      "lon": 35.87,
+      "start": 3300000,
+      "end": 3300000,
+      "dateLabel": "3.3 million years ago",
+      "type": "tools",
+      "summary": "The oldest known stone tools, where the long story of stone technology begins."
+    },
+    {
+      "id": "denisova-cave",
+      "name": "Denisova Cave",
+      "country": "Russia",
+      "region": "asia",
+      "lat": 51.4,
+      "lon": 84.68,
+      "start": 300000,
+      "end": 20000,
+      "dateLabel": "c. 300,000–20,000 years ago",
+      "type": "dna",
+      "summary": "Altai cave where DNA from a finger bone revealed the Denisovans, whose genes survive in many living people, and where sediments still yield ancient DNA."
+    },
+    {
+      "id": "baishiya-karst-cave",
+      "name": "Baishiya Karst Cave",
+      "country": "China",
+      "region": "asia",
+      "lat": 35.45,
+      "lon": 102.57,
+      "start": 160000,
+      "end": 45000,
+      "dateLabel": "c. 160,000–45,000 years ago",
+      "type": "dna",
+      "summary": "Tibetan Plateau cave with a Denisovan jaw and Denisovan DNA in its sediments, near where Denisovan genes later helped Tibetans adapt to altitude."
+    },
+    {
+      "id": "harbin",
+      "name": "Harbin",
+      "country": "China",
+      "region": "asia",
+      "lat": 45.77,
+      "lon": 126.62,
+      "start": 146000,
+      "end": 146000,
+      "dateLabel": "at least 146,000 years ago",
+      "type": "fossil",
+      "summary": "Skull found in 1933 and identified in 2025, through proteins and DNA from dental calculus, as a Denisovan."
+    },
+    {
+      "id": "la-chapelle-aux-saints",
+      "name": "La Chapelle-aux-Saints",
+      "country": "France",
+      "region": "europe",
+      "lat": 44.99,
+      "lon": 1.72,
+      "start": 56000,
+      "end": 47000,
+      "dateLabel": "c. 56,000–47,000 years ago",
+      "type": "burial",
+      "summary": "Neanderthal burial whose skeleton Marcellin Boule misread as a stooped brute, a founding image of the caveman myth."
+    },
+    {
+      "id": "sungir",
+      "name": "Sungir",
+      "country": "Russia",
+      "region": "europe",
+      "lat": 56.17,
+      "lon": 40.5,
+      "start": 34000,
+      "end": 34000,
+      "dateLabel": "about 34,000 years ago",
+      "type": "burial",
+      "summary": "Upper Palaeolithic burials with thousands of ivory beads, evidence that some hunter-gatherers marked status lavishly."
+    },
+    {
+      "id": "madjedbebe",
+      "name": "Madjedbebe",
+      "country": "Australia",
+      "region": "oceania",
+      "lat": -12.5,
+      "lon": 132.88,
+      "start": 65000,
+      "end": 50000,
+      "dateLabel": "c. 65,000 years ago or later (debated)",
+      "type": "tools",
+      "summary": "Rock shelter at the centre of the debate over when people first reached Sahul."
+    },
+    {
+      "id": "white-sands",
+      "name": "White Sands footprints",
+      "country": "United States",
+      "region": "americas",
+      "lat": 32.88,
+      "lon": -106.38,
+      "start": 23000,
+      "end": 21000,
+      "dateLabel": "c. 23,000–21,000 years ago",
+      "type": "footprints",
+      "summary": "Human footprints whose dating challenges older models of when people reached the Americas."
+    },
+    {
+      "id": "gobekli-tepe",
+      "name": "Göbekli Tepe",
+      "country": "Türkiye",
+      "region": "asia",
+      "lat": 37.22,
+      "lon": 38.92,
+      "start": 11600,
+      "end": 10000,
+      "dateLabel": "c. 9600–8000 BCE",
+      "type": "monument",
+      "summary": "Monumental enclosures built by hunter-gatherers, a touchstone in debates on how societies organised large projects without kings."
+    },
+    {
+      "id": "varna-necropolis",
+      "name": "Varna necropolis",
+      "country": "Bulgaria",
+      "region": "europe",
+      "lat": 43.21,
+      "lon": 27.87,
+      "start": 6600,
+      "end": 6300,
+      "dateLabel": "c. 4600–4300 BCE",
+      "type": "burial",
+      "summary": "Copper Age cemetery where a few graves held most of the gold, an early marker of stark inequality."
+    }
+  ],
+  "themes": [
+    "genetics",
+    "farming",
+    "food",
+    "animals",
+    "language",
+    "society",
+    "technology",
+    "species",
+    "migration"
+  ],
+  "sources": [
+    {
+      "cite": "Green, R. E. et al. (2010). A draft sequence of the Neandertal genome. Science 328, 710–722."
+    },
+    {
+      "cite": "Huerta-Sánchez, E. et al. (2014). Altitude adaptation in Tibetans caused by introgression of Denisovan-like DNA. Nature 512, 194–197."
+    },
+    {
+      "cite": "Zeberg, H. and Pääbo, S. (2020). The major genetic risk factor for severe Covid-19 is inherited from Neanderthals. Nature 587, 610–612."
+    },
+    {
+      "cite": "Evershed, R. P. et al. (2022). Dairying, diseases and the evolution of lactase persistence in Europe. Nature 608, 336–345."
+    },
+    {
+      "cite": "Barrie, W. et al. (2024). Elevated genetic risk for multiple sclerosis emerged in steppe pastoralist populations. Nature 625, 321–328."
+    },
+    {
+      "cite": "Bellwood, P. and Renfrew, C. (eds) (2002). Examining the Farming/Language Dispersal Hypothesis. Cambridge: McDonald Institute for Archaeological Research."
+    },
+    {
+      "cite": "Flannery, K. and Marcus, J. (2012). The Creation of Inequality: How Our Prehistoric Ancestors Set the Stage for Monarchy, Slavery, and Empire. Harvard University Press."
+    },
+    {
+      "cite": "Graeber, D. and Wengrow, D. (2021). The Dawn of Everything: A New History of Humanity. London: Allen Lane."
+    },
+    {
+      "cite": "Kohler, T. A. et al. (2017). Greater post-Neolithic wealth disparities in Eurasia than in North America and Mesoamerica. Nature 551, 619–622."
+    },
+    {
+      "cite": "Lubbock, J. (1865). Pre-historic Times, as Illustrated by Ancient Remains, and the Manners and Customs of Modern Savages. London: Williams and Norgate."
+    }
+  ]
+}

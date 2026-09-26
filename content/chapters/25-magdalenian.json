@@ -1,0 +1,280 @@
+{
+  "id": "magdalenian",
+  "order": 25,
+  "act": "one-species",
+  "title": "The Magdalenians",
+  "subtitle": "Lascaux, Altamira and the resettling of northern Europe",
+  "era": "Upper Palaeolithic (Magdalenian)",
+  "start": 21000,
+  "end": 14000,
+  "dateLabel": "21,000–14,000 years ago",
+  "regions": ["europe"],
+  "focus": [-10, 36, 25, 56],
+  "emblem": "bison",
+  "summary": "As the ice began to retreat, Magdalenian hunters painted Lascaux and Altamira, carved spear-throwers and harpoons, and pushed back into northern Europe, until a warming climate and a new population transformed the continent around 14,000 years ago.",
+  "narration": [
+    "On the twelfth of September 1940, four teenagers wriggled down a hole on a wooded hill above the Vézère river in southwestern France. By lamplight they found themselves among painted animals: black aurochs more than 5 metres long, red cows, galloping horses, stags with branching antlers. They had found Lascaux.",
+    "Its painters belonged to the Magdalenian culture, which flourished across western Europe between roughly 21,000 and 14,000 years ago, as the great ice sheets began to shrink. They hunted reindeer and horses, made harpoons, eyed needles and spear-throwers carved with animals, and returned to the same deep caves for generations. At Altamira in northern Spain, a girl named María spotted painted bison on a cave ceiling in 1879. The experts called them a fake, and it took more than twenty years for the leading sceptic to apologise in print.",
+    "Magdalenian life had a darker side as well. In Gough’s Cave in southern England, about 14,700 years ago, people cleaned human skulls and trimmed them into cups, and cut marks show that bodies were eaten, probably as part of how the dead were mourned.",
+    "Then the climate lurched. About 14,700 years ago, Greenland warmed dramatically within a few decades. Forests crept north, and the reindeer herds followed the retreating tundra. Ancient DNA shows that new people, with roots in Italy and the Balkans, then spread across the continent and largely replaced the Magdalenians. Their descendants would become the hunters, fishers and gatherers of Europe’s Mesolithic."
+  ],
+  "pronounce": {
+    "Vézère": "Vay-zair",
+    "Lascaux": "Lass-coh",
+    "Altamira": "Al-tah-mee-rah",
+    "Magdalenian": "Mag-duh-lee-nee-un"
+  },
+  "body": [
+    {
+      "heading": "Heirs of the glacial refuges",
+      "paragraphs": [
+        "The Magdalenian is named after La Madeleine, a rock shelter in the Vézère valley of the Dordogne, which Gabriel de Mortillet used in 1869 to define the last great culture of the Upper Palaeolithic. It took shape in southwestern France and northern Spain, where people had sheltered through the coldest part of the Last Glacial Maximum (chapter 23), and by about 16,000 years ago it stretched from Portugal to southern Poland. An early phase called the Badegoulian is sometimes counted as its first stage and sometimes as a separate culture.",
+        "Magdalenian groups hunted reindeer, horse, red deer, ibex, saiga antelope and bison, snared birds and hares and caught salmon. Many followed seasonal rounds and gathered at favoured places; in 1980 Margaret Conkey proposed that Altamira was one such aggregation site. Ancient DNA identifies who they were: a 2023 study led by Cosimo Posth found that Magdalenian individuals belong to a genetic cluster named after a skeleton from Goyet in Belgium (“GoyetQ2”), descended from western European Gravettian people who had survived the glacial maximum in Iberia and southwestern France before spreading north and east."
+      ]
+    },
+    {
+      "heading": "Lascaux",
+      "paragraphs": [
+        "On 12 September 1940 Marcel Ravidat, aged 18, returned with three younger friends, Jacques Marsal, Georges Agnel and Simon Coencas, to a hole on a hill above Montignac. Inside was a cave decorated with some 600 paintings and drawings and around 1,500 engravings. In the Hall of the Bulls, huge black aurochs, the largest more than 5 metres long, stride among red cows, horses and stags beside a strange spotted beast nicknamed the “unicorn”. At the bottom of a shaft lies the most enigmatic scene: a stick-like man with a bird’s head falls backwards before a bison whose entrails spill from a wound, a bird perches on a staff beside him, and a woolly rhinoceros walks away. It has been read as a hunting accident, a shaman’s trance and a myth.",
+        "Dating the paintings is hard, because Lascaux’s blacks are mostly manganese oxides that contain no carbon. Radiocarbon dates on charcoal and on an antler point from the floor have long suggested about 18,600–17,000 years ago. In 2019 Sylvain Ducasse and Mathieu Langlais re-dated bone and antler objects from the cave and argued that the main visits were earlier, in the Badegoulian.",
+        "Lascaux opened to the public in 1948. Visitors’ breath, lights and humidity brought carbon dioxide, algae and calcite growth, and in 1963 the culture minister André Malraux closed it. The public now visits replicas, Lascaux II (1983) and Lascaux IV at Montignac (2016), while the original, hit by fungal outbreaks since 2001, is closely monitored."
+      ]
+    },
+    {
+      "heading": "Altamira and the sceptics",
+      "paragraphs": [
+        "Altamira, in Cantabria, was found by a local hunter, Modesto Cubillas, around 1868. The landowner, Marcelino Sanz de Sautuola, an amateur prehistorian, dug in its entrance, and in 1879 his daughter María, then about eight, looked up in a low side chamber and saw painted animals on the ceiling. Sautuola published them in 1880 as prehistoric, but the International Congress of prehistorians meeting in Lisbon that year dismissed them as too fresh and too accomplished; some suspected forgery. Sautuola died in 1888 without vindication. Only after painted and engraved caves were accepted in France, at La Mouthe, Les Combarelles and Font-de-Gaume, did the leading sceptic, Émile Cartailhac, publish his “Mea culpa d’un sceptique” in 1902.",
+        "The Polychrome Ceiling holds some two dozen bison in red and black, several curled over natural bulges of rock that give them volume. Radiocarbon dates on charcoal in the paint place them in the Magdalenian, roughly 17,000 years ago. Uranium-series dating of calcite crusts, published in 2012 by Alistair Pike and colleagues, showed that a red sign on the same ceiling is at least 35,600 years old, so the chamber was decorated over some 20,000 years. The cave now admits only a handful of visitors a week; most people see a replica opened in 2001."
+      ]
+    },
+    {
+      "heading": "Deep caves and open rocks",
+      "paragraphs": [
+        "Much of the finest Magdalenian art lies in the Pyrenees and the Dordogne. At Niaux in the Ariège, the Salon Noir, far inside the mountain, holds bison, horses and ibex drawn in bold black outline. Font-de-Gaume, near Les Eyzies, has dozens of polychrome bison and is one of the few original painted caves still open to small groups. In 1912 and 1914 the three sons of Count Henri Bégouën explored the Volp caves: in Le Tuc d’Audoubert they found two clay bison, each about 60 centimetres long, modelled against a rock deep underground, and in Les Trois-Frères the “Sorcerer”, an antlered figure with human legs, known mainly from a drawing by Henri Breuil that critics say tidied it up.",
+        "Art was not confined to caves. In the Côa Valley of northeastern Portugal, archaeologists in the early 1990s recorded thousands of animals engraved on schist outcrops along the river, spanning the Gravettian, the Magdalenian and later periods. A dam under construction would have drowned them; after a national campaign it was abandoned in 1995, and the valley became a World Heritage Site in 1998, joined in 2010 by Siega Verde across the border in Spain. Such open-air galleries hint at how much art has weathered away elsewhere. Britain’s only known Ice Age cave art, engraved figures in Church Hole at Creswell Crags, was recognised in 2003; flowstone over them gives a minimum age of about 12,800 years."
+      ]
+    },
+    {
+      "heading": "Weapons, needles and engraved stones",
+      "paragraphs": [
+        "Magdalenian toolkits were built around bladelets, tiny blades glued into grooves in antler and bone points. Spear-throwers let hunters hurl darts harder and farther, and many were carved into sculptures: one from Le Mas d’Azil shows a young ibex looking back at a lump of dung on which birds perch. About 13,000 years ago, a carver at Montastruc near Bruniquel turned the tip of a mammoth tusk into two swimming reindeer, now in the British Museum. Late in the period, barbed antler harpoons appear, and eyed bone needles made close-fitting clothing routine.",
+        "At Gönnersdorf in the Rhineland, excavated from 1968 by Gerhard Bosinski, the floors of a camp roughly 16,000–15,000 years old were paved with slate slabs engraved with mammoths, horses, birds and many stylised female figures seen in profile. Such plaques show that images belonged to everyday life as well as to the deep caves."
+      ]
+    },
+    {
+      "heading": "Counting the moons?",
+      "paragraphs": [
+        "Rows of dots and lines accompany many Ice Age animals. In 2023 a team led by Bennett Bacon, an independent researcher from London, with the Durham archaeologist Paul Pettitt and the psychologist Robert Kentridge, argued that sequences of up to 13 marks count lunar months from the start of spring, and that a Y-shaped sign means giving birth. In their reading, the counts beside horses, bison or deer match the months when those animals mated or gave birth, making the marks a phenological calendar and a form of proto-writing. Sceptics reply that the fit depends on assumed breeding seasons for Ice Age animals, on where the year is taken to begin and on which sequences are included, and that numbers from 1 to 13 can be made to fit many schemes."
+      ]
+    },
+    {
+      "heading": "Skull cups and the treatment of the dead",
+      "paragraphs": [
+        "At Gough’s Cave in Cheddar Gorge, human bones about 14,700 years old carry cut marks, percussion damage and human tooth marks. In 2011 Silvia Bello, Simon Parfitt and Chris Stringer showed that three skulls, of two adults and a young child, had been carefully cleaned and trimmed into cups, and in 2017 Bello’s team described a human forearm bone engraved with a zigzag pattern. They interpret the evidence as funerary cannibalism, a ritual rather than a response to starvation. In 2023 William Marsh and Bello surveyed Magdalenian sites across Europe and concluded that cannibalism was a recurrent Magdalenian way of treating the dead, which vanished as people of different ancestry, who buried their dead, spread across Europe. A 2025 study of bones from Maszycka Cave in Poland, about 18,000 years old, argued that some Magdalenian cannibalism instead followed violent conflict."
+      ]
+    },
+    {
+      "heading": "Warming and a new population",
+      "paragraphs": [
+        "Magdalenian groups had already pushed into land freed by the ice: Britain was resettled around 15,000 years ago, and reindeer hunters of the Hamburgian culture reached the North European Plain. About 14,700 years ago the Bølling–Allerød warming began (chapter 28). Greenland warmed by around 10 °C within decades, birch and pine spread north, and red deer, elk and aurochs replaced reindeer in much of the west. The Late Magdalenian gave way to the Azilian, named after Le Mas d’Azil and known for pebbles painted with red dots and stripes, and to the Federmesser groups of the north.",
+        "It was also a change of people. In 2016 Qiaomei Fu, David Reich and colleagues found that from about 14,000 years ago a new ancestry, named after a burial at Villabruna in the Italian Alps, spread across Europe; it was more closely related to Near Eastern populations than earlier Europeans had been. Posth’s 2023 study showed that people with this ancestry, linked to the Epigravettian of Italy and the Balkans, largely replaced the Magdalenian population in western and central Europe. The couple buried with dogs at Bonn-Oberkassel (chapter 24) already carried it, and their descendants became Europe’s Mesolithic hunter-gatherers (chapter 31)."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "How old are the Lascaux paintings?",
+      "views": [
+        {
+          "label": "Classic Magdalenian",
+          "text": "The long-standing view, supported by researchers such as Norbert Aujoulat, rests on radiocarbon dates from charcoal and an antler point found on the cave floor, around 18,600–17,000 years ago, and on stylistic parallels with Magdalenian portable art."
+        },
+        {
+          "label": "Earlier, Badegoulian",
+          "text": "In 2019 Sylvain Ducasse and Mathieu Langlais re-dated bone and antler objects from the cave and argued that the main human activity belongs to the Badegoulian, before the classic Magdalenian, so that the art may be older than usually thought."
+        }
+      ],
+      "status": "The mineral pigments cannot be radiocarbon dated, and objects on the floor may not date the paintings themselves. The question remains open; new methods for dating manganese pigments or calcite films over the images could settle it."
+    },
+    {
+      "question": "Do dots and lines beside Ice Age animals record a lunar calendar?",
+      "views": [
+        {
+          "label": "A phenological calendar",
+          "text": "Bennett Bacon, Paul Pettitt, Robert Kentridge and colleagues (2023) argue that counts of up to 13 marks record lunar months since spring, and a Y sign births, matching the breeding cycles of the animals depicted."
+        },
+        {
+          "label": "Unproven pattern-matching",
+          "text": "Critics among Palaeolithic art specialists note that the breeding seasons of Ice Age animals are assumed, that the starting point of the year is flexible, and that small numbers can be fitted to many schemes, so the correlation may be coincidental."
+        }
+      ],
+      "status": "The idea has been widely discussed but not widely accepted. An independent test on sequences not used to build the model would be the next step."
+    },
+    {
+      "question": "Why did Magdalenians consume their dead?",
+      "views": [
+        {
+          "label": "Funerary ritual",
+          "text": "Silvia Bello, William Marsh and colleagues argue from the careful shaping of skull cups, the engraved bone and the absence of food stress at Gough’s Cave that cannibalism was a mortuary custom, repeated across Magdalenian sites."
+        },
+        {
+          "label": "Violence or hunger",
+          "text": "Other researchers point to evidence of violent death at some sites, such as the 2025 reading of Maszycka Cave in Poland as the aftermath of conflict, and note that survival cannibalism is hard to exclude elsewhere."
+        }
+      ],
+      "status": "At Gough’s Cave the ritual interpretation is well supported. Across the Magdalenian as a whole, both practices may have occurred, and each site has to be judged on its own evidence."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Lascaux", "value": "Found 12 September 1940; about 600 paintings and 1,500 engravings; closed to the public in 1963"},
+    {"label": "Altamira", "value": "Paintings spotted by María Sanz de Sautuola in 1879; accepted as genuine only in 1902"},
+    {"label": "Oldest dated sign at Altamira", "value": "At least 35,600 years old (uranium-series, 2012)"},
+    {"label": "Gough’s Cave skull cups", "value": "About 14,700 years old"},
+    {"label": "Genetic turnover", "value": "Villabruna ancestry spreads across Europe from about 14,000 years ago"}
+  ],
+  "sites": [
+    {
+      "id": "la-madeleine",
+      "name": "La Madeleine",
+      "country": "France",
+      "region": "europe",
+      "lat": 44.97, "lon": 1.03,
+      "start": 17000, "end": 14000,
+      "dateLabel": "about 17,000–14,000 years ago",
+      "type": "settlement",
+      "summary": "Rock shelter in the Vézère valley that gave the Magdalenian its name in 1869, rich in carved antler, bone tools and harpoons."
+    },
+    {
+      "id": "lascaux",
+      "name": "Lascaux",
+      "country": "France",
+      "region": "europe",
+      "lat": 45.05, "lon": 1.17,
+      "start": 21000, "end": 17000,
+      "dateLabel": "about 21,000–17,000 years ago (debated)",
+      "type": "art",
+      "summary": "Found in 1940, with some 600 paintings including the Hall of the Bulls and the enigmatic shaft scene. Closed in 1963 to protect it; visitors see replicas."
+    },
+    {
+      "id": "altamira",
+      "name": "Altamira",
+      "country": "Spain",
+      "region": "europe",
+      "lat": 43.38, "lon": -4.12,
+      "start": 36000, "end": 15000,
+      "dateLabel": "about 36,000–15,000 years ago",
+      "type": "art",
+      "summary": "The first Palaeolithic cave paintings to be recognised (1879), long rejected as fakes. Its polychrome bison are Magdalenian, but some signs are over 35,600 years old."
+    },
+    {
+      "id": "font-de-gaume",
+      "name": "Font-de-Gaume",
+      "country": "France",
+      "region": "europe",
+      "lat": 44.94, "lon": 1.03,
+      "start": 19000, "end": 14000,
+      "dateLabel": "Magdalenian",
+      "type": "art",
+      "summary": "Cave near Les Eyzies with dozens of polychrome bison, one of the few original painted caves still open to small groups of visitors."
+    },
+    {
+      "id": "niaux",
+      "name": "Niaux",
+      "country": "France",
+      "region": "europe",
+      "lat": 42.82, "lon": 1.59,
+      "start": 17000, "end": 15000,
+      "dateLabel": "about 17,000–15,000 years ago",
+      "type": "art",
+      "summary": "Pyrenean cave whose Salon Noir, deep inside the mountain, holds bison, horses and ibex drawn in black outline."
+    },
+    {
+      "id": "les-trois-freres",
+      "name": "Les Trois-Frères",
+      "country": "France",
+      "region": "europe",
+      "lat": 43.03, "lon": 1.21,
+      "start": 18000, "end": 14000,
+      "dateLabel": "Magdalenian",
+      "type": "art",
+      "summary": "Cave explored in 1914 by the three Bégouën brothers, famous for the antlered “Sorcerer” figure and hundreds of engraved animals."
+    },
+    {
+      "id": "tuc-daudoubert",
+      "name": "Le Tuc d’Audoubert",
+      "country": "France",
+      "region": "europe",
+      "lat": 43.02, "lon": 1.2,
+      "start": 18000, "end": 14000,
+      "dateLabel": "Magdalenian",
+      "type": "art",
+      "summary": "Cave in the same system as Les Trois-Frères, where two bison modelled in clay were found in 1912, deep underground."
+    },
+    {
+      "id": "coa-valley",
+      "name": "Côa Valley and Siega Verde",
+      "country": "Portugal and Spain",
+      "region": "europe",
+      "lat": 41.07, "lon": -7.11,
+      "start": 30000, "end": 12000,
+      "dateLabel": "about 30,000–12,000 years ago and later",
+      "type": "art",
+      "summary": "Thousands of animals engraved on open-air rock outcrops, saved from a dam in 1995 and listed as World Heritage in 1998 (Siega Verde added in 2010)."
+    },
+    {
+      "id": "gonnersdorf",
+      "name": "Gönnersdorf",
+      "country": "Germany",
+      "region": "europe",
+      "lat": 50.45, "lon": 7.43,
+      "start": 16000, "end": 15000,
+      "dateLabel": "about 16,000–15,000 years ago",
+      "type": "settlement",
+      "summary": "Late Magdalenian camp on the Rhine whose slate floor slabs are engraved with animals and stylised female figures."
+    },
+    {
+      "id": "mas-dazil",
+      "name": "Le Mas d’Azil",
+      "country": "France",
+      "region": "europe",
+      "lat": 43.07, "lon": 1.36,
+      "start": 16000, "end": 12000,
+      "dateLabel": "about 16,000–12,000 years ago",
+      "type": "art",
+      "summary": "Huge cave through which a river flows, source of a spear-thrower carved as a young ibex with birds, and namesake of the Azilian culture with its painted pebbles."
+    },
+    {
+      "id": "goughs-cave",
+      "name": "Gough’s Cave",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 51.28, "lon": -2.76,
+      "start": 14800, "end": 14300,
+      "dateLabel": "about 14,700 years ago",
+      "type": "burial",
+      "summary": "Magdalenian cave in Cheddar Gorge with human skull cups and cut-marked bones, the best-studied case of Ice Age funerary cannibalism."
+    },
+    {
+      "id": "creswell-crags",
+      "name": "Creswell Crags",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 53.26, "lon": -1.19,
+      "start": 15000, "end": 12800,
+      "dateLabel": "at least 12,800 years ago",
+      "type": "art",
+      "summary": "Limestone gorge with Britain’s only known Ice Age cave art, engravings in Church Hole recognised in 2003."
+    }
+  ],
+  "themes": ["art", "technology", "burial", "genetics", "climate", "society"],
+  "sources": [
+    {"cite": "Fu, Q. et al. (2016). The genetic history of Ice Age Europe. Nature 534, 200–205."},
+    {"cite": "Posth, C. et al. (2023). Palaeogenomics of Upper Palaeolithic to Neolithic European hunter-gatherers. Nature 615, 117–126."},
+    {"cite": "Pike, A.W.G. et al. (2012). U-series dating of Paleolithic art in 11 caves in Spain. Science 336, 1409–1413."},
+    {"cite": "Bello, S.M., Parfitt, S.A., Stringer, C.B. (2011). Earliest directly-dated human skull-cups. PLoS ONE 6(2), e17026."},
+    {"cite": "Marsh, W.A., Bello, S. (2023). Cannibalism and burial in the late Upper Palaeolithic: combining archaeological and genetic evidence. Quaternary Science Reviews 319."},
+    {"cite": "Bacon, B. et al. (2023). An Upper Palaeolithic proto-writing system and phenological calendar. Cambridge Archaeological Journal 33."},
+    {"cite": "Ducasse, S., Langlais, M. (2019). Twenty years on, a new date with Lascaux: reassessing the chronology of the cave’s Paleolithic occupations through new 14C AMS dating. Paléo 30."},
+    {"cite": "Cartailhac, É. (1902). La grotte d’Altamira, Espagne. Mea culpa d’un sceptique. L’Anthropologie 13."}
+  ]
+}

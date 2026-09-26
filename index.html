@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Before Bronze</title>
+<meta name="description" content="An interactive, narrated world history of the Stone Age, from the first hominins and the first stone tools to the beginning of the Bronze Age, on every continent.">
+<meta name="theme-color" content="#0f0e0c">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230f0e0c'/%3E%3Cpath d='M9 28c-1-5-4-8-5-11 1-1 3-1 4 1l2 3V6c0-1.5 2.5-1.5 2.5 0v9V4c0-1.5 2.5-1.5 2.5 0v11V5.5c0-1.5 2.5-1.5 2.5 0V16V8c0-1.5 2.5-1.5 2.5 0v11c0 4-1 7-3 9z' fill='%23d4694a'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<div id="app" class="intro-on" data-mode="journey">
+  <canvas id="globe-base" aria-hidden="true"></canvas>
+  <canvas id="globe-overlay" aria-label="Globe with archaeological sites. Drag to turn, scroll or pinch to zoom, click a site for details."></canvas>
+  <div id="grain" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a class="wordmark" href="#" aria-label="Before Bronze, home"><b>Before Bronze</b><span>A world history of the Stone Age</span></a>
+    <nav class="modes" role="tablist" aria-label="Views">
+      <button role="tab" data-mode="journey" aria-selected="true">Journey</button>
+      <button role="tab" data-mode="explore" aria-selected="false">Explore</button>
+      <button role="tab" data-mode="read" aria-selected="false">Chapters</button>
+      <button role="tab" data-mode="tree" aria-selected="false">Family tree</button>
+      <button role="tab" data-mode="about" aria-selected="false">Sources</button>
+    </nav>
+    <div class="topbar-tools">
+      <button class="chip-btn" id="btn-projection"></button>
+      <button class="chip-btn" id="btn-settings" aria-label="Narration settings">Settings</button>
+    </div>
+  </header>
+
+  <div class="stage-badge" id="badge" aria-live="polite">
+    <div class="region" id="badge-region"></div>
+    <div class="when" id="badge-when"></div>
+    <div class="sea" id="badge-sea"></div>
+  </div>
+
+  <aside class="panel" id="panel-journey" aria-labelledby="chapter-title" hidden>
+    <div class="panel-scroll"></div>
+  </aside>
+  <aside class="panel" id="panel-explore" aria-label="Explore sites" hidden>
+    <div class="panel-scroll"></div>
+  </aside>
+
+  <div class="subtitle" id="subtitle" aria-hidden="true"></div>
+  <div class="site-card" id="site-card" role="dialog" aria-label="Site details" hidden></div>
+  <div class="popover" id="settings" role="dialog" aria-label="Narration settings" hidden></div>
+
+  <footer class="dock">
+    <div class="transport">
+      <button class="tbtn" id="btn-prev" aria-label="Previous chapter"></button>
+      <button class="tbtn play" id="btn-play" aria-label="Play narration"></button>
+      <button class="tbtn" id="btn-next" aria-label="Next chapter"></button>
+      <div class="now-playing">
+        <div class="t" id="np-title"></div>
+        <div class="progress" id="progress"><i></i></div>
+      </div>
+      <div class="right">
+        <label class="sr-only" for="speed">Narration speed</label>
+        <select class="speed" id="speed">
+          <option value="0.85">0.85×</option>
+          <option value="1">1×</option>
+          <option value="1.15">1.15×</option>
+          <option value="1.3">1.3×</option>
+        </select>
+        <button class="chip-btn" id="btn-voice" aria-label="Narration settings"></button>
+        <button class="chip-btn" id="btn-cinema" aria-pressed="false" title="Hide the text panel and show subtitles over the globe">Cinema</button>
+      </div>
+    </div>
+    <svg id="timeline" role="group"></svg>
+  </footer>
+
+  <section class="overlay" id="ov-read" aria-label="Chapters" hidden></section>
+  <section class="overlay" id="ov-tree" aria-label="Family tree" hidden></section>
+  <section class="overlay" id="ov-about" aria-label="Sources and methods" hidden></section>
+
+  <section class="intro" id="intro" aria-labelledby="intro-title">
+    <div class="intro-inner">
+      <canvas id="hand-canvas" aria-hidden="true"></canvas>
+      <div class="kicker label">A narrated world history · first tools to first bronze</div>
+      <h1 id="intro-title">Before <em>Bronze</em></h1>
+      <p class="lead">For more than 99 percent of the time that humans and their relatives have made tools, those tools were stone, wood, bone and fibre. Follow that story across every continent, from the first flaked stones in East Africa to the first metal furnaces, told with the latest research and the arguments that still divide it.</p>
+      <div class="numbers" id="intro-numbers"></div>
+      <div class="cta">
+        <button class="btn primary" id="intro-begin"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M7 4.5v15l13-7.5z"/></svg>Begin the narrated journey</button>
+        <button class="btn" id="intro-explore">Explore the map</button>
+        <button class="btn" id="intro-read">Read the chapters</button>
+      </div>
+      <p class="fine">Sound on for the narrator. Keyboard: space plays and pauses, arrow keys change chapter.</p>
+    </div>
+  </section>
+</div>
+
+<script src="vendor/d3.min.js"></script>
+<script src="vendor/topojson-client.min.js"></script>
+<script src="data/geo.js"></script>
+<script src="data/climate.js"></script>
+<script src="data/content.js"></script>
+<script src="data/narration.js"></script>
+<script src="js/util.js"></script>
+<script src="js/emblems.js"></script>
+<script src="js/hand.js"></script>
+<script src="js/globe.js"></script>
+<script src="js/timeline.js"></script>
+<script src="js/narrator.js"></script>
+<script src="js/reader.js"></script>
+<script src="js/tree.js"></script>
+<script src="js/about.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

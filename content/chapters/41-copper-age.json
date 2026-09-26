@@ -1,0 +1,324 @@
+{
+  "id": "copper-age",
+  "order": 41,
+  "act": "metal",
+  "title": "The Copper Age",
+  "subtitle": "Smelters, gold, wheels, writing and the herders of the steppe",
+  "era": "Chalcolithic (Copper Age, Eneolithic)",
+  "start": 10500,
+  "end": 4500,
+  "dateLabel": "c. 8500–2500 BCE",
+  "regions": ["europe", "asia", "africa"],
+  "focus": [-10, 25, 88, 60],
+  "emblem": "copperaxe",
+  "summary": "From hammered nuggets of native copper to smelting furnaces, Varna’s gold, Ötzi’s axe, the first wheels, the first writing at Uruk and the Yamnaya herders of the steppe, the Copper Age remade the societies of western Eurasia.",
+  "narration": [
+    "In September 1991 two hikers high in the Ötztal Alps, on the border between Austria and Italy, found a body melting out of the ice. The man had died about 5,200 years ago, shot in the back with a stone-tipped arrow. Beside him lay a bow, a quiver, a flint dagger and an axe with a blade of almost pure copper, made from ore that probably came from Tuscany, hundreds of kilometres to the south.",
+    "Ötzi, as he is now known, lived late in the Copper Age, a period that began when people hammered cold nuggets of native copper into beads. Around 5000 BCE, at Belovode in Serbia, someone heated green malachite in a fire hot enough to release liquid metal. Within a few centuries people at Varna, on the Black Sea coast, were being buried with more worked gold than has been found at any other site of that age.",
+    "The next fifteen hundred years brought changes that still shape our lives. Wheels and wagons appeared across a wide area around 3500 BCE. In the city of Uruk, clerks began pressing accounts of grain and beer into clay, the first steps towards writing.",
+    "And on the grasslands north of the Black Sea and the Caspian, herders called the Yamnaya raised great burial mounds and moved east and west with their wagons and cattle, spreading their ancestry, and very probably their languages, across a continent."
+  ],
+  "pronounce": {
+    "Ötztal": "Urts-tahl",
+    "Ötzi": "Urt-see",
+    "Belovode": "Beh-lo-vo-deh",
+    "Varna": "Var-nah",
+    "Uruk": "Oo-rook",
+    "Yamnaya": "Yahm-nah-yah"
+  },
+  "body": [
+    {
+      "heading": "Before smelting: cold-hammered copper",
+      "paragraphs": [
+        "Metal began as a kind of stone. Nuggets of native copper, which occur naturally in almost pure form, can be hammered like a soft mineral. An oval copper pendant from the Shanidar area in Iraq is usually dated to about the tenth millennium BCE, and at Çayönü in south-eastern Turkey, from about 8200 BCE, villagers hammered native copper and the green copper mineral malachite into beads, hooks and awls. They also learned to anneal the metal, heating it so that it could be worked further without cracking. For some three thousand years copper remained a rare ornament.",
+        "Archaeologists call the age that followed the Chalcolithic, from the Greek for copper and stone, or the Eneolithic. The names are a reminder that stone tools remained in daily use throughout; metal was added, not substituted."
+      ]
+    },
+    {
+      "heading": "Fire and ore: the first smelting",
+      "paragraphs": [
+        "Smelting, extracting metal from ore in a charcoal fire of well over 1,000 degrees, was a real invention. At Belovode in Serbia, a Vinča-culture settlement, Miljana Radivojević and colleagues reported in 2010 copper slag and processed malachite dated to about 5000 BCE, the oldest securely dated smelting yet known. Crucible smelting in the fifth millennium BCE is also known from Tal-i Iblis in south-eastern Iran, so the technique may have been invented more than once.",
+        "Balkan miners followed malachite veins underground at Rudna Glava in Serbia and cut long open trenches at Ai Bunar in Bulgaria, and heavy cast copper hammer-axes circulated widely. At Pločnik in Serbia a sheet of tin bronze, dated to about 4650 BCE, shows that metalworkers smelted mixed copper and tin ores long before bronze was made deliberately. In the southern Levant, copper was mined and smelted at Faynan in Jordan and Timna in Israel. In 1961 Pessah Bar-Adon found the Nahal Mishmar hoard of more than 400 objects in a Judean Desert cave, among them crowns, maceheads and standards made in the late fifth or early fourth millennium BCE by lost-wax casting in arsenic-rich copper. In Egypt, Naqada-period communities of the fourth millennium BCE worked copper from Sinai and the Eastern Desert."
+      ]
+    },
+    {
+      "heading": "Varna: gold and inequality",
+      "paragraphs": [
+        "In 1972 a digger driver cutting a cable trench near Varna, on the Bulgarian Black Sea coast, turned up gold. Excavations led by Ivan Ivanov uncovered about 300 graves dated to roughly 4600–4300 BCE, with some 3,000 gold objects weighing about 6 kilograms in total, alongside copper axes, Spondylus shell ornaments from the Aegean and long flint blades. Grave 43 held a middle-aged man with gold bracelets, a gold-covered sceptre-like axe and a gold penis sheath. Some of the richest graves held no body at all, only objects and, in several, clay masks decorated with gold.",
+        "Nearby, at Provadia-Solnitsata, Vassil Nikolov’s team excavated a walled settlement of about 4700–4200 BCE where brine from salt springs was boiled in ovens to make salt blocks, a valuable trade good that may help explain the wealth of the region."
+      ]
+    },
+    {
+      "heading": "The man in the ice",
+      "paragraphs": [
+        "The Iceman found on the Tisenjoch pass at about 3,210 metres in 1991 has been radiocarbon dated to about 3350–3120 BCE. His copper axe, with a yew handle, used metal that a 2017 lead-isotope study traced to southern Tuscany. He carried a longbow, arrows, a backpack, a birch-bark container with embers and a first-aid kit of birch fungus. His skin bears 61 tattoos, mostly groups of lines over joints and the lower back, probably a form of treatment for pain. His last meal, eaten a few hours before death, included very fatty ibex meat, red deer and einkorn wheat. An arrowhead lodged in his left shoulder, found by X-ray in 2001, severed an artery.",
+        "In 2023 a team led by Ke Wang and Johannes Krause published a high-coverage genome. It showed that Ötzi had darker skin than earlier reconstructions assumed, was probably balding, and carried about 90 percent Anatolian farmer ancestry, with only a little from European hunter-gatherers and none from the steppe."
+      ]
+    },
+    {
+      "heading": "Uruk: the first city and the first signs",
+      "paragraphs": [
+        "In southern Mesopotamia the fourth millennium BCE is named after Uruk, which grew into one of the largest settlements of its time, with monumental temple complexes in the Eanna precinct. Mass-produced bevelled-rim bowls, probably used to issue rations, point to large-scale administration of labour. Uruk-style settlements and outposts appeared as far away as Syria and south-eastern Turkey.",
+        "Around 3300 BCE, scribes at Uruk began to impress signs into clay tablets. Several thousand of these proto-cuneiform tablets survive; most record quantities of barley, beer, livestock, textiles and workers, and a minority are standard lists of words used to train scribes. This was not yet a way of writing down speech, but it grew into the cuneiform script over the next few centuries, at almost the same time as writing emerged in Egypt."
+      ]
+    },
+    {
+      "heading": "Wheels, ploughs and wool",
+      "paragraphs": [
+        "Wheeled vehicles appear almost simultaneously across a vast area. A pot from Bronocice in Poland, dated to about 3500–3350 BCE, carries what looks like a schematic wagon; wheel tracks preserved under a long barrow at Flintbek in northern Germany date to about 3400 BCE; the oldest surviving wooden wheel, found in the Ljubljana Marshes in Slovenia in 2002, dates to about 3150 BCE. Pictographs of wagons appear in the Uruk tablets, and clay wagon models and wagon burials are known from the steppe soon afterwards.",
+        "In 1981 Andrew Sherratt proposed a “secondary products revolution”: in the fourth millennium BCE farmers began to exploit animals for milk, wool and traction as well as meat, with the plough and the wagon transforming farming and transport. Ard marks under burial mounds confirm early ploughing. Later research, including milk residues in Anatolian pots of the seventh millennium BCE published by Richard Evershed and colleagues in 2008, shows that dairying began much earlier, but the combination of wool sheep, draught oxen, ploughs and wheels did come together in the fourth millennium."
+      ]
+    },
+    {
+      "heading": "Horses, herders and plague",
+      "paragraphs": [
+        "At Botai in northern Kazakhstan, around 3500 BCE, people lived largely on horses, and Alan Outram and colleagues reported possible bit wear and mare’s milk residues. But in 2018 a genetic study led by Ludovic Orlando showed that the Botai horses were ancestors of Przewalski’s horses, not of domestic horses. In 2021 Pablo Librado, Orlando and colleagues traced all modern domestic horses (the lineage called DOM2) to the lower Volga-Don region, where breeding selected for docility and a stronger back, and whence they spread across Eurasia after about 2200 BCE; a 2024 study confirmed that controlled horse breeding and widespread horse-based mobility began around that time.",
+        "The Yamnaya (about 3300–2600 BCE) were mobile herders of cattle and sheep who buried their dead under kurgan mounds, sometimes with wagons. Genomes published in 2015 by Wolfgang Haak, David Reich and colleagues showed that people with largely Yamnaya-related ancestry moved into central Europe, where the Corded Ware culture of about 2900–2350 BCE carried around three-quarters of such ancestry. In 2025 Iosif Lazaridis and colleagues traced Yamnaya origins to a genetic cline of the fifth millennium BCE stretching from the Caucasus to the Lower Volga, whose people mixed with hunter-gatherers of what is now Ukraine. To the south, the Maykop culture of the North Caucasus, with its lavish kurgan burials, had links with the Near East.",
+        "Plague accompanied these changes. In 2019 Nicolás Rascovan and colleagues found Yersinia pestis in a woman buried about 4,900 years ago at Frälsegården in Sweden, and a 2024 Nature study led by Frederik Seersholm detected plague in about one in six of 108 individuals of the same farming community, in at least three waves, supporting the idea that epidemics contributed to the late Neolithic decline of northern European farmers."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Does Varna show the first hereditary elite?",
+      "views": [
+        {
+          "label": "An early ranked society",
+          "text": "Colin Renfrew and others read the concentration of gold, copper and exotic shell in a few graves as evidence of a hierarchical society in which a small group controlled prestige goods and perhaps inherited their status, a precocious step towards chiefdoms."
+        },
+        {
+          "label": "Ritual display and social roles",
+          "text": "Other archaeologists point out that many rich graves were symbolic, with no body, and that most objects may mark ritual offices or community ceremonies rather than personal wealth. Refined radiocarbon dates suggest the cemetery was used over a relatively short period, and the Balkan Copper Age societies collapsed soon after."
+        }
+      ],
+      "status": "Varna clearly shows marked differences in access to precious goods by about 4500 BCE. Whether these were inherited, and whether they reflect political power or religious roles, is still open; ancient DNA and kinship analysis of the burials may help."
+    },
+    {
+      "question": "Where was the wheel invented?",
+      "views": [
+        {
+          "label": "Mesopotamia",
+          "text": "The traditional view holds that the wheel spread from the urban societies of Mesopotamia, which had the potter’s wheel and early pictographs of wagons."
+        },
+        {
+          "label": "The steppe",
+          "text": "David Anthony and others emphasise how quickly heavy wagons were adopted by herders of the Pontic-Caspian steppe and its western fringes, where wagon burials and wheeled clay models appear early, making the region a candidate and certainly a key route of spread."
+        },
+        {
+          "label": "Central Europe",
+          "text": "The Bronocice pot, the Flintbek tracks and the Ljubljana wheel are among the oldest direct evidence. Historian Richard Bulliet suggested that the wheel and axle began as small carts in Carpathian copper mines."
+        }
+      ],
+      "status": "Wheeled vehicles appear within a few centuries of 3500 BCE across a band from Mesopotamia to northern Europe, faster than radiocarbon can resolve. The place of invention is unknown, and some researchers suspect the idea spread so quickly that it will never be pinned down."
+    },
+    {
+      "question": "When were horses domesticated and ridden?",
+      "views": [
+        {
+          "label": "Early, at Botai",
+          "text": "Alan Outram and colleagues (2009) argued that Botai people bridled and milked horses around 3500 BCE, making them the first horse domesticators."
+        },
+        {
+          "label": "Yamnaya riders",
+          "text": "Martin Trautmann, Volker Heyd and colleagues (2023) identified skeletal changes typical of riding in some Yamnaya individuals of about 3000 BCE and argued that riding helped drive the steppe expansion."
+        },
+        {
+          "label": "Late domestication of today’s horses",
+          "text": "Genomic studies led by Ludovic Orlando and Pablo Librado (2018, 2021, 2024) show that Botai horses did not give rise to domestic horses and that the modern lineage expanded only after about 2200 BCE, too late for the Yamnaya migrations."
+        }
+      ],
+      "status": "Today’s horses come from the lower Volga-Don after about 2200 BCE. Earlier people may have managed or even occasionally ridden other horse populations, but the Yamnaya expansion did not depend on domestic horses; the riding evidence from skeletons is contested."
+    },
+    {
+      "question": "Where was the Indo-European homeland?",
+      "views": [
+        {
+          "label": "The steppe",
+          "text": "Marija Gimbutas and later David Anthony located it among steppe herders of the fourth millennium BCE. Ancient DNA showing steppe ancestry spreading into Europe and South Asia after 3000 BCE strongly supports this for most branches."
+        },
+        {
+          "label": "Anatolia",
+          "text": "Colin Renfrew (1987) proposed that the languages spread with the first farmers from Anatolia after about 7000 BCE; a 2012 language phylogeny by Remco Bouckaert, Quentin Atkinson and colleagues gave dates consistent with this."
+        },
+        {
+          "label": "An Indo-Anatolian synthesis",
+          "text": "Early speakers of Hittite and the other Anatolian languages show little or no steppe ancestry. In 2023 Paul Heggarty and colleagues proposed a hybrid model with an older root south of the Caucasus; in 2025 Lazaridis and colleagues placed the Indo-Anatolian ancestors in the Caucasus to Lower Volga cline, with the Yamnaya carrying the later branches."
+        }
+      ],
+      "status": "By 2026 most researchers accept that the Yamnaya spread most Indo-European branches. Where and when the deeper Indo-Anatolian ancestor was spoken, and how the Anatolian branch reached Anatolia, remain the live questions."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Earliest securely dated smelting", "value": "Belovode, Serbia, about 5000 BCE"},
+    {"label": "Earliest tin bronze", "value": "Foil from Pločnik, Serbia, about 4650 BCE"},
+    {"label": "Varna gold", "value": "About 3,000 objects, roughly 4600–4300 BCE"},
+    {"label": "Ötzi", "value": "Died about 3350–3120 BCE; copper axe, 61 tattoos"},
+    {"label": "Proto-cuneiform", "value": "Uruk, about 3300 BCE"},
+    {"label": "Oldest wooden wheel", "value": "Ljubljana Marshes, about 3150 BCE"}
+  ],
+  "sites": [
+    {
+      "id": "cayonu",
+      "name": "Çayönü",
+      "country": "Türkiye",
+      "region": "asia",
+      "lat": 38.22, "lon": 39.73,
+      "start": 10200, "end": 9000,
+      "dateLabel": "c. 8200–7000 BCE",
+      "type": "metal",
+      "summary": "Early farming village where native copper and malachite were hammered and annealed into beads and tools."
+    },
+    {
+      "id": "belovode",
+      "name": "Belovode",
+      "country": "Serbia",
+      "region": "europe",
+      "lat": 44.33, "lon": 21.42,
+      "start": 7000, "end": 6650,
+      "dateLabel": "c. 5000–4650 BCE",
+      "type": "metal",
+      "summary": "Vinča-culture settlement with copper slag from about 5000 BCE, the oldest securely dated copper smelting."
+    },
+    {
+      "id": "plocnik",
+      "name": "Pločnik",
+      "country": "Serbia",
+      "region": "europe",
+      "lat": 43.21, "lon": 21.42,
+      "start": 6800, "end": 6500,
+      "dateLabel": "c. 4800–4500 BCE",
+      "type": "metal",
+      "summary": "Vinča settlement with copper tools and a tin-bronze foil of about 4650 BCE, made from mixed copper and tin ores."
+    },
+    {
+      "id": "varna-necropolis",
+      "name": "Varna necropolis",
+      "country": "Bulgaria",
+      "region": "europe",
+      "lat": 43.21, "lon": 27.87,
+      "start": 6600, "end": 6300,
+      "dateLabel": "c. 4600–4300 BCE",
+      "type": "burial",
+      "summary": "Cemetery of about 300 graves with the world’s oldest large assemblage of worked gold, concentrated in a few graves and symbolic burials."
+    },
+    {
+      "id": "provadia-solnitsata",
+      "name": "Provadia-Solnitsata",
+      "country": "Bulgaria",
+      "region": "europe",
+      "lat": 43.17, "lon": 27.43,
+      "start": 6700, "end": 6200,
+      "dateLabel": "c. 4700–4200 BCE",
+      "type": "settlement",
+      "summary": "Walled Copper Age settlement where brine was boiled into salt, a trade good behind the region’s wealth."
+    },
+    {
+      "id": "nahal-mishmar",
+      "name": "Nahal Mishmar (Cave of the Treasure)",
+      "country": "Israel",
+      "region": "asia",
+      "lat": 31.37, "lon": 35.36,
+      "start": 6300, "end": 5700,
+      "dateLabel": "late 5th–early 4th millennium BCE",
+      "type": "metal",
+      "summary": "Cave hoard of more than 400 objects, including crowns and standards cast by the lost-wax method in arsenic-rich copper."
+    },
+    {
+      "id": "timna",
+      "name": "Timna Valley",
+      "country": "Israel",
+      "region": "asia",
+      "lat": 29.78, "lon": 34.99,
+      "start": 6000, "end": 4500,
+      "dateLabel": "from the 5th–4th millennium BCE",
+      "type": "metal",
+      "summary": "Copper mining and smelting landscape of the southern Arava, worked from the Chalcolithic and, on a large scale, much later."
+    },
+    {
+      "id": "uruk",
+      "name": "Uruk",
+      "country": "Iraq",
+      "region": "asia",
+      "lat": 31.32, "lon": 45.64,
+      "start": 6000, "end": 5000,
+      "dateLabel": "c. 4000–3000 BCE",
+      "type": "settlement",
+      "summary": "One of the first cities, with the Eanna temple precinct and the earliest proto-cuneiform tablets, from about 3300 BCE."
+    },
+    {
+      "id": "maykop-kurgan",
+      "name": "Maykop kurgan",
+      "country": "Russia",
+      "region": "europe",
+      "lat": 44.61, "lon": 40.10,
+      "start": 5700, "end": 5000,
+      "dateLabel": "c. 3700–3000 BCE",
+      "type": "burial",
+      "summary": "Rich North Caucasian burial mound, excavated in 1897, with gold and silver bull figures, precious vessels and arsenical copper."
+    },
+    {
+      "id": "khvalynsk",
+      "name": "Khvalynsk",
+      "country": "Russia",
+      "region": "europe",
+      "lat": 52.49, "lon": 48.10,
+      "start": 6700, "end": 6300,
+      "dateLabel": "c. 4700–4300 BCE",
+      "type": "burial",
+      "summary": "Volga cemetery with copper ornaments from Balkan ores and horse and sheep offerings; its people carried an early form of the steppe ancestry later found in the Yamnaya."
+    },
+    {
+      "id": "otzi",
+      "name": "Tisenjoch (Ötzi)",
+      "country": "Italy",
+      "region": "europe",
+      "lat": 46.78, "lon": 10.84,
+      "start": 5350, "end": 5120,
+      "dateLabel": "c. 3350–3120 BCE",
+      "type": "other",
+      "summary": "Find-spot of the Iceman, a naturally mummified man with a copper axe, bow, tattoos and a genome dominated by Anatolian farmer ancestry."
+    },
+    {
+      "id": "ljubljana-marshes-wheel",
+      "name": "Ljubljana Marshes wheel (Stare gmajne)",
+      "country": "Slovenia",
+      "region": "europe",
+      "lat": 45.97, "lon": 14.33,
+      "start": 5150, "end": 5150,
+      "dateLabel": "c. 3150 BCE",
+      "type": "other",
+      "summary": "Pile-dwelling site where the oldest surviving wooden wheel, made of ash with an oak axle, was found in 2002."
+    }
+  ],
+  "routes": [
+    {
+      "id": "steppe-west",
+      "label": "Steppe ancestry moves west",
+      "start": 5100,
+      "end": 4700,
+      "certainty": "established",
+      "path": [[46.00, 48.00], [37.00, 47.00], [30.00, 46.50], [28.00, 45.20], [21.00, 47.20], [15.00, 51.00]]
+    },
+    {
+      "id": "steppe-east",
+      "label": "Yamnaya-related herders move east to the Altai",
+      "start": 5300,
+      "end": 5000,
+      "certainty": "established",
+      "path": [[50.00, 51.00], [62.00, 51.50], [75.00, 52.00], [86.00, 51.00]]
+    }
+  ],
+  "themes": ["metal", "technology", "burial", "society", "settlement", "animals", "genetics", "migration", "language", "farming"],
+  "sources": [
+    {"cite": "Radivojević, M. et al. (2010). On the origins of extractive metallurgy: new evidence from Europe. Journal of Archaeological Science 37, 2775–2787."},
+    {"cite": "Sherratt, A. (1981). Plough and pastoralism: aspects of the secondary products revolution. In I. Hodder, G. Isaac and N. Hammond (eds), Pattern of the Past. Cambridge University Press."},
+    {"cite": "Wang, K. et al. (2023). High-coverage genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry. Cell Genomics 3."},
+    {"cite": "Gaunitz, C. et al. (2018). Ancient genomes revisit the ancestry of domestic and Przewalski’s horses. Science 360, 111–114."},
+    {"cite": "Librado, P. et al. (2021). The origins and spread of domestic horses from the Western Eurasian steppes. Nature 598, 634–640."},
+    {"cite": "Librado, P. et al. (2024). Widespread horse-based mobility arose around 2200 BCE in Eurasia. Nature 631."},
+    {"cite": "Haak, W. et al. (2015). Massive migration from the steppe was a source for Indo-European languages in Europe. Nature 522, 207–211."},
+    {"cite": "Heggarty, P. et al. (2023). Language trees with sampled ancestors support a hybrid model for the origin of Indo-European languages. Science 381."},
+    {"cite": "Lazaridis, I. et al. (2025). The genetic origin of the Indo-Anatolians. Nature."},
+    {"cite": "Seersholm, F. V. et al. (2024). Repeated plague infections across six generations of Neolithic Farmers. Nature."}
+  ]
+}

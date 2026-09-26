@@ -1,0 +1,255 @@
+{
+  "id": "levallois-msa",
+  "order": 11,
+  "act": "many-humans",
+  "title": "Prepared Cores and Hafted Points",
+  "subtitle": "Levallois, the Middle Stone Age and the Middle Palaeolithic",
+  "era": "Middle Pleistocene; late Acheulean, early Middle Stone Age and Middle Palaeolithic",
+  "start": 500000,
+  "end": 200000,
+  "dateLabel": "about 500,000–200,000 years ago",
+  "regions": ["africa", "europe", "asia"],
+  "focus": [-12, -30, 110, 50],
+  "emblem": "point",
+  "summary": "Between about 500,000 and 200,000 years ago, toolmakers across Africa and Eurasia moved from handaxes to prepared cores, hafted points and glue, while some began carrying stone over long distances and collecting pigments. Whether these changes spread with people or were invented many times is still debated.",
+  "narration": [
+    "For more than a million years, the handaxe was the signature tool of our ancestors. Then, between about 500,000 and 200,000 years ago, toolmakers in many regions began doing something subtler. Instead of shaping one stone into one tool, they shaped a core so that a single well-aimed blow would release a flake of a size and form decided in advance. Archaeologists call it the Levallois method, after a suburb of Paris where such flakes were first described.",
+    "At Kathu Pan in South Africa, stone points about 500,000 years old carry damage suggesting they were bound to wooden shafts as spear tips. At Olorgesailie, in the Kenyan rift, people living around 320,000 years ago carried black obsidian from sources up to 95 kilometres away and kept lumps of red and black pigment. The handaxes that had filled the same basin for hundreds of thousands of years were gone.",
+    "The new ways of working stone appear far beyond Africa: in Armenia about 330,000 years ago, in southern India by roughly 385,000 years ago, and later in southwest China. Some archaeologists see the spread of one population’s know-how. Others see the same good idea arising again and again from older handaxe traditions.",
+    "Around the same time, toolmakers in Italy fixed stone to wood with tar cooked from birch bark. The age of composite tools, built from several parts and several materials, had begun."
+  ],
+  "pronounce": {
+    "Levallois": "Leh-val-wah",
+    "Kathu Pan": "Kah-too Pahn",
+    "Olorgesailie": "Oh-lor-geh-sigh-lee"
+  },
+  "body": [
+    {
+      "heading": "Planning in stone",
+      "paragraphs": [
+        "The Levallois method takes its name from Levallois-Perret, a suburb of Paris, where nineteenth-century collectors found distinctive flakes in gravel pits. The knapper first trims the edges of a nodule and then shapes one face into a gently domed surface, like a tortoise shell, with ridges placed to guide the fracture. A striking platform is prepared at one end. A single blow then removes a flake, point or blade whose shape was fixed by the preparation, and the core can be reshaped and struck again. Archaeologists see a longer chain of planned steps than in making a handaxe, and a way to get many thin, standardised blanks from one stone, ideal for fitting to handles.",
+        "The idea had roots. Late Acheulean knappers already prepared large cores to strike big flakes for handaxes and cleavers. In South Africa, so-called Victoria West cores, shaped to yield one large flake, appear at Canteen Kopje about 1 million years ago, according to a 2017 study by Hao Li, Kathleen Kuman and colleagues. Levallois can be seen as a miniaturised, more flexible version of these older habits."
+      ]
+    },
+    {
+      "heading": "Kathu Pan and the first spear points",
+      "paragraphs": [
+        "At Kathu Pan 1, a sinkhole in South Africa’s Northern Cape, a layer dated by luminescence and by uranium-series and electron spin resonance dating of an animal tooth to about 500,000 years contains points and blades made from prepared cores. In 2012 Jayne Wilkins, Benjamin Schoville, Kyle Brown and Michael Chazan reported that some points show fractures typical of impact and thinning at the base consistent with hafting; replicas mounted on spears and thrust into carcasses produced similar damage. They concluded that these were hafted spear tips, some 200,000 years older than the previously accepted evidence.",
+        "Not everyone agreed. In 2014 Veerle Rots and Hugues Plisson argued that similar fractures can come from trampling, knapping accidents or other uses, and that hafting had not been demonstrated. The Kathu Pan team replied with further analyses. The points remain among the strongest early candidates for hafted weapons, but the case is not closed."
+      ]
+    },
+    {
+      "heading": "Olorgesailie: the Middle Stone Age begins",
+      "paragraphs": [
+        "The Olorgesailie basin in southern Kenya holds one of Africa’s longest archaeological records, famous for dense scatters of Acheulean handaxes. In 2018 three papers in Science by Rick Potts, Alison Brooks, Alan Deino and colleagues described what came next. The last handaxes there are about 500,000 years old. After a gap in the sediment record, by about 320,000 years ago the toolkit had changed completely: smaller, carefully prepared points and flakes typical of the Middle Stone Age, and no handaxes.",
+        "The new toolmakers used obsidian from several sources 25 to 95 kilometres away, far beyond the few kilometres typical for Acheulean stone, which suggests wider ranges or exchange between groups. They also collected black manganese-rich rocks and red ochre, some of it ground or scraped, probably for pigment. The researchers linked these changes to a time of environmental instability, when earth movements reshaped the basin, climate swung between wet and dry, and much of the large-mammal community was replaced. The Olorgesailie Middle Stone Age is about as old as the earliest Homo sapiens fossils from Jebel Irhoud in Morocco, though no human bones were found with the tools."
+      ]
+    },
+    {
+      "heading": "Blades and colour: Kapthurin and Twin Rivers",
+      "paragraphs": [
+        "Some innovations appear surprisingly early. In the Kapthurin Formation near Lake Baringo in Kenya, Sally McBrearty and colleagues found that blades, long narrow flakes usually associated with the much later Upper Palaeolithic, were made systematically about 545,000–509,000 years ago. Younger layers at Kapthurin, about 285,000 years old, contain Levallois flakes, grindstones and pieces of red ochre.",
+        "At Twin Rivers, a hilltop cave near Lusaka in Zambia, Lawrence Barham found hundreds of pieces of pigment, including red and yellow ochre, specularite and purple varieties, some ground or scraped, in deposits roughly 400,000 to 260,000 years old. Barham argued in 2002 that the systematic collection of a range of colours points to early symbolic use, perhaps body decoration. Others note that ochre has practical uses, as an ingredient in adhesives, as sun protection or in treating hides. The debate over colour and symbolism continues with the younger Middle Stone Age finds of later chapters."
+      ]
+    },
+    {
+      "heading": "One invention or many?",
+      "paragraphs": [
+        "Prepared-core technology turns up across Africa and Eurasia within a few hundred thousand years, and where it came from is contested. At Nor Geghi 1 in Armenia’s Hrazdan valley, sandwiched between lava flows, Daniel Adler and colleagues reported in 2014 an assemblage about 335,000–325,000 years old in which Levallois cores and flakes occur alongside bifaces made with the same technical logic, using obsidian from several sources. Adler argued that Levallois here grew out of local handaxe-making rather than arriving with a new population from Africa.",
+        "At Attirampakkam in southern India, where Acheulean levels go back about 1.5 million years, Kumar Akhilesh, Shanti Pappu and colleagues reported in 2018 a Middle Palaeolithic toolkit with Levallois flakes and points, dated by luminescence to between about 385,000 and 172,000 years ago, as handaxes faded. This is earlier than most estimates for Homo sapiens outside Africa, undercutting the idea that such tools in India had to be brought by our species. In southwest China, where Levallois was long thought absent, Hu Yue, Ben Marwick and colleagues reported in 2019 Levallois cores and flakes from Guanyindong cave in Guizhou, dated by luminescence to about 170,000–80,000 years ago.",
+        "In the Levant, the Acheulo-Yabrudian complex of about 420,000–200,000 years ago, best known from Qesem Cave near Tel Aviv, combined late handaxes, thick scrapers and a precocious blade industry called the Amudian, before Levallois-based industries took over."
+      ]
+    },
+    {
+      "heading": "Handles and glue",
+      "paragraphs": [
+        "Levallois points and flakes were well suited to hafting, and hafting changed what tools could do. A composite tool, stone fixed to wood with binding or glue, gives more leverage, reach and force than a hand-held stone, and it requires making and assembling separate parts. The oldest known adhesive comes from Campitello Quarry in Tuscany, where Paul Mazza and colleagues reported in 2006 two flint flakes partly coated in birch-bark tar, in deposits about 200,000 years old with remains of straight-tusked elephants. Birch tar does not occur naturally; it forms only when bark is heated with little oxygen.",
+        "How demanding that was is itself debated. Experiments by Paul Kozowyk and colleagues suggested that making useful amounts takes skill and planning; in 2019 Patrick Schmidt and colleagues showed that tar can condense on a stone surface next to burning birch bark, a much simpler route. Either way, the Campitello flakes show early Neanderthals combining fire, chemistry and stone."
+      ]
+    },
+    {
+      "heading": "Why the handaxe faded, and what to call it",
+      "paragraphs": [
+        "The Acheulean did not end everywhere at once. Handaxes disappear at Olorgesailie by 320,000 years ago, persist in parts of Arabia and Europe until about 200,000 years ago or later, and Neanderthals were still making them 60,000 years ago. Suggested reasons for the shift include the advantages of smaller, standardised, hafted tools; larger and better-connected populations able to maintain complex skills; changes in planning abilities; and unstable environments that rewarded flexible toolkits. None is tied to a single species: the ancestors of both Neanderthals and Homo sapiens made the change.",
+        "To organise this variety, the Cambridge archaeologist Grahame Clark proposed in 1969 five technological modes: Mode 1, simple cores and flakes (Oldowan); Mode 2, bifaces (Acheulean); Mode 3, prepared cores (Levallois, the Middle Palaeolithic and Middle Stone Age); Mode 4, long blades from prismatic cores (Upper Palaeolithic); and Mode 5, microliths. The scheme is still widely used, but critics such as John Shea note that it implies a single ladder of progress, while blades at Kapthurin half a million years ago and African microliths older than 60,000 years break the sequence. In 2013 Shea proposed nine modes, A to I, describing techniques rather than stages. The labels Middle Stone Age, coined for South Africa by John Goodwin and Clarence van Riet Lowe in 1929, and Middle Palaeolithic reflect the history of research more than real boundaries."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Did Levallois spread with one population, or was it invented many times?",
+      "views": [
+        {
+          "label": "Spread by dispersal",
+          "text": "Robert Foley and Marta Mirazón Lahr argued in 1997 that prepared-core technologies were carried out of Africa by a population ancestral to both Neanderthals and modern humans, so their spread traces a dispersal. Some researchers still link particular regional appearances, in the Levant or India, to movements of early Homo sapiens or related groups."
+        },
+        {
+          "label": "Invented independently",
+          "text": "Daniel Adler and colleagues, working at Nor Geghi, argue that Levallois emerged from local Acheulean traditions in several regions, because the logic of preparing a core was already present in late handaxe-making. Guanyindong in China and Attirampakkam in India show prepared-core technology without clear evidence of new populations arriving."
+        }
+      ],
+      "status": "Most researchers now accept that Levallois arose more than once, but the balance between invention and dispersal is argued region by region, and some appearances may still mark population movements."
+    },
+    {
+      "question": "Were the Kathu Pan points hafted spear tips?",
+      "views": [
+        {
+          "label": "Yes",
+          "text": "Jayne Wilkins, Benjamin Schoville, Kyle Brown and Michael Chazan point to impact fractures, basal thinning suited to hafting, and experiments in which spear-mounted replicas acquired the same damage, making these the oldest known hafted weapons, about 500,000 years old."
+        },
+        {
+          "label": "Not demonstrated",
+          "text": "Veerle Rots and Hugues Plisson argue that the fracture types can form through trampling, manufacture or other uses, and that without direct traces of hafting, such as adhesive residues or binding wear, the interpretation goes beyond the evidence."
+        }
+      ],
+      "status": "Still debated. The points are widely cited as the earliest likely hafted weapons; residue analyses or further well-dated finds of similar age would settle the question."
+    },
+    {
+      "question": "Do stone-tool ‘modes’ and period names help or mislead?",
+      "views": [
+        {
+          "label": "Useful shorthand",
+          "text": "Grahame Clark’s five modes and the terms Middle Stone Age and Middle Palaeolithic give a shared vocabulary for comparing regions across millions of years, and many researchers still find them indispensable for broad synthesis."
+        },
+        {
+          "label": "Misleading ladders",
+          "text": "John Shea and others argue that these schemes imply a single progression and a tight link between technology and species that the evidence contradicts: blades, prepared cores and microliths appear, vanish and reappear independently. Shea’s Modes A to I describe what was done rather than a stage reached."
+        }
+      ],
+      "status": "Both systems are in use. Researchers increasingly describe specific techniques and their dates, treating the old period names as convenient labels rather than stages of development."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Earliest likely hafted points", "value": "about 500,000 years, Kathu Pan 1 (South Africa)"},
+    {"label": "Early systematic blades", "value": "about 545,000–509,000 years, Kapthurin Formation (Kenya)"},
+    {"label": "Early Middle Stone Age", "value": "about 320,000 years, Olorgesailie (Kenya); obsidian from 25–95 km away"},
+    {"label": "Early Levallois in the Caucasus", "value": "about 335,000–325,000 years, Nor Geghi 1 (Armenia)"},
+    {"label": "Middle Palaeolithic in India", "value": "from about 385,000 years, Attirampakkam"},
+    {"label": "Oldest known adhesive", "value": "birch-bark tar, about 200,000 years, Campitello (Italy)"}
+  ],
+  "sites": [
+    {
+      "id": "canteen-kopje",
+      "name": "Canteen Kopje",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -28.53, "lon": 24.53,
+      "start": 1000000, "end": 1000000,
+      "dateLabel": "about 1 million years ago",
+      "type": "tools",
+      "summary": "Acheulean site on the Vaal River with Victoria West cores, prepared to yield single large flakes, an early precursor of Levallois."
+    },
+    {
+      "id": "kathu-pan-1",
+      "name": "Kathu Pan 1",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -27.67, "lon": 23.02,
+      "start": 500000, "end": 500000,
+      "dateLabel": "about 500,000 years ago",
+      "type": "tools",
+      "summary": "Prepared-core points and blades with damage interpreted as evidence of hafting and use as spear tips, a claim still debated."
+    },
+    {
+      "id": "kapthurin",
+      "name": "Kapthurin Formation",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 0.58, "lon": 35.97,
+      "start": 545000, "end": 285000,
+      "dateLabel": "about 545,000–285,000 years ago",
+      "type": "tools",
+      "summary": "Sediments near Lake Baringo with systematic blade production over half a million years ago and later Levallois flakes, grindstones and red ochre."
+    },
+    {
+      "id": "olorgesailie",
+      "name": "Olorgesailie",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": -1.58, "lon": 36.45,
+      "start": 500000, "end": 305000,
+      "dateLabel": "Acheulean to about 500,000; Middle Stone Age from about 320,000 years ago",
+      "type": "tools",
+      "summary": "A basin recording the replacement of handaxes by Middle Stone Age points, with obsidian transported 25 to 95 kilometres and black and red pigments."
+    },
+    {
+      "id": "twin-rivers",
+      "name": "Twin Rivers",
+      "country": "Zambia",
+      "region": "africa",
+      "lat": -15.55, "lon": 28.13,
+      "start": 400000, "end": 260000,
+      "dateLabel": "roughly 400,000–260,000 years ago",
+      "type": "art",
+      "summary": "Hilltop cave with hundreds of pieces of ochre and other pigments in a range of colours, argued to reflect early symbolic use."
+    },
+    {
+      "id": "nor-geghi-1",
+      "name": "Nor Geghi 1",
+      "country": "Armenia",
+      "region": "asia",
+      "lat": 40.32, "lon": 44.58,
+      "start": 335000, "end": 325000,
+      "dateLabel": "about 335,000–325,000 years ago",
+      "type": "tools",
+      "summary": "Levallois cores alongside bifaces between dated lava flows, used to argue that Levallois arose locally from Acheulean traditions."
+    },
+    {
+      "id": "qesem-cave",
+      "name": "Qesem Cave",
+      "country": "Israel",
+      "region": "asia",
+      "lat": 32.11, "lon": 34.98,
+      "start": 420000, "end": 200000,
+      "dateLabel": "about 420,000–200,000 years ago",
+      "type": "tools",
+      "summary": "Key site of the Acheulo-Yabrudian complex, with late handaxes, thick scrapers, early blade production and a reused central hearth."
+    },
+    {
+      "id": "attirampakkam",
+      "name": "Attirampakkam",
+      "country": "India",
+      "region": "asia",
+      "lat": 13.23, "lon": 79.89,
+      "start": 385000, "end": 172000,
+      "dateLabel": "Middle Palaeolithic about 385,000–172,000 years ago",
+      "type": "tools",
+      "summary": "Levallois flakes and points replacing handaxes from about 385,000 years ago, earlier than most estimates for Homo sapiens outside Africa."
+    },
+    {
+      "id": "guanyindong",
+      "name": "Guanyindong",
+      "country": "China",
+      "region": "asia",
+      "lat": 27.03, "lon": 106.03,
+      "start": 170000, "end": 80000,
+      "dateLabel": "about 170,000–80,000 years ago",
+      "type": "tools",
+      "summary": "Cave in Guizhou with Levallois cores and flakes, showing prepared-core technology in East Asia before the accepted arrival of modern humans."
+    },
+    {
+      "id": "campitello",
+      "name": "Campitello Quarry",
+      "country": "Italy",
+      "region": "europe",
+      "lat": 43.48, "lon": 11.62,
+      "start": 200000, "end": 200000,
+      "dateLabel": "about 200,000 years ago",
+      "type": "tools",
+      "summary": "Flint flakes partly coated with birch-bark tar, found with elephant remains, the oldest known adhesive for hafting."
+    }
+  ],
+  "themes": ["technology", "art", "society", "migration"],
+  "sources": [
+    {"cite": "Wilkins, J., Schoville, B. J., Brown, K. S. & Chazan, M. (2012). Evidence for early hafted hunting technology. Science 338, 942–946."},
+    {"cite": "Rots, V. & Plisson, H. (2014). Projectiles and the abuse of the use-wear method in a search for impact. Journal of Archaeological Science 48, 154–165."},
+    {"cite": "Brooks, A. S. et al. (2018). Long-distance stone transport and pigment use in the earliest Middle Stone Age. Science 360, 90–94."},
+    {"cite": "Deino, A. L. et al. (2018). Chronology of the Acheulean to Middle Stone Age transition in eastern Africa. Science 360, 95–98."},
+    {"cite": "Barham, L. S. (2002). Systematic pigment use in the Middle Pleistocene of south-central Africa. Current Anthropology 43, 181–190."},
+    {"cite": "Adler, D. S. et al. (2014). Early Levallois technology and the Lower to Middle Paleolithic transition in the Southern Caucasus. Science 345, 1609–1613."},
+    {"cite": "Akhilesh, K. et al. (2018). Early Middle Palaeolithic culture in India around 385–172 ka reframes Out of Africa models. Nature 554, 97–101."},
+    {"cite": "Hu, Y. et al. (2019). Late Middle Pleistocene Levallois stone-tool technology in southwest China. Nature 565, 82–85."},
+    {"cite": "Mazza, P. P. A. et al. (2006). A new Palaeolithic discovery: tar-hafted stone tools in a European Mid-Pleistocene bone-bearing bed. Journal of Archaeological Science 33, 1310–1318."},
+    {"cite": "Shea, J. J. (2013). Lithic Modes A–I: a new framework for describing global-scale variation in stone tool technology illustrated with evidence from the East Mediterranean Levant. Journal of Archaeological Method and Theory 20, 151–186."}
+  ]
+}

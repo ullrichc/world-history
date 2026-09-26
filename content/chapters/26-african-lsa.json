@@ -1,0 +1,324 @@
+{
+  "id": "african-lsa",
+  "order": 26,
+  "act": "one-species",
+  "title": "Africa’s Later Stone Age",
+  "subtitle": "Beads, bows and notched bones from Border Cave to the Nile",
+  "era": "Later Stone Age; Aterian and Iberomaurusian",
+  "start": 70000,
+  "end": 10000,
+  "dateLabel": "70,000–10,000 years ago",
+  "regions": [
+    "africa"
+  ],
+  "focus": [
+    -18,
+    -35,
+    52,
+    37
+  ],
+  "emblem": "bow",
+  "summary": "Across Africa, tiny hafted blades, bows and poison, ostrich eggshell beads and painted stones mark the Later Stone Age, which began at different times in different regions. In the north, Iberomaurusian foragers ate enough acorns to rot their teeth, and on the Nile, Jebel Sahaba records recurring violence.",
+  "narration": [
+    "High on a cliff of the Lebombo Mountains, on today’s border between South Africa and Eswatini, lies Border Cave. In layers between about 44,000 and 40,000 years old, archaeologists found a lump of beeswax mixed with plant resin, bone points for arrows, beads cut from ostrich eggshell and a baboon bone marked with a row of notches. Many of these things would have been familiar to San hunters recorded in the nineteenth century, tens of thousands of years later.",
+    "This is Africa’s Later Stone Age: a world of tiny stone blades set into composite tools, of bows and poisoned arrows, and of beads exchanged over hundreds of kilometres. It did not begin everywhere at once. In East Africa its hallmarks appear around 50,000 years ago and in southern Africa a little later, while in parts of West Africa older ways of making tools lasted until about 12,000 years ago.",
+    "In Namibia, around 30,000 years ago, someone painted animals on stone slabs in a cave now called Apollo 11. In Morocco, people who buried their dead at Taforalt ate so many acorns and pine nuts that about half of their teeth decayed. And beside the Nile, at Jebel Sahaba, a cemetery of 61 people records wounds from arrows and spears, some healed and some fatal: the scars of conflict that returned again and again.",
+    "Ancient genomes now show how these peoples were related, and how, after about 20,000 years ago, their worlds grew more local."
+  ],
+  "pronounce": {
+    "Lebombo": "Leh-bom-bo",
+    "Eswatini": "Ess-wah-tee-nee",
+    "Taforalt": "Tah-for-alt",
+    "Jebel Sahaba": "Jeh-bel Sah-hah-bah"
+  },
+  "body": [
+    {
+      "heading": "A patchwork transition",
+      "paragraphs": [
+        "Archaeologists recognise the Later Stone Age (LSA) by a package of traits that replaced the flake and point technologies of the Middle Stone Age (MSA): bladelets and backed microliths hafted into composite tools, bored stones, bone points and awls, and ostrich eggshell beads. The package did not arrive at once. At Mumba rock shelter in Tanzania, Enkapune ya Muto in Kenya’s Central Rift and Lukenya Hill near Nairobi, early LSA assemblages date to roughly 50,000–40,000 years ago. At Border Cave in South Africa the change had happened by about 44,000 years ago, while elsewhere in southern Africa MSA technology continued for thousands of years.",
+        "In West Africa, dates from sites such as Laminia in Senegal and Iho Eleru in Nigeria show MSA-style toolmaking persisting until about 13,000–11,000 years ago, as Eleanor Scerri and colleagues emphasised in 2021. Many supposed LSA features, including bladelets, beads and bone tools, had already come and gone within the MSA (chapter 15), so most researchers now see a mosaic of regional changes rather than a single revolution."
+      ]
+    },
+    {
+      "heading": "Border Cave’s toolkit",
+      "paragraphs": [
+        "In 2012 two papers in PNAS, led by Paola Villa and Francesco d’Errico with Lucinda Backwell and others, reported organic finds from Border Cave layers dated to about 44,000–42,000 years ago and from younger levels. They included fragments of wooden digging sticks, bone awls, bone points of the kind used to tip arrows (one decorated with a spiral groove filled with red ochre), notched bones, beads of ostrich eggshell and marine shell, and a lump of beeswax mixed with the resin of a toxic Euphorbia, about 40,000 years old and probably a hafting glue. A thin wooden stick carried residues of ricinoleic acid, a compound from castor beans, and was interpreted as a poison applicator.",
+        "The authors noted that almost every item has a counterpart in the equipment of San hunter-gatherers recorded in the nineteenth and twentieth centuries, and suggested that elements of San material culture are very old. Others caution that useful tools can be reinvented many times and that objects do not carry an ethnic identity across 40,000 years. San communities today are contemporary peoples with long and changing histories of their own."
+      ]
+    },
+    {
+      "heading": "Beads, networks and notched bones",
+      "paragraphs": [
+        "Ostrich eggshell beads, made by breaking shell into pieces, drilling them and grinding them into discs, are the LSA’s signature ornaments. Stanley Ambrose’s excavations at Enkapune ya Muto produced some of the oldest, roughly 50,000–40,000 years old depending on which dates are accepted, and early beads also come from Mumba. In 2022 Jennifer Miller and Yiming Wang compared the sizes and styles of beads from sites across eastern and southern Africa over 50,000 years. They concluded that from about 50,000 to 33,000 years ago the two regions shared bead styles, pointing to social ties across some 3,000 kilometres, which later broke down. Among the Ju|’hoansi of the Kalahari, the anthropologist Polly Wiessner documented a gift-exchange system called hxaro, in which beadwork maintains friendships that can be called on in hard times; many archaeologists see ancient beads as signs of comparable networks.",
+        "Other objects hint at record-keeping. The Lebombo bone from Border Cave, a baboon fibula with 29 notches, is roughly 43,000 years old. The Ishango bone, a bone handle found by Jean de Heinzelin in 1950 where the Semliki River leaves Lake Edward in the Democratic Republic of the Congo, and dated to about 25,000–20,000 years ago, bears three columns of notches; one column is grouped as 11, 13, 17 and 19, the prime numbers between 10 and 20. De Heinzelin proposed an arithmetic game, and Alexander Marshack a lunar calendar."
+      ]
+    },
+    {
+      "heading": "Painted stones and the rock art of the San",
+      "paragraphs": [
+        "In July 1969 Wolfgang Erich Wendt was excavating a rock shelter in the Huns Mountains of southern Namibia when news came of the Moon landing, and he named the site Apollo 11 Cave. Among his finds were slabs of stone painted with animals in charcoal, ochre and white, including a rhinoceros and a cat-like creature that may have human hind legs. Dates on charcoal from the same layer put them at around 30,000 years ago, the oldest dated figurative art in Africa, though the exact figure depends on the method. In southern Africa the Robberg industry, named after the peninsula where Nelson Bay Cave lies, produced standardised bladelets between about 22,000 and 12,000 years ago, through the coldest part of the last glaciation.",
+        "Southern Africa holds tens of thousands of rock-art sites, from the Drakensberg to the Brandberg and Tsodilo. From the 1970s David Lewis-Williams argued, using nineteenth-century testimonies of |xam people recorded by Wilhelm Bleek and Lucy Lloyd and later Ju|’hoan ethnography, that many paintings show the experiences of healers in trance: bleeding noses, bent-forward postures, dying eland and figures part human and part animal. Most surviving San paintings are probably no more than a few thousand years old, far younger than the Apollo 11 slabs."
+      ]
+    },
+    {
+      "heading": "North Africa: tanged points and missing teeth",
+      "paragraphs": [
+        "North Africa followed its own path. The Aterian, named after Bir el-Ater in Algeria, is known for stone points with a tang for hafting. It is now dated from more than 100,000 years ago to perhaps 30,000 years ago and counted as a regional Middle Stone Age, associated with early Homo sapiens at Moroccan sites such as Dar es-Soltane and Contrebandiers. After a poorly understood gap, the Iberomaurusian appears across the Maghreb from roughly 25,000–22,000 years ago, with backed bladelets, grinding stones and large cemeteries. Many Iberomaurusian men and women had their upper central incisors removed in youth, as skulls from Taforalt and Afalou-Bou-Rhummel show.",
+        "At the Grotte des Pigeons near Taforalt in eastern Morocco, a large cemetery dates to about 15,000–13,700 years ago. In 2014 Louise Humphrey and colleagues found decay in about half of all adult teeth, a rate usually seen only among farmers, and linked it to heavy use of sweet acorns and pine nuts. A 2024 isotope study led by Zineb Moubtahij confirmed a diet rich in plants and suggested that infants were weaned onto plant foods. In 2018 Marieke van de Loosdrecht, Choongwon Jeong, Johannes Krause and colleagues sequenced seven Taforalt individuals: about two-thirds of their ancestry was shared with the Natufians of the Levant (chapter 29), and one-third was African. A 2025 study of two women buried about 7,000 years ago at Takarkori in the Libyan Sahara found a deep, long-isolated North African lineage closely related to that African part of Taforalt ancestry (chapter 36)."
+      ]
+    },
+    {
+      "heading": "The Nile: tubers and wounds",
+      "paragraphs": [
+        "Along the Nile, Late Palaeolithic foragers lived by the river’s seasonal floods. At Wadi Kubbaniya near Aswan, excavated by Fred Wendorf and Romuald Schild, camps about 19,000–17,000 years old preserved charred tubers of nut-grass, which had to be ground and cooked to be eaten, together with the bones of catfish caught as the floodwaters fell. Barley grains once claimed as the world’s earliest cereals turned out, when dated directly by radiocarbon, to be much later intrusions.",
+        "Farther south, near Wadi Halfa in Sudan, Wendorf’s team excavated the cemetery of Jebel Sahaba in 1965–66, during the international campaign to rescue Nubian sites before the Aswan High Dam flooded them. It held 61 men, women and children, many with stone projectile fragments in or against their bones, and it became famous as the earliest evidence of warfare. A 2021 re-analysis led by Isabelle Crevecoeur, examining the skeletons now in the British Museum under the microscope, found many previously unnoticed injuries, including numerous healed ones. That points to repeated episodes of violence during people’s lives rather than a single massacre. New radiocarbon dates put the cemetery at more than 13,400 years old, and the authors linked the conflict to competition for resources in a time of climatic upheaval."
+      ]
+    },
+    {
+      "heading": "Genomes of African foragers",
+      "paragraphs": [
+        "Ancient DNA survives poorly in the tropics, but it is beginning to fill in the picture. In 2022 Mark Lipson, Elizabeth Sawchuk, Mary Prendergast and colleagues sequenced six individuals from Malawi, Tanzania and Zambia, spanning about 18,000 to 400 years ago, and re-analysed 28 others. They found deep genetic structure among eastern, southern and central African forager populations, evidence that people once found partners over long distances, and a shift after about 20,000 years ago towards more local mating networks. The regionalisation matches what archaeologists see in stone tools and bead styles as the Later Stone Age went on."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Were the Lebombo and Ishango bones mathematical or calendrical records?",
+      "views": [
+        {
+          "label": "Counting and calendars",
+          "text": "Jean de Heinzelin saw arithmetic in the Ishango groupings, including the primes 11, 13, 17 and 19; Alexander Marshack read Ishango as a lunar calendar, and the 29 notches of the Lebombo bone are often compared with a lunar month."
+        },
+        {
+          "label": "Tallies or practical marks",
+          "text": "Sceptics note that the Lebombo bone is broken, so the count of 29 is incomplete, that primes can appear by chance in small numbers, and that notches can be tallies of anything or grip marks. Microscope studies by Francesco d’Errico and others show that some notched bones were marked in separate sessions with different tools, which supports record-keeping but not a specific meaning."
+        }
+      ],
+      "status": "Most researchers accept that at least some notched bones are deliberate records, but the claims for prime numbers or lunar calendars are widely considered over-interpretations that cannot be tested."
+    },
+    {
+      "question": "What happened at Jebel Sahaba?",
+      "views": [
+        {
+          "label": "A single deadly conflict",
+          "text": "Fred Wendorf’s excavation and many later textbooks treated the cemetery as the record of an intense episode of warfare, often described as the earliest known war."
+        },
+        {
+          "label": "Recurrent violence",
+          "text": "Isabelle Crevecoeur and colleagues (2021) found many healed injuries alongside fatal ones, showing that individuals survived earlier attacks and that violence recurred over time."
+        }
+      ],
+      "status": "The 2021 re-analysis is now widely accepted: Jebel Sahaba documents repeated, probably small-scale raids and clashes rather than one battle. Its causes remain debated, with environmental stress along the Nile the leading hypothesis."
+    },
+    {
+      "question": "Does Border Cave show San culture 44,000 years ago?",
+      "views": [
+        {
+          "label": "Deep continuity",
+          "text": "Francesco d’Errico, Lucinda Backwell and colleagues argue that the close match between Border Cave objects and ethnographic San equipment shows that key elements of San material culture go back more than 40,000 years."
+        },
+        {
+          "label": "Convergence and caution",
+          "text": "Critics argue that digging sticks, bone points and beads are generic solutions that can be reinvented, that tens of thousands of years of change separate the two, and that equating ancient artefacts with a living people risks freezing that people in time."
+        }
+      ],
+      "status": "The finds themselves are not in doubt. Most researchers accept a long regional tradition while avoiding claims that a specific modern identity existed 44,000 years ago."
+    },
+    {
+      "question": "Do San paintings depict trance?",
+      "views": [
+        {
+          "label": "Trance and healing",
+          "text": "David Lewis-Williams and Thomas Dowson argued from nineteenth-century |xam testimony and Kalahari ethnography that much of the art records healers’ experiences in altered states."
+        },
+        {
+          "label": "Many meanings",
+          "text": "Researchers such as Anne Solomon argue that the model is too uniform, and that myth, the dead, rain-making, initiation and gender relations are also represented."
+        }
+      ],
+      "status": "The trance model remains influential for southern African art, but most specialists now accept that paintings made over thousands of years served several purposes, and they caution against applying it to Ice Age art elsewhere."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Earliest Later Stone Age",
+      "value": "About 50,000–40,000 years ago in East Africa; about 44,000 at Border Cave"
+    },
+    {
+      "label": "Oldest dated painted art in Africa",
+      "value": "Apollo 11 Cave slabs, Namibia, around 30,000 years old"
+    },
+    {
+      "label": "Ishango bone",
+      "value": "About 25,000–20,000 years old, Lake Edward, DR Congo"
+    },
+    {
+      "label": "Taforalt",
+      "value": "Decay in about half of adult teeth, about 15,000 years ago"
+    },
+    {
+      "label": "Jebel Sahaba",
+      "value": "61 people, over 13,400 years old, many with healed and unhealed injuries"
+    }
+  ],
+  "sites": [
+    {
+      "id": "border-cave",
+      "name": "Border Cave",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -27.02,
+      "lon": 31.99,
+      "start": 44000,
+      "end": 24000,
+      "dateLabel": "Later Stone Age layers from about 44,000 years ago",
+      "type": "tools",
+      "summary": "Cave in the Lebombo Mountains with some of the earliest Later Stone Age finds: beeswax glue, bone points, digging sticks, beads, a poison applicator and the notched Lebombo bone."
+    },
+    {
+      "id": "enkapune-ya-muto",
+      "name": "Enkapune ya Muto",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": -0.83,
+      "lon": 36.15,
+      "start": 50000,
+      "end": 40000,
+      "dateLabel": "about 50,000–40,000 years ago",
+      "type": "art",
+      "summary": "Rock shelter in the Central Rift with an early Later Stone Age sequence and some of the oldest ostrich eggshell beads."
+    },
+    {
+      "id": "mumba-rockshelter",
+      "name": "Mumba rock shelter",
+      "country": "Tanzania",
+      "region": "africa",
+      "lat": -3.54,
+      "lon": 35.3,
+      "start": 50000,
+      "end": 30000,
+      "dateLabel": "about 50,000–30,000 years ago",
+      "type": "tools",
+      "summary": "Shelter near Lake Eyasi whose layers record the transition from Middle to Later Stone Age technology and early eggshell beads."
+    },
+    {
+      "id": "ishango",
+      "name": "Ishango",
+      "country": "Democratic Republic of the Congo",
+      "region": "africa",
+      "lat": -0.13,
+      "lon": 29.6,
+      "start": 25000,
+      "end": 20000,
+      "dateLabel": "about 25,000–20,000 years ago",
+      "type": "tools",
+      "summary": "Lakeside site where the notched Ishango bone was found in 1950, often claimed as an early mathematical or calendrical object."
+    },
+    {
+      "id": "apollo-11-cave",
+      "name": "Apollo 11 Cave",
+      "country": "Namibia",
+      "region": "africa",
+      "lat": -27.75,
+      "lon": 17.1,
+      "start": 30000,
+      "end": 26000,
+      "dateLabel": "around 30,000 years ago",
+      "type": "art",
+      "summary": "Rock shelter named after the 1969 Moon landing, with painted stone slabs that are the oldest dated figurative art in Africa."
+    },
+    {
+      "id": "nelson-bay-cave",
+      "name": "Nelson Bay Cave",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -34.1,
+      "lon": 23.37,
+      "start": 22000,
+      "end": 12000,
+      "dateLabel": "about 22,000–12,000 years ago (Robberg)",
+      "type": "tools",
+      "summary": "Coastal cave on the Robberg peninsula that gave its name to the Robberg bladelet industry of the late glacial period."
+    },
+    {
+      "id": "grotte-des-pigeons",
+      "name": "Grotte des Pigeons (Taforalt)",
+      "country": "Morocco",
+      "region": "africa",
+      "lat": 34.81,
+      "lon": -2.41,
+      "start": 15000,
+      "end": 13700,
+      "dateLabel": "about 15,000–13,700 years ago (Iberomaurusian cemetery)",
+      "type": "burial",
+      "summary": "Iberomaurusian cemetery whose people had heavy tooth decay from starchy wild plants, and whose genomes link North Africa with the Levant."
+    },
+    {
+      "id": "wadi-kubbaniya",
+      "name": "Wadi Kubbaniya",
+      "country": "Egypt",
+      "region": "africa",
+      "lat": 24.22,
+      "lon": 32.85,
+      "start": 19000,
+      "end": 17000,
+      "dateLabel": "about 19,000–17,000 years ago",
+      "type": "settlement",
+      "summary": "Nile-side camps with charred nut-grass tubers and fish bones; claimed early barley proved to be a later intrusion."
+    },
+    {
+      "id": "jebel-sahaba",
+      "name": "Jebel Sahaba (Cemetery 117)",
+      "country": "Sudan",
+      "region": "africa",
+      "lat": 21.98,
+      "lon": 31.33,
+      "start": 18000,
+      "end": 13400,
+      "dateLabel": "more than 13,400 years ago",
+      "type": "burial",
+      "summary": "Cemetery of 61 people, many with projectile wounds. A 2021 re-analysis showed repeated violence rather than a single battle."
+    }
+  ],
+  "themes": [
+    "technology",
+    "ornament",
+    "art",
+    "food",
+    "violence",
+    "genetics",
+    "burial"
+  ],
+  "sources": [
+    {
+      "cite": "Villa, P. et al. (2012). Border Cave and the beginning of the Later Stone Age in South Africa. Proceedings of the National Academy of Sciences 109."
+    },
+    {
+      "cite": "d’Errico, F. et al. (2012). Early evidence of San material culture represented by organic artifacts from Border Cave, South Africa. Proceedings of the National Academy of Sciences 109."
+    },
+    {
+      "cite": "Miller, J.M., Wang, Y.V. (2022). Ostrich eggshell beads reveal 50,000-year-old social network in Africa. Nature 601."
+    },
+    {
+      "cite": "Humphrey, L.T. et al. (2014). Earliest evidence for caries and exploitation of starchy plant foods in Pleistocene hunter-gatherers from Morocco. Proceedings of the National Academy of Sciences 111."
+    },
+    {
+      "cite": "van de Loosdrecht, M. et al. (2018). Pleistocene North African genomes link Near Eastern and sub-Saharan African human populations. Science 360."
+    },
+    {
+      "cite": "Crevecoeur, I. et al. (2021). New insights on interpersonal violence in the Late Pleistocene based on the Nile valley cemetery of Jebel Sahaba. Scientific Reports 11."
+    },
+    {
+      "cite": "Lipson, M. et al. (2022). Ancient DNA and deep population structure in sub-Saharan African foragers. Nature 603."
+    },
+    {
+      "cite": "Scerri, E.M.L. et al. (2021). Continuity of the Middle Stone Age into the Holocene. Scientific Reports 11."
+    },
+    {
+      "cite": "Brooks, A.S., Smith, C.C. (1987). Ishango revisited: new age determinations and cultural interpretations. African Archaeological Review 5."
+    },
+    {
+      "cite": "Lewis-Williams, J.D. (1981). Believing and Seeing: Symbolic Meanings in Southern San Rock Paintings. London: Academic Press."
+    }
+  ]
+}

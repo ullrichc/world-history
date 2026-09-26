@@ -1,0 +1,402 @@
+{
+  "id": "north-asia",
+  "order": 22,
+  "act": "one-species",
+  "title": "Into North and East Asia",
+  "subtitle": "Siberia, Mongolia, China, Tibet, Japan and the Ryukyus",
+  "era": "Upper Palaeolithic (Initial Upper Palaeolithic to microblade traditions)",
+  "start": 45000,
+  "end": 15000,
+  "dateLabel": "45,000–15,000 years ago",
+  "regions": [
+    "asia"
+  ],
+  "focus": [
+    70,
+    18,
+    150,
+    73
+  ],
+  "emblem": "needle",
+  "summary": "Homo sapiens reached the Siberian Arctic, the Tibetan Plateau and the islands off East Asia long before the coldest phase of the last Ice Age. Genomes from Yana, Mal’ta and Tianyuan reveal lost populations whose descendants include Native Americans.",
+  "narration": [
+    "While ivory lions were being carved in Germany, other descendants of the great dispersal were pushing into the coldest and highest places people had ever lived. By about 32,000 years ago, hunters were butchering mammoths and woolly rhinoceroses on the Yana River in Siberia, far above the Arctic Circle, where the sun does not rise for weeks in winter. Two milk teeth they left behind have yielded the genomes of a people geneticists now call the Ancient North Siberians.",
+    "Farther south, near Lake Baikal, a small boy buried at Mal’ta about 24,000 years ago carried ancestry that survives today in both Europeans and Native Americans. Near Beijing, a man from Tianyuan Cave, 40,000 years old, belonged to the ancestral line of East Asians, yet shared an unexpected genetic link with a few peoples of the Amazon.",
+    "Others climbed. At Nwya Devu, 4,600 metres up on the Tibetan Plateau, people were making stone blades between 40,000 and 30,000 years ago. And others went to sea. Obsidian from Kōzushima, an island south of Tokyo, reached the Japanese mainland about 38,000 years ago, and by about 35,000 years ago people had crossed to Okinawa. In 2019 a Japanese team paddled a dugout canoe, hollowed out with replica stone axes, 225 kilometres from Taiwan to Yonaguni, to show how such a voyage could have been done."
+  ],
+  "pronounce": {
+    "Mal’ta": "Mahl-tah",
+    "Tianyuan": "Tyen-yoo-en",
+    "Nwya Devu": "Nwee-yah Deh-voo",
+    "Kōzushima": "Koh-zoo-shee-mah",
+    "Yonaguni": "Yoh-nah-goo-nee",
+    "Yana": "Yah-nah"
+  },
+  "body": [
+    {
+      "heading": "The northern route: Altai and Mongolia",
+      "paragraphs": [
+        "In the mountains and steppes of southern Siberia and Mongolia, the Initial Upper Palaeolithic (IUP) appears abruptly: long blades struck from flat-faced cores, bone tools and ornaments. Kara-Bom in the Russian Altai, an open-air site excavated since the 1980s, is a reference sequence, with IUP layers dated to more than 40,000 years ago. At Tolbor-16 in northern Mongolia, Nicolas Zwyns and colleagues in 2019 described a blade industry dated to about 45,000 years ago, linking the Altai with northern China and supporting a “northern route” of Homo sapiens across the steppe. The nearby site of Tolbor-21 has yielded some of the earliest ornaments in the region.",
+        "Denisova Cave in the Altai, famous for Denisovan and Neanderthal remains (chapter 13), also holds Upper Palaeolithic layers. A 2019 chronology by Katerina Douka, Tom Higham and colleagues dated the earliest pendants of pierced animal teeth and bone points there to about 49,000–43,000 years ago. Who made them is unknown: no Homo sapiens bone of that age has been identified in the cave, and some researchers suggest Denisovans. Bone needles from the Upper Palaeolithic levels are among the oldest known."
+      ]
+    },
+    {
+      "heading": "Above the Arctic Circle",
+      "paragraphs": [
+        "Yana RHS, the Rhinoceros Horn Site, lies on the lower Yana River at about 71° North. Found by Vladimir Pitulko in 2001, it has produced stone tools, beads and weapon foreshafts carved from woolly rhinoceros horn and mammoth ivory, dated to about 32,000 years ago. Life there, well before the Last Glacial Maximum, required tailored clothing, reliable shelter and hunting skills fit for Arctic winters.",
+        "In 2019 Martin Sikora, Eske Willerslev and colleagues sequenced two milk teeth from Yana. The children belonged to a previously unknown population, the Ancient North Siberians, an early offshoot of the western Eurasian branch that split away soon after western and eastern Eurasians separated. Over the following millennia, related people mixed with groups of East Asian ancestry, forming populations that contributed to the ancestors of both later Siberians and Native Americans."
+      ]
+    },
+    {
+      "heading": "Mal’ta and the Ancient North Eurasians",
+      "paragraphs": [
+        "At Mal’ta, on the Belaya River near Lake Baikal, Mikhail Gerasimov excavated from 1928 a settlement with dwelling traces, about 30 ivory figurines of women, and carved ivory birds in flight, probably swans or geese. A boy aged about four had been buried with an ivory diadem, a bead necklace and a bird-shaped pendant about 24,000 years ago.",
+        "In 2014 Maanasa Raghavan, Eske Willerslev and colleagues sequenced his genome. MA-1, as he is known, belonged to a population now called the Ancient North Eurasians, closely related to western Eurasians yet contributing an estimated 14–38% of the ancestry of Native Americans. Ancient North Eurasian ancestry later reached Europe too, largely through Bronze Age steppe populations, so many Europeans carry some. A genome from Afontova Gora near Krasnoyarsk, about 17,000 years old, showed that this population persisted in south-central Siberia through the Last Glacial Maximum."
+      ]
+    },
+    {
+      "heading": "China: Tianyuan, Zhoukoudian and Xiamabei",
+      "paragraphs": [
+        "Tianyuan Cave, a few kilometres from the famous Zhoukoudian fossil hill near Beijing, yielded in 2003 a partial skeleton of a man who lived about 40,000 years ago; isotopes in his bones show he ate much freshwater fish. Genetic studies led by Qiaomei Fu and Melinda Yang placed him on the lineage leading to present-day East Asians and Native Americans, but also found that he shares extra ancestry with Goyet Q116-1 in Belgium and with some Amazonian groups such as the Suruí and Karitiana, a sign of complex population structure in Pleistocene Asia.",
+        "The Upper Cave at Zhoukoudian, excavated in 1933–1934, held the remains of several people with ornaments of pierced animal teeth, shells and fish bones, and a bone needle, dated to roughly 35,000–30,000 years ago. The original fossils vanished in 1941 along with the Peking Man collection.",
+        "At Shuidonggou in Ningxia, blades like those of the Altai and Mongolia appear about 41,000 years ago; later layers contain ostrich-eggshell beads. At Xiamabei in the Nihewan Basin of Hebei, however, a 2022 Nature study led by Fa-Gang Wang, Shixia Yang, Francesco d’Errico and Michael Petraglia described a different toolkit about 40,000 years old: miniature blades and flakes, some bearing residues from hafting, and an area where two kinds of ochre had been processed on a limestone slab, the earliest known ochre processing in East Asia. China’s Upper Palaeolithic was a patchwork of traditions, not a single wave."
+      ]
+    },
+    {
+      "heading": "The roof of the world",
+      "paragraphs": [
+        "In 2018 Xiaoling Zhang and colleagues reported Nwya Devu, 4,600 metres above sea level in the interior of the Tibetan Plateau, with a blade industry dated by optically stimulated luminescence to between 40,000 and 30,000 years ago. It is by far the highest Palaeolithic site of its age. Whether people lived there all year or visited in summer is unclear. Denisovans had reached the plateau’s edge much earlier at Baishiya Karst Cave, and a Denisovan version of the EPAS1 gene later helped Tibetans cope with thin air.",
+        "An older and more speculative claim comes from Chusang, a travertine hot spring at about 4,270 metres. In 2021 David Zhang, Matthew Bennett and colleagues reported five handprints and five footprints pressed into once-soft travertine, dated by uranium-series to 226,000–169,000 years ago, and argued that their deliberate arrangement, probably by children, makes them the oldest known ‘parietal art’. Others see playful or incidental marks; the makers may have been Denisovans."
+      ]
+    },
+    {
+      "heading": "Japan and the Ryukyus",
+      "paragraphs": [
+        "The Japanese archipelago has one of the densest Palaeolithic records in the world, with thousands of sites that begin abruptly about 38,000 years ago. Early assemblages include edge-ground stone axes, among the oldest outside Australia, and on Honshu hunters dug rows of pit traps across animal trails, as at Hatsunegahara in Shizuoka. Obsidian from Kōzushima, one of the Izu Islands, reached sites around Tokyo from about 38,000 years ago: proof of repeated return voyages across open sea, since the island was never joined to the mainland.",
+        "The Ryukyu Islands, too, were always islands. People reached Okinawa by about 35,000 years ago. At Sakitari Cave, Masaki Fujita and colleagues found fishhooks made from sea-snail shell about 23,000 years old, among the oldest known, along with evidence of seasonal meals of freshwater crabs. At Shiraho-Saonetabaru on Ishigaki, discovered during airport construction, excavators recovered the remains of many individuals, including one of the oldest near-complete skeletons in East Asia, about 27,000 years old, laid in a tightly flexed position.",
+        "How did they get there? From 2016 Yousuke Kaifu and colleagues tested Palaeolithic-style craft. Rafts of reeds and of bamboo proved too slow or fragile to cross the Kuroshio, one of the world’s strongest currents. In July 2019 a crew of five paddled a dugout canoe, hollowed from a cedar log with replica stone axes, 225 kilometres from Taiwan to Yonaguni in about 45 hours, navigating without instruments. The results, published in 2025, show that the crossing was feasible with a dugout and skilled paddlers, although no Palaeolithic boat has ever been found."
+      ]
+    },
+    {
+      "heading": "Microblades and the coldest millennia",
+      "paragraphs": [
+        "As the Last Glacial Maximum approached, a new technology spread across North and East Asia: microblades, tiny standardised blades pressed from carefully shaped wedge-shaped cores and set in rows into slotted points of bone or antler. They appear in northern China by roughly 28,000–26,000 years ago on current dating, and then across Siberia, Mongolia, Korea and Hokkaido. Light, replaceable and economical with scarce stone, they suited highly mobile hunters in cold, open landscapes, and the tradition later travelled through Beringia into Alaska (chapter 27)."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Does the Initial Upper Palaeolithic mark a dispersal of Homo sapiens?",
+      "views": [
+        {
+          "label": "A population on the move",
+          "text": "Nicolas Zwyns, Steven Kuhn and others see the same blade-making method appearing in quick succession from the Levant to Bulgaria, the Altai, Mongolia and northern China, matching the ages of early sapiens such as Ust’-Ishim and the Bacho Kiro genomes with their East Asian links."
+        },
+        {
+          "label": "Ideas travelling, not only people",
+          "text": "Others point out that most IUP sites lack human remains, that similar methods can arise by convergence or spread through contact, and that Denisovans or Neanderthals may have adopted or even contributed to some assemblages, as the uncertain makers of Denisova Cave’s ornaments show."
+        }
+      ],
+      "status": "Most researchers accept that the IUP broadly tracks early sapiens, but its spread was probably uneven, with regional variants and some local involvement. Human remains or sediment DNA from IUP layers in the Altai, Mongolia and China would be decisive."
+    },
+    {
+      "question": "Who made the early Upper Palaeolithic ornaments at Denisova Cave?",
+      "views": [
+        {
+          "label": "Homo sapiens",
+          "text": "The ornaments’ age, about 49,000–43,000 years, overlaps the spread of sapiens through northern Asia, and similar objects elsewhere are associated with sapiens."
+        },
+        {
+          "label": "Denisovans",
+          "text": "Only Denisovan and Neanderthal remains are known from the cave, and some researchers, including members of the Russian excavation team, have argued that Denisovans made the ornaments and bone tools."
+        }
+      ],
+      "status": "Open. The makers could be identified by human fossils from the relevant layers or by more detailed DNA analysis of the sediments."
+    },
+    {
+      "question": "How did people reach the Ryukyu Islands?",
+      "views": [
+        {
+          "label": "Dugout canoes",
+          "text": "Yousuke Kaifu’s team argues that only a dugout, paddled by an experienced crew who understood the Kuroshio, could reliably make the crossing from Taiwan, as their 2019 voyage demonstrated."
+        },
+        {
+          "label": "Other craft or other routes",
+          "text": "Sceptics note that an experiment proves possibility, not practice; that no Palaeolithic boats survive; and that people may also have island-hopped south from Kyushu, where some crossings are shorter."
+        }
+      ],
+      "status": "The Ryukyus were certainly reached by deliberate voyages about 35,000 years ago. The type of boat and the direction of arrival remain uncertain; ancient genomes from Shiraho-Saonetabaru may show where the islanders came from."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Arctic occupation",
+      "value": "Yana RHS, about 32,000 years ago, at about 71° North"
+    },
+    {
+      "label": "Ancient North Eurasians",
+      "value": "Mal’ta boy MA-1, about 24,000 years"
+    },
+    {
+      "label": "High-altitude site",
+      "value": "Nwya Devu, 4,600 m, 40,000–30,000 years ago"
+    },
+    {
+      "label": "Early ochre processing",
+      "value": "Xiamabei, China, about 40,000 years"
+    },
+    {
+      "label": "Among the oldest fishhooks",
+      "value": "Sakitari Cave, Okinawa, about 23,000 years"
+    },
+    {
+      "label": "Dugout test voyage",
+      "value": "Taiwan to Yonaguni, 225 km in about 45 hours (2019)"
+    }
+  ],
+  "sites": [
+    {
+      "id": "denisova-cave",
+      "name": "Denisova Cave",
+      "country": "Russia",
+      "region": "asia",
+      "lat": 51.4,
+      "lon": 84.68,
+      "start": 49000,
+      "end": 43000,
+      "dateLabel": "about 49,000–43,000 years ago (earliest Upper Palaeolithic)",
+      "type": "tools",
+      "summary": "Altai cave best known for Denisovan fossils; its Upper Palaeolithic layers contain some of northern Asia’s earliest pendants, bone points and needles, of uncertain authorship."
+    },
+    {
+      "id": "tolbor-16",
+      "name": "Tolbor-16",
+      "country": "Mongolia",
+      "region": "asia",
+      "lat": 49.24,
+      "lon": 102.96,
+      "start": 45000,
+      "end": 45000,
+      "dateLabel": "about 45,000 years ago",
+      "type": "tools",
+      "summary": "Open-air site in northern Mongolia with an Initial Upper Palaeolithic blade industry, evidence for a northern route of Homo sapiens across the steppe."
+    },
+    {
+      "id": "yana-rhs",
+      "name": "Yana RHS",
+      "country": "Russia",
+      "region": "asia",
+      "lat": 70.72,
+      "lon": 135.42,
+      "start": 32000,
+      "end": 32000,
+      "dateLabel": "about 32,000 years ago",
+      "type": "settlement",
+      "summary": "Arctic site on the Yana River with rhinoceros-horn and ivory foreshafts; milk teeth from here define the Ancient North Siberians."
+    },
+    {
+      "id": "malta",
+      "name": "Mal’ta",
+      "country": "Russia",
+      "region": "asia",
+      "lat": 52.84,
+      "lon": 103.52,
+      "start": 24000,
+      "end": 24000,
+      "dateLabel": "about 24,000 years ago",
+      "type": "burial",
+      "summary": "Settlement near Lake Baikal with ivory figurines of women and birds and the burial of a boy, MA-1, whose genome revealed the Ancient North Eurasians."
+    },
+    {
+      "id": "afontova-gora",
+      "name": "Afontova Gora",
+      "country": "Russia",
+      "region": "asia",
+      "lat": 56.02,
+      "lon": 92.84,
+      "start": 17000,
+      "end": 17000,
+      "dateLabel": "about 17,000 years ago",
+      "type": "dna",
+      "summary": "Sites on the Yenisei at Krasnoyarsk; the genome of an individual from here shows Ancient North Eurasian ancestry persisting after the glacial maximum."
+    },
+    {
+      "id": "tianyuan-cave",
+      "name": "Tianyuan Cave",
+      "country": "China",
+      "region": "asia",
+      "lat": 39.66,
+      "lon": 115.87,
+      "start": 40000,
+      "end": 40000,
+      "dateLabel": "about 40,000 years ago",
+      "type": "dna",
+      "summary": "Cave near Beijing whose 40,000-year-old man is an early member of the East Asian lineage, with puzzling genetic links to Goyet in Belgium and to some Amazonian peoples."
+    },
+    {
+      "id": "zhoukoudian-upper-cave",
+      "name": "Zhoukoudian Upper Cave",
+      "country": "China",
+      "region": "asia",
+      "lat": 39.69,
+      "lon": 115.93,
+      "start": 35000,
+      "end": 30000,
+      "dateLabel": "roughly 35,000–30,000 years ago",
+      "type": "burial",
+      "summary": "Cave at the top of the Zhoukoudian hill with human remains, pierced-tooth and shell ornaments and a bone needle; the fossils were lost in 1941."
+    },
+    {
+      "id": "shuidonggou",
+      "name": "Shuidonggou",
+      "country": "China",
+      "region": "asia",
+      "lat": 38.29,
+      "lon": 106.5,
+      "start": 41000,
+      "end": 28000,
+      "dateLabel": "about 41,000 years ago onward",
+      "type": "tools",
+      "summary": "Group of sites on the Yellow River where Initial Upper Palaeolithic blades appear about 41,000 years ago, later followed by ostrich-eggshell beads."
+    },
+    {
+      "id": "xiamabei",
+      "name": "Xiamabei",
+      "country": "China",
+      "region": "asia",
+      "lat": 40.2,
+      "lon": 114.6,
+      "start": 40000,
+      "end": 40000,
+      "dateLabel": "about 40,000 years ago",
+      "type": "tools",
+      "summary": "Site in the Nihewan Basin with ochre processed on a limestone slab and hafted miniature tools, a distinctive early Upper Palaeolithic culture."
+    },
+    {
+      "id": "kozushima",
+      "name": "Kōzushima (obsidian source)",
+      "country": "Japan",
+      "region": "asia",
+      "lat": 34.21,
+      "lon": 139.14,
+      "start": 38000,
+      "end": 20000,
+      "dateLabel": "from about 38,000 years ago",
+      "type": "other",
+      "summary": "Izu island whose obsidian reached mainland Japan from about 38,000 years ago, requiring repeated sea crossings."
+    },
+    {
+      "id": "sakitari-cave",
+      "name": "Sakitari Cave",
+      "country": "Japan",
+      "region": "asia",
+      "lat": 26.14,
+      "lon": 127.75,
+      "start": 35000,
+      "end": 20000,
+      "dateLabel": "about 35,000–20,000 years ago; fishhooks about 23,000",
+      "type": "tools",
+      "summary": "Cave in southern Okinawa with shell fishhooks about 23,000 years old and evidence of seasonal crab meals."
+    },
+    {
+      "id": "shiraho-saonetabaru",
+      "name": "Shiraho-Saonetabaru Cave",
+      "country": "Japan",
+      "region": "asia",
+      "lat": 24.4,
+      "lon": 124.24,
+      "start": 27000,
+      "end": 27000,
+      "dateLabel": "about 27,000 years ago",
+      "type": "burial",
+      "summary": "Cave on Ishigaki with remains of many Palaeolithic individuals, including a near-complete flexed skeleton about 27,000 years old."
+    }
+  ],
+  "routes": [
+    {
+      "id": "ryukyu-crossing",
+      "label": "Crossing from Taiwan into the Ryukyus",
+      "start": 36000,
+      "end": 30000,
+      "certainty": "debated",
+      "path": [
+        [
+          121.2,
+          22.8
+        ],
+        [
+          123.0,
+          24.47
+        ],
+        [
+          124.2,
+          24.4
+        ],
+        [
+          125.3,
+          24.8
+        ],
+        [
+          127.7,
+          26.2
+        ]
+      ]
+    },
+    {
+      "id": "kozushima-voyages",
+      "label": "Obsidian voyages to Kōzushima",
+      "start": 38000,
+      "end": 20000,
+      "certainty": "established",
+      "path": [
+        [
+          138.95,
+          34.75
+        ],
+        [
+          139.14,
+          34.21
+        ]
+      ]
+    }
+  ],
+  "themes": [
+    "migration",
+    "genetics",
+    "seafaring",
+    "technology",
+    "ornament",
+    "burial",
+    "climate"
+  ],
+  "sources": [
+    {
+      "cite": "Zwyns, N. et al. (2019). The Northern Route for human dispersal in Central and Northeast Asia: new evidence from the site of Tolbor-16, Mongolia. Scientific Reports 9, 11759.",
+      "doi": "10.1038/s41598-019-47972-1"
+    },
+    {
+      "cite": "Douka, K. et al. (2019). Age estimates for hominin fossils and the onset of the Upper Palaeolithic at Denisova Cave. Nature 565, 640–644."
+    },
+    {
+      "cite": "Pitulko, V. V. et al. (2004). The Yana RHS site: humans in the Arctic before the Last Glacial Maximum. Science 303, 52–56."
+    },
+    {
+      "cite": "Sikora, M. et al. (2019). The population history of northeastern Siberia since the Pleistocene. Nature 570, 182–188."
+    },
+    {
+      "cite": "Raghavan, M. et al. (2014). Upper Palaeolithic Siberian genome reveals dual ancestry of Native Americans. Nature 505, 87–91."
+    },
+    {
+      "cite": "Yang, M. A. et al. (2017). 40,000-year-old individual from Asia provides insight into early population structure in Eurasia. Current Biology 27."
+    },
+    {
+      "cite": "Wang, F.-G. et al. (2022). Innovative ochre processing and tool use in China 40,000 years ago. Nature 603, 284–289."
+    },
+    {
+      "cite": "Zhang, X. L. et al. (2018). The earliest human occupation of the high-altitude Tibetan Plateau 40 thousand to 30 thousand years ago. Science 362, 1049–1051."
+    },
+    {
+      "cite": "Fujita, M. et al. (2016). Advanced maritime adaptation in the western Pacific coastal region extends back to 35,000–30,000 years before present. PNAS 113."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "green-sahara",
+  "order": 36,
+  "act": "transition",
+  "title": "When the Sahara Was Green",
+  "subtitle": "Lakes, herders, rock art and the roots of African farming",
+  "era": "African Humid Period; Later Stone Age and Neolithic",
+  "start": 11500,
+  "end": 4000,
+  "dateLabel": "c. 9500–2000 BCE",
+  "regions": ["africa"],
+  "focus": [-12, 0, 38, 32],
+  "emblem": "cattle",
+  "summary": "For thousands of years after the Ice Age, monsoon rains turned the Sahara into grassland dotted with lakes. Fisher-hunters invented pottery there independently, herders spread cattle, sheep and goats and milked them, and artists covered rock shelters with paintings. When the rains retreated, people moved to the Nile and the Sahel, where Egypt’s first farming villages grew and African crops were domesticated.",
+  "narration": [
+    "South of the Mediterranean shores where Malta’s temple builders worked lies the Ténéré desert of Niger. Stand there today and the only water is what you carry. Ten thousand years ago the same spot was the shore of a lake, where people speared huge Nile perch with bone harpoons. Thousands of years later, herders buried their dead in the dunes beside it, and in one grave a woman and two children lie with their arms around each other.",
+    "This was the Green Sahara. Between about 11,000 and 5,000 years ago, a slow wobble in Earth’s orbit pushed the African monsoon far to the north. Grass, trees, lakes and rivers spread across what is now desert, and with them elephants, giraffes, hippos and people. Here, hunters and fishers began making pottery more than 11,000 years ago, quite independently of anyone in Asia, and later herders milked their cattle, as traces of fat in their cooking pots reveal.",
+    "Then the rains weakened, gradually in some places and quickly in others. People followed the water east to the Nile and south into the Sahel. Beside the Nile, their descendants built the villages from which pharaonic Egypt would grow, and in the Sahel they turned wild sorghum and pearl millet into crops that still feed hundreds of millions. The desert kept their paintings: herds of cattle, dancers, and in a cave in Egypt, tiny figures that seem to be swimming."
+  ],
+  "pronounce": {
+    "Ténéré": "Teh-neh-ray",
+    "Sahel": "Sah-hel"
+  },
+  "body": [
+    {
+      "heading": "A monsoon moves north",
+      "paragraphs": [
+        "Between roughly 11,000 and 5,000 years ago, and in places earlier and later, much of the Sahara was savanna. Changes in Earth’s orbit increased summer sunshine in the Northern Hemisphere, strengthening the West African monsoon and pushing its rains hundreds of kilometres north. Climate scientists call this the African Humid Period (chapter 28 describes the climate). Lake Chad swelled into “Mega-Chad”, an inland sea covering hundreds of thousands of square kilometres; rivers ran from the Hoggar and Tibesti mountains; elephants, giraffes, hippos and crocodiles lived where there is now sand.",
+        "People followed the rains. In 2006 Rudolph Kuper and Stefan Kröpelin compiled some 500 radiocarbon dates from the eastern Sahara: people moved in around 8500 BCE, settled widely, withdrew toward highlands and the south after about 5300 BCE as the rains weakened, and by about 3500 BCE had largely left for the Nile Valley and the Sahel. The rhythm of rain and drought, they argued, was a motor of African history."
+      ]
+    },
+    {
+      "heading": "Harpoons, wavy lines and the first African pottery",
+      "paragraphs": [
+        "In the 1970s the archaeologist John Sutton described an “Aqualithic” way of life stretching from the Nile to the Niger: communities beside lakes and rivers who fished with barbed bone harpoons, hunted hippo and crocodile, and made pottery decorated with wavy lines combed into the clay. The label is now thought too sweeping, since these groups differed a great deal, but it captured something real: a waterside life that let people stay in one place for long periods without farming.",
+        "Pottery was invented in Africa independently of East Asia. At Ounjougou in the Dogon country of Mali, a team led by Eric Huysecom found sherds dated to around 9400 BCE, together with grinding stones and small arrowheads, suggesting pots for cooking wild grasses and seeds. Pottery appears soon afterwards in the Aïr mountains and across the central Sahara.",
+        "At Gobero in Niger, found in 2000 by a dinosaur-hunting expedition led by Paul Sereno, some 200 burials lie in dunes beside an ancient lake. The earlier Kiffian people (about 7700 to 6200 BCE) were tall fisher-hunters who caught huge Nile perch. After a dry interval, the more lightly built Tenerian people (about 5200 to 2500 BCE) hunted, fished and herded cattle. One Tenerian grave holds a woman and two children with their arms intertwined, laid on what pollen suggests was a bed of flowers."
+      ]
+    },
+    {
+      "heading": "Cattle, sheep and milk",
+      "paragraphs": [
+        "In Egypt’s Western Desert, at Bir Kiseiba and Nabta Playa, Fred Wendorf, Romuald Schild and Angela Close found cattle bones dated as early as 9000 to 8000 BCE. Because wild cattle could hardly survive in so dry a land without people digging wells, they argued, these must have been domestic, perhaps an independent African domestication. Sceptics note that the bones are few and fragmentary, and genetic studies indicate that African cattle descend mainly from animals domesticated in Southwest Asia, with some genes from local wild aurochs. Sheep and goats, which have no wild ancestors in Africa, certainly came from Southwest Asia, arriving by around 6000 BCE.",
+        "By the sixth millennium BCE herders were spreading across the Sahara. In 2012 Julie Dunne, Richard Evershed and colleagues found milk fats in pottery from the Takarkori and Uan Muhuggiag rock shelters in the Tadrart Acacus of Libya, dated to the fifth millennium BCE, the earliest evidence of dairying in Africa. At Takarkori, two women buried about 7,000 years ago were naturally mummified. In 2025 a team led by Nada Salem and Johannes Krause, with Savino di Lernia, published their genomes in Nature. Most of their ancestry came from a previously unknown North African lineage that split from sub-Saharan populations around the time modern humans spread out of Africa and then stayed isolated for tens of thousands of years. Their closest known relatives were the 15,000-year-old people of Taforalt in Morocco, and they carried far less Neanderthal DNA than people living outside Africa. Herding, the authors concluded, spread into the central Sahara mainly as an idea adopted by local people rather than through large migrations."
+      ]
+    },
+    {
+      "heading": "Stones and sky at Nabta Playa",
+      "paragraphs": [
+        "Nabta Playa, about 100 km west of Abu Simbel, is a basin that filled with water after summer rains. From about 9000 BCE people came to it seasonally, and by the sixth and fifth millennia BCE cattle herders had made it a ceremonial centre: cattle burials under stone tumuli, including a young cow in a roofed chamber, lines of large stones, and a small circle of upright slabs about 4 m across. Fred Wendorf and the astronomer J. McKim Malville argued in 1998 that gaps in the circle were aligned north to south and toward the midsummer sunrise. The circle has since been reassembled in the Nubian Museum in Aswan. More ambitious claims that Nabta’s stones map the stars of Orion have found little support (see Debates)."
+      ]
+    },
+    {
+      "heading": "Painted herds and swimming figures",
+      "paragraphs": [
+        "The rock art of the Tassili n’Ajjer in Algeria and the Tadrart Acacus in Libya, both World Heritage Sites, runs to tens of thousands of images. Scholars broadly recognise a sequence: engravings of large wild animals such as elephants, rhinos and an extinct giant buffalo; “Round Head” paintings of floating, masked or horned human figures; a Pastoral phase full of cattle herds, camps and daily life; and later Horse and Camel phases, the last within the past 2,000 years. Few images have been dated directly, so absolute ages are disputed: a “long chronology” associated with Fabrizio Mori puts the oldest phases in the early Holocene, a “short chronology” associated with Alfred Muzzolini several thousand years later.",
+        "On Egypt’s remote Gilf Kebir plateau, the Hungarian explorer László Almásy found the Cave of Swimmers at Wadi Sura in 1933, its walls painted with small figures that seem to swim. In 2002 Massimo Foggini and Ahmed Mestekawi found a nearby shelter, the Cave of Beasts, with thousands of painted figures, handprints and strange headless animals. Almásy took the swimmers as proof of ancient lakes; others read them as figures floating in a spirit world. The paintings probably belong to the humid period, but direct dates are lacking."
+      ]
+    },
+    {
+      "heading": "Retreat to the Nile",
+      "paragraphs": [
+        "As the rains retreated, the Nile Valley became a refuge. On the shores of the Faiyum lake, Gertrude Caton-Thompson and Elinor Gardner found in the 1920s basket-lined storage pits holding emmer wheat and barley, among the earliest domestic crops in Egypt, from roughly the fifth millennium BCE, alongside fishing and herding. At Merimde Beni Salama on the western edge of the Delta, villagers lived in small oval houses in the same millennium. In Middle Egypt the Badarian culture (about 4400 to 4000 BCE) buried its dead with fine rippled pottery and stone cosmetic palettes, and the Naqada culture that followed grew into the chiefdoms from which the Egyptian state emerged around 3100 BCE."
+      ]
+    },
+    {
+      "heading": "Lake Turkana: violence and monuments",
+      "paragraphs": [
+        "At Nataruk, west of Lake Turkana in Kenya, Marta Mirazón Lahr and colleagues reported in 2016 the remains of 27 people, about 10,000 years old, at what was then the edge of a lagoon. At least ten showed lethal wounds from clubs and arrows; one skull still held a fragment of an obsidian blade, and a woman in late pregnancy may have had her hands bound. The team interpreted it as a massacre of one hunter-gatherer group by another; critics argue the bodies may have accumulated over time.",
+        "Some 5,000 years ago, the first herders to reach the lake built the Lothagam North Pillar Site: a platform about 30 m across, set with stone pillars and circles, over a cavity into which the dead of a whole community were placed, men, women and children, several hundred in all, many with beads and ornaments. A 2018 study led by Elisabeth Hildebrand found no signs of rank among them. Monumental building, it shows, did not require chiefs."
+      ]
+    },
+    {
+      "heading": "African crops and the first Bantu steps",
+      "paragraphs": [
+        "In the Sahel and savanna, people domesticated their own crops. Sorghum was cultivated in the Butana region of eastern Sudan by around 3500 to 3000 BCE, shown by chaff impressions in pottery. Pearl millet was domesticated in the West African Sahel; domestic grains from the Tilemsi valley in Mali date to about 2500 BCE, and the crop reached India by about 2000 BCE. African rice was domesticated in the inland Niger delta, and cowpea and yams in the forest-savanna belt of West Africa, though their exact timing is still being worked out.",
+        "Genomes from Shum Laka, a rock shelter in the Grassfields of western Cameroon, published by Mark Lipson and colleagues in 2020, show that four children buried there about 8,000 and 3,000 years ago were related mainly to Central African rainforest hunter-gatherers, not to the Bantu-speaking peoples who live in the region today. The Grassfields lie close to the probable homeland of the Bantu languages, whose speakers, from around 5,000 to 4,000 years ago, began a slow expansion that eventually carried farming, and later iron, across much of central, eastern and southern Africa."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Were cattle domesticated independently in Africa?",
+      "views": [
+        {"label": "Yes, early and local", "text": "Fred Wendorf, Romuald Schild, Angela Close and the zooarchaeologist Achilles Gautier argued that cattle bones at Bir Kiseiba and Nabta Playa from around 9000 to 8000 BCE must be domestic, because wild aurochs could not have lived in such arid terrain without water supplied by people."},
+        {"label": "No, imported and mixed", "text": "Caroline Grigson, Diane Gifford-Gonzalez, Olivier Hanotte and others point out that the early bones are few and hard to identify, and that the DNA of African cattle derives mainly from Southwest Asian domestic stock, with later introgression from wild African aurochs. Secure domestic cattle appear in Egypt and the Sahara from around 6000 BCE, alongside sheep and goats that were certainly introduced."}
+      ],
+      "status": "Most researchers now favour introduction from Southwest Asia with local wild admixture, while acknowledging that African herders developed their own distinctive cattle cultures. The early Nabta and Bir Kiseiba bones remain disputed, and ancient DNA from them could settle the question."
+    },
+    {
+      "question": "Is Nabta Playa an astronomical monument?",
+      "views": [
+        {"label": "Solar and cardinal alignments", "text": "Fred Wendorf and J. McKim Malville (1998 and later) argued that the small stone circle marked the midsummer sunrise and the north–south line, and that lines of megaliths pointed to bright stars, making Nabta one of the oldest astronomical sites known."},
+        {"label": "Elaborate star maps", "text": "Thomas Brophy and others went further, claiming that stones map Orion’s belt and encode dates many thousands of years older than the site."},
+        {"label": "Scepticism", "text": "Critics among archaeologists and archaeoastronomers note that many stones were displaced by erosion and later disturbance, that the circle has been moved to a museum, and that with enough stones some alignments arise by chance. They find the stellar claims unsupported."}
+      ],
+      "status": "The ceremonial role of Nabta Playa for cattle herders is well established. A rough solar and north–south orientation of the circle is plausible, but detailed stellar interpretations are not accepted by most specialists."
+    },
+    {
+      "question": "Was Nataruk a massacre?",
+      "views": [
+        {"label": "Intergroup violence", "text": "Marta Mirazón Lahr, Robert Foley and colleagues (2016) argued that the injuries, the positions of the bodies and their shared context show one violent event, evidence that warfare between groups occurred among hunter-gatherers long before farming."},
+        {"label": "Not a single event", "text": "Christopher Stojanowski and colleagues replied in Nature that the remains could have been deposited at different times in a lagoon setting, and that some of the injuries were not clearly the cause of death, so a single massacre is not demonstrated."}
+      ],
+      "status": "The original team defended its dating and interpretation. Most researchers accept that several individuals died violently; whether all died together remains contested, and better dating of individual skeletons would help."
+    },
+    {
+      "question": "Did the Green Sahara end abruptly or gradually?",
+      "views": [
+        {"label": "Abrupt collapse", "text": "Peter deMenocal and colleagues (2000) found a sharp jump in wind-blown dust in marine cores off West Africa around 5,500 years ago, suggesting that vegetation feedbacks made the Sahara flip from green to desert within decades to centuries."},
+        {"label": "Gradual and patchy", "text": "Stefan Kröpelin and colleagues (2008), studying pollen in the sediments of Lake Yoa in northern Chad, found a slow shift in vegetation over several thousand years, and archaeological dates show regions emptying at different times."}
+      ],
+      "status": "Both records are real. The end of the humid period was time-transgressive, earlier in the north and east and later in the south, and fast or slow depending on local conditions."
+    }
+  ],
+  "keyFacts": [
+    {"label": "African Humid Period", "value": "Roughly 11,000–5,000 years ago"},
+    {"label": "Early African pottery", "value": "Ounjougou, Mali, c. 9400 BCE"},
+    {"label": "Earliest dairying in Africa", "value": "Milk fats in Libyan pots, 5th millennium BCE (2012)"},
+    {"label": "Green Sahara genomes", "value": "Two Takarkori women, about 7,000 years old (2025)"},
+    {"label": "Lothagam North", "value": "Communal cemetery of early herders, about 5,000 years ago"},
+    {"label": "Pearl millet", "value": "Domesticated in the West African Sahel by c. 2500 BCE"}
+  ],
+  "sites": [
+    {
+      "id": "ounjougou",
+      "name": "Ounjougou",
+      "country": "Mali",
+      "region": "africa",
+      "lat": 14.63, "lon": -3.43,
+      "start": 11400, "end": 11400,
+      "dateLabel": "c. 9400 BCE",
+      "type": "tools",
+      "summary": "Valley site in the Dogon country with some of the oldest pottery in Africa, made by hunter-gatherers alongside grinding stones and small points."
+    },
+    {
+      "id": "gobero",
+      "name": "Gobero",
+      "country": "Niger",
+      "region": "africa",
+      "lat": 16.94, "lon": 9.38,
+      "start": 9700, "end": 4500,
+      "dateLabel": "c. 7700–2500 BCE",
+      "type": "burial",
+      "summary": "Lakeside cemeteries of Kiffian fisher-hunters and later Tenerian herders, including a woman and two children buried in an embrace."
+    },
+    {
+      "id": "takarkori",
+      "name": "Takarkori rock shelter",
+      "country": "Libya",
+      "region": "africa",
+      "lat": 24.40, "lon": 10.35,
+      "start": 10000, "end": 5000,
+      "dateLabel": "c. 8000–3000 BCE",
+      "type": "dna",
+      "summary": "Rock shelter in the Tadrart Acacus with early milk residues in pottery and two naturally mummified women whose genomes revealed an isolated North African lineage."
+    },
+    {
+      "id": "nabta-playa",
+      "name": "Nabta Playa",
+      "country": "Egypt",
+      "region": "africa",
+      "lat": 22.51, "lon": 30.73,
+      "start": 11000, "end": 5500,
+      "dateLabel": "c. 9000–3500 BCE",
+      "type": "monument",
+      "summary": "Seasonal lake basin that herders turned into a ceremonial centre with cattle burials, megalith lines and a small stone circle."
+    },
+    {
+      "id": "wadi-sura",
+      "name": "Wadi Sura (Cave of Swimmers)",
+      "country": "Egypt",
+      "region": "africa",
+      "lat": 23.62, "lon": 25.23,
+      "start": 9000, "end": 6000,
+      "dateLabel": "c. 7000–4000 BCE",
+      "type": "art",
+      "summary": "Painted shelters on the Gilf Kebir, including the Cave of Swimmers and the Cave of Beasts with thousands of figures and handprints."
+    },
+    {
+      "id": "faiyum",
+      "name": "Faiyum north shore",
+      "country": "Egypt",
+      "region": "africa",
+      "lat": 29.53, "lon": 30.65,
+      "start": 7400, "end": 6400,
+      "dateLabel": "c. 5400–4400 BCE",
+      "type": "farming",
+      "summary": "Neolithic sites with basket-lined grain pits holding emmer and barley, among the earliest farming evidence in Egypt."
+    },
+    {
+      "id": "nataruk",
+      "name": "Nataruk",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 3.35, "lon": 35.75,
+      "start": 10500, "end": 9500,
+      "dateLabel": "c. 8500–7500 BCE",
+      "type": "burial",
+      "summary": "Remains of 27 hunter-gatherers, many with lethal wounds, interpreted as a massacre, an interpretation some dispute."
+    },
+    {
+      "id": "lothagam-north",
+      "name": "Lothagam North Pillar Site",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 2.93, "lon": 36.05,
+      "start": 5000, "end": 4300,
+      "dateLabel": "c. 3000–2300 BCE",
+      "type": "monument",
+      "summary": "Monumental communal cemetery of eastern Africa’s first herders, with pillars, stone circles and several hundred burials without signs of rank."
+    },
+    {
+      "id": "shum-laka",
+      "name": "Shum Laka",
+      "country": "Cameroon",
+      "region": "africa",
+      "lat": 5.86, "lon": 10.08,
+      "start": 8000, "end": 3000,
+      "dateLabel": "c. 6000–1000 BCE",
+      "type": "dna",
+      "summary": "Rock shelter in the Grassfields whose ancient children’s genomes relate to Central African hunter-gatherers rather than to today’s Bantu speakers."
+    }
+  ],
+  "themes": ["climate", "technology", "animals", "farming", "art", "genetics", "burial", "violence", "migration"],
+  "sources": [
+    {"cite": "Wendorf, F., Schild, R. et al. (2001). Holocene Settlement of the Egyptian Sahara, Volume 1: The Archaeology of Nabta Playa. New York: Kluwer Academic/Plenum."},
+    {"cite": "Kuper, R. & Kröpelin, S. (2006). Climate-controlled Holocene occupation in the Sahara: motor of Africa’s evolution. Science 313, 803–807."},
+    {"cite": "Sereno, P. C. et al. (2008). Lakeside cemeteries in the Sahara: 5000 years of Holocene population and environmental change. PLOS ONE 3, e2995."},
+    {"cite": "Huysecom, E. et al. (2009). The emergence of pottery in Africa during the tenth millennium cal BC: new evidence from Ounjougou (Mali). Antiquity 83."},
+    {"cite": "Dunne, J. et al. (2012). First dairying in green Saharan Africa in the fifth millennium BC. Nature 486, 390–394."},
+    {"cite": "Mirazón Lahr, M. et al. (2016). Inter-group violence among early Holocene hunter-gatherers of West Turkana, Kenya. Nature 529, 394–398."},
+    {"cite": "Hildebrand, E. A. et al. (2018). A monumental cemetery built by eastern Africa’s first herders near Lake Turkana, Kenya. PNAS 115."},
+    {"cite": "Lipson, M. et al. (2020). Ancient West African foragers in the context of African population history. Nature 577, 665–670."},
+    {"cite": "Salem, N. et al. (2025). Ancient DNA from the Green Sahara reveals ancestral North African lineage. Nature."}
+  ]
+}

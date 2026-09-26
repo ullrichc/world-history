@@ -1,0 +1,229 @@
+{
+  "id": "catastrophes",
+  "order": 17,
+  "act": "many-humans",
+  "title": "Bottlenecks and Catastrophes",
+  "subtitle": "A disputed population crash, a super-eruption, megadroughts and a failing magnetic field",
+  "era": "Middle and Late Pleistocene",
+  "start": 930000,
+  "end": 40000,
+  "dateLabel": "about 930,000–40,000 years ago",
+  "regions": ["africa", "asia", "europe", "oceania"],
+  "focus": [-20, -42, 178, 55],
+  "emblem": "volcano",
+  "summary": "Genetic claims of a near-extinction 900,000 years ago, the Toba super-eruption, African megadroughts and the Laschamp magnetic excursion have all been proposed as turning points in human evolution. Tested against archaeology and genomes, most turn out to be stories of regional hardship and resilience rather than global catastrophe.",
+  "narration": [
+    "About 74,000 years ago, a volcano in northern Sumatra tore itself apart. The eruption of Toba left a crater now filled by a lake about 100 kilometres long, and its ash fell across India. Microscopic shards of its glass have been found on the coast of South Africa, almost 9,000 kilometres away.",
+    "For years, many scientists believed that this eruption brought a volcanic winter that nearly wiped out our ancestors. So archaeologists went looking. In India, people were making the same kinds of tools just above the ash as just below it. At Pinnacle Point in South Africa, life went on and even flourished. In the lowlands of Ethiopia, people coped with longer dry seasons by catching fish in shrinking pools.",
+    "Other crises are harder to read. A genetic study published in 2023 argued that between 930,000 and 813,000 years ago our ancestors dwindled to about 1,300 breeding adults, but other geneticists find no trace of such a crash. Between about 135,000 and 75,000 years ago, great droughts shrank Lake Malawi to a fraction of its size. And about 41,000 years ago the Earth’s magnetic field weakened, letting more cosmic radiation into the atmosphere.",
+    "Each of these events has been cast as a turning point in human history. The evidence so far tells a quieter story, of people who moved, changed their diets and adjusted, again and again."
+  ],
+  "pronounce": {
+    "Toba": "Toh-bah",
+    "Malawi": "Ma-lah-wee"
+  },
+  "body": [
+    {
+      "heading": "A world of swinging climates",
+      "paragraphs": [
+        "Between about 1.25 million and 700,000 years ago, the rhythm of the ice ages changed. During what climatologists call the Mid-Pleistocene Transition, glacial cycles lengthened from about 41,000 years to about 100,000 years, and the cold phases grew deeper, with larger ice sheets and lower sea levels. In Africa the swings showed up less as ice than as alternating wet and dry phases, driven partly by the precession of Earth’s orbit, which controls the strength of the monsoons.",
+        "In the 1990s Rick Potts of the Smithsonian proposed that such instability, rather than any single environment, favoured hominins able to cope with change: the variability selection hypothesis. A drill core from the Olorgesailie basin in Kenya, published in 2020, showed that from about 400,000 years ago the landscape swung more often between wet and dry conditions, just as handaxes gave way to Middle Stone Age toolkits and long-distance obsidian exchange. Climate simulations by Axel Timmermann’s group (2022) likewise linked the habitats of different hominin species to shifting climate, and a 2023 study led by Vasiliki Margari suggested that an extreme cold spell about 1.12 million years ago temporarily emptied Europe of people."
+      ]
+    },
+    {
+      "heading": "A bottleneck 900,000 years ago?",
+      "paragraphs": [
+        "In 2023 Wangjie Hu, Haipeng Li, Yi-Hsuan Pan and colleagues published in Science a method called FitCoal, which infers past population size from the frequencies of genetic variants in living people. Applied to 3,154 modern genomes, it indicated that between about 930,000 and 813,000 years ago the ancestors of modern humans fell to about 1,280 breeding individuals and stayed near that level for about 117,000 years, a loss of some 98.7 percent. The authors linked the crash to the Mid-Pleistocene Transition and to a gap in the African and Eurasian fossil record, and suggested that it may have helped set apart the lineage leading to Homo sapiens, Neanderthals and Denisovans.",
+        "Critics responded quickly. Other widely used methods applied to the same genomes show no such bottleneck. Critiques published in 2024 argued that FitCoal can produce a spurious bottleneck from data simulated without one, and that ancient population structure, with separate groups exchanging migrants, can mimic changes in size (see the models in chapter 14). Palaeoanthropologists noted that the supposed fossil gap contains sites such as Gran Dolina in Spain. The authors defend their result, but most population geneticists regard it as unproven."
+      ]
+    },
+    {
+      "heading": "Toba",
+      "paragraphs": [
+        "About 74,000 years ago the Toba volcano in northern Sumatra erupted, leaving a caldera now filled by Lake Toba, about 100 kilometres long. The eruption, one of the largest of the past two million years, ejected thousands of cubic kilometres of rock and ash. The Youngest Toba Tuff blankets much of northern Sumatra, and ash fell across the Bay of Bengal and the Indian subcontinent.",
+        "In 1998 Stanley Ambrose combined this event with genetic evidence for a small ancestral population and proposed that a volcanic winter lasting several years, followed by a millennium of intensified glacial cold, reduced our ancestors to a few thousand breeding adults and accelerated the genetic differentiation of human populations. The idea became popular as the “Toba catastrophe”."
+      ]
+    },
+    {
+      "heading": "Life went on",
+      "paragraphs": [
+        "Archaeologists have since tested the idea directly. At Jwalapuram in southern India, Michael Petraglia’s team (2007) found Middle Palaeolithic stone tools immediately below and above the Toba ash, with similar technology before and after. At Dhaba in the Middle Son valley of northern India, Chris Clarkson and colleagues (2020) reported occupation from about 80,000 to 65,000 years ago that continued across the eruption. Whether these toolmakers were Homo sapiens or another hominin is still debated (chapter 16).",
+        "In South Africa, almost 9,000 kilometres from Sumatra, a team led by Eugene Smith and Curtis Marean (2018) identified microscopic glass shards of Toba ash, known as cryptotephra, at the Pinnacle Point 5-6 rock shelter and at an open-air site at Vleesbaai. At Pinnacle Point, occupation continued without a break and even intensified after the eruption. Lake Malawi sediment cores studied by Christine Lane, Ben Chorn and Thomas Johnson (2013) contain Toba ash with no sign of a sharp cooling in East Africa.",
+        "In 2024 John Kappelman and colleagues reported Toba cryptotephra at Shinfa-Metema 1 in the lowlands of northwestern Ethiopia. People there hunted and fished along a seasonal river, and after the eruption, as dry seasons apparently lengthened, they relied more on fish trapped in shrinking pools. The authors suggest that such seasonal rivers could have served as “blue highways” for dispersal, and interpret small triangular points as possible arrowheads. Genomes show no human population crash dated to 74,000 years ago. Toba is now widely seen as a regional disaster, not a near-extinction."
+      ]
+    },
+    {
+      "heading": "Megadroughts",
+      "paragraphs": [
+        "Drilling in Lake Malawi in 2005 revealed that between about 135,000 and 75,000 years ago tropical Africa went through several megadroughts, far more severe than those of the Last Glacial Maximum. Christopher Scholz, Andrew Cohen and colleagues (2007) estimated that Lake Malawi, today almost 600 kilometres long and more than 700 metres deep, shrank at times to a small, saline lake, losing at least 95 percent of its water. Cores from Lake Tanganyika and from Lake Bosumtwi in Ghana record dry phases too.",
+        "After about 70,000 years ago the climate became wetter and more stable. Scholz and Cohen suggested that the end of the droughts allowed human populations to grow, which may have set the stage for the dispersal out of Africa after 60,000 years ago. Others emphasise that dry phases in some regions coincided with wet phases elsewhere, such as the humid windows that opened corridors through the Sahara and Arabia, so that local crisis and opportunity existed side by side."
+      ]
+    },
+    {
+      "heading": "When the magnetic shield weakened",
+      "paragraphs": [
+        "About 41,000 years ago, Earth’s magnetic field weakened drastically and its poles briefly swung, an event first recognised in lava flows at Laschamps in France’s Massif Central. For several centuries the field fell to a small fraction, perhaps a tenth or less, of its present strength, letting more cosmic rays into the atmosphere and raising the production of radiocarbon and beryllium-10.",
+        "In 2021 Alan Cooper, Chris Turney and colleagues used radiocarbon in an ancient kauri tree preserved in a swamp at Ngāwhā in New Zealand to date these changes precisely. They proposed that the transition around 42,000 years ago, which they called the “Adams Event” after the author Douglas Adams, caused ozone loss, more ultraviolet radiation and shifts in atmospheric circulation, and they linked it to megafaunal extinctions in Australia, the end of the Neanderthals and a rise in cave use and red ochre handprints. Critics pointed out that ice cores and many climate records show no marked change at that time, and that the archaeological events do not line up closely.",
+        "In 2025 Agnit Mukhopadhyay, Raven Garvey and colleagues at the University of Michigan modelled how auroras and space radiation would have spread to lower latitudes over Europe and North Africa during the excursion. They speculated that tailored clothing, ochre used as sunscreen and cave shelters might have given Homo sapiens an advantage over Neanderthals. The idea is untested; the Neanderthal decline is examined in chapter 20."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Did our ancestors nearly die out 930,000–813,000 years ago?",
+      "views": [
+        {
+          "label": "A severe bottleneck",
+          "text": "Wangjie Hu, Haipeng Li and colleagues (2023) argue that FitCoal detects a drop to about 1,280 breeding individuals lasting some 117,000 years, which fits the Mid-Pleistocene climate shift and a sparse fossil record, and could have helped separate our lineage."
+        },
+        {
+          "label": "An artefact of the method",
+          "text": "Other population geneticists find no such signal with established methods, show that FitCoal can invent bottlenecks in simulations and that population structure can mimic them, and question the claimed fossil gap."
+        }
+      ],
+      "status": "Unresolved, but most specialists doubt the bottleneck. Better methods for structured populations and more ancient proteins from fossils of that period are needed."
+    },
+    {
+      "question": "Did the Toba eruption nearly wipe out humans?",
+      "views": [
+        {
+          "label": "Volcanic winter and bottleneck",
+          "text": "Stanley Ambrose (1998), building on Michael Rampino and Stephen Self’s volcanic-winter models, argued that years of cold and darkness shrank human populations to a few thousand adults and shaped modern genetic diversity."
+        },
+        {
+          "label": "Resilience",
+          "text": "Michael Petraglia, Chris Clarkson, Curtis Marean, Christine Lane, John Kappelman and others point to continuous occupation in India, South Africa and Ethiopia, no cooling signal in Lake Malawi and no genetic bottleneck at that date."
+        }
+      ],
+      "status": "The catastrophe hypothesis has largely been abandoned. The eruption probably caused severe regional effects, especially in South and Southeast Asia, but the global human population came through."
+    },
+    {
+      "question": "Did the Laschamp excursion change human history?",
+      "views": [
+        {
+          "label": "A global crisis",
+          "text": "Alan Cooper, Chris Turney and colleagues (2021) argue that the weakened field caused ozone loss and climate shifts that contributed to megafaunal extinctions, Neanderthal decline and new behaviours such as cave use and ochre handprints; a 2025 modelling study added a possible advantage for well-clothed Homo sapiens."
+        },
+        {
+          "label": "Coincidence",
+          "text": "Palaeoclimatologists note that Greenland ice cores and cave records show no distinct climate event at the Laschamp minimum, and archaeologists point out that Neanderthal decline, Australian extinctions and cave art do not cluster at 42,000–41,000 years ago."
+        }
+      ],
+      "status": "Most researchers remain unconvinced that the excursion had major effects on humans. Precise dating of archaeological sites against the radiocarbon record of the excursion is the test."
+    },
+    {
+      "question": "Did climate variability drive human evolution?",
+      "views": [
+        {
+          "label": "Variability selection",
+          "text": "Rick Potts argues that repeated swings between wet and dry favoured flexible behaviour, larger brains and new technologies, supported by the Olorgesailie drill core and the timing of the Middle Stone Age."
+        },
+        {
+          "label": "Many causes",
+          "text": "Others argue that correlations between climate records and evolutionary events are loose, that local environments differed greatly, and that social and demographic factors, such as population size and networks, were at least as important."
+        }
+      ],
+      "status": "Scientific drilling projects in East African lake basins now allow climate and archaeology to be compared at the same place, and they show that climate mattered, but rarely as a single trigger."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Claimed bottleneck", "value": "About 1,280 breeding individuals, 930,000–813,000 years ago (2023; disputed)"},
+    {"label": "Toba eruption", "value": "About 74,000 years ago, northern Sumatra"},
+    {"label": "Farthest Toba ash", "value": "Glass shards at Pinnacle Point, South Africa, almost 9,000 kilometres away"},
+    {"label": "African megadroughts", "value": "About 135,000–75,000 years ago; Lake Malawi lost at least 95 percent of its water"},
+    {"label": "Laschamp excursion", "value": "About 41,000 years ago; the magnetic field fell to a small fraction of today’s strength"},
+    {"label": "Mid-Pleistocene Transition", "value": "Glacial cycles lengthened from about 41,000 to 100,000 years between about 1.25 million and 700,000 years ago"}
+  ],
+  "sites": [
+    {
+      "id": "toba-caldera",
+      "name": "Toba caldera",
+      "country": "Indonesia",
+      "region": "asia",
+      "lat": 2.60, "lon": 98.80,
+      "start": 74000, "end": 74000,
+      "dateLabel": "about 74,000 years ago",
+      "type": "other",
+      "summary": "The collapsed volcano, now Lake Toba, whose super-eruption spread ash from the South China Sea to the Arabian Sea and microscopic glass as far as South Africa."
+    },
+    {
+      "id": "jwalapuram",
+      "name": "Jwalapuram",
+      "country": "India",
+      "region": "asia",
+      "lat": 15.32, "lon": 78.13,
+      "start": 77000, "end": 70000,
+      "dateLabel": "about 77,000–70,000 years ago",
+      "type": "tools",
+      "summary": "Sites in the Jurreru valley where Middle Palaeolithic tools lie immediately below and above the Toba ash, showing that toolmakers persisted through the eruption."
+    },
+    {
+      "id": "pinnacle-point",
+      "name": "Pinnacle Point",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -34.21, "lon": 22.09,
+      "start": 90000, "end": 50000,
+      "dateLabel": "about 90,000–50,000 years ago (PP5-6)",
+      "type": "settlement",
+      "summary": "The PP5-6 rock shelter contains microscopic Toba glass shards, and occupation continued and intensified after the eruption."
+    },
+    {
+      "id": "shinfa-metema-1",
+      "name": "Shinfa-Metema 1",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 12.70, "lon": 36.20,
+      "start": 80000, "end": 70000,
+      "dateLabel": "about 74,000 years ago",
+      "type": "settlement",
+      "summary": "A riverside site in the northwestern Ethiopian lowlands with Toba cryptotephra, where people turned increasingly to fishing as dry seasons lengthened."
+    },
+    {
+      "id": "olorgesailie",
+      "name": "Olorgesailie",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": -1.58, "lon": 36.45,
+      "start": 1000000, "end": 300000,
+      "dateLabel": "about 1 million–300,000 years ago",
+      "type": "tools",
+      "summary": "A basin whose outcrops and drill core record increasing environmental variability after about 400,000 years ago, as handaxes gave way to Middle Stone Age technology."
+    },
+    {
+      "id": "ngawha",
+      "name": "Ngāwhā",
+      "country": "New Zealand",
+      "region": "oceania",
+      "lat": -35.40, "lon": 173.86,
+      "start": 42000, "end": 41000,
+      "dateLabel": "about 42,000–41,000 years ago",
+      "type": "other",
+      "summary": "A swamp in Northland where an ancient kauri tree spanning the Laschamp excursion gave a precise radiocarbon record of the weakening magnetic field."
+    },
+    {
+      "id": "laschamps",
+      "name": "Laschamps",
+      "country": "France",
+      "region": "europe",
+      "lat": 45.74, "lon": 2.96,
+      "start": 41000, "end": 41000,
+      "dateLabel": "about 41,000 years ago",
+      "type": "other",
+      "summary": "Lava flows in the Chaîne des Puys whose reversed magnetisation revealed the brief geomagnetic excursion that bears their name."
+    }
+  ],
+  "themes": ["climate", "genetics", "species", "migration", "technology", "food"],
+  "sources": [
+    {"cite": "Hu, W. et al. (2023). Genomic inference of a severe human bottleneck during the Early to Middle Pleistocene transition. Science 381, 979–984."},
+    {"cite": "Ambrose, S. H. (1998). Late Pleistocene human population bottlenecks, volcanic winter, and differentiation of modern humans. Journal of Human Evolution 34, 623–651."},
+    {"cite": "Petraglia, M. et al. (2007). Middle Paleolithic assemblages from the Indian subcontinent before and after the Toba super-eruption. Science 317, 114–116."},
+    {"cite": "Clarkson, C. et al. (2020). Human occupation of northern India spans the Toba super-eruption ~74,000 years ago. Nature Communications 11."},
+    {"cite": "Smith, E. I. et al. (2018). Humans thrived in South Africa through the Toba eruption about 74,000 years ago. Nature 555, 511–515."},
+    {"cite": "Lane, C. S., Chorn, B. T. & Johnson, T. C. (2013). Ash from the Toba supereruption in Lake Malawi shows no volcanic winter in East Africa at 75 ka. PNAS 110, 8025–8029."},
+    {"cite": "Kappelman, J. et al. (2024). Adaptive foraging behaviours in the Horn of Africa during Toba supereruption. Nature 628."},
+    {"cite": "Scholz, C. A. et al. (2007). East African megadroughts between 135 and 75 thousand years ago and bearing on early-modern human origins. PNAS 104, 16416–16421."},
+    {"cite": "Cooper, A. et al. (2021). A global environmental crisis 42,000 years ago. Science 371, 811–818."},
+    {"cite": "Potts, R. et al. (2020). Increased ecological resource variability during a critical transition in hominin evolution. Science Advances 6."}
+  ]
+}

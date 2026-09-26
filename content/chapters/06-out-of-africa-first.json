@@ -1,0 +1,286 @@
+{
+  "id": "out-of-africa-first",
+  "order": 6,
+  "act": "toolmakers",
+  "title": "Out of Africa, the First Time",
+  "subtitle": "Shangchen, Dmanisi, Java, Zhoukoudian and the Movius Line",
+  "era": "Early and Middle Pleistocene; Lower Palaeolithic",
+  "start": 2100000,
+  "end": 100000,
+  "dateLabel": "about 2.1 million–100,000 years ago",
+  "regions": ["asia"],
+  "focus": [25, -12, 125, 48],
+  "emblem": "globe",
+  "summary": "Hominins reached the Caucasus, China and Java far earlier than once thought: stone tools on the Chinese Loess Plateau are 2.1 million years old, and Homo erectus survived on Java until about 110,000 years ago.",
+  "narration": [
+    "About 2.1 million years ago, on the edge of a vast plateau of wind-blown dust in central China, someone struck sharp flakes from lumps of quartz and left them behind. Chinese geologists found those flakes at a place called Shangchen, sealed in layers of ancient soil. They are older than any fossil of Homo erectus found outside Africa, and nobody knows who made them.",
+    "The earliest travellers whose bones we do have lived at Dmanisi, in the foothills of the Caucasus, about 1.8 million years ago. Beneath the ruins of a medieval town, excavators found five skulls. The brains were small and the bodies short, yet their legs were built for long walks. One elderly individual had lost nearly every tooth years before death, and some researchers think others must have helped that person eat.",
+    "From the Caucasus and the Levant, the trail runs across Asia. On Java, a Dutch army doctor named Eugène Dubois dug a skullcap from a riverbank in 1891 and gave the world its first Homo erectus. Near Beijing, the bones of Peking Man came out of a limestone cave, and in 1941, as war spread across the Pacific, the original fossils vanished and have never been found.",
+    "This was not one great migration but many small drifts of hunters and foragers following game, water and stone. On Java their descendants lasted astonishingly long. The last known Homo erectus lived beside the Solo River until about 110,000 years ago, more than one and a half million years after the species first appeared."
+  ],
+  "pronounce": {
+    "Shangchen": "Shahng-chun",
+    "Dmanisi": "Dmah-nee-see",
+    "Eugène Dubois": "Oo-zhen Doo-bwah",
+    "Solo": "Soh-loh"
+  },
+  "body": [
+    {
+      "heading": "Tools older than the species",
+      "paragraphs": [
+        "For most of the twentieth century, the human story outside Africa began with Homo erectus leaving the continent around 1 million years ago. That date has been pushed back again and again. The most dramatic push came in 2018, when a team led by Zhu Zhaoyu of the Chinese Academy of Sciences, working with the British archaeologist Robin Dennell, reported 96 stone artefacts from Shangchen, on the southern edge of the Chinese Loess Plateau near Lantian in Shaanxi province.",
+        "The Loess Plateau is a gigantic archive of dust. In cold, dry glacial phases wind laid down loess; in warmer, wetter phases the surface weathered into soil. By tying this layer cake to reversals of Earth’s magnetic field, the team placed the artefacts in 17 separate layers spanning about 2.12 to 1.26 million years ago. The tools are simple flakes, cores, notched and pointed pieces, mostly of quartz and quartzite from the nearby Qinling Mountains. Their age is what matters: they are about 270,000 years older than Dmanisi and older than any Homo erectus fossil found outside Africa. No bones of the toolmakers have been found."
+      ]
+    },
+    {
+      "heading": "Dmanisi: small brains at the gates of Asia",
+      "paragraphs": [
+        "Dmanisi sits on a basalt promontory in southern Georgia where the Mashavera and Pinezauri rivers meet, beneath the ruins of a medieval town. Archaeologists digging out medieval grain pits noticed fossil animal bones in the 1980s, and in 1991 a hominin jaw appeared. Since then the site has yielded five skulls, several jaws, parts of skeletons and thousands of simple Oldowan-style stone tools. In 2011 Reid Ferring and colleagues used volcanic ash, argon dating and magnetic reversals to show that people first arrived shortly after 1.85 million years ago and returned repeatedly until about 1.78 million years ago; most fossils are about 1.77 million years old.",
+        "The Dmanisi people were short, roughly 1.5 metres tall, with brains of about 550 to 730 cubic centimetres, barely more than Homo habilis. Yet their legs and feet were built for long-distance walking. They shared the landscape with sabre-toothed cats, giant hyenas and wolves, and cut marks on animal bones show they butchered carcasses. The most complete adult skull of any early Homo, Skull 5, combines the smallest brain of the group, 546 cubic centimetres, with a huge projecting face; its cranium turned up in 2005, five years after its matching jaw. In 2013 David Lordkipanidze and colleagues argued in Science that all five skulls fall within the variation of a single population.",
+        "Skull 4 belonged to an elderly individual who had lost all but one tooth several years before death: the bony sockets had fully healed over. Chewing raw meat or tough plants would have been hard, and the excavators suggested that companions helped, perhaps by sharing soft food. Sceptics note that marrow and brain could be eaten without teeth, so care is a plausible reading rather than a proven one."
+      ]
+    },
+    {
+      "heading": "The Levantine corridor and ʿUbeidiya",
+      "paragraphs": [
+        "Any land route out of Africa passes through the Levant. At ʿUbeidiya, about three kilometres south of the Sea of Galilee in Israel’s Jordan Valley, tilted beds of ancient lake and river sediment contain handaxes, picks and choppers among the bones of African and Eurasian animals, plus a handful of hominin fragments. For decades the site was dated by its fauna to roughly 1.6–1.2 million years ago.",
+        "In 2026 a team led by Ari Matmon, Omry Barzilai and Miriam Belmaker combined cosmogenic nuclide dating, palaeomagnetism and uranium–lead dating of Melanopsis snail shells and concluded that the deposits are at least 1.9 million years old. If that holds, ʿUbeidiya is as old as Dmanisi, and makers of Acheulean handaxes left Africa almost as early as makers of simple Oldowan tools. Because it would put ʿUbeidiya’s handaxes as early as the oldest Acheulean in Africa itself, the result will be tested hard."
+      ]
+    },
+    {
+      "heading": "Java: from Dubois to the drowned plains",
+      "paragraphs": [
+        "Java produced the first Homo erectus ever found. The Dutch army doctor Eugène Dubois went to the Dutch East Indies expressly to find a ‘missing link’, and in 1891 his workers uncovered a skullcap on the bank of the Solo River at Trinil; a thighbone followed in 1892. He named the creature Pithecanthropus erectus. From the 1930s Ralph von Koenigswald and later Indonesian researchers made Sangiran, an eroded dome of sediments north of Surakarta, the richest Homo erectus locality in Asia and now a UNESCO World Heritage Site.",
+        "When Homo erectus reached Java has swung back and forth. In 1994 Carl Swisher and colleagues argued from argon dating for about 1.8–1.6 million years. In 2020 Shuji Matsu’ura and colleagues dated zircon crystals from the Sangiran volcanic layers with fission-track and uranium–lead methods, two independent clocks that agreed, and concluded that the oldest hominins there are younger than 1.5 million years and most likely about 1.3 million. Some researchers still defend older ages, but the younger chronology is now widely used.",
+        "Trinil keeps surprising. In 2014 Josephine Joordens and colleagues re-examined freshwater mussel shells Dubois had collected. One bears a zigzag scratched with a hard point; others have a hole punched exactly where the muscle that closes the shell attaches, a neat way of opening it. Argon and luminescence dating of sediment inside the shells gave 540,000–430,000 years, making the zigzag the oldest known deliberate geometric engraving.",
+        "The species lasted on Java for an extraordinarily long time. Between 1931 and 1933 Dutch surveyors dug twelve skullcaps and two shinbones from a bone bed 20 metres above the Solo River at Ngandong. Estimates of their age ranged from about 550,000 to 27,000 years until 2020, when Yan Rizal, Kira Westaway and colleagues combined 52 dates from several methods to show that a flood washed the bones in between 117,000 and 108,000 years ago: the last known appearance of Homo erectus anywhere. In 2025 researchers described two Homo erectus skull fragments, about 140,000 years old, dredged from the floor of the Madura Strait, showing that these populations also roamed the lowland plains of Sundaland now under the sea."
+      ]
+    },
+    {
+      "heading": "China: Peking Man and the northern frontier",
+      "paragraphs": [
+        "The oldest well-dated hominin fossil in China is the Gongwangling cranium, found in 1964 a few kilometres from Shangchen. A 2015 magnetostratigraphic study pushed its age from about 1.15 to about 1.63 million years; it has a thick vault and a small brain. Far to the northeast, in the Nihewan Basin west of Beijing at about 40 degrees north, the Majuangou sites contain stone tools and cut-marked bones dated by palaeomagnetism to about 1.66 million years, an age a 2024 burial-dating study broadly confirmed. Hominins were enduring hard northern winters well over a million years ago.",
+        "The most famous Chinese site is Locality 1 at Zhoukoudian, a collapsed limestone cave about 50 kilometres southwest of Beijing. Excavations between the 1920s and 1937, directed at various times by Davidson Black, Pei Wenzhong and Franz Weidenreich, produced remains of roughly forty individuals, including several skullcaps. Black named them Sinanthropus pekinensis in 1927; they are now classed as Homo erectus. In late 1941 the original fossils were packed for shipment to the United States to keep them from the Japanese army, and disappeared. Weidenreich’s casts and descriptions survive.",
+        "In 2009 Shen Guanjun and colleagues dated quartz grains from the lower layers by measuring aluminium-26 and beryllium-10, isotopes created by cosmic rays that decay at known rates once sediment is buried. The answer, about 770,000 years, was roughly 300,000 years older than usually assumed. Zhoukoudian was also long celebrated as the first home of fire, but in 1998 Steve Weiner and colleagues found no intact hearths or ash in the classic layers. Excavations since 2009 have reported burnt bones and heated sediment in an upper layer, which Gao Xing and colleagues interpret as fire maintained by hominins; the wider debate is taken up in the chapter on fire and wood."
+      ]
+    },
+    {
+      "heading": "India and the line that Movius drew",
+      "paragraphs": [
+        "South Asia lies on every plausible route east, yet its early record is thin and fossils are almost absent. The key site is Attirampakkam, near Chennai, where Shanti Pappu and colleagues excavated more than 3,500 artefacts, including handaxes and cleavers, from a trench over 9 metres deep. In 2011 they dated the quartzite tools themselves with cosmogenic aluminium and beryllium: the lowest Acheulean levels are about 1.5 million years old. Handaxe makers were in southern India within a few hundred thousand years of the Acheulean’s first appearance in Africa.",
+        "In 1944 the Harvard archaeologist Hallam Movius drew a line through northern India. West of it, handaxes were common; east of it, in East and Southeast Asia, he saw only ‘chopper and chopping tool’ industries, which he read as a sign of a culturally backward region. The Movius Line became a textbook fixture. Its prejudice has long been discarded, and its facts have eroded. In 1978 an American soldier, Greg Bowen, found handaxes at Jeongok-ri in South Korea. In 2000 Hou Yamei and colleagues reported Acheulean-like handaxes from the Bose Basin in southern China, in layers containing tektites, glassy debris from a meteorite impact, dated by argon to about 803,000 years ago. Handaxes are now known from central China too, though they remain rarer in the east."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Did hominins older than Homo erectus leave Africa?",
+      "views": [
+        {
+          "label": "Yes, the first travellers predate erectus",
+          "text": "Zhu Zhaoyu, Robin Dennell and others point out that the Shangchen tools, at about 2.12 million years, are as old as the earliest Homo erectus fossils in Africa, about 2 million years old at Drimolen in South Africa. The small brains and primitive build of the Dmanisi people, and the ape-like wrist and foot of Homo floresiensis on Flores, fit a scenario in which a pre-erectus hominin, something like Homo habilis, left Africa first. Contested older claims, such as river-gravel tools at Xihoudu in northern China dated in 2020 to about 2.43 million years, would push this further if they held."
+        },
+        {
+          "label": "No, erectus was first",
+          "text": "Others note that no hominin fossil outside Africa is older than Dmanisi, and that the Dmanisi skulls, despite their small brains, share key features with Homo erectus. Erectus-like fossils in Africa approach 2 million years, so an early erectus dispersal soon after the species arose could still explain Shangchen. Claims such as Xihoudu are widely doubted because rivers can knock natural flakes off stones."
+        }
+      ],
+      "status": "Open. Most specialists accept Shangchen’s age, but without fossils the toolmaker’s identity is unknown. A skeleton or datable teeth from Asia older than 2 million years, ideally with ancient proteins, would settle it."
+    },
+    {
+      "question": "Were the Dmanisi fossils one species or several?",
+      "views": [
+        {
+          "label": "One variable population",
+          "text": "David Lordkipanidze, Christoph Zollikofer, Marcia Ponce de León and colleagues argued in 2013 that the five skulls, all from a short span of time, differ from each other no more than individuals of living chimpanzees or humans do. By that yardstick, some African fossils assigned to Homo habilis, Homo rudolfensis and Homo erectus might belong to one evolving lineage, with Dmanisi as an early form of Homo erectus."
+        },
+        {
+          "label": "Two or more species",
+          "text": "Jeffrey Schwartz, Ian Tattersall and others replied that the differences, especially Skull 5’s enormous face and jaw, exceed normal variation. A 2025 study of the crown areas of the back teeth by Victor Nery, Walter Neves and colleagues found that Skull 5’s jaw groups with australopiths while other Dmanisi jaws group with Homo, and supported two coexisting species: Homo georgicus for Skull 5 and Homo caucasi for the others."
+        }
+      ],
+      "status": "Most researchers still treat Dmanisi as one early Homo erectus population, because the fossils come from the same deposits and a short time span, and tooth size alone is a weak guide to species. The 2025 study reopened the question without overturning the consensus."
+    },
+    {
+      "question": "What does the Movius Line really mean?",
+      "views": [
+        {
+          "label": "A real difference in frequency",
+          "text": "Stephen Lycett, Christopher Norton and Christopher Bae accept that handaxes are far rarer east of India and argue that this needs explaining. Possible reasons: the first migrants left Africa before the Acheulean existed; small, scattered populations lost complex skills; and in the tropics bamboo and poor-quality stone served instead, an idea proposed by Geoffrey Pope. Norton and colleagues suggested keeping a ‘Movius Line in the broad sense’ to describe these differences."
+        },
+        {
+          "label": "Largely an artefact of research history",
+          "text": "Others stress that handaxes from Bose, Danjiangkou, Luonan and Jeongok-ri show Acheulean-style tools were made in East Asia, and a 2012 morphometric comparison by Wang Wei, Stephen Lycett and colleagues found the Bose handaxes similar in shape to western Acheulean ones. For them the line mostly reflects uneven research and an old assumption of Asian backwardness."
+        }
+      ],
+      "status": "Nobody now reads the line as evidence of lesser abilities. Researchers agree that handaxes are scarcer in East Asia and disagree on whether ancestry, ecology or population size explains it. Better dating of Chinese handaxe sites is the key test."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Oldest tools outside Africa", "value": "about 2.12 million years, Shangchen (China)"},
+    {"label": "Oldest fossils outside Africa", "value": "about 1.85–1.77 million years, Dmanisi (Georgia)"},
+    {"label": "Earliest Acheulean in India", "value": "about 1.5 million years, Attirampakkam"},
+    {"label": "Peking Man, lower layers", "value": "about 770,000 years (cosmogenic burial dating)"},
+    {"label": "Oldest geometric engraving", "value": "540,000–430,000 years, shell from Trinil (Java)"},
+    {"label": "Last known Homo erectus", "value": "117,000–108,000 years ago, Ngandong (Java)"}
+  ],
+  "sites": [
+    {
+      "id": "shangchen",
+      "name": "Shangchen",
+      "country": "China",
+      "region": "asia",
+      "lat": 34.22, "lon": 109.49,
+      "start": 2120000, "end": 1260000,
+      "dateLabel": "2.12–1.26 million years ago",
+      "type": "tools",
+      "summary": "Ninety-six stone artefacts in 17 loess and soil layers on the Chinese Loess Plateau, dated by palaeomagnetism. The oldest are the earliest evidence of hominins outside Africa, older than any Homo erectus fossil in Eurasia."
+    },
+    {
+      "id": "dmanisi",
+      "name": "Dmanisi",
+      "country": "Georgia",
+      "region": "asia",
+      "lat": 41.34, "lon": 44.34,
+      "start": 1850000, "end": 1770000,
+      "dateLabel": "1.85–1.77 million years ago",
+      "type": "fossil",
+      "summary": "Five skulls and many other bones of small-brained early Homo, with Oldowan tools, beneath a medieval town. They include Skull 5, the most complete early Homo skull, and a nearly toothless elderly individual."
+    },
+    {
+      "id": "ubeidiya",
+      "name": "ʿUbeidiya",
+      "country": "Israel",
+      "region": "asia",
+      "lat": 32.69, "lon": 35.56,
+      "start": 1900000, "end": 1200000,
+      "dateLabel": "at least 1.9 million years (2026 study); earlier estimate 1.6–1.2 million",
+      "type": "tools",
+      "summary": "Acheulean handaxes, picks and choppers with African and Eurasian fauna in the Jordan Valley. A 2026 study using three dating methods argued it is at least 1.9 million years old, which would make it one of the oldest sites outside Africa."
+    },
+    {
+      "id": "gongwangling",
+      "name": "Gongwangling (Lantian)",
+      "country": "China",
+      "region": "asia",
+      "lat": 34.18, "lon": 109.49,
+      "start": 1630000, "end": 1630000,
+      "dateLabel": "about 1.63 million years ago",
+      "type": "fossil",
+      "summary": "A thick-walled, small-brained Homo erectus cranium found in 1964, redated in 2015 by palaeomagnetism to about 1.63 million years, the oldest well-dated hominin fossil in China."
+    },
+    {
+      "id": "majuangou",
+      "name": "Majuangou, Nihewan Basin",
+      "country": "China",
+      "region": "asia",
+      "lat": 40.22, "lon": 114.66,
+      "start": 1660000, "end": 1320000,
+      "dateLabel": "about 1.66–1.32 million years ago",
+      "type": "tools",
+      "summary": "Stone tools and butchered bones in lake-margin sediments at about 40 degrees north, showing that hominins coped with cold northern winters by about 1.66 million years ago. A 2024 burial-dating study broadly confirmed the age."
+    },
+    {
+      "id": "zhoukoudian",
+      "name": "Zhoukoudian Locality 1",
+      "country": "China",
+      "region": "asia",
+      "lat": 39.69, "lon": 115.93,
+      "start": 780000, "end": 400000,
+      "dateLabel": "lower layers about 770,000 years ago; upper layers younger",
+      "type": "fossil",
+      "summary": "The cave of Peking Man, with remains of about forty Homo erectus individuals and tens of thousands of stone tools. The original fossils were lost in 1941; the lower layers were dated to about 770,000 years in 2009."
+    },
+    {
+      "id": "sangiran",
+      "name": "Sangiran",
+      "country": "Indonesia",
+      "region": "asia",
+      "lat": -7.46, "lon": 110.84,
+      "start": 1300000, "end": 700000,
+      "dateLabel": "about 1.3 million–700,000 years ago",
+      "type": "fossil",
+      "summary": "An eroded dome in Central Java and the richest Homo erectus locality in Asia. Zircon dating in 2020 placed the first hominins there at no more than 1.5 and probably about 1.3 million years ago."
+    },
+    {
+      "id": "trinil",
+      "name": "Trinil",
+      "country": "Indonesia",
+      "region": "asia",
+      "lat": -7.37, "lon": 111.36,
+      "start": 540000, "end": 430000,
+      "dateLabel": "540,000–430,000 years ago",
+      "type": "fossil",
+      "summary": "Where Eugène Dubois found the first Homo erectus in 1891. A freshwater mussel shell from his collection carries a zigzag engraving, the oldest known geometric mark, made by Homo erectus."
+    },
+    {
+      "id": "ngandong",
+      "name": "Ngandong",
+      "country": "Indonesia",
+      "region": "asia",
+      "lat": -7.18, "lon": 111.43,
+      "start": 117000, "end": 108000,
+      "dateLabel": "117,000–108,000 years ago",
+      "type": "fossil",
+      "summary": "Twelve skullcaps and two shinbones of late Homo erectus from a Solo River terrace, dated in 2020 with 52 age estimates. They are the youngest known Homo erectus fossils."
+    },
+    {
+      "id": "bose-basin",
+      "name": "Bose (Baise) Basin",
+      "country": "China",
+      "region": "asia",
+      "lat": 23.90, "lon": 106.62,
+      "start": 803000, "end": 803000,
+      "dateLabel": "about 803,000 years ago",
+      "type": "tools",
+      "summary": "Acheulean-like handaxes found with meteorite-impact tektites dated by argon to about 803,000 years, a key challenge to the idea of a handaxe-free East Asia."
+    },
+    {
+      "id": "attirampakkam",
+      "name": "Attirampakkam",
+      "country": "India",
+      "region": "asia",
+      "lat": 13.23, "lon": 79.89,
+      "start": 1500000, "end": 1070000,
+      "dateLabel": "Acheulean levels from about 1.5 million years ago",
+      "type": "tools",
+      "summary": "Thousands of Acheulean handaxes and cleavers near Chennai, dated directly by cosmogenic nuclides to about 1.5 million years, the earliest known Acheulean in South Asia."
+    }
+  ],
+  "routes": [
+    {
+      "id": "levantine-corridor-early",
+      "label": "Through the Levant to the Caucasus",
+      "start": 2100000, "end": 1800000,
+      "certainty": "debated",
+      "path": [[36.0, 3.5], [33.5, 22.0], [34.5, 29.5], [35.56, 32.69], [38.5, 37.0], [44.34, 41.34]]
+    },
+    {
+      "id": "across-asia-early",
+      "label": "Across Asia to the Loess Plateau",
+      "start": 2200000, "end": 2100000,
+      "certainty": "debated",
+      "path": [[35.56, 32.69], [48.0, 35.5], [60.0, 37.5], [75.0, 39.5], [95.0, 38.0], [109.49, 34.22]]
+    },
+    {
+      "id": "southern-asia-to-java",
+      "label": "Through southern Asia to Java",
+      "start": 1800000, "end": 1300000,
+      "certainty": "debated",
+      "path": [[43.3, 12.6], [52.0, 17.0], [62.0, 25.5], [72.0, 22.0], [79.89, 13.23], [90.0, 23.0], [100.0, 15.0], [104.0, 2.0], [110.84, -7.46]]
+    }
+  ],
+  "themes": ["species", "migration", "technology", "climate", "art"],
+  "sources": [
+    {"cite": "Zhu, Z. et al. (2018). Hominin occupation of the Chinese Loess Plateau since about 2.1 million years ago. Nature 559, 608–612."},
+    {"cite": "Ferring, R. et al. (2011). Earliest human occupations at Dmanisi (Georgian Caucasus) dated to 1.85–1.78 Ma. Proceedings of the National Academy of Sciences 108.", "doi": "10.1073/pnas.1106638108"},
+    {"cite": "Lordkipanidze, D. et al. (2013). A complete skull from Dmanisi, Georgia, and the evolutionary biology of early Homo. Science 342, 326–331.", "doi": "10.1126/science.1238484"},
+    {"cite": "Nery, V. et al. (2025). Testing the taxonomy of Dmanisi hominin fossils through dental crown area. PLOS One.", "doi": "10.1371/journal.pone.0336484"},
+    {"cite": "Matsu’ura, S. et al. (2020). Age control of the first appearance datum for Javanese Homo erectus in the Sangiran area. Science 367, 210–214.", "doi": "10.1126/science.aau8556"},
+    {"cite": "Joordens, J. C. A. et al. (2015). Homo erectus at Trinil on Java used shells for tool production and engraving. Nature 518, 228–231.", "doi": "10.1038/nature13962"},
+    {"cite": "Rizal, Y. et al. (2020). Last appearance of Homo erectus at Ngandong, Java, 117,000–108,000 years ago. Nature 577, 381–385.", "doi": "10.1038/s41586-019-1863-2"},
+    {"cite": "Shen, G. et al. (2009). Age of Zhoukoudian Homo erectus determined with 26Al/10Be burial dating. Nature 458, 198–200.", "doi": "10.1038/nature07741"},
+    {"cite": "Pappu, S. et al. (2011). Early Pleistocene presence of Acheulian hominins in South India. Science 331, 1596–1599.", "doi": "10.1126/science.1200183"},
+    {"cite": "Lycett, S. J. & Bae, C. J. (2010). The Movius Line controversy: the state of the debate. World Archaeology 42, 521–544.", "doi": "10.1080/00438243.2010.517667"}
+  ]
+}

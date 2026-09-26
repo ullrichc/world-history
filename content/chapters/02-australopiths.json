@@ -1,0 +1,266 @@
+{
+  "id": "australopiths",
+  "order": 2,
+  "act": "roots",
+  "title": "The Southern Apes",
+  "subtitle": "Australopithecus, Kenyanthropus and Paranthropus",
+  "era": "Pliocene and Early Pleistocene",
+  "start": 4200000,
+  "end": 1000000,
+  "dateLabel": "4.2–1 million years ago",
+  "regions": ["africa"],
+  "focus": [12, -30, 45, 18],
+  "emblem": "footprints",
+  "summary": "For more than three million years Africa was home to several kinds of upright-walking apes at once, from Lucy’s species to the big-jawed Paranthropus. Fossils, footprints, isotopes and ancient proteins reveal a crowded, varied family rather than a single line leading to us.",
+  "narration": [
+    "About 3.66 million years ago, a volcano called Sadiman dusted the plains of northern Tanzania with fine ash. Rain turned it into a kind of wet cement, and across it walked guinea fowl, hares, antelope and at least two upright apes. Mary Leakey’s team uncovered their trail at Laetoli in 1978. The prints show an arched foot and a big toe in line with the others, much like ours.",
+    "They were probably made by Australopithecus afarensis, the species of Lucy, whose skeleton was found in Ethiopia in 1974. Lucy stood little more than a metre tall and had a brain not much larger than a chimpanzee’s, yet she walked upright. And she was not alone. A second kind of footprint at Laetoli, a foot from Burtele with a grasping big toe, and a flat-faced skull from Kenya show that several kinds of hominin shared eastern Africa.",
+    "Later came the robust species, Paranthropus, with huge molars and a crest of bone on top of the skull to anchor enormous chewing muscles. Chemical traces in their teeth show that one of them ate mostly grasses and sedges. Proteins recovered from enamel 2 million years old can now tell males from females, and a fossil hand from Kenya shows that they could grip with surprising dexterity.",
+    "For some three million years these southern apes were the most successful hominins on Earth. Our own genus would emerge among them, not after them."
+  ],
+  "pronounce": {
+    "Sadiman": "Sah-dee-man",
+    "Laetoli": "Lay-toe-lee",
+    "Australopithecus afarensis": "Oss-tra-lo-pith-eh-kus ah-far-en-sis",
+    "Burtele": "Bur-teh-leh",
+    "Paranthropus": "Par-an-thro-pus"
+  },
+  "body": [
+    {
+      "heading": "From anamensis to afarensis",
+      "paragraphs": [
+        "The genus Australopithecus, ‘southern ape’, appears about 4.2 million years ago. Its oldest species, A. anamensis, was named in 1995 by Meave Leakey and colleagues from Kanapoi and Allia Bay near Lake Turkana, Kenya; a shin bone from Kanapoi, with a knee built to carry the body’s weight directly over the ankle, shows that it walked upright. Then in 2016 a member of Yohannes Haile-Selassie’s team, Ali Bereino, found an almost complete cranium at Miro Dora in the Woranso-Mille area of Ethiopia. Published in 2019, the 3.8-million-year-old MRD cranium has a small braincase and a strongly projecting face.",
+        "MRD complicated a tidy story in which anamensis gradually turned into A. afarensis. Because a 3.9-million-year-old frontal bone from Belohdelie had been assigned to afarensis, Haile-Selassie’s team argued that the two species overlapped for at least 100,000 years, so afarensis may have budded off from part of the anamensis population. Not everyone accepts the attribution of the Belohdelie fossil, and the question remains open."
+      ]
+    },
+    {
+      "heading": "Lucy’s world",
+      "paragraphs": [
+        "On 24 November 1974 Donald Johanson and Tom Gray spotted an arm bone in a gully at Hadar, in Ethiopia’s Afar region. The team recovered about 40 percent of one skeleton, AL 288-1, nicknamed Lucy after a Beatles song played in camp; in Ethiopia she is Dinkinesh, ‘you are marvellous’. Volcanic ash layers dated by argon–argon place her at about 3.2 million years. She stood about 1.1 metres tall, had long arms and curved fingers, but a pelvis and knee built for walking upright. Her species had brains of roughly 380–550 cubic centimetres.",
+        "A. afarensis, named in 1978, lived from about 3.9 to 2.9 million years ago. At site AL 333 in 1975 the Hadar team found more than 200 fossils from at least 13 individuals, the ‘First Family’. At Dikika, across the Awash River, Zeresenay Alemseged’s team found in 2000 the skeleton of a child, nicknamed Selam, who died at about three years old some 3.3 million years ago. Her shoulder blades resemble those of young gorillas, suggesting that she still climbed, and a 2020 study of afarensis braincases led by Philipp Gunz found an ape-like brain organisation combined with slow, prolonged brain growth, hinting at a long childhood.",
+        "How did Lucy die? In 2016 John Kappelman and colleagues argued from CT scans of fractures in her arm and other bones that she fell from a tall tree. Johanson and Tim White countered that such breaks are common among Hadar fossils and happened long after death, during burial and fossilisation."
+      ]
+    },
+    {
+      "heading": "Footprints and feet",
+      "paragraphs": [
+        "Laetoli in northern Tanzania preserves the oldest known hominin footprints. Around 3.66 million years ago, ash from the Sadiman volcano settled on the landscape, was dampened by rain and hardened, recording the tracks of birds, hares, antelopes and hominins. In 1978 Mary Leakey’s team found Site G, a trail of about 70 prints left by two or three individuals walking with a human-like heel strike, arched foot and big toe aligned with the others. Prints found at Site S in 2015 include those of an individual perhaps 1.65 metres tall, evidence of large size differences within the species.",
+        "Prints at Site A, found in 1976, had been set aside as possibly made by a bear walking on its hind legs. Ellison McNutt, Jeremy DeSilva and colleagues re-excavated them in 2019 and showed in 2021 that a hominin made them, with a short, wide foot and a cross-stepping gait unlike that of the Site G walkers. Two kinds of bipedal hominin apparently lived at Laetoli.",
+        "Another foot comes from Burtele in the Woranso-Mille area: eight bones found in 2009, 3.4 million years old, with a big toe that could still grasp. In 2015 Haile-Selassie’s team named Australopithecus deyiremeda from jaws of the same age nearby, and in November 2025 the team reported in Nature new fossils linking the foot to that species. Carbon isotopes show that deyiremeda ate mostly foods from trees and shrubs, while afarensis in the same region had a more mixed diet."
+      ]
+    },
+    {
+      "heading": "A crowded Pliocene",
+      "paragraphs": [
+        "In 1995 Michel Brunet’s team found a jaw, nicknamed Abel, at Koro Toro in Chad, about 3.5 million years old; named A. bahrelghazali, it placed australopiths 2,500 kilometres west of the Rift Valley. In 1999 Justus Erus found a flat-faced cranium, KNM-WT 40000, at Lomekwi west of Lake Turkana; Meave Leakey’s team named it Kenyanthropus platyops in 2001, about 3.5 million years old. Tim White argued that its flat face might partly reflect cracking and distortion. At Bouri in the Middle Awash, A. garhi, named in 1999, lived about 2.5 million years ago close to animal bones bearing early cut marks (chapter 3)."
+      ]
+    },
+    {
+      "heading": "Caves of the south",
+      "paragraphs": [
+        "In 1924 quarry workers at Buxton Limeworks near Taung found a small skull with a natural cast of its brain. Raymond Dart described it in Nature in February 1925 as Australopithecus africanus, the ‘southern ape of Africa’, and argued that it was an upright human relative. Many British scholars, still misled by the Piltdown forgery, dismissed it for two decades. The Taung Child died aged about three; in 2006 Lee Berger showed that damage in its eye sockets matches the talon marks eagles leave on monkey prey.",
+        "At Sterkfontein, Robert Broom and John Robinson blasted out an adult africanus cranium, Sts 5, in April 1947, nicknamed Mrs Ples, although it may be male. In 1994 Ronald Clarke recognised hominin foot bones in a box of fossils from the cave, and in 1997 his assistants Stephen Motsumi and Nkwane Molefe found the matching broken bone in the cave wall. Twenty years of painstaking excavation produced Little Foot, StW 573, the most complete australopith skeleton known, unveiled in 2017.",
+        "Dating these caves is notoriously hard. In 2015 Darryl Granger and colleagues used the decay of aluminium-26 and beryllium-10 in buried quartz to date Little Foot to about 3.67 million years, whereas uranium–lead dates on flowstones had suggested an age nearer 2.2 million. In 2022 the same method dated the deposit containing Mrs Ples and most Sterkfontein australopiths to about 3.4–3.7 million years, a million years older than thought and contemporary with Lucy. Little Foot’s species is disputed too: Clarke assigns it to A. prometheus, while a 2025 study led by Jesse Martin argued that it fits neither prometheus nor africanus and may be a new species.",
+        "The youngest australopith is A. sediba from Malapa, about 15 kilometres from Sterkfontein. In August 2008 nine-year-old Matthew Berger, son of Lee Berger, found a bone that led to two partial skeletons, a boy and an adult female, about 1.98 million years old. Sediba combined a small brain with a strikingly human-like hand and pelvis. Berger proposed it as a possible ancestor of Homo, but since Homo fossils are older, most researchers see it as a late relative that evolved some Homo-like traits independently."
+      ]
+    },
+    {
+      "heading": "The robust ones",
+      "paragraphs": [
+        "By about 2.7 million years ago a very different branch had appeared: Paranthropus, with massive jaws, huge flat molars, flaring cheekbones and, in males, a bony crest on top of the skull to anchor enormous chewing muscles. P. aethiopicus is best known from the ‘Black Skull’ (KNM-WT 17000), found west of Lake Turkana in 1985 and about 2.5 million years old. In July 1959 Mary Leakey found the cranium OH 5 at Olduvai Gorge; Louis Leakey named it Zinjanthropus boisei, and as P. boisei it earned the nickname Nutcracker Man. In South Africa, Robert Broom named P. robustus in 1938 from Kromdraai; it is also well known from Swartkrans and Drimolen.",
+        "Isotopes overturned the nutcracker image. In 2011 Thure Cerling and colleagues showed that P. boisei enamel records a diet of roughly three-quarters C4 plants, probably grasses and sedges, more like a grazing animal than any living ape, and its teeth lack the micro-pitting produced by cracking hard nuts. P. robustus ate a more mixed diet. For the older australopiths of Sterkfontein, a 2025 study of nitrogen isotopes in enamel led by Tina Lüdecke found values typical of plant eaters, suggesting that meat was at most a small part of their diet.",
+        "Molecules now add detail. In 2025 Palesa Madupe and colleagues read enamel proteins from four P. robustus teeth from Swartkrans, about 2 million years old. Peptides of the Y-linked form of amelogenin identified two males, and the other two were inferred to be female, results that did not always match the sex suggested by tooth size. One individual differed from the others at the protein level, hinting at more diversity within Paranthropus than anatomy has recognised.",
+        "In October 2025 Carrie Mongle and colleagues described a partial skeleton from Koobi Fora in Kenya, about 1.52 million years old, whose hand bones were found with unmistakable P. boisei teeth and jaw. Its thumb-to-finger proportions are human-like enough to allow tool use, while other features resemble gorilla hands and suggest a powerful grip. In 2024 Kevin Hatala’s team reported a 1.5-million-year-old lakeshore surface at Koobi Fora where Paranthropus and Homo erectus left footprints, probably within hours of each other, each with a distinctive gait. P. boisei vanished about 1.3 million years ago and P. robustus perhaps around 1 million years ago."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "How old is Little Foot, and what was it?",
+      "views": [
+        {"label": "About 3.67 million years", "text": "Darryl Granger, Ronald Clarke and colleagues argue that cosmogenic burial dating of the rock around the skeleton gives 3.67 million years, that the flowstones used for younger dates formed later in voids, and that a 2024 study of the associated animal fossils also points to about 3.6 million years."},
+        {"label": "Younger", "text": "Researchers including Robyn Pickering, Jan Kramers and Andy Herries have argued from uranium–lead dates, palaeomagnetism and cave stratigraphy for younger ages, and a 2022 analysis of monkey fossils from Sterkfontein’s Member 4 suggested roughly 2.6–2.0 million years for that deposit."}
+      ],
+      "status": "Recent work leans towards an age of about 3.6 million years, but Sterkfontein’s cave fills are complex and agreement is incomplete. The species question, A. prometheus, A. africanus or something new, is separately unresolved."
+    },
+    {
+      "question": "How many hominin species shared the Pliocene?",
+      "views": [
+        {"label": "Many", "text": "Yohannes Haile-Selassie, Meave Leakey, Ellison McNutt and others read A. deyiremeda, Kenyanthropus platyops, A. bahrelghazali and the Laetoli Site A prints as evidence that several hominins lived at the same time, with different diets and ways of moving."},
+        {"label": "Fewer", "text": "Tim White and others have argued that some of these species rest on distorted or fragmentary fossils that fall within the variation of A. afarensis, and that naming species from single jaws or skulls inflates diversity."}
+      ],
+      "status": "The 2025 fossils linking the Burtele foot to A. deyiremeda, with isotopic evidence of a distinct diet, strengthened the case for at least two species in the Afar around 3.4 million years ago. Kenyanthropus remains contested until better-preserved specimens are found."
+    },
+    {
+      "question": "Did Lucy die falling from a tree?",
+      "views": [
+        {"label": "A fatal fall", "text": "John Kappelman and colleagues (2016) argued that compressive fractures in Lucy’s shoulder, arm, knee and other bones formed at death and match those of people who fall from a height and land feet first."},
+        {"label": "Damage after death", "text": "Donald Johanson and Tim White replied that similar breaks are common in Hadar fossils of many animals and arise from burial, sediment pressure and weathering long after death."}
+      ],
+      "status": "Unresolved. Without soft tissue or a clear way to tell fresh from fossil breaks at this age, the fall remains a plausible but unproven hypothesis."
+    },
+    {
+      "question": "How different were australopith males and females?",
+      "views": [
+        {"label": "Strongly dimorphic", "text": "Henry McHenry and later Adam Gordon and colleagues (2008) estimated that A. afarensis males were far larger than females, as in gorillas or orangutans, which would suggest intense competition between males."},
+        {"label": "Modest, human-like", "text": "Philip Reno and Owen Lovejoy (2003, 2015) used Lucy as a template to estimate the sizes of the AL 333 individuals and concluded that dimorphism was close to that of modern humans, consistent with reduced male competition."}
+      ],
+      "status": "Estimates depend on whether more than one species is mixed in the sample and on how sex is assigned. Enamel proteins, which in 2025 gave reliable sex for Paranthropus, might eventually test the estimates directly if recovered from older fossils."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Lucy", "value": "AL 288-1, A. afarensis, about 3.2 million years, Hadar (Ethiopia), found 1974"},
+    {"label": "Oldest hominin footprints", "value": "Laetoli, Tanzania, about 3.66 million years"},
+    {"label": "Most complete australopith", "value": "Little Foot (StW 573), Sterkfontein, probably about 3.67 million years"},
+    {"label": "Neighbours", "value": "A. afarensis and A. deyiremeda in the Afar, about 3.4 million years ago"},
+    {"label": "Paranthropus boisei diet", "value": "About three-quarters C4 plants such as grasses and sedges"},
+    {"label": "Last robust australopith", "value": "P. robustus, around 1 million years ago in South Africa"}
+  ],
+  "sites": [
+    {
+      "id": "kanapoi",
+      "name": "Kanapoi",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 2.32, "lon": 36.07,
+      "start": 4200000, "end": 4100000,
+      "dateLabel": "4.2–4.1 million years ago",
+      "type": "fossil",
+      "summary": "Type site of Australopithecus anamensis, the oldest australopith, whose shin bone shows a knee adapted to upright walking."
+    },
+    {
+      "id": "woranso-mille",
+      "name": "Woranso-Mille",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 11.45, "lon": 40.5,
+      "start": 3800000, "end": 3300000,
+      "dateLabel": "3.8–3.3 million years ago",
+      "type": "fossil",
+      "summary": "Afar research area that produced the 3.8-million-year-old MRD cranium of A. anamensis, the Burtele foot with its grasping big toe, and A. deyiremeda."
+    },
+    {
+      "id": "hadar",
+      "name": "Hadar",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 11.1, "lon": 40.58,
+      "start": 3400000, "end": 2900000,
+      "dateLabel": "3.4–2.9 million years ago",
+      "type": "fossil",
+      "summary": "Where Lucy (AL 288-1) was found in 1974 and the ‘First Family’ of at least 13 A. afarensis individuals at AL 333 in 1975."
+    },
+    {
+      "id": "dikika",
+      "name": "Dikika",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 11.05, "lon": 40.63,
+      "start": 3300000, "end": 3300000,
+      "dateLabel": "about 3.3 million years ago",
+      "type": "fossil",
+      "summary": "Site of Selam, the skeleton of an A. afarensis child found in 2000, whose shoulder blades and braincase illuminate climbing and brain growth."
+    },
+    {
+      "id": "laetoli",
+      "name": "Laetoli",
+      "country": "Tanzania",
+      "region": "africa",
+      "lat": -3.22, "lon": 35.19,
+      "start": 3660000, "end": 3660000,
+      "dateLabel": "about 3.66 million years ago",
+      "type": "footprints",
+      "summary": "Volcanic ash that preserved the oldest hominin footprints: the Site G trail of A. afarensis and the Site A prints of a second, cross-stepping biped."
+    },
+    {
+      "id": "koro-toro",
+      "name": "Koro Toro",
+      "country": "Chad",
+      "region": "africa",
+      "lat": 16.08, "lon": 18.5,
+      "start": 3500000, "end": 3500000,
+      "dateLabel": "about 3.5 million years ago",
+      "type": "fossil",
+      "summary": "Find spot of the jaw of Australopithecus bahrelghazali (Abel), the first australopith found west of the Rift Valley."
+    },
+    {
+      "id": "taung",
+      "name": "Taung (Buxton Limeworks)",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -27.62, "lon": 24.64,
+      "start": 2800000, "end": 2600000,
+      "dateLabel": "roughly 2.8–2.6 million years ago",
+      "type": "fossil",
+      "summary": "Quarry where the Taung Child was found in 1924, the type specimen of Australopithecus africanus described by Raymond Dart. Its exact age is poorly constrained."
+    },
+    {
+      "id": "sterkfontein",
+      "name": "Sterkfontein",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -26.02, "lon": 27.73,
+      "start": 3700000, "end": 2000000,
+      "dateLabel": "3.7–2 million years ago",
+      "type": "fossil",
+      "summary": "Cave system that yielded Mrs Ples, hundreds of A. africanus fossils and the Little Foot skeleton, whose ages are disputed between about 3.7 and 2 million years."
+    },
+    {
+      "id": "malapa",
+      "name": "Malapa",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -25.89, "lon": 27.8,
+      "start": 1980000, "end": 1980000,
+      "dateLabel": "about 1.98 million years ago",
+      "type": "fossil",
+      "summary": "Collapsed cave where Australopithecus sediba was discovered in 2008: two partial skeletons with a mix of australopith and Homo-like traits."
+    },
+    {
+      "id": "olduvai-gorge",
+      "name": "Olduvai Gorge",
+      "country": "Tanzania",
+      "region": "africa",
+      "lat": -2.99, "lon": 35.35,
+      "start": 1800000, "end": 1800000,
+      "dateLabel": "about 1.8 million years ago",
+      "type": "fossil",
+      "summary": "Where Mary Leakey found the Paranthropus boisei cranium OH 5, ‘Nutcracker Man’, in 1959; its potassium–argon date transformed the timescale of human evolution."
+    },
+    {
+      "id": "swartkrans",
+      "name": "Swartkrans",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -26.01, "lon": 27.72,
+      "start": 2000000, "end": 1000000,
+      "dateLabel": "about 2–1 million years ago",
+      "type": "fossil",
+      "summary": "Richest site of Paranthropus robustus, whose 2-million-year-old teeth yielded enamel proteins revealing sex and genetic variation in 2025."
+    },
+    {
+      "id": "koobi-fora",
+      "name": "Koobi Fora",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 3.95, "lon": 36.25,
+      "start": 1520000, "end": 1500000,
+      "dateLabel": "about 1.5 million years ago",
+      "type": "footprints",
+      "summary": "East Turkana area where footprints of Paranthropus and Homo erectus share one lakeshore surface, and where the first definite Paranthropus boisei hand bones were found."
+    }
+  ],
+  "themes": ["species", "food", "climate"],
+  "sources": [
+    {"cite": "Haile-Selassie, Y. et al. (2019). A 3.8-million-year-old hominin cranium from Woranso-Mille, Ethiopia. Nature 573, 214–219."},
+    {"cite": "Kappelman, J. et al. (2016). Perimortem fractures in Lucy suggest mortality from fall out of tall tree. Nature 537, 503–507."},
+    {"cite": "McNutt, E. J. et al. (2021). Footprint evidence of early hominin locomotor diversity at Laetoli, Tanzania. Nature 600, 468–471.", "doi": "10.1038/s41586-021-04187-7"},
+    {"cite": "Haile-Selassie, Y. et al. (2025). New finds shed light on diet and locomotion in Australopithecus deyiremeda. Nature.", "doi": "10.1038/s41586-025-09714-4"},
+    {"cite": "Granger, D. E. et al. (2022). Cosmogenic nuclide dating of Australopithecus at Sterkfontein, South Africa. PNAS 119, e2123516119.", "doi": "10.1073/pnas.2123516119"},
+    {"cite": "Martin, J. M. et al. (2025). The StW 573 Little Foot fossil should not be attributed to Australopithecus prometheus. American Journal of Biological Anthropology.", "doi": "10.1002/ajpa.70177"},
+    {"cite": "Cerling, T. E. et al. (2011). Diet of Paranthropus boisei in the early Pleistocene of East Africa. PNAS 108, 9337–9341."},
+    {"cite": "Madupe, P. P. et al. (2025). Enamel proteins reveal biological sex and genetic variability in southern African Paranthropus. Science 388, 969.", "doi": "10.1126/science.adt9539"},
+    {"cite": "Mongle, C. S. et al. (2025). New fossils reveal the hand of Paranthropus boisei. Nature 647.", "doi": "10.1038/s41586-025-09594-8"},
+    {"cite": "Hatala, K. G. et al. (2024). Footprint evidence for locomotor diversity and shared habitats among early Pleistocene hominins. Science 386, 1004–1010.", "doi": "10.1126/science.ado5275"}
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "first-europeans",
+  "order": 7,
+  "act": "toolmakers",
+  "title": "The First Europeans",
+  "subtitle": "Korolevo, Orce, Atapuerca, Happisburgh, Mauer and Boxgrove",
+  "era": "Early and Middle Pleistocene; Lower Palaeolithic",
+  "start": 1420000,
+  "end": 400000,
+  "dateLabel": "about 1.4 million–400,000 years ago",
+  "regions": ["europe"],
+  "focus": [-10, 34, 45, 56],
+  "emblem": "footprints",
+  "summary": "People reached Europe by about 1.4 million years ago, first with simple flake tools and later with handaxes. Their story includes the oldest faces in western Europe, cannibalism at Gran Dolina, footprints on an English estuary and, probably, repeated retreats before the cold.",
+  "narration": [
+    "Europe was a late and difficult destination. Seen from Africa, it is a cold western peninsula of Asia, with long winters and short growing seasons. The oldest firm evidence of people there comes from Korolevo, in western Ukraine, where stone tools lie in sediments dated to about 1.4 million years ago.",
+    "At the other end of the continent, in southern Spain, a child’s milk tooth from Barranco León is almost as old. In the Atapuerca hills near Burgos, a broken piece of face nicknamed Pink shows that people related to Homo erectus had reached the far west between 1.4 and 1.1 million years ago.",
+    "About 850,000 years ago, in the cave of Gran Dolina, the bodies of people now called Homo antecessor were butchered and eaten. Their bones carry the same cut marks as the deer and bison beside them, and many belonged to children. From the same era come footprints on an estuary at Happisburgh, in eastern England: adults and children walking across the mud, preserved for close to a million years, then erased by the sea within weeks of their discovery in 2013.",
+    "Europe may have been settled and abandoned several times as ice ages came and went. By half a million years ago, though, handaxe makers were butchering horses on the English coast at Boxgrove, and heavily built people, known from a jaw found at Mauer in Germany, had made the continent their home."
+  ],
+  "pronounce": {
+    "Korolevo": "Koh-roh-leh-voh",
+    "Barranco León": "Bah-rahn-koh Leh-on",
+    "Atapuerca": "Ah-tah-pwer-kah",
+    "Burgos": "Boor-gohs",
+    "Gran Dolina": "Grahn Doh-lee-nah",
+    "Happisburgh": "Haze-bruh",
+    "Mauer": "Mow-er"
+  },
+  "body": [
+    {
+      "heading": "A cold peninsula of Asia",
+      "paragraphs": [
+        "From the Caucasus, Europe is a peninsula at the western end of Asia, reaching into latitudes with shorter winter days, colder winters and more seasonal food than the lands where hominins evolved. Dmanisi shows that people stood at its southeastern edge by 1.8 million years ago, yet firm evidence for Europe proper appears only some 400,000 years later. The early record is thin: a few dozen sites, most with stone tools only, and a handful of fossils. They lie beyond the reach of radiocarbon and often of luminescence, so researchers combine palaeomagnetism, cosmogenic nuclides, electron spin resonance and the evolutionary stages of small mammals such as voles.",
+        "The climate was changing too. During the Mid-Pleistocene Transition, roughly 1.25 to 0.7 million years ago, ice-age cycles lengthened from about 41,000 to about 100,000 years, and glacial phases became colder and longer. For hominins without tailored clothing and perhaps without routine fire, a severe glacial could make much of the continent uninhabitable."
+      ]
+    },
+    {
+      "heading": "Korolevo and the eastern gateway",
+      "paragraphs": [
+        "The oldest securely dated evidence now comes from Korolevo, in the Transcarpathian region of western Ukraine, where a quarry on an andesite hill exposes a deep sequence of loess and ancient soils. Excavations led by Vladislav Gladilin from the 1970s recovered thousands of artefacts from many layers. In 2024 a team led by Roman Garba of the Czech Academy of Sciences and John Jansen dated the lowest artefact layer by measuring cosmogenic aluminium-26 and beryllium-10 in quartz, and obtained about 1.42 million years. The tools are simple cores and flakes of local volcanic stone. Combining the date with climate and habitat modelling, the team argued that hominins spread into Europe from the east and southeast during warm interglacial phases.",
+        "Other early claims are scattered along the northern Mediterranean. Pirro Nord in southern Italy has Oldowan-type tools in a fissure filling whose fauna suggests roughly 1.6–1.3 million years. Kozarnika Cave in Bulgaria and Lézignan-la-Cèbe in southern France have claims of similar or greater age that many specialists regard as uncertain."
+      ]
+    },
+    {
+      "heading": "Orce and the Iberian south",
+      "paragraphs": [
+        "The Orce region of Andalusia, an ancient lake basin northeast of Granada, has been at the centre of debate for four decades. In the early 1980s a skull fragment from Venta Micena was announced as ‘Orce Man’ and then fiercely disputed; most experts concluded it could not be shown to be human. The case for early people at Orce now rests on firmer ground. At Barranco León excavators found a hominin milk molar in 2002, published in 2013 with an age of about 1.4 million years based on palaeomagnetism, electron spin resonance and fauna, together with Oldowan cores and flakes.",
+        "At nearby Fuente Nueva 3, dated to about 1.2 million years, stone tools lie around the remains of an extinct mammoth, Mammuthus meridionalis, together with fossil dung of the giant hyena Pachycrocuta. The excavators read this as a scene of competition: hominins and hyenas going after the same carcass."
+      ]
+    },
+    {
+      "heading": "Atapuerca: the oldest faces in western Europe",
+      "paragraphs": [
+        "The Sierra de Atapuerca near Burgos in northern Spain is a limestone hill cut by a railway trench dug around 1900, which sliced through caves packed with sediment and bone. At Sima del Elefante, the team led by Eudald Carbonell, José María Bermúdez de Castro and Juan Luis Arsuaga found a fragment of a lower jaw in 2007, reported the next year as about 1.2–1.1 million years old.",
+        "In 2022, deeper in the same deposit, they found pieces of the left side of a face: part of the upper jaw and cheekbone. The fossil, ATE7-1, was nicknamed ‘Pink’, a nod to Pink Floyd and to the palaeontologist Rosa Huguet, who led its 2025 description in Nature. Dated to between 1.4 and 1.1 million years ago, it is the oldest human face known from western Europe. It lacks the modern-looking midface of the later Homo antecessor and resembles Homo erectus in several features, so the team cautiously assigned it to Homo affinis erectus, meaning ‘related to erectus’."
+      ]
+    },
+    {
+      "heading": "Gran Dolina and Homo antecessor",
+      "paragraphs": [
+        "In 1994, in level TD6 of the Gran Dolina cave a short walk away, the excavators found remains of roughly a dozen people, dated by palaeomagnetism and later by electron spin resonance to about 850,000 years ago. In 1997 they named a new species, Homo antecessor, ‘the pioneer’. The most striking specimen is part of the face of a boy about ten or eleven years old. His cheek region is hollowed and set back, surprisingly like our own, although his brow and teeth are archaic.",
+        "Many of the human bones carry cut marks, percussion damage and even human tooth marks, identical to those on the deer, bison and horse bones in the same layer. Bodies were skinned, dismembered, defleshed and their bones broken for marrow, and most of the dead were children and adolescents. It is the oldest well-documented case of cannibalism. The excavators have suggested regular cannibalism, perhaps of outsiders killed in conflicts between groups; others see occasional hunger.",
+        "In 2020 a team led by Frido Welker and Enrico Cappellini recovered proteins from the enamel of a TD6 molar. The sequences placed Homo antecessor as a close sister lineage of the common ancestor of Neanderthals, Denisovans and modern humans, rather than as that ancestor itself."
+      ]
+    },
+    {
+      "heading": "The far north: Pakefield and Happisburgh",
+      "paragraphs": [
+        "Britain was then a peninsula joined to the continent across what is now the southern North Sea. In 2005 Simon Parfitt and colleagues reported 32 flint artefacts from river deposits at Pakefield in Suffolk, about 700,000 years old, laid down in a warm interglacial with Mediterranean-like summers. In 2010 the same group reported flint flakes from Happisburgh in Norfolk, in estuarine deposits older than 780,000 years and perhaps close to 900,000, formed when pine and spruce forest covered the region and winters were colder than today.",
+        "In May 2013 storms stripped the sand from the Happisburgh foreshore and exposed a surface of compacted silt pocked with elongated hollows. Nick Ashton, Sarah Duffy and colleagues recorded them with photogrammetry, in rain and between tides, before the sea destroyed them within about two weeks. They were footprints of a group of at least five people, adults and children, whose estimated heights ranged from about 0.9 to 1.7 metres. They are the oldest known hominin footprints outside Africa. Homo antecessor, the only European species known from that time, is the usual candidate."
+      ]
+    },
+    {
+      "heading": "Handaxes and heavier bodies: Mauer, Boxgrove and Arago",
+      "paragraphs": [
+        "Handaxes reached Europe long after they appeared in Africa. Among the earliest are large cutting tools found with butchered mammoth bones at Barranc de la Boella, near Tarragona in Catalonia, in deposits roughly 1 million to 780,000 years old, and handaxes at La Noira in central France dated to about 700,000 years. By 500,000 years ago the Acheulean was widespread.",
+        "On 21 October 1907 a sand-pit worker, Daniel Hartmann, found a massive, chinless lower jaw at Mauer near Heidelberg. Otto Schoetensack named it Homo heidelbergensis the following year. In 2010 Günther Wagner and colleagues dated the sands with electron spin resonance, uranium-series and luminescence methods to about 609,000 years.",
+        "At Boxgrove, near the south coast of England, excavations led by Mark Roberts uncovered an ancient beach and grassland about 480,000–500,000 years old. A robust shinbone points to a tall, heavily built person, and two incisors carry scratches from stone tools used to cut meat gripped in the teeth. Around the bones of a single horse lie several separate scatters of flint debris, where people sat and made handaxes on the spot to butcher it; a horse shoulder blade has a round hole that may be a spear wound. Antler and bone served as soft hammers for shaping flint.",
+        "In the Caune de l’Arago cave at Tautavel in the French Pyrenees, excavations led by Henry de Lumley since 1964 have yielded more than a hundred human remains, including the Arago 21 face, about 450,000 years old. These heavier-bodied Europeans lead into the tangled story of the Middle Pleistocene and the roots of the Neanderthals."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Was Europe settled continuously, or colonised and emptied again and again?",
+      "views": [
+        {
+          "label": "Repeated colonisation and local extinction",
+          "text": "Robin Dennell, María Martinón-Torres and José María Bermúdez de Castro proposed in 2011 that Europe acted as a population ‘sink’, colonised from western Asia in mild phases and depopulated in harsh glacials, with survivors only in southern refuges. In 2023 a team led by Vasiliki Margari, with Chris Stringer and Axel Timmermann, analysed a marine sediment core off Portugal and found an abrupt, extreme cooling about 1.12 million years ago, comparable to the harshest later glacials. Their climate modelling suggested even southern Europe became too cold for hominins, which could explain a gap in the record until about 900,000 years ago, when better-adapted groups arrived."
+        },
+        {
+          "label": "More continuity than the gaps suggest",
+          "text": "Other researchers argue that the scarcity of sites between about 1.1 and 0.9 million years reflects poor preservation and imprecise dating rather than true absence, and that sheltered parts of Iberia and Italy may have supported small populations through cold spells. Sites such as Sima del Elefante and Vallparadís in Catalonia sit close to the supposed gap, so their exact ages matter."
+        }
+      ],
+      "status": "Most specialists accept that Europe’s early populations were small and vulnerable to climate, so regional extinctions are likely. How often the continent was emptied, and whether Homo antecessor descended from the first colonists or from a later wave, remains open."
+    },
+    {
+      "question": "Where does Homo antecessor fit in the human family tree?",
+      "views": [
+        {
+          "label": "Ancestor of later humans",
+          "text": "When they named the species in 1997, Bermúdez de Castro, Arsuaga, Carbonell and colleagues proposed that it might be the last common ancestor of Neanderthals and modern humans, pointing to the modern-looking midface of the boy from TD6."
+        },
+        {
+          "label": "A close relative on a side branch",
+          "text": "Critics argued that a child’s face does not reliably predict adult shape and that the teeth resemble other early Eurasian fossils. The 2020 enamel-protein study led by Frido Welker placed antecessor as a sister lineage to, rather than the ancestor of, the group that produced Neanderthals, Denisovans and modern humans."
+        }
+      ],
+      "status": "The protein result is widely treated as the best current evidence: Homo antecessor was a close relative of our ancestors, probably not the ancestor itself. One implication is that the modern-looking face may be an old feature that our own lineage retained."
+    },
+    {
+      "question": "Which way did the first Europeans come?",
+      "views": [
+        {
+          "label": "From the east, by land",
+          "text": "Most researchers, including the 2024 Korolevo team, argue that hominins came through the Caucasus, Anatolia or the Balkans, the only land routes, and spread westward during warm phases. The sequence of dates, Dmanisi about 1.8 million years, Korolevo about 1.4 million and the Iberian sites about 1.4–1.2 million, fits this."
+        },
+        {
+          "label": "Across the Strait of Gibraltar",
+          "text": "Josep Gibert, who led early work at Orce, and some other researchers argued that hominins crossed from North Africa, where Oldowan tools at Aïn Boucherit in Algeria are about 2.4–1.9 million years old. The strait narrowed when sea level fell but never closed, so this route would require a water crossing."
+        }
+      ],
+      "status": "The eastern route remains the default because it needs no sea crossing, but the near-identical ages of the oldest Spanish and Ukrainian sites keep the question alive. A clearly dated Early Pleistocene site near Gibraltar or in Sicily would change the picture."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Oldest dated evidence in Europe", "value": "about 1.42 million years, stone tools at Korolevo (Ukraine)"},
+    {"label": "Oldest face in western Europe", "value": "ATE7-1 (‘Pink’), 1.4–1.1 million years, Sima del Elefante"},
+    {"label": "Homo antecessor", "value": "about 850,000 years, Gran Dolina TD6, with evidence of cannibalism"},
+    {"label": "Oldest footprints outside Africa", "value": "Happisburgh (England), more than 780,000 years old"},
+    {"label": "Homo heidelbergensis type fossil", "value": "Mauer 1 jaw, about 609,000 years"},
+    {"label": "Boxgrove", "value": "about 480,000–500,000 years; horse butchery with handaxes"}
+  ],
+  "sites": [
+    {
+      "id": "korolevo",
+      "name": "Korolevo",
+      "country": "Ukraine",
+      "region": "europe",
+      "lat": 48.15, "lon": 23.13,
+      "start": 1420000, "end": 1420000,
+      "dateLabel": "about 1.42 million years ago",
+      "type": "tools",
+      "summary": "A deep loess sequence in Transcarpathia whose lowest artefact layer was dated in 2024 by cosmogenic nuclides to about 1.42 million years, the oldest securely dated evidence of hominins in Europe."
+    },
+    {
+      "id": "barranco-leon",
+      "name": "Barranco León (Orce)",
+      "country": "Spain",
+      "region": "europe",
+      "lat": 37.71, "lon": -2.49,
+      "start": 1400000, "end": 1400000,
+      "dateLabel": "about 1.4 million years ago",
+      "type": "fossil",
+      "summary": "A hominin milk molar with Oldowan tools in an ancient lake basin in Andalusia, among the oldest human fossils in western Europe."
+    },
+    {
+      "id": "fuente-nueva-3",
+      "name": "Fuente Nueva 3 (Orce)",
+      "country": "Spain",
+      "region": "europe",
+      "lat": 37.72, "lon": -2.47,
+      "start": 1200000, "end": 1200000,
+      "dateLabel": "about 1.2 million years ago",
+      "type": "tools",
+      "summary": "Stone tools around an extinct mammoth carcass alongside giant hyena dung, read as evidence of hominins competing with carnivores for meat."
+    },
+    {
+      "id": "sima-del-elefante",
+      "name": "Sima del Elefante (Atapuerca)",
+      "country": "Spain",
+      "region": "europe",
+      "lat": 42.35, "lon": -3.52,
+      "start": 1400000, "end": 1100000,
+      "dateLabel": "1.4–1.1 million years ago",
+      "type": "fossil",
+      "summary": "Cave filling with a hominin jaw fragment (ATE9-1) and, deeper down, the partial face ATE7-1 (‘Pink’), published in 2025 and assigned to Homo affinis erectus."
+    },
+    {
+      "id": "gran-dolina",
+      "name": "Gran Dolina TD6 (Atapuerca)",
+      "country": "Spain",
+      "region": "europe",
+      "lat": 42.35, "lon": -3.52,
+      "start": 950000, "end": 780000,
+      "dateLabel": "about 850,000 years ago",
+      "type": "fossil",
+      "summary": "Type site of Homo antecessor, with a modern-looking juvenile face and the oldest well-documented cannibalism. Enamel proteins placed the species as a sister lineage of later humans."
+    },
+    {
+      "id": "happisburgh",
+      "name": "Happisburgh",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 52.82, "lon": 1.53,
+      "start": 950000, "end": 780000,
+      "dateLabel": "more than 780,000 years ago, perhaps about 900,000",
+      "type": "footprints",
+      "summary": "Flint tools and, exposed briefly in 2013, footprints of at least five adults and children on an estuary, the oldest known hominin footprints outside Africa."
+    },
+    {
+      "id": "pakefield",
+      "name": "Pakefield",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 52.45, "lon": 1.72,
+      "start": 700000, "end": 700000,
+      "dateLabel": "about 700,000 years ago",
+      "type": "tools",
+      "summary": "Thirty-two flint artefacts from river deposits of a warm interglacial, the first evidence, published in 2005, that people reached northern Europe before about 500,000 years ago."
+    },
+    {
+      "id": "mauer",
+      "name": "Mauer",
+      "country": "Germany",
+      "region": "europe",
+      "lat": 49.34, "lon": 8.80,
+      "start": 609000, "end": 609000,
+      "dateLabel": "about 609,000 years ago",
+      "type": "fossil",
+      "summary": "The massive, chinless jaw found in a sand pit in 1907, type specimen of Homo heidelbergensis, dated in 2010 to about 609,000 years."
+    },
+    {
+      "id": "boxgrove",
+      "name": "Boxgrove",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 50.87, "lon": -0.71,
+      "start": 500000, "end": 480000,
+      "dateLabel": "about 500,000–480,000 years ago",
+      "type": "tools",
+      "summary": "An ancient shoreline with hundreds of handaxes, a robust human shinbone and teeth, and knapping scatters around a butchered horse, a snapshot of a single afternoon’s work."
+    },
+    {
+      "id": "arago",
+      "name": "Caune de l’Arago (Tautavel)",
+      "country": "France",
+      "region": "europe",
+      "lat": 42.84, "lon": 2.75,
+      "start": 560000, "end": 400000,
+      "dateLabel": "about 560,000–400,000 years ago",
+      "type": "fossil",
+      "summary": "Cave in the eastern Pyrenees with more than a hundred human remains, including the Arago 21 face of about 450,000 years ago."
+    },
+    {
+      "id": "barranc-de-la-boella",
+      "name": "Barranc de la Boella",
+      "country": "Spain",
+      "region": "europe",
+      "lat": 41.12, "lon": 1.17,
+      "start": 1000000, "end": 780000,
+      "dateLabel": "about 1 million–780,000 years ago",
+      "type": "tools",
+      "summary": "Large cutting tools with butchered mammoth remains near Tarragona, among the earliest Acheulean evidence in Europe."
+    },
+    {
+      "id": "la-noira",
+      "name": "La Noira",
+      "country": "France",
+      "region": "europe",
+      "lat": 47.17, "lon": 2.12,
+      "start": 700000, "end": 700000,
+      "dateLabel": "about 700,000 years ago",
+      "type": "tools",
+      "summary": "Handaxes in central France dated by electron spin resonance to about 700,000 years, the earliest Acheulean in northwestern Europe."
+    }
+  ],
+  "routes": [
+    {
+      "id": "europe-east-to-west",
+      "label": "Into Europe from the east",
+      "start": 1500000, "end": 1400000,
+      "certainty": "debated",
+      "path": [[44.34, 41.34], [36.0, 40.5], [29.0, 41.0], [26.0, 44.0], [23.13, 48.15]]
+    },
+    {
+      "id": "europe-mediterranean-west",
+      "label": "Westward along the northern Mediterranean",
+      "start": 1400000, "end": 1200000,
+      "certainty": "debated",
+      "path": [[23.13, 48.15], [19.0, 45.0], [15.4, 41.7], [11.0, 44.0], [5.0, 43.5], [1.0, 41.5], [-2.48, 37.72]]
+    },
+    {
+      "id": "gibraltar-crossing",
+      "label": "Proposed crossing of the Strait of Gibraltar",
+      "start": 1500000, "end": 1400000,
+      "certainty": "debated",
+      "path": [[-6.0, 34.0], [-5.6, 35.8], [-5.4, 36.2], [-4.0, 37.0], [-2.48, 37.72]]
+    }
+  ],
+  "themes": ["species", "migration", "climate", "technology", "food", "violence"],
+  "sources": [
+    {"cite": "Garba, R. et al. (2024). East-to-west human dispersal into Europe 1.4 million years ago. Nature 627."},
+    {"cite": "Huguet, R. et al. (2025). The earliest human face of Western Europe. Nature."},
+    {"cite": "Carbonell, E. et al. (2008). The first hominin of Europe. Nature 452, 465–469."},
+    {"cite": "Bermúdez de Castro, J. M. et al. (1997). A hominid from the Lower Pleistocene of Atapuerca, Spain: possible ancestor to Neandertals and modern humans. Science 276, 1392–1395."},
+    {"cite": "Welker, F. et al. (2020). The dental proteome of Homo antecessor. Nature 580, 235–238."},
+    {"cite": "Parfitt, S. A. et al. (2010). Early Pleistocene human occupation at the edge of the boreal zone in northwest Europe. Nature 466, 229–233."},
+    {"cite": "Ashton, N. et al. (2014). Hominin footprints from Early Pleistocene deposits at Happisburgh, UK. PLoS ONE 9(2): e88329."},
+    {"cite": "Wagner, G. A. et al. (2010). Radiometric dating of the type-site for Homo heidelbergensis at Mauer, Germany. Proceedings of the National Academy of Sciences 107, 19726–19730."},
+    {"cite": "Roberts, M. B. & Parfitt, S. A. (1999). Boxgrove: A Middle Pleistocene Hominid Site at Eartham Quarry, Boxgrove, West Sussex. London: English Heritage."},
+    {"cite": "Margari, V. et al. (2023). Extreme glacial cooling likely led to hominin depopulation of Europe in the Early Pleistocene. Science 381, 693–699."}
+  ]
+}

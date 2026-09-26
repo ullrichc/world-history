@@ -1,0 +1,286 @@
+{
+  "id": "origin-of-sapiens",
+  "order": 14,
+  "act": "many-humans",
+  "title": "Becoming Homo sapiens",
+  "subtitle": "Jebel Irhoud, Omo and the African roots of our species",
+  "era": "Middle Stone Age",
+  "start": 350000,
+  "end": 150000,
+  "dateLabel": "about 350,000–150,000 years ago",
+  "regions": [
+    "africa"
+  ],
+  "focus": [
+    -18,
+    -36,
+    52,
+    37
+  ],
+  "emblem": "skull",
+  "summary": "Fossils from Morocco, South Africa and Ethiopia show that the Homo sapiens lineage existed across Africa by about 300,000 years ago, with a modern face long before a modern braincase. Genetic models of living Africans point to deep, connected populations rather than one small cradle.",
+  "narration": [
+    "In 1961, miners digging for barite at a hill called Jebel Irhoud in Morocco broke into a cave packed with sediment and found a human skull. More than half a century later, flints that had been burnt in ancient fires in the same deposits were dated to about 315,000 years ago.",
+    "The Jebel Irhoud people had faces that would not look out of place today: short, and tucked beneath the forehead. But their braincases were long and low, unlike our rounded heads. Our species, it seems, was not born complete. Its features arrived one by one.",
+    "Other early members of our lineage lived at Florisbad in South Africa about 259,000 years ago, and beside the Omo River in Ethiopia at least 233,000 years ago, a date fixed by a layer of volcanic ash. At Herto, also in Ethiopia, people handled the skulls of their dead 160,000 years ago. Across the same continent lived other kinds of humans, among them Homo naledi.",
+    "Geneticists read a similar story in the DNA of living Africans. Their models disagree on the details: a web of loosely connected populations lasting a million years, or two ancient groups that separated and merged again about 300,000 years ago. Either way, Homo sapiens did not arise from one small group in one place. It was assembled across Africa, over a very long time."
+  ],
+  "pronounce": {
+    "Jebel Irhoud": "Jeh-bel Ear-hood",
+    "Florisbad": "Floh-ris-bat",
+    "Omo": "Oh-moh",
+    "Herto": "Her-toh",
+    "naledi": "na-leh-dee"
+  },
+  "body": [
+    {
+      "heading": "Jebel Irhoud: an old face that looks young",
+      "paragraphs": [
+        "In 1961 miners digging for barite at Jebel Irhoud, west of Marrakesh, broke into a sediment-filled cave and found a human skull. More fossils followed, and for decades the finds were thought to be around 40,000 and later 160,000 years old, perhaps a North African Neanderthal or a late archaic human. Jean-Jacques Hublin’s team reopened the site in 2004 and recovered remains of at least five individuals, including a face (Irhoud 10) and a complete adult lower jaw (Irhoud 11).",
+        "In 2017 Daniel Richter and colleagues dated flint tools that had been heated in ancient fires to 315,000 ± 34,000 years by thermoluminescence, and electron spin resonance dating of a tooth gave 286,000 ± 32,000 years. The faces are short and tucked beneath the braincase, like ours, and the teeth resemble ours more than those of Neanderthals; the braincases, however, are long and low. Hublin and colleagues concluded that the Irhoud people belong to the earliest known stage of the Homo sapiens lineage, and that our face took shape before our brain shape did. They made Middle Stone Age tools with Levallois cores, used fire and hunted gazelles."
+      ]
+    },
+    {
+      "heading": "Fossils across a continent",
+      "paragraphs": [
+        "At Florisbad, a spring site in South Africa’s Free State, Thomas Dreyer found a partial skull in 1932. Electron spin resonance dating of a tooth by Rainer Grün and colleagues (1996) gave about 259,000 years. Its broad face mixes modern and archaic traits.",
+        "In 1967 Richard Leakey’s team found two skulls in the Kibish Formation beside Ethiopia’s Omo River. Omo I looks broadly modern, Omo II more archaic. Argon dating in 2005 suggested about 195,000 years; in 2022 Céline Vidal, Clive Oppenheimer and colleagues matched the thick ash layer above Omo I to an eruption of the Shala volcano about 233,000 years ago, so Omo I is at least that old.",
+        "At Herto in the Middle Awash of Ethiopia, Tim White’s team found three skulls about 160,000 years old, two adults and a child, with cut marks and polish suggesting that the heads were handled after death. White named them Homo sapiens idaltu, a subspecies few now use. Partial skulls from Kenya and Tanzania, such as Guomde, Eliye Springs and Ngaloba (Laetoli Hominid 18), may belong to the same period but are poorly dated.",
+        "Our ancestors were not alone. The Kabwe skull from Zambia, usually assigned to Homo heidelbergensis or Homo rhodesiensis, has been dated to about 299,000 years, and Homo naledi lived in South Africa’s Rising Star cave system between about 335,000 and 236,000 years ago. Several human lineages shared Africa as Homo sapiens emerged."
+      ]
+    },
+    {
+      "heading": "A face first, a rounder brain later",
+      "paragraphs": [
+        "Anatomists recognise Homo sapiens by a tall, rounded braincase, a small face tucked beneath it, a chin and reduced brow ridges. These traits did not arrive together. In 2018 Simon Neubauer, Jean-Jacques Hublin and Philipp Gunz compared virtual casts of the inside of fossil braincases from Jebel Irhoud onwards. Brain size was already within the modern range 300,000 years ago, but globularity, the rounded shape associated with expansion of the parietal region and the cerebellum, developed gradually and reached the present-day range only between about 100,000 and 35,000 years ago. What this meant for thought is unknown, but it shows that ‘modern’ anatomy was assembled over hundreds of thousands of years."
+      ]
+    },
+    {
+      "heading": "Reading origins in living genomes",
+      "paragraphs": [
+        "Africa holds more human genetic diversity than the rest of the world combined, because people outside Africa descend from a subset who left later (chapter 18). The deepest splits among living populations separate the ancestors of the Khoe-San peoples of southern Africa from everyone else. In 2017 Carina Schlebusch, Mattias Jakobsson and colleagues sequenced the genome of a boy buried at Ballito Bay about 2,000 years ago, before later migrations reached the region, and estimated that split at 350,000–260,000 years ago.",
+        "Modellers disagree about what came before. In 2023 Aaron Ragsdale, Brenna Henn, Simon Gravel and colleagues fitted demographic models to genomes from southern, eastern and western Africa. The best fit was a “weakly structured stem”: two or more populations that stayed connected by migration for more than a million years, so that no single group was ever the one ancestor. In their model, the first lasting split among living populations happens only about 120,000–135,000 years ago, and no mixing with a distinct archaic species is required.",
+        "In 2025 Trevor Cousins, Aylwyn Scally and Richard Durbin, applying a new method to present-day genomes, proposed that all living humans descend from two ancestral populations that separated about 1.5 million years ago and merged again about 300,000 years ago, contributing roughly 80 and 20 percent of our ancestry. The larger one went through a bottleneck after the split and appears to be the population from which Neanderthals and Denisovans also descend; genes inherited from the smaller one may have been linked to brain function.",
+        "A third line of work finds ghost ancestry. Arun Durvasula and Sriram Sankararaman (2020) estimated that 2–19 percent of the genomes of West African Yoruba and Mende people comes from an unknown archaic population that split off before the ancestors of Neanderthals and modern humans parted. All these models fit the data reasonably well, and ancient DNA from Africa does not yet reach back more than about 20,000 years, too recent to test them directly."
+      ]
+    },
+    {
+      "heading": "One cradle or many?",
+      "paragraphs": [
+        "The recent African origin model, argued from fossils by Chris Stringer and Peter Andrews in 1988 and from mitochondrial DNA by Rebecca Cann, Mark Stoneking and Allan Wilson in 1987, placed our origins in Africa, with East Africa usually named as the likeliest home. Southern Africa has its advocates too, citing the deep Khoe-San split, the rich southern record of early behaviour (chapter 15) and a 2019 study by Eva Chan and Vanessa Hayes that located a homeland in the Makgadikgadi–Okavango wetlands of Botswana; critics replied that the distribution of mitochondrial lineages today cannot pinpoint where they arose.",
+        "In 2018 Eleanor Scerri and colleagues argued instead for ‘African multiregionalism’: Homo sapiens emerged from populations scattered across the continent, separated by deserts and forests, reconnected when climate opened green corridors, and exchanging genes and ideas over hundreds of thousands of years. The spread of fossils with some modern traits from Morocco to South Africa, the appearance of Middle Stone Age technology in many regions by about 300,000 years ago, and the genetic models of a structured stem all fit this view.",
+        "The lineage itself is older still. Genetic estimates place the separation of our ancestors from those of Neanderthals and Denisovans roughly 550,000–765,000 years ago, and a 2025 study of the Yunxian skull from China, led by Xiaobo Feng and Xijun Ni with Chris Stringer among the authors, argued that the split could be more than a million years old. The Homo sapiens of 300,000 years ago were the newest branch of a long and tangled history."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Where in Africa did Homo sapiens originate?",
+      "views": [
+        {
+          "label": "East Africa",
+          "text": "The oldest well-dated fossils with fully modern-looking braincases come from Omo Kibish and Herto in Ethiopia, and many genetic studies place the earliest diversification in eastern Africa, the traditional heartland of the recent African origin model."
+        },
+        {
+          "label": "Southern Africa",
+          "text": "Advocates point to the deepest genetic split, that of Khoe-San ancestors, the Florisbad skull, the rich record of early symbolic behaviour on the southern coast, and the 2019 mitochondrial study by Eva Chan and Vanessa Hayes, which critics consider methodologically flawed."
+        },
+        {
+          "label": "Across the continent",
+          "text": "Eleanor Scerri, Jean-Jacques Hublin and others argue that no single region was the cradle. Jebel Irhoud in the far northwest, Florisbad in the south and Omo in the east show the lineage spread across Africa early, with populations repeatedly separating and reconnecting."
+        }
+      ],
+      "status": "The pan-African view has become the most widely held since 2017, but it is hard to test: the fossil record is sparse, especially in West and Central Africa, and ancient DNA does not survive long in the tropics."
+    },
+    {
+      "question": "What does the genetic signal of deep structure mean?",
+      "views": [
+        {
+          "label": "A weakly structured stem",
+          "text": "Aaron Ragsdale and colleagues (2023) model several long-lived, interconnected African populations exchanging migrants, with no need for admixture from a separate archaic species."
+        },
+        {
+          "label": "Two populations that merged",
+          "text": "Trevor Cousins, Aylwyn Scally and Richard Durbin (2025) infer two populations that separated about 1.5 million years ago and rejoined about 300,000 years ago in an 80 to 20 ratio."
+        },
+        {
+          "label": "Ghost archaic admixture",
+          "text": "Arun Durvasula and Sriram Sankararaman (2020) and others detect segments in West Africans best explained by interbreeding with an unknown archaic group, comparable to the Neanderthal ancestry of Eurasians."
+        }
+      ],
+      "status": "The models are not fully exclusive and all fit current data. Distinguishing them needs more diverse African genomes, better methods and, ideally, ancient proteins or DNA from African fossils."
+    },
+    {
+      "question": "Were the Jebel Irhoud people Homo sapiens?",
+      "views": [
+        {
+          "label": "Earliest Homo sapiens",
+          "text": "Jean-Jacques Hublin, Philipp Gunz and colleagues argue that the face, jaw and teeth place Jebel Irhoud firmly on the Homo sapiens lineage, and that a species can be defined by features that appear first, with the globular braincase evolving later within it."
+        },
+        {
+          "label": "Close to, but not yet, sapiens",
+          "text": "Some palaeoanthropologists, stressing the elongated braincase and large teeth, prefer to call the Irhoud people early members of the sapiens lineage or ‘pre-sapiens’, reserving the species name for fossils with the full modern package, such as Omo I and Herto."
+        }
+      ],
+      "status": "The disagreement is partly about definitions. Everyone agrees that Jebel Irhoud belongs close to our ancestry and shows that modern features appeared piecemeal."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Oldest fossils of our lineage",
+      "value": "Jebel Irhoud, Morocco, about 315,000 years (thermoluminescence, 2017)"
+    },
+    {
+      "label": "Omo I",
+      "value": "At least about 233,000 years, dated by the Shala volcanic ash (2022)"
+    },
+    {
+      "label": "Herto",
+      "value": "About 160,000 years, Middle Awash, Ethiopia"
+    },
+    {
+      "label": "Rounded braincase",
+      "value": "Reached the modern range only between about 100,000 and 35,000 years ago"
+    },
+    {
+      "label": "Deepest living split",
+      "value": "Ancestors of the Khoe-San, estimated at 350,000–260,000 years ago (2017)"
+    },
+    {
+      "label": "2025 genetic model",
+      "value": "Two populations, separated about 1.5 million years ago, merged about 300,000 years ago"
+    }
+  ],
+  "sites": [
+    {
+      "id": "jebel-irhoud",
+      "name": "Jebel Irhoud",
+      "country": "Morocco",
+      "region": "africa",
+      "lat": 31.86,
+      "lon": -8.87,
+      "start": 315000,
+      "end": 286000,
+      "dateLabel": "about 315,000 years ago",
+      "type": "fossil",
+      "summary": "A former cave in a barite quarry with fossils of at least five individuals, modern-looking faces and elongated braincases, dated by thermoluminescence on burnt flints."
+    },
+    {
+      "id": "florisbad",
+      "name": "Florisbad",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -28.77,
+      "lon": 26.07,
+      "start": 259000,
+      "end": 259000,
+      "dateLabel": "about 259,000 years ago",
+      "type": "fossil",
+      "summary": "A spring mound where a partial skull with a broad face was found in 1932, dated by electron spin resonance on a tooth."
+    },
+    {
+      "id": "omo-kibish",
+      "name": "Omo Kibish",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 5.4,
+      "lon": 35.93,
+      "start": 233000,
+      "end": 195000,
+      "dateLabel": "at least 233,000 years ago",
+      "type": "fossil",
+      "summary": "Site of the Omo I and Omo II skulls found in 1967. A volcanic ash from the Shala eruption above Omo I shows it is at least about 233,000 years old."
+    },
+    {
+      "id": "herto",
+      "name": "Herto",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 10.29,
+      "lon": 40.53,
+      "start": 160000,
+      "end": 154000,
+      "dateLabel": "about 160,000 years ago",
+      "type": "fossil",
+      "summary": "Three skulls, two adults and a child, with cut marks and polish suggesting mortuary handling, found with Middle Stone Age tools and hippopotamus bones."
+    },
+    {
+      "id": "kabwe",
+      "name": "Kabwe (Broken Hill)",
+      "country": "Zambia",
+      "region": "africa",
+      "lat": -14.45,
+      "lon": 28.43,
+      "start": 299000,
+      "end": 299000,
+      "dateLabel": "about 299,000 years ago",
+      "type": "fossil",
+      "summary": "Mine where a heavily built archaic skull was found in 1921. Its 2020 dating shows that archaic humans lived in Africa alongside early Homo sapiens."
+    },
+    {
+      "id": "olorgesailie",
+      "name": "Olorgesailie",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": -1.58,
+      "lon": 36.45,
+      "start": 320000,
+      "end": 305000,
+      "dateLabel": "about 320,000–305,000 years ago",
+      "type": "tools",
+      "summary": "A basin where Middle Stone Age tools, obsidian carried from far away and red pigments replace handaxes by about 320,000 years ago, one of the signs of a continent-wide change."
+    },
+    {
+      "id": "ballito-bay",
+      "name": "Ballito Bay",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -29.54,
+      "lon": 31.21,
+      "start": 2000,
+      "end": 2000,
+      "dateLabel": "about 2,000 years ago",
+      "type": "dna",
+      "summary": "Burial of a boy whose ancient genome, free of later admixture, was used in 2017 to date the deepest split among living human populations to 350,000–260,000 years ago."
+    }
+  ],
+  "themes": [
+    "species",
+    "genetics",
+    "migration",
+    "climate",
+    "technology"
+  ],
+  "sources": [
+    {
+      "cite": "Hublin, J.-J. et al. (2017). New fossils from Jebel Irhoud, Morocco and the pan-African origin of Homo sapiens. Nature 546, 289–292."
+    },
+    {
+      "cite": "Richter, D. et al. (2017). The age of the hominin fossils from Jebel Irhoud, Morocco, and the origins of the Middle Stone Age. Nature 546, 293–296."
+    },
+    {
+      "cite": "Vidal, C. M. et al. (2022). Age of the oldest known Homo sapiens from eastern Africa. Nature 601, 579–583."
+    },
+    {
+      "cite": "White, T. D. et al. (2003). Pleistocene Homo sapiens from Middle Awash, Ethiopia. Nature 423, 742–747."
+    },
+    {
+      "cite": "Neubauer, S., Hublin, J.-J. & Gunz, P. (2018). The evolution of modern human brain shape. Science Advances 4, eaao5961."
+    },
+    {
+      "cite": "Scerri, E. M. L. et al. (2018). Did our species evolve in subdivided populations across Africa, and why does it matter? Trends in Ecology & Evolution 33, 582–594."
+    },
+    {
+      "cite": "Schlebusch, C. M. et al. (2017). Southern African ancient genomes estimate modern human divergence to 350,000 to 260,000 years ago. Science 358, 652–655."
+    },
+    {
+      "cite": "Ragsdale, A. P. et al. (2023). A weakly structured stem for human origins in Africa. Nature 617, 755–763."
+    },
+    {
+      "cite": "Cousins, T., Scally, A. & Durbin, R. (2025). A structured coalescent model reveals deep ancestral structure shared by all modern humans. Nature Genetics."
+    },
+    {
+      "cite": "Durvasula, A. & Sankararaman, S. (2020). Recovering signals of ghost archaic introgression in African populations. Science Advances 6, eaax5097."
+    }
+  ]
+}

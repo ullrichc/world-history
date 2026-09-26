@@ -1,0 +1,371 @@
+{
+  "id": "neanderthals",
+  "order": 12,
+  "act": "many-humans",
+  "title": "The Neanderthals",
+  "subtitle": "Hunters, craftspeople and carers from Iberia to the Altai",
+  "era": "Middle Palaeolithic",
+  "start": 430000,
+  "end": 40000,
+  "dateLabel": "about 430,000–40,000 years ago",
+  "regions": [
+    "europe",
+    "asia"
+  ],
+  "focus": [
+    -10,
+    29,
+    90,
+    57
+  ],
+  "emblem": "hand",
+  "summary": "For more than 350,000 years Neanderthals lived across western Eurasia, hunting elephants, rendering bone grease, making tar, cord and fire, marking caves and shells, burying some of their dead and caring for the sick. Their genomes reveal small, scattered communities and very old contacts with our own ancestors.",
+  "narration": [
+    "About 125,000 years ago, beside a lake in what is now eastern Germany, a group of Neanderthals butchered a straight-tusked elephant bull that weighed around 13 tonnes, about twice as much as a large African elephant today. Cut marks cover almost every bone. At a neighbouring lake they smashed the bones of more than 170 deer, horses and wild cattle and simmered them in water to skim off the fat.",
+    "These were the heirs of the prepared-core toolmakers of the last chapter. For more than 350,000 years their lineage lived from the Atlantic coast of Iberia to the Altai Mountains of Siberia. They made glue from birch bark, twisted plant fibres into cord and struck sparks from pyrite. Deep inside Bruniquel Cave in France, 176,000 years ago, they broke off hundreds of stalagmites and arranged them in rings, working by firelight more than 300 metres from daylight.",
+    "They also looked after one another. A man at Shanidar in Iraq lived for years with a withered arm, a damaged eye and failing hearing. A Neanderthal child in Spain, born with the inner-ear malformation of Down syndrome, survived to at least six.",
+    "Their genomes, read from bones and teeth, describe small communities: a father and his teenage daughter in a Siberian cave, and whole lineages that kept apart for tens of thousands of years. They were not a rough draft of us, but a people with a long history of their own."
+  ],
+  "pronounce": {
+    "Bruniquel": "Brew-nee-kell",
+    "Shanidar": "Shah-nee-dar",
+    "Altai": "Al-tie"
+  },
+  "body": [
+    {
+      "heading": "A lineage 400,000 years in the making",
+      "paragraphs": [
+        "At the Sima de los Huesos in Spain’s Atapuerca hills, the bones of at least 28 people from about 430,000 years ago already show Neanderthal features in the face and teeth but more primitive braincases, and ancient DNA places them on the Neanderthal branch. The full set of traits accumulated piece by piece and was largely in place by about 150,000–130,000 years ago.",
+        "Neanderthals had long, low skulls with a bulge at the back, a brain averaging about 1,400 cubic centimetres (slightly larger than ours), a projecting midface with a wide nasal opening, and stocky bodies with broad chests and short forearms and shins. A study of a juvenile skeleton from El Sidrón in Spain, led by Antonio Rosas in 2017, found that they grew at a pace close to ours, although the brain was still growing at an age when a modern child’s is almost complete. They ranged from Portugal to the Altai Mountains and from Wales to the Levant and the Zagros Mountains of Iraq, through ice ages and through interglacials as warm as today."
+      ]
+    },
+    {
+      "heading": "Elephants, grease and seafood",
+      "paragraphs": [
+        "At Neumark-Nord, ancient lake basins exposed by lignite mining in eastern Germany, Neanderthals of the last interglacial, about 125,000 years ago, killed and dismembered straight-tusked elephants. A 2023 study led by Sabine Gaudzinski-Windheuser and Lutz Kindler examined the remains of more than 70 animals, mostly adult males of up to 13 tonnes, with cut marks on nearly every bone. The preference for big males points to hunting rather than scavenging, and one bull could have fed dozens of people for weeks, suggesting groups larger or more settled than usually assumed.",
+        "In 2025 the same group described a “fat factory” at the neighbouring site of Neumark-Nord 2. There Neanderthals smashed the bones of at least 172 deer, horses and aurochs into tens of thousands of fragments and heated them in water to render bone grease, a labour-intensive technique previously credited only to much later modern humans.",
+        "Plants mattered too. Starch grains trapped in dental calculus from Shanidar in Iraq and Spy in Belgium include cooked grass seeds, legumes and date palm (Amanda Henry and colleagues, 2011). DNA in calculus from El Sidrón records mushrooms and pine nuts, and one individual with a dental abscess carried traces of poplar, a natural source of salicylic acid, and of Penicillium mould (Laura Weyrich and colleagues, 2017). At Gruta da Figueira Brava on the Portuguese coast, between about 106,000 and 86,000 years ago, Neanderthals gathered mussels, limpets and crabs and ate fish, seabirds and seals (João Zilhão and colleagues, 2020)."
+      ]
+    },
+    {
+      "heading": "Tar, string and sparks",
+      "paragraphs": [
+        "Neanderthal stoneworking is called Mousterian, after Le Moustier in the Dordogne. It combined the Levallois method with other systems, such as thick Quina scrapers, and the Micoquian of central and eastern Europe added asymmetric bifacial knives that could be resharpened repeatedly.",
+        "They made glue. Birch tar forms only when bark is heated with little oxygen, and two lumps from Königsaue in Germany, one bearing the imprint of a stone tool and of a fingertip, show Neanderthals producing it. Experiments by Patrick Schmidt in 2019 showed that small amounts of tar can form simply by burning bark next to a stone, but a 2023 chemical study concluded that the Königsaue tar was made by a more demanding method.",
+        "At Abri du Maras in the Ardèche, a stone flake preserved a fragment of three-ply cord twisted from inner-bark fibres, about 52,000–41,000 years old (Bruce Hardy and colleagues, 2020); cord implies bags, nets or snares that rarely survive. In 2018 Andrew Sorensen, Émilie Claud and Marie Soressi showed that microscopic wear on some 20 handaxes from French sites about 50,000 years old matches the traces left by striking pyrite to make sparks, evidence that Neanderthals could make fire at will."
+      ]
+    },
+    {
+      "heading": "Rings, shells, talons and lines",
+      "paragraphs": [
+        "The most startling structure lies 336 metres inside Bruniquel Cave in southwestern France. Jacques Jaubert’s team documented about 400 pieces of broken stalagmite, some 112 metres in total length, arranged in two rings and several piles, with traces of fire. Uranium-series dating of calcite that grew back over the broken pieces gave an age of about 176,500 years (2016). Their purpose is unknown; building them required light, planning and cooperation.",
+        "At Cueva de los Aviones near Cartagena in Spain, perforated seashells bearing red and yellow pigment were dated to about 115,000–120,000 years ago (Dirk Hoffmann, João Zilhão and colleagues, 2018). At Krapina in Croatia, eight white-tailed eagle talons from about 130,000 years ago carry cut marks and polish consistent with being worn.",
+        "Cave painting is more contested. In 2018 Hoffmann’s team dated mineral crusts over a red ladder-like sign at La Pasiega, a hand stencil at Maltravieso and red-stained stalagmites at Ardales in Spain to more than 64,000 years ago, long before Homo sapiens reached Iberia. Critics replied that uranium leaching can make such crusts look too old; a 2021 study confirmed that the Ardales pigment was deliberately applied, but the ages are still debated.",
+        "Clearer marks come from La Roche-Cotard in the Loire valley, where finger flutings on a soft chalk wall were sealed in by sediment about 57,000 years ago, in a cave containing only Mousterian tools (Jean-Claude Marquet and colleagues, 2023). A giant deer toe bone from Einhornhöhle in Germany was engraved about 51,000 years ago with stacked chevrons (Dirk Leder and colleagues, 2021), and in 2025 Francesco d’Errico’s team described pieces of ochre shaped into crayons and resharpened at Micoquian sites in Crimea."
+      ]
+    },
+    {
+      "heading": "Graves and a flower story",
+      "paragraphs": [
+        "In 1908 the Bouyssonie brothers found an elderly man in a pit at La Chapelle-aux-Saints in France. Sceptics have questioned whether such early finds were true burials, but new fieldwork led by William Rendu (2014) showed that the pit was dug by people. At La Ferrassie in the Dordogne, seven or more individuals, including infants, were found; a 2020 restudy of the two-year-old La Ferrassie 8 concluded that the child was buried intentionally about 41,000 years ago.",
+        "At Shanidar Cave in Iraqi Kurdistan, Ralph Solecki excavated the remains of ten Neanderthals between 1951 and 1960. Clumps of pollen near Shanidar 4 inspired the idea of a “flower burial”, but a 2023 study led by Chris Hunt argued that burrowing bees more likely brought the pollen in. In 2018 renewed excavations led by Graeme Barker found Shanidar Z, a woman about 75,000 years old, in a cluster of bodies which suggests that the spot was used repeatedly for the dead."
+      ]
+    },
+    {
+      "heading": "Care and speech",
+      "paragraphs": [
+        "Shanidar 1, a man who lived into his forties, had a withered right arm, a crushing blow to the left side of his face that probably affected his eye, an injured leg and probably severe hearing loss, yet he survived for years (Erik Trinkaus and Sébastien Villotte, 2017). In 2024 Mercedes Conde-Valverde’s team showed that an inner-ear fragment from Cova Negra near Valencia belonged to a child of at least six with a malformation found only in Down syndrome, which would have caused deafness and disabling vertigo. They argue that the child’s survival required care from more people than the mother alone.",
+        "Could Neanderthals speak? The Kebara 2 skeleton from Israel, about 60,000 years old, preserves a hyoid bone almost identical to ours. Neanderthals carried the modern human version of FOXP2, a gene involved in the fine motor control of speech. In 2021 Conde-Valverde and colleagues modelled the outer and middle ears of Neanderthal skulls and found hearing tuned much like ours, including the frequencies important for consonants. Most researchers now accept that Neanderthals spoke; what their languages were like cannot be known."
+      ]
+    },
+    {
+      "heading": "Small communities, long isolations",
+      "paragraphs": [
+        "A toe bone from Denisova Cave, sequenced in 2014, came from a woman whose parents were as closely related as half-siblings, and the Chagyrskaya 8 genome (2020) points to groups of fewer than about 60 people. In 2022 Laurits Skov and colleagues sequenced 13 Neanderthals from Chagyrskaya and Okladnikov caves in the Altai, about 59,000–51,000 years old, among them a father and his teenage daughter. Y chromosomes were far less diverse than mitochondrial DNA, suggesting that women usually moved between communities of perhaps 10–20 people.",
+        "“Thorin”, a man from Grotte Mandrin in the Rhône valley who lived about 50,000–42,000 years ago, belonged to a lineage that had split from other late Neanderthals about 105,000 years ago and stayed genetically isolated for some 50,000 years (Ludovic Slimak and colleagues, 2024). In 2026 a study led by Cosimo Posth argued that most late European Neanderthals descend from a population that survived a collapse about 75,000 years ago in a refuge in southwestern France, while a 2026 study of 27 late Neanderthals from Belgium and France found well-connected groups rather than dwindling, inbred ones. Their disappearance is the subject of chapter 20.",
+        "Genes also flowed into Neanderthals from our side long before the main encounter. Their mitochondrial DNA and Y chromosomes were replaced by lineages from early relatives of Homo sapiens, and a 2024 study by Liming Li and Joshua Akey estimated that 2.5–3.7 percent of late Neanderthal genomes came from modern human ancestors, partly from contact about 250,000–200,000 years ago. The reverse flow, into our own ancestors, is the story of chapter 18."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "How symbolic were Neanderthals?",
+      "views": [
+        {
+          "label": "A symbolic culture like ours",
+          "text": "João Zilhão, Francesco d’Errico, Dirk Hoffmann and others argue that pigment-stained shells at Cueva de los Aviones, eagle talons at Krapina, the Bruniquel rings, the Einhornhöhle engraving, the La Roche-Cotard flutings and the Crimean ochre crayons add up to a symbolic culture comparable to that of contemporary Homo sapiens in Africa, and that Iberian cave art older than 64,000 years can only be Neanderthal."
+        },
+        {
+          "label": "Rare and ambiguous",
+          "text": "Sceptics, including Randall White and colleagues, who challenged the 2018 cave-art dates, argue that uranium-thorium ages on thin crusts can be too old, that many marks could be natural or practical, and that 300,000 years of Neanderthal history produced far fewer and less standardised symbolic objects than Homo sapiens made after 50,000 years ago."
+        }
+      ],
+      "status": "Most researchers now accept that Neanderthals used pigments, wore ornaments and made deliberate marks. The disagreement is over how often, whether this reflects the same capacity as ours, and whether any Iberian cave painting is truly Neanderthal. Direct dating of the pigment itself would settle the art question."
+    },
+    {
+      "question": "Were Neanderthal bodies and faces shaped by the cold?",
+      "views": [
+        {
+          "label": "Cold adaptation",
+          "text": "Short limbs and broad trunks conserve heat, as Bergmann’s and Allen’s rules predict for cold-climate mammals, and computer simulations of airflow published in 2017 and 2018 suggest that the large Neanderthal nasal cavity warmed and moistened cold, dry air efficiently and supported high energy demands."
+        },
+        {
+          "label": "Genetic drift",
+          "text": "Timothy Weaver, Charles Roseman and Chris Stringer showed in 2007 that most skull differences between Neanderthals and modern humans are consistent with random genetic drift in small, isolated populations. Others note that Neanderthal traits were already forming in warm periods and that Neanderthals thrived in interglacials."
+        }
+      ],
+      "status": "Many researchers now see a mixture: drift in small populations shaped much of the skull, while body proportions and perhaps the nose reflect climate and high energy use."
+    },
+    {
+      "question": "Did Neanderthals bury their dead?",
+      "views": [
+        {
+          "label": "Deliberate burial",
+          "text": "Re-excavations at La Chapelle-aux-Saints (William Rendu, 2014), the restudy of La Ferrassie 8 (Antoine Balzeau and colleagues, 2020) and the new finds at Shanidar show pits dug by people, complete articulated bodies and places used repeatedly for the dead."
+        },
+        {
+          "label": "Natural or unproven",
+          "text": "Harold Dibble, Dennis Sandgathe and earlier Robert Gargett argued that many skeletons excavated in the early twentieth century were poorly recorded and could have been covered by natural processes, and that claimed grave goods such as the Shanidar flowers have natural explanations."
+        }
+      ],
+      "status": "The case for intentional burial is now strong at a handful of sites, but there is no convincing evidence for grave goods, and burial seems to have been occasional rather than a general custom."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Time span",
+      "value": "Neanderthal lineage from about 430,000 (Sima de los Huesos) to about 40,000 years ago"
+    },
+    {
+      "label": "Range",
+      "value": "From Portugal and Gibraltar to the Altai Mountains of Siberia"
+    },
+    {
+      "label": "Largest prey",
+      "value": "Straight-tusked elephants of up to 13 tonnes, Neumark-Nord, about 125,000 years ago"
+    },
+    {
+      "label": "Oldest construction",
+      "value": "Stalagmite rings in Bruniquel Cave, about 176,500 years old"
+    },
+    {
+      "label": "First family",
+      "value": "A father and his teenage daughter, Chagyrskaya Cave (2022)"
+    },
+    {
+      "label": "Modern human DNA in Neanderthals",
+      "value": "2.5–3.7 percent of late Neanderthal genomes (2024 estimate)"
+    }
+  ],
+  "sites": [
+    {
+      "id": "neumark-nord",
+      "name": "Neumark-Nord",
+      "country": "Germany",
+      "region": "europe",
+      "lat": 51.32,
+      "lon": 11.88,
+      "start": 126000,
+      "end": 124000,
+      "dateLabel": "about 125,000 years ago",
+      "type": "other",
+      "summary": "Last Interglacial lake basins where Neanderthals butchered more than 70 straight-tusked elephants, mostly large males, and at Neumark-Nord 2 rendered grease from the bones of at least 172 large mammals."
+    },
+    {
+      "id": "figueira-brava",
+      "name": "Gruta da Figueira Brava",
+      "country": "Portugal",
+      "region": "europe",
+      "lat": 38.48,
+      "lon": -8.98,
+      "start": 106000,
+      "end": 86000,
+      "dateLabel": "about 106,000–86,000 years ago",
+      "type": "settlement",
+      "summary": "A coastal cave in the Arrábida hills where Neanderthals ate mussels, limpets, crabs, fish, seabirds and seals."
+    },
+    {
+      "id": "abri-du-maras",
+      "name": "Abri du Maras",
+      "country": "France",
+      "region": "europe",
+      "lat": 44.31,
+      "lon": 4.56,
+      "start": 52000,
+      "end": 41000,
+      "dateLabel": "about 52,000–41,000 years ago",
+      "type": "tools",
+      "summary": "A rock shelter in the Ardèche where a stone flake carried a fragment of three-ply cord twisted from inner-bark fibres, the oldest known cord."
+    },
+    {
+      "id": "bruniquel-cave",
+      "name": "Bruniquel Cave",
+      "country": "France",
+      "region": "europe",
+      "lat": 44.06,
+      "lon": 1.67,
+      "start": 176500,
+      "end": 176500,
+      "dateLabel": "about 176,500 years ago",
+      "type": "monument",
+      "summary": "Some 400 broken stalagmite pieces arranged in two rings and several piles, with traces of fire, 336 metres from the entrance. Dated by uranium-series on calcite regrowth, they are among the oldest known human constructions."
+    },
+    {
+      "id": "cueva-de-los-aviones",
+      "name": "Cueva de los Aviones",
+      "country": "Spain",
+      "region": "europe",
+      "lat": 37.58,
+      "lon": -0.98,
+      "start": 120000,
+      "end": 115000,
+      "dateLabel": "about 120,000–115,000 years ago",
+      "type": "art",
+      "summary": "A sea cave near Cartagena with perforated shells stained with red and yellow pigments, dated by uranium-series to a time when only Neanderthals lived in Europe."
+    },
+    {
+      "id": "krapina",
+      "name": "Krapina",
+      "country": "Croatia",
+      "region": "europe",
+      "lat": 46.16,
+      "lon": 15.87,
+      "start": 130000,
+      "end": 130000,
+      "dateLabel": "about 130,000 years ago",
+      "type": "fossil",
+      "summary": "A rock shelter with remains of dozens of Neanderthals and eight white-tailed eagle talons bearing cut marks and polish, possibly worn as jewellery."
+    },
+    {
+      "id": "la-roche-cotard",
+      "name": "La Roche-Cotard",
+      "country": "France",
+      "region": "europe",
+      "lat": 47.33,
+      "lon": 0.42,
+      "start": 75000,
+      "end": 57000,
+      "dateLabel": "before about 57,000 years ago",
+      "type": "art",
+      "summary": "A cave in the Loire valley whose soft chalk walls bear finger flutings. Luminescence dating shows the cave was sealed about 57,000 years ago, and it contained only Mousterian tools."
+    },
+    {
+      "id": "la-chapelle-aux-saints",
+      "name": "La Chapelle-aux-Saints",
+      "country": "France",
+      "region": "europe",
+      "lat": 44.99,
+      "lon": 1.72,
+      "start": 56000,
+      "end": 47000,
+      "dateLabel": "about 50,000 years ago",
+      "type": "burial",
+      "summary": "The grave of an elderly Neanderthal man, found in 1908. Re-excavation in the 2010s showed that the pit had been dug deliberately."
+    },
+    {
+      "id": "shanidar-cave",
+      "name": "Shanidar Cave",
+      "country": "Iraq",
+      "region": "asia",
+      "lat": 36.83,
+      "lon": 44.22,
+      "start": 80000,
+      "end": 45000,
+      "dateLabel": "roughly 80,000–45,000 years ago",
+      "type": "burial",
+      "summary": "Remains of ten Neanderthals excavated by Ralph Solecki, including the injured but long-surviving Shanidar 1 and the “flower burial” Shanidar 4, plus Shanidar Z, found in 2018."
+    },
+    {
+      "id": "cova-negra",
+      "name": "Cova Negra",
+      "country": "Spain",
+      "region": "europe",
+      "lat": 38.97,
+      "lon": -0.53,
+      "start": 273000,
+      "end": 146000,
+      "dateLabel": "about 273,000–146,000 years ago",
+      "type": "fossil",
+      "summary": "A cave near Xàtiva where an ear-bone fragment of a Neanderthal child nicknamed “Tina” shows an inner-ear malformation known only in Down syndrome; the child lived to at least six."
+    },
+    {
+      "id": "kebara-cave",
+      "name": "Kebara Cave",
+      "country": "Israel",
+      "region": "asia",
+      "lat": 32.56,
+      "lon": 34.94,
+      "start": 65000,
+      "end": 48000,
+      "dateLabel": "about 60,000 years ago",
+      "type": "burial",
+      "summary": "A Mount Carmel cave where the buried Kebara 2 Neanderthal preserves the only complete Neanderthal hyoid bone, closely matching our own."
+    },
+    {
+      "id": "chagyrskaya-cave",
+      "name": "Chagyrskaya Cave",
+      "country": "Russia",
+      "region": "asia",
+      "lat": 51.44,
+      "lon": 83.16,
+      "start": 59000,
+      "end": 51000,
+      "dateLabel": "about 59,000–51,000 years ago",
+      "type": "dna",
+      "summary": "An Altai cave whose Neanderthal remains yielded a high-coverage genome (2020) and, with nearby Okladnikov Cave, 13 genomes including a father and his teenage daughter (2022)."
+    }
+  ],
+  "themes": [
+    "species",
+    "technology",
+    "food",
+    "fire",
+    "art",
+    "ornament",
+    "burial",
+    "genetics",
+    "language",
+    "society"
+  ],
+  "sources": [
+    {
+      "cite": "Gaudzinski-Windheuser, S. et al. (2023). Hunting and processing of straight-tusked elephants 125.000 years ago: Implications for Neanderthal behavior. Science Advances 9, eadd8186.",
+      "doi": "10.1126/sciadv.add8186"
+    },
+    {
+      "cite": "Kindler, L. et al. (2025). Large-scale processing of within-bone nutrients by Neanderthals, 125,000 years ago. Science Advances 11, eadv1257.",
+      "doi": "10.1126/sciadv.adv1257"
+    },
+    {
+      "cite": "Jaubert, J. et al. (2016). Early Neanderthal constructions deep in Bruniquel Cave in southwestern France. Nature 534, 111–114.",
+      "doi": "10.1038/nature18291"
+    },
+    {
+      "cite": "Hoffmann, D. L. et al. (2018). U-Th dating of carbonate crusts reveals Neandertal origin of Iberian cave art. Science 359, 912–915.",
+      "doi": "10.1126/science.aap7778"
+    },
+    {
+      "cite": "Marquet, J.-C. et al. (2023). The earliest unambiguous Neanderthal engravings on cave walls: La Roche-Cotard, Loire Valley, France. PLOS ONE 18, e0286568.",
+      "doi": "10.1371/journal.pone.0286568"
+    },
+    {
+      "cite": "Leder, D. et al. (2021). A 51,000-year-old engraved bone reveals Neanderthals’ capacity for symbolic behaviour. Nature Ecology & Evolution 5.",
+      "doi": "10.1038/s41559-021-01487-z"
+    },
+    {
+      "cite": "Conde-Valverde, M. et al. (2021). Neanderthals and Homo sapiens had similar auditory and speech capacities. Nature Ecology & Evolution 5.",
+      "doi": "10.1038/s41559-021-01391-6"
+    },
+    {
+      "cite": "Skov, L. et al. (2022). Genetic insights into the social organization of Neanderthals. Nature 610, 519–525.",
+      "doi": "10.1038/s41586-022-05283-y"
+    },
+    {
+      "cite": "Slimak, L. et al. (2024). Long genetic and social isolation in Neanderthals before their extinction. Cell Genomics 4."
+    },
+    {
+      "cite": "Li, L., Comi, T. J., Bierman, R. F. & Akey, J. M. (2024). Recurrent gene flow between Neanderthals and modern humans over the past 200,000 years. Science 385, eadi1768.",
+      "doi": "10.1126/science.adi1768"
+    }
+  ]
+}

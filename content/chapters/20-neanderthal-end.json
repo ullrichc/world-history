@@ -1,0 +1,315 @@
+{
+  "id": "neanderthal-end",
+  "order": 20,
+  "act": "one-species",
+  "title": "The Last Neanderthals",
+  "subtitle": "Dating a disappearance, and the arguments over why",
+  "era": "Middle to Upper Palaeolithic transition",
+  "start": 50000,
+  "end": 39000,
+  "dateLabel": "50,000–39,000 years ago",
+  "regions": [
+    "europe",
+    "asia"
+  ],
+  "focus": [
+    -12,
+    33,
+    45,
+    56
+  ],
+  "emblem": "skull",
+  "summary": "Between about 45,000 and 40,000 years ago the Neanderthals vanished as Homo sapiens spread through Europe. Better radiocarbon dates, ancient genomes and population models have turned the question from what killed them into how several pressures combined.",
+  "narration": [
+    "While the first Australians were learning their new continent, the Neanderthals of Europe were running out of time. Their last securely dated traces cluster between about 41,000 and 39,000 years ago. After that, across a range that once stretched from Wales to the Altai Mountains, there is nothing.",
+    "For decades the story seemed simple: clever newcomers replaced slow-witted natives. The evidence now tells a slower and stranger tale. Modern humans reached Germany and Bulgaria by about 47,000 to 45,000 years ago, so the two populations shared parts of Europe for thousands of years, in a patchwork of territories rather than along a front line. At Grotte Mandrin in the Rhône valley, a Neanderthal nicknamed Thorin belonged to a lineage that had been cut off from other Neanderthals for around 50,000 years. His people were few, isolated and inbred.",
+    "So what ended them? Some researchers point to competition with larger, better connected groups of Homo sapiens. Others stress violent swings of climate, a colossal eruption near Naples about 39,850 years ago, or diseases passed between the two species. Many now think the Neanderthals were already so thinly spread that bad luck alone could have finished them, and that part of them was absorbed rather than erased. Their DNA still runs in billions of people today."
+  ],
+  "pronounce": {
+    "Mandrin": "Mahn-dran",
+    "Châtelperronian": "Shah-tel-peh-roh-nee-an",
+    "Uluzzian": "Oo-loot-see-an"
+  },
+  "body": [
+    {
+      "heading": "Dating a disappearance",
+      "paragraphs": [
+        "Radiocarbon dating reaches back about 50,000 years, and near that limit a trace of modern carbon contamination makes an old bone look thousands of years younger. Many ‘late’ Neanderthal dates of the 1990s and 2000s turned out to be contamination. Improved chemistry, such as ultrafiltration of collagen and the dating of a single amino acid, hydroxyproline, pushed dates back. Neanderthal bones from Vindija Cave in Croatia, once dated to around 32,000–28,000 years, proved older than about 40,000 years in a 2017 study led by Thibaut Devièse; in 2021 his team redated the Neanderthals of Spy in Belgium to about 44,200–40,600 years ago.",
+        "In 2014 Tom Higham and colleagues published nearly 200 new dates from about 40 sites between Spain and Russia. They concluded that the Mousterian, the Neanderthals’ stone-tool tradition, ended between about 41,000 and 39,000 years ago, and that Neanderthals and Homo sapiens overlapped in Europe for some 2,600–5,400 years, region by region rather than along a single advancing front. A 2022 statistical study for France and northern Spain by Igor Djakovic, Alastair Key and Marie Soressi placed the last Neanderthals there at about 40,900–39,800 years ago, with 1,400–2,900 years of overlap.",
+        "Other finds have extended the encounter. Homo sapiens was at Ranis in Germany by about 47,500 years ago and at Bacho Kiro in Bulgaria by about 45,000 (chapter 18). At Grotte Mandrin, Ludovic Slimak’s team argues that sapiens briefly occupied the cave about 54,000 years ago, between Neanderthal layers. The meeting was long and patchy, not a sudden conquest."
+      ]
+    },
+    {
+      "heading": "Who made the ‘transitional’ industries?",
+      "paragraphs": [
+        "Between about 45,000 and 40,000 years ago several regional industries mixed old and new elements: blades, bone tools and ornaments. In France and northern Spain, the Châtelperronian combined curved-backed knives with personal ornaments. At the Grotte du Renne at Arcy-sur-Cure, its layers held pierced and grooved animal teeth, bone awls and Neanderthal remains, and in 2016 Frido Welker and colleagues used ancient proteins to confirm that bone fragments from those layers were Neanderthal. At Saint-Césaire in Charente-Maritime, a partial Neanderthal skeleton was found in 1979 in a Châtelperronian level.",
+        "Whether Neanderthals made the Châtelperronian is still argued. Ofer Bar-Yosef and Jean-Guillaume Bordes proposed in 2010 that the Grotte du Renne layers were mixed, and a 2018 re-examination led by Brad Gravina questioned whether the Saint-Césaire skeleton truly belonged with the Châtelperronian tools. If Neanderthals were the makers, a further question follows: did they invent ornaments independently, as Francesco d’Errico and João Zilhão argue, or copy sapiens neighbours?",
+        "In Italy and Greece the Uluzzian, with small crescent-shaped tools, shell beads and bone points, began about 45,000 years ago. In 2011 Stefano Benazzi and colleagues identified two milk teeth from Grotta del Cavallo in Apulia as Homo sapiens, making the Uluzzian one of Europe’s earliest sapiens industries. Zilhão and colleagues questioned the teeth’s position in the sequence, though not their modern shape. In 2019 Katsuhiro Sano and colleagues reported impact damage on Uluzzian backed pieces consistent with mechanically propelled weapons, perhaps spearthrowers or bows. And the northern European leaf-point industry once attributed to Neanderthals, the LRJ, is now linked to sapiens at Ranis."
+      ]
+    },
+    {
+      "heading": "A last refuge in Iberia?",
+      "paragraphs": [
+        "For years southern Iberia looked like the Neanderthals’ final stronghold. At Gorham’s Cave in Gibraltar, Clive Finlayson and colleagues reported in 2006 Mousterian hearths with radiocarbon ages of about 28,000 years, some even younger. João Zilhão proposed an ‘Ebro frontier’: for several thousand years after sapiens settled northern Spain, Neanderthals held the lands south of the Ebro River, and in 2017 his team reported Mousterian levels at Cueva Antón in Murcia dated to about 37,000 years ago.",
+        "Redating has undermined much of this. In 2013 Rachel Wood, Tom Higham and colleagues re-dated eleven southern Iberian sites with ultrafiltration and found most Mousterian layers far older than previously thought, many beyond the reach of radiocarbon. In 2020 Jonathan Haws and colleagues dated Aurignacian tools at Lapa do Picareiro in central Portugal to about 41,000–38,000 years ago, showing that sapiens reached Iberia’s Atlantic side about as early as the rest of western Europe. The Gorham’s Cave dates, on charcoal that may have moved between layers, have not been confirmed independently."
+      ]
+    },
+    {
+      "heading": "Few, isolated and inbred",
+      "paragraphs": [
+        "Neanderthal genomes reveal how small their populations were. High-quality genomes from the Altai and Croatia contain long runs of identical DNA, signs of parents who were related, and point to a far smaller effective population than that of contemporary sapiens. A 2022 study of Chagyrskaya and Okladnikov caves in Siberia led by Laurits Skov identified 13 individuals, including a father and his teenage daughter, and suggested that communities numbered perhaps 10 to 20 people, with women moving between groups.",
+        "In 2024 a team led by Ludovic Slimak and Martin Sikora published the genome of ‘Thorin’, a Neanderthal found at Grotte Mandrin from 2015 onwards and dated by his archaeological context to roughly 50,000–42,000 years ago. His lineage had split from other late European Neanderthals about 105,000 years earlier and apparently exchanged no genes with them for some 50,000 years, even though they lived not far apart. The authors saw evidence of tiny, closed communities.",
+        "In 2019 Krist Vaesen and colleagues modelled such populations. Inbreeding, Allee effects (the difficulty of finding mates and cooperating when numbers are low) and random fluctuations in births and deaths could, they found, drive Neanderthals extinct within about 10,000 years with no help from Homo sapiens. Competition would only have hastened the end."
+      ]
+    },
+    {
+      "heading": "Cold, ash and pathogens",
+      "paragraphs": [
+        "The Neanderthals’ last millennia were climatically violent. Greenland ice cores and European cave records show rapid swings between milder and harsher phases. In 2018 Michael Staubwasser and colleagues, using stalagmites from Romanian caves, linked cold, dry spells around 44,000 and 40,800 years ago to gaps in Neanderthal occupation along the Danube. Heinrich Stadial 4, when armadas of icebergs chilled the North Atlantic around 40,000 years ago, followed.",
+        "About 39,850 years ago the Campanian Ignimbrite eruption of the Phlegraean Fields near Naples, the largest in Europe for some 200,000 years, spread ash from Italy to Russia. It was once blamed for finishing the Neanderthals. But in 2012 John Lowe and colleagues traced microscopic ash from the eruption in cave and lake sequences and found that the Neanderthal decline and the arrival of sapiens in many regions came before it. The eruption and the cold that followed may have struck populations already in trouble.",
+        "Diseases may also have mattered. In 2019 Gili Greenbaum and colleagues modelled two species that each carried pathogens to which the other lacked immunity. The model explains why the contact zone could stall for thousands of years before sapiens, perhaps helped by immune genes gained through interbreeding, finally advanced."
+      ]
+    },
+    {
+      "heading": "Absorbed, outcompeted or unlucky?",
+      "paragraphs": [
+        "Some Neanderthals did not so much vanish as merge. Every non-African today carries 1–2% Neanderthal DNA, mostly from mixing about 50,000–43,500 years ago. Fred Smith’s assimilation model, and later demographic models, describe a small population steadily absorbed into a larger one, sometimes called extinction by hybridisation. A 2026 study by Alexander Platt, Daniel Harris and Sarah Tishkoff argued that the mixing mainly involved Neanderthal men and sapiens women, which implies that many hybrid children grew up among sapiens.",
+        "The competition view stresses differences that could have favoured sapiens: larger and far-reaching social networks, visible in shells and stone moved hundreds of kilometres; a broader diet including small game, birds and fish; projectile weapons and, later, eyed needles for tailored clothing; and perhaps higher fertility. Critics such as Paola Villa and Wil Roebroeks (2014) argue that the archaeological record does not show Neanderthals to have been cognitively or technologically inferior, and that numbers, not intelligence, made the difference.",
+        "Most researchers now favour a combination: small, fragmented Neanderthal populations, stressed by climate swings, meeting a steady flow of more numerous newcomers with whom they competed and interbred. The genomes from Ranis and Bacho Kiro are a reminder that many early sapiens groups died out as well."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Who made the Châtelperronian and the Uluzzian?",
+      "views": [
+        {
+          "label": "Neanderthals and sapiens respectively",
+          "text": "Jean-Jacques Hublin, Frido Welker, Francesco d’Errico and João Zilhão point to Neanderthal bones and proteins in Châtelperronian layers at the Grotte du Renne and the Saint-Césaire skeleton. Stefano Benazzi and colleagues identify the Grotta del Cavallo teeth as Homo sapiens, making the Uluzzian a sapiens industry."
+        },
+        {
+          "label": "Associations unproven",
+          "text": "Ofer Bar-Yosef, Jean-Guillaume Bordes and Brad Gravina argue that disturbed layers could have mixed Neanderthal bones with later tools. Zilhão and colleagues argue the Cavallo teeth may be intrusive, leaving the Uluzzian’s makers open; some suggest Neanderthals made it."
+        }
+      ],
+      "status": "Most researchers accept a Neanderthal association for the Châtelperronian and a sapiens one for the Uluzzian, but neither is beyond doubt. Ancient DNA recovered from the sediments of these layers, as achieved at other caves, could settle it."
+    },
+    {
+      "question": "Did Neanderthals hold out in southern Iberia long after 40,000 years ago?",
+      "views": [
+        {
+          "label": "Late survival",
+          "text": "Clive Finlayson’s dates from Gorham’s Cave (about 28,000 radiocarbon years) and João Zilhão’s ‘Ebro frontier’, supported by Mousterian dates of about 37,000 years at Cueva Antón, suggest a southern refuge that outlasted Neanderthals elsewhere by several thousand years."
+        },
+        {
+          "label": "No reliable late dates",
+          "text": "Rachel Wood, Tom Higham and colleagues found that ultrafiltered dates from southern Iberian Mousterian sites are much older; early Aurignacian dates at Lapa do Picareiro in Portugal show sapiens there by about 41,000 years ago."
+        }
+      ],
+      "status": "The weight of evidence has shifted against survival much later than 40,000 years ago, but the Murcia dates keep the question open. New dating of the Gorham’s Cave layers and sediment DNA from late Mousterian sites would help."
+    },
+    {
+      "question": "What mainly caused the Neanderthals’ extinction?",
+      "views": [
+        {
+          "label": "Competition with Homo sapiens",
+          "text": "Larger sapiens populations, wider networks and broader diets let them outcompete Neanderthals for territory and prey, as argued by Paul Mellars and many others."
+        },
+        {
+          "label": "Demographic fragility",
+          "text": "Genomes show tiny, inbred Neanderthal populations; Vaesen and colleagues’ models show such populations could collapse on their own within about 10,000 years."
+        },
+        {
+          "label": "Climate and catastrophe",
+          "text": "Abrupt cold phases, Heinrich Stadial 4 and the Campanian Ignimbrite eruption stressed already small groups, as argued by Staubwasser and others."
+        },
+        {
+          "label": "Assimilation",
+          "text": "Fred Smith and others see a gradual absorption through interbreeding, supported by the Neanderthal DNA in living people."
+        }
+      ],
+      "status": "Few researchers now defend a single cause. The emerging consensus is that small, fragmented Neanderthal populations, hit by climatic stress, were overwhelmed demographically by a larger sapiens population with which they competed and interbred."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "End of the Mousterian",
+      "value": "About 41,000–39,000 years ago (Higham et al. 2014)"
+    },
+    {
+      "label": "Overlap with Homo sapiens",
+      "value": "About 2,600–5,400 years across Europe, region by region"
+    },
+    {
+      "label": "Campanian Ignimbrite eruption",
+      "value": "About 39,850 years ago, Phlegraean Fields, Italy"
+    },
+    {
+      "label": "Thorin’s lineage",
+      "value": "Isolated for about 50,000 years (Slimak et al. 2024)"
+    },
+    {
+      "label": "Neanderthal DNA today",
+      "value": "About 1–2% of non-African genomes"
+    }
+  ],
+  "sites": [
+    {
+      "id": "grotte-mandrin",
+      "name": "Grotte Mandrin",
+      "country": "France",
+      "region": "europe",
+      "lat": 44.49,
+      "lon": 4.76,
+      "start": 54000,
+      "end": 42000,
+      "dateLabel": "about 54,000–42,000 years ago",
+      "type": "fossil",
+      "summary": "Rock shelter above the Rhône with alternating Neanderthal and early sapiens layers. It yielded ‘Thorin’, a late Neanderthal whose 2024 genome revealed a lineage isolated for some 50,000 years."
+    },
+    {
+      "id": "grotte-du-renne",
+      "name": "Grotte du Renne, Arcy-sur-Cure",
+      "country": "France",
+      "region": "europe",
+      "lat": 47.6,
+      "lon": 3.76,
+      "start": 45000,
+      "end": 41000,
+      "dateLabel": "about 45,000–41,000 years ago",
+      "type": "tools",
+      "summary": "Cave with Châtelperronian ornaments, bone tools and Neanderthal remains, confirmed by ancient proteins in 2016; the integrity of its layers is debated."
+    },
+    {
+      "id": "saint-cesaire",
+      "name": "Saint-Césaire (La Roche-à-Pierrot)",
+      "country": "France",
+      "region": "europe",
+      "lat": 45.76,
+      "lon": -0.5,
+      "start": 42000,
+      "end": 40000,
+      "dateLabel": "about 42,000–40,000 years ago",
+      "type": "fossil",
+      "summary": "Rock shelter where a partial Neanderthal skeleton was found in 1979 in a Châtelperronian layer; a 2018 study questioned the association."
+    },
+    {
+      "id": "grotta-del-cavallo",
+      "name": "Grotta del Cavallo",
+      "country": "Italy",
+      "region": "europe",
+      "lat": 40.16,
+      "lon": 17.96,
+      "start": 45000,
+      "end": 40000,
+      "dateLabel": "about 45,000–40,000 years ago",
+      "type": "fossil",
+      "summary": "Coastal cave in Apulia, type site of the Uluzzian. Two milk teeth identified in 2011 as Homo sapiens make it one of Europe’s earliest sapiens sites, though their stratigraphy is disputed."
+    },
+    {
+      "id": "gorhams-cave",
+      "name": "Gorham’s Cave",
+      "country": "Gibraltar",
+      "region": "europe",
+      "lat": 36.12,
+      "lon": -5.34,
+      "start": 33000,
+      "end": 28000,
+      "dateLabel": "claimed Mousterian ages of about 28,000 radiocarbon years (disputed)",
+      "type": "tools",
+      "summary": "Sea cave on Gibraltar’s east face, long occupied by Neanderthals. Claims of Neanderthal survival here until about 28,000 radiocarbon years ago remain contested."
+    },
+    {
+      "id": "cueva-anton",
+      "name": "Cueva Antón",
+      "country": "Spain",
+      "region": "europe",
+      "lat": 38.06,
+      "lon": -1.49,
+      "start": 37000,
+      "end": 37000,
+      "dateLabel": "about 37,000 years ago (Mousterian, disputed)",
+      "type": "tools",
+      "summary": "Rock shelter in Murcia whose late Mousterian dates underpin the ‘Ebro frontier’ model of late Neanderthal survival south of the Ebro."
+    },
+    {
+      "id": "campi-flegrei",
+      "name": "Phlegraean Fields (Campanian Ignimbrite)",
+      "country": "Italy",
+      "region": "europe",
+      "lat": 40.83,
+      "lon": 14.14,
+      "start": 39850,
+      "end": 39850,
+      "dateLabel": "about 39,850 years ago",
+      "type": "other",
+      "summary": "Volcanic field west of Naples whose Campanian Ignimbrite eruption was the largest in Europe for some 200,000 years. Its ash is a time marker across the continent."
+    },
+    {
+      "id": "spy-cave",
+      "name": "Spy",
+      "country": "Belgium",
+      "region": "europe",
+      "lat": 50.48,
+      "lon": 4.67,
+      "start": 44200,
+      "end": 40600,
+      "dateLabel": "about 44,200–40,600 years ago",
+      "type": "fossil",
+      "summary": "Cave where two Neanderthal skeletons found in 1886 helped establish the species. Redated in 2021, they are among the last Neanderthals of northwestern Europe."
+    },
+    {
+      "id": "vindija-cave",
+      "name": "Vindija Cave",
+      "country": "Croatia",
+      "region": "europe",
+      "lat": 46.3,
+      "lon": 16.08,
+      "start": 46000,
+      "end": 40000,
+      "dateLabel": "older than about 40,000 years (redated 2017)",
+      "type": "dna",
+      "summary": "Source of a high-quality Neanderthal genome. Its Neanderthals were once dated to around 30,000 years; improved radiocarbon dating showed they are older than about 40,000."
+    }
+  ],
+  "themes": [
+    "species",
+    "genetics",
+    "climate",
+    "technology",
+    "ornament",
+    "society"
+  ],
+  "sources": [
+    {
+      "cite": "Higham, T. et al. (2014). The timing and spatiotemporal patterning of Neanderthal disappearance. Nature 512, 306–309."
+    },
+    {
+      "cite": "Slimak, L. et al. (2024). Long genetic and social isolation in Neanderthals before their extinction. Cell Genomics 4."
+    },
+    {
+      "cite": "Djakovic, I., Key, A. & Soressi, M. (2022). Optimal linear estimation models predict 1400–2900 years of overlap between Homo sapiens and Neandertals prior to their disappearance from France and northern Spain. Scientific Reports 12."
+    },
+    {
+      "cite": "Welker, F. et al. (2016). Palaeoproteomic evidence identifies archaic hominins associated with the Châtelperronian at the Grotte du Renne. PNAS 113."
+    },
+    {
+      "cite": "Benazzi, S. et al. (2011). Early dispersal of modern humans in Europe and implications for Neanderthal behaviour. Nature 479, 525–528."
+    },
+    {
+      "cite": "Wood, R. E. et al. (2013). Radiocarbon dating casts doubt on the late chronology of the Middle to Upper Palaeolithic transition in southern Iberia. PNAS 110."
+    },
+    {
+      "cite": "Vaesen, K., Scherjon, F., Hemingway, L. & Verpoorte, A. (2019). Inbreeding, Allee effects and stochasticity might be sufficient to account for Neanderthal extinction. PLOS ONE 14."
+    },
+    {
+      "cite": "Lowe, J. et al. (2012). Volcanic ash layers illuminate the resilience of Neanderthals and early modern humans to natural hazards. PNAS 109."
+    },
+    {
+      "cite": "Greenbaum, G. et al. (2019). Disease transmission and introgression can explain the long-lasting contact zone of modern humans and Neanderthals. Nature Communications 10."
+    },
+    {
+      "cite": "Villa, P. & Roebroeks, W. (2014). Neandertal demise: an archaeological analysis of the modern human superiority complex. PLOS ONE 9."
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "id": "warming-world",
+  "order": 28,
+  "act": "warming",
+  "title": "The Great Thaw",
+  "subtitle": "Deglaciation, drowned lands and a green Sahara",
+  "era": "Late Glacial and Early Holocene",
+  "start": 20000,
+  "end": 8000,
+  "dateLabel": "20,000–8,000 years ago",
+  "regions": ["europe", "asia", "africa", "americas", "oceania"],
+  "focus": [-180, -50, 180, 78],
+  "emblem": "ice",
+  "summary": "The end of the Ice Age came in lurches: sudden warmings, a return to cold in the Younger Dryas, sea level rising some 120 metres and drowning Doggerland, Sundaland and Beringia. The Sahara turned green, and people everywhere adapted how they lived.",
+  "narration": [
+    "Twenty thousand years ago, you could have walked from England to Denmark, from Siberia to Alaska, and from New Guinea to Tasmania. So much water was locked up in ice sheets, some of them three kilometres thick, that the sea stood about 120 metres lower than it does today.",
+    "Then the ice began to melt, but not smoothly. About 14,700 years ago, Greenland warmed by around ten degrees within a few decades. Soon afterwards the sea rose by some 15 metres in about three and a half centuries, far faster than anything people have experienced since. Around 12,900 years ago, the North Atlantic world plunged back into near-glacial cold for twelve centuries, a relapse called the Younger Dryas. When it ended, 11,700 years ago, the warmer and steadier Holocene began, the epoch in which every farming society has lived.",
+    "The rising water drowned whole landscapes. The plain joining Britain to the continent broke into islands, and around 8,150 years ago a vast undersea landslide off Norway sent a tsunami across the North Sea. Sundaland, the great lowland of Southeast Asia, went under, and Tasmania became an island. Some Aboriginal Australian stories may still recall coastlines that disappeared.",
+    "Meanwhile the Sahara turned green, with lakes, hippos and grasslands. People everywhere adapted: fishing, gathering seeds and nuts, and staying longer in one place. And on Wrangel Island in the Arctic, a last population of woolly mammoths survived until about 4,000 years ago, when the pyramids of Egypt were already standing."
+  ],
+  "pronounce": {
+    "Dryas": "Dry-us",
+    "Sundaland": "Soon-da-land",
+    "Wrangel": "Rang-gul"
+  },
+  "body": [
+    {
+      "heading": "The world at the glacial maximum",
+      "paragraphs": [
+        "At the Last Glacial Maximum, roughly 26,000–19,000 years ago, ice sheets covered most of Canada and the northern United States, Scandinavia, much of the British Isles, the Alps and Patagonia; the Laurentide sheet over North America was up to about 3 kilometres thick. Global sea level stood roughly 120–130 metres below today’s, and Kurt Lambeck’s 2014 reconstruction puts the ice-volume equivalent at about 134 metres. Vast lowlands emerged: Beringia between Siberia and Alaska (chapter 27); Sundaland, joining the Malay Peninsula, Sumatra, Java and Borneo to mainland Asia; Sahul, uniting Australia, New Guinea and Tasmania (chapter 19); Doggerland, joining Britain to the continent; and the dry floor of the Persian Gulf.",
+        "A 2020 study led by Jessica Tierney estimated that global mean temperature was about 6 °C lower than before industrialisation, and atmospheric carbon dioxide stood near 190 parts per million. The world was colder, drier and dustier, with tropical forests shrunk and deserts expanded."
+      ]
+    },
+    {
+      "heading": "A thaw in fits and starts",
+      "paragraphs": [
+        "Deglaciation was paced by changes in Earth’s orbit that increased northern summer sunshine from about 20,000 years ago, amplified by carbon dioxide, which rose to about 265 parts per million by the early Holocene. The path was jagged because meltwater disturbed the Atlantic overturning circulation, which carries heat northwards. During Heinrich Stadial 1, about 18,000–14,700 years ago, armadas of icebergs from the Laurentide ice sheet freshened the North Atlantic; the circulation weakened, Europe stayed bitterly cold and the Southern Hemisphere warmed.",
+        "About 14,700 years ago the circulation strengthened and the Bølling–Allerød interstadial began: Greenland ice cores show a jump of around 10 °C within decades. Sea level surged. Corals drilled off Tahiti, analysed by Pierre Deschamps and colleagues in 2012, record Meltwater Pulse 1A, a rise of roughly 14–18 metres between about 14,650 and 14,310 years ago, some 4 centimetres a year; whether the water came mainly from North America or Antarctica is still debated.",
+        "Around 12,900 years ago the North Atlantic region fell back into near-glacial conditions for about 1,200 years. The Younger Dryas is named after an Arctic flower, the mountain avens (Dryas octopetala), whose remains reappear in Scandinavian lake sediments. Its most likely cause is meltwater, perhaps routed from glacial Lake Agassiz down the Mackenzie River into the Arctic or through the St Lawrence, weakening the overturning circulation again; the impact hypothesis is discussed in chapter 27. The cold ended abruptly: in 2008 a team led by Jørgen Peder Steffensen showed that dust and snow-source indicators in Greenland ice shifted within a few years.",
+        "The base of the Holocene is formally defined in the NorthGRIP ice core from central Greenland, at a depth of 1,492.45 metres, and dated to 11,700 years before 2000 CE (Mike Walker and colleagues, 2009). In 2018 the Holocene was divided into three ages: the Greenlandian, the Northgrippian from 8,236 years before 2000 CE and the Meghalayan from 4,250."
+      ]
+    },
+    {
+      "heading": "Lake Agassiz and the cold event of 8,200 years ago",
+      "paragraphs": [
+        "The last big shock came from North America. As the Laurentide ice retreated, meltwater pooled into glacial Lakes Agassiz and Ojibway, which together covered a larger area than any lake today. When the ice over Hudson Bay finally gave way, shortly before 8,200 years ago, the lakes drained into the Labrador Sea, as David Barber and colleagues proposed in 1999. Greenland then cooled by several degrees for roughly 150 years, and records from Europe to Africa and Asia show colder or drier conditions, including a weaker monsoon. Its effect on people is debated: some archaeologists link it to changes in settlement in Southwest Asia and Europe, others find little effect."
+      ]
+    },
+    {
+      "heading": "Drowned lands",
+      "paragraphs": [
+        "Rising seas drowned the coastal plains where many people had lived. Doggerland, the lowland between Britain, the Netherlands and Denmark, has been mapped since the early 2000s by Vince Gaffney’s team using seismic surveys made for the oil and gas industry, revealing river valleys, lakes and hills. Trawlers have long dredged up mammoth bones and tools; in 1931 the trawler Colinda netted a barbed antler point between the Leman and Ower banks.",
+        "Around 8,150 years ago part of the Norwegian continental slope collapsed in the Storegga slide, moving about 3,000 cubic kilometres of sediment. The tsunami left sand layers several metres above the shorelines of the time in Norway and mainland Scotland, and up to about 20 metres in Shetland. A 2020 study led by Gaffney found tsunami deposits in cores from the southern North Sea and suggested that the wave struck a Doggerland already breaking into islands, parts of which may have survived for some centuries more before the rising sea took them.",
+        "Much larger lands disappeared elsewhere. Sundaland, a lowland of well over a million square kilometres, was largely drowned by about 7,000 years ago, and the Bering land bridge was cut by about 11,000 years ago. Tasmania became an island when Bass Strait flooded, at a date estimated at between about 14,000 and 10,000 years ago; New Guinea separated from Australia around 8,000–7,000 years ago, as the Torres Strait filled. In 2016 the geographer Patrick Nunn and the linguist Nicholas Reid gathered Aboriginal stories from 21 places around Australia’s coast that describe land lost to the sea, and argued that some preserve observations more than 7,000 years old.",
+        "The best-known flood claim concerns the Black Sea. In 1997 the marine geologists William Ryan and Walter Pitman argued that it had been a freshwater lake far below the Mediterranean until rising seas broke through the Bosporus, raising its level by tens of metres within a few years; they originally dated the event to about 7,600 years ago and linked it to flood myths, including Noah’s. Later work by Ali Aksu, Richard Hiscott, Valentina Yanko-Hombach and others points to a more gradual reconnection and a smaller rise."
+      ]
+    },
+    {
+      "heading": "A green Sahara",
+      "paragraphs": [
+        "In Africa, the orbital changes that melted northern ice also strengthened the summer monsoon. From about 14,500 years ago, and fully after the Younger Dryas, the African Humid Period turned much of the Sahara into grassland and savanna dotted with lakes; Lake Mega-Chad grew to rival the Caspian Sea in area. Hippos, crocodiles, elephants and giraffes lived where there is desert today, and people followed (chapter 36). How the humid period ended, around 5,500 years ago, is debated. Peter deMenocal’s 2000 study of dust in marine cores off Mauritania suggested an abrupt switch within a few centuries, whereas Stefan Kröpelin’s record from Lake Yoa in Chad (2008) shows gradual drying over millennia; a 2015 study led by Timothy Shanahan concluded that the end came earlier in the north than in the south."
+      ]
+    },
+    {
+      "heading": "Living in a changing world",
+      "paragraphs": [
+        "People adapted in many ways. Across Eurasia and Africa, diets broadened to include small game, birds, fish, shellfish, seeds and nuts, which Kent Flannery in 1969 called the broad spectrum revolution. Microliths, small standardised stone inserts, made it easy to build and repair arrows, harpoons and sickles. Fishing grew in importance: at Franchthi Cave in southern Greece, Mesolithic layers contain the bones of large tuna, and obsidian from the island of Melos shows that people were crossing open sea by about 11,000 years ago. In the Levant, Natufian foragers built stone houses and stayed in one place for much of the year (chapter 29); in East Asia, hunter-gatherers were already making pottery (chapter 32).",
+        "Animals had to adapt too. Many Ice Age giants disappeared, but some survived in refuges. Woolly mammoths lived on St Paul Island in the Bering Sea until about 5,600 years ago, when, according to Russell Graham and colleagues (2016), the shrinking island ran short of fresh water. On Wrangel Island, cut off by the sea around 10,000 years ago, a population founded by a handful of animals persisted until about 4,000 years ago. A 2024 genomic study led by Marianne Dehasque found that it recovered from its founding bottleneck and stayed stable for some six thousand years, so its end was probably sudden rather than a slow genetic decline."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Did a catastrophic flood fill the Black Sea?",
+      "views": [
+        {
+          "label": "Sudden flood",
+          "text": "William Ryan and Walter Pitman (1997, and their 1998 book Noah’s Flood) argued from drowned shorelines, a sharp change from freshwater to marine shells and cores from the shelf that the Mediterranean poured through the Bosporus and raised the Black Sea by tens of metres within a few years."
+        },
+        {
+          "label": "Gradual reconnection",
+          "text": "Ali Aksu, Richard Hiscott, Valentina Yanko-Hombach and others argue from sediments in the Sea of Marmara and the Black Sea shelf that water had long been flowing out of the Black Sea and that the reconnection and rise were gradual and more modest."
+        }
+      ],
+      "status": "Most researchers accept that the Mediterranean reconnected with the Black Sea roughly 9,000–8,000 years ago, but the size and speed of the level rise remain disputed, and the link to flood myths is widely regarded as speculative."
+    },
+    {
+      "question": "Did the Green Sahara end suddenly or slowly?",
+      "views": [
+        {
+          "label": "Abrupt",
+          "text": "Peter deMenocal and colleagues (2000) found a sharp increase in wind-blown dust in marine sediments off West Africa around 5,500 years ago, suggesting a switch within decades to centuries, possibly amplified by vegetation feedbacks."
+        },
+        {
+          "label": "Gradual",
+          "text": "Stefan Kröpelin and colleagues (2008) found in Lake Yoa, Chad, a continuous record of slowly changing pollen and lake chemistry over several thousand years."
+        }
+      ],
+      "status": "Both can be true in different places: Timothy Shanahan and colleagues (2015) showed that drying began earlier in the north and spread south. The details matter for understanding when herders moved (chapter 36)."
+    },
+    {
+      "question": "Can oral traditions remember rising seas from 7,000 years ago?",
+      "views": [
+        {
+          "label": "Deep-time memory",
+          "text": "Patrick Nunn and Nicholas Reid (2016) argue that Aboriginal stories from 21 coastal places, such as Spencer Gulf and Port Phillip Bay, describe land that was drowned when the sea rose, and that matching them with sea-level curves implies transmission over more than 7,000 years, supported by strict cultural rules for passing on knowledge."
+        },
+        {
+          "label": "Caution",
+          "text": "Sceptics note that many stories were recorded by colonial-era observers who may have shaped them, that people can infer past landscapes from what they see today, and that the dating depends on matching stories to sea-level reconstructions that are themselves uncertain."
+        }
+      ],
+      "status": "Many researchers accept that such long transmission is possible and that Aboriginal knowledge-keepers are authorities on their own traditions, but proving the age of any particular story remains difficult."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Sea level at the glacial maximum", "value": "About 120–130 metres below today"},
+    {"label": "Bølling–Allerød warming", "value": "About 14,700–12,900 years ago"},
+    {"label": "Younger Dryas cold relapse", "value": "About 12,900–11,700 years ago"},
+    {"label": "Start of the Holocene", "value": "11,700 years before 2000 CE, defined in the NorthGRIP ice core"},
+    {"label": "Storegga tsunami", "value": "About 8,150 years ago"},
+    {"label": "Last mammoths", "value": "Wrangel Island, about 4,000 years ago"}
+  ],
+  "sites": [
+    {
+      "id": "northgrip",
+      "name": "NorthGRIP ice core",
+      "country": "Greenland (Denmark)",
+      "region": "americas",
+      "lat": 75.1, "lon": -42.32,
+      "start": 11700, "end": 11700,
+      "dateLabel": "11,700 years ago",
+      "type": "other",
+      "summary": "Deep ice core from central Greenland in which the formal boundary between the Pleistocene and the Holocene is defined."
+    },
+    {
+      "id": "lake-agassiz",
+      "name": "Glacial Lake Agassiz",
+      "country": "Canada and United States",
+      "region": "americas",
+      "lat": 49.9, "lon": -97.14,
+      "start": 13000, "end": 8200,
+      "dateLabel": "about 13,000–8,200 years ago",
+      "type": "other",
+      "summary": "Vast meltwater lake at the edge of the Laurentide ice sheet whose final drainage is linked to the cold event of 8,200 years ago."
+    },
+    {
+      "id": "dogger-bank",
+      "name": "Dogger Bank (Doggerland)",
+      "country": "North Sea",
+      "region": "europe",
+      "lat": 54.8, "lon": 2.5,
+      "start": 20000, "end": 7500,
+      "dateLabel": "dry land until about 8,000–7,500 years ago",
+      "type": "other",
+      "summary": "Upland of the drowned landscape that joined Britain to the continent, probably among the last parts of Doggerland to disappear."
+    },
+    {
+      "id": "shetland-storegga",
+      "name": "Shetland tsunami deposits",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 60.16, "lon": -1.16,
+      "start": 8150, "end": 8150,
+      "dateLabel": "about 8,150 years ago",
+      "type": "other",
+      "summary": "Sand layers left by the Storegga tsunami, which reached up to about 20 metres above the sea level of the time in Shetland."
+    },
+    {
+      "id": "bosporus",
+      "name": "Bosporus",
+      "country": "Türkiye",
+      "region": "europe",
+      "lat": 41.08, "lon": 29.02,
+      "start": 9000, "end": 7500,
+      "dateLabel": "reconnection about 9,000–8,000 years ago",
+      "type": "other",
+      "summary": "Strait through which the Mediterranean reconnected with the Black Sea; whether as a sudden flood or gradually is still debated."
+    },
+    {
+      "id": "lake-yoa",
+      "name": "Lake Yoa",
+      "country": "Chad",
+      "region": "africa",
+      "lat": 19.05, "lon": 20.5,
+      "start": 6000, "end": 0,
+      "dateLabel": "record of the last 6,000 years",
+      "type": "other",
+      "summary": "Saharan lake whose sediments record a gradual drying at the end of the African Humid Period."
+    },
+    {
+      "id": "bering-land-bridge",
+      "name": "Bering land bridge",
+      "country": "Bering Strait",
+      "region": "americas",
+      "lat": 65.3, "lon": -169.5,
+      "start": 20000, "end": 11000,
+      "dateLabel": "flooded about 11,000 years ago",
+      "type": "other",
+      "summary": "The lowland that joined Asia and America until rising seas cut it about 11,000 years ago."
+    },
+    {
+      "id": "sunda-shelf",
+      "name": "Sunda Shelf",
+      "country": "South China Sea",
+      "region": "asia",
+      "lat": 4, "lon": 107,
+      "start": 20000, "end": 7000,
+      "dateLabel": "largely drowned by about 7,000 years ago",
+      "type": "other",
+      "summary": "Heart of Sundaland, the lowland that joined mainland Southeast Asia to Sumatra, Java and Borneo."
+    },
+    {
+      "id": "bass-strait",
+      "name": "Bassian land bridge",
+      "country": "Australia",
+      "region": "oceania",
+      "lat": -40, "lon": 146,
+      "start": 20000, "end": 12000,
+      "dateLabel": "flooded roughly 14,000–10,000 years ago",
+      "type": "other",
+      "summary": "The land that joined Tasmania to mainland Australia before the rising sea turned Tasmania into an island."
+    },
+    {
+      "id": "franchthi-cave",
+      "name": "Franchthi Cave",
+      "country": "Greece",
+      "region": "europe",
+      "lat": 37.42, "lon": 23.13,
+      "start": 13000, "end": 8000,
+      "dateLabel": "about 13,000–8,000 years ago",
+      "type": "settlement",
+      "summary": "Coastal cave whose Mesolithic layers contain tuna bones and obsidian carried by boat from Melos."
+    },
+    {
+      "id": "st-paul-island",
+      "name": "St Paul Island",
+      "country": "United States (Alaska)",
+      "region": "americas",
+      "lat": 57.15, "lon": -170.25,
+      "start": 12000, "end": 5600,
+      "dateLabel": "mammoths until about 5,600 years ago",
+      "type": "fossil",
+      "summary": "Bering Sea island where mammoths survived until about 5,600 years ago, probably until fresh water ran short."
+    },
+    {
+      "id": "wrangel-island",
+      "name": "Wrangel Island",
+      "country": "Russia",
+      "region": "asia",
+      "lat": 71.23, "lon": -179.42,
+      "start": 10000, "end": 4000,
+      "dateLabel": "about 10,000–4,000 years ago",
+      "type": "fossil",
+      "summary": "Arctic island where the last woolly mammoths lived until about 4,000 years ago."
+    }
+  ],
+  "themes": ["climate", "migration", "food", "animals", "seafaring", "settlement"],
+  "sources": [
+    {"cite": "Lambeck, K. et al. (2014). Sea level and global ice volumes from the Last Glacial Maximum to the Holocene. Proceedings of the National Academy of Sciences 111."},
+    {"cite": "Tierney, J.E. et al. (2020). Glacial cooling and climate sensitivity revisited. Nature 584."},
+    {"cite": "Deschamps, P. et al. (2012). Ice-sheet collapse and sea-level rise at the Bølling warming 14,600 years ago. Nature 483."},
+    {"cite": "Walker, M. et al. (2009). Formal definition and dating of the GSSP (Global Stratotype Section and Point) for the base of the Holocene using the Greenland NorthGRIP ice core, and selected auxiliary records. Journal of Quaternary Science 24."},
+    {"cite": "Barber, D.C. et al. (1999). Forcing of the cold event of 8,200 years ago by catastrophic drainage of Laurentide lakes. Nature 400."},
+    {"cite": "Gaffney, V. et al. (2020). A great wave: the Storegga tsunami and the end of Doggerland? Antiquity 94."},
+    {"cite": "Ryan, W.B.F. et al. (1997). An abrupt drowning of the Black Sea shelf. Marine Geology 138."},
+    {"cite": "Shanahan, T.M. et al. (2015). The time-transgressive termination of the African Humid Period. Nature Geoscience 8."},
+    {"cite": "Nunn, P.D., Reid, N.J. (2016). Aboriginal memories of inundation of the Australian coast dating from more than 7000 years ago. Australian Geographer 47."},
+    {"cite": "Dehasque, M. et al. (2024). Temporal dynamics of woolly mammoth genome erosion prior to extinction. Cell 187."}
+  ]
+}

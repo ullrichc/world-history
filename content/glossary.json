@@ -1,0 +1,512 @@
+{
+  "terms": [
+    {
+      "term": "Acheulean",
+      "definition": "A stone tool tradition defined by large bifacial tools, above all handaxes and cleavers, named after Saint-Acheul in northern France. It appeared about 1.76 million years ago in East Africa and lasted until roughly 200,000 years ago, made mainly by Homo erectus and later by Middle Pleistocene humans across Africa, Europe and much of Asia."
+    },
+    {
+      "term": "Admixture",
+      "definition": "Interbreeding between populations that had been separated for some time, and the mixed ancestry that results. Geneticists express it as the share of a genome traced to each source population, for example the roughly 2 percent Neanderthal ancestry of non-Africans."
+    },
+    {
+      "term": "Anatomically modern humans",
+      "definition": "An older term for Homo sapiens with a skeleton like that of living people. It is used less today, because the earliest members of our species, such as those from Jebel Irhoud, had modern faces but longer, lower braincases, so modern anatomy assembled gradually."
+    },
+    {
+      "term": "Ancient DNA",
+      "definition": "Genetic material recovered from the remains of dead organisms, usually as short, chemically damaged fragments. Since the first Neanderthal genome in 2010 it has transformed the study of human origins and migrations; the oldest human DNA so far, from Sima de los Huesos in Spain, is about 430,000 years old."
+    },
+    {
+      "term": "Archaic humans",
+      "definition": "A loose label for members of the genus Homo other than Homo sapiens, such as Neanderthals, Denisovans and Homo heidelbergensis. It implies no inferiority: these groups were relatives, and through interbreeding some are among the ancestors of living people."
+    },
+    {
+      "term": "Arsenical copper",
+      "definition": "Copper containing a few percent of arsenic, from mixed ores or added deliberately, which makes it harder and easier to cast than pure copper. It was the main alloy of the Chalcolithic and Early Bronze Age from the Levant and the Caucasus to Iberia, before tin bronze took over."
+    },
+    {
+      "term": "Assemblage",
+      "definition": "All the artefacts, or all the animal bones, found together in one layer or phase of a site, studied as a group. Comparing assemblages is how archaeologists define industries and cultures."
+    },
+    {
+      "term": "Aterian",
+      "definition": "A Middle Stone Age industry of North Africa and the Sahara, named after Bir el-Ater in Algeria and recognised by tanged (stemmed) points and scrapers that were probably hafted. Made by Homo sapiens, it dates roughly from 150,000 to 30,000 years ago and often occurs with shell beads and ochre."
+    },
+    {
+      "term": "Atlatl (spear-thrower)",
+      "definition": "A hooked stick or board that effectively lengthens the throwing arm, launching a light spear, or dart, much faster than a hand throw. Carved antler examples survive from the Upper Palaeolithic of France, especially the Magdalenian, and the device was also used in the Americas and in Australia, where it is called a woomera."
+    },
+    {
+      "term": "Aurignacian",
+      "definition": "The first widespread Upper Palaeolithic culture of Europe, named after Aurignac in southwest France and dated roughly 43,000 to 33,000 years ago. Its makers, Homo sapiens, produced bone and antler points, beads, ivory figurines such as the Lion Man of Hohlenstein-Stadel, bone flutes and the paintings of Chauvet Cave."
+    },
+    {
+      "term": "Backed tool",
+      "definition": "A blade, bladelet or flake with one edge deliberately blunted by steep retouch, usually so it could be glued into a handle or shaft or held safely. Backed pieces are typical of the Howiesons Poort in Africa and of the Gravettian and later cultures in Europe."
+    },
+    {
+      "term": "Bell Beaker",
+      "definition": "A cultural phenomenon of western and central Europe, roughly 2800 to 2200 BCE, named after bell-shaped drinking cups placed in graves with archery equipment, copper daggers and gold ornaments. Ancient DNA shows that in Britain the Beaker period brought people with steppe-related ancestry who replaced about 90 percent of the local gene pool within a few centuries (Olalde et al. 2018)."
+    },
+    {
+      "term": "Beringia",
+      "definition": "The land that connected northeast Siberia and Alaska when sea levels were low during glacial periods, now largely under the Bering and Chukchi seas. Much of it stayed free of ice, and the ancestors of Native Americans lived there before moving south; how long they stayed, the so-called Beringian standstill, is debated."
+    },
+    {
+      "term": "Biface",
+      "definition": "A stone tool shaped by removing flakes from both faces to create an edge around most of its outline. Handaxes and cleavers are the classic early bifaces; later ones include the thin leaf-shaped points of the Still Bay and the Solutrean."
+    },
+    {
+      "term": "Bipedalism",
+      "definition": "Habitual walking on two legs, the defining trait of hominins. It is recognised in fossils by a forward-placed opening for the spinal cord, a short, bowl-shaped pelvis, an angled thigh bone and an arched foot, and directly in the 3.66-million-year-old footprints at Laetoli, Tanzania."
+    },
+    {
+      "term": "Blade",
+      "definition": "A flake at least twice as long as it is wide, with roughly parallel edges, struck from a specially prepared core. Blade making is a hallmark of the Upper Palaeolithic and Later Stone Age, but blades were also produced much earlier, for example in the Kapthurin Formation of Kenya about 500,000 years ago."
+    },
+    {
+      "term": "Bladelet",
+      "definition": "A small, narrow blade, conventionally less than about 12 millimetres wide. Bladelets were often backed or shaped into microliths and set in rows into bone or wooden shafts as barbs and cutting edges."
+    },
+    {
+      "term": "Bottleneck",
+      "definition": "A sharp fall in population size that reduces genetic diversity for many generations afterwards. A 2023 study led by Wangjie Hu proposed that human ancestors fell to about 1,280 breeding individuals between about 930,000 and 813,000 years ago, a claim many geneticists doubt."
+    },
+    {
+      "term": "BP (before present)",
+      "definition": "A convention used mainly for radiocarbon dates, in which the present is fixed at 1950 CE. This app counts years ago from 2000 CE instead, so its figures are 50 years larger than BP figures for the same moment."
+    },
+    {
+      "term": "Broad-spectrum revolution",
+      "definition": "Kent Flannery’s 1969 term for a shift to a much wider range of foods, including small game, birds, fish, shellfish and wild seeds, in the late Pleistocene. Once seen as a prelude to farming in Southwest Asia, it is now known to vary widely in timing; Ohalo II in Israel shows a very broad diet 23,000 years ago."
+    },
+    {
+      "term": "Burin",
+      "definition": "A stone tool with a narrow chisel-like edge made by striking a small spall off the end or side of a blade or flake. Burins were used to engrave and to cut grooves in bone, antler and ivory, and are common in Upper Palaeolithic assemblages."
+    },
+    {
+      "term": "Calibration",
+      "definition": "The conversion of a radiocarbon measurement into calendar years, needed because the amount of carbon-14 in the atmosphere has varied over time. The current international curves, published in 2020 (IntCal20 for the northern hemisphere, SHCal20 for the southern and Marine20 for the oceans), are built from tree rings, corals, cave formations and lake sediments."
+    },
+    {
+      "term": "Cardial",
+      "definition": "An early Neolithic culture of the western Mediterranean, named after pottery decorated by pressing the edge of a cockle shell (Cerastoderma, formerly called Cardium) into the clay. Its farmers spread largely by sea along the coasts of Italy, southern France and Iberia from the middle of the sixth millennium BCE."
+    },
+    {
+      "term": "Chaîne opératoire",
+      "definition": "French for “operational sequence”: the whole chain of choices and actions from obtaining raw material through shaping, use, repair and discard of an object. The concept, developed by André Leroi-Gourhan, lets archaeologists compare how things were made, not just what they look like."
+    },
+    {
+      "term": "Chalcolithic",
+      "definition": "The Copper Age, when people smelted and used copper but tin bronze was not yet common and stone tools remained important. In southeastern Europe and Southwest Asia it spans roughly the fifth and fourth millennia BCE, with much regional variation."
+    },
+    {
+      "term": "Châtelperronian",
+      "definition": "An industry of central and southwestern France and northern Spain, about 45,000 to 40,000 years ago, named after Châtelperron in central France and characterised by curved backed knives and blades. Most researchers attribute it to late Neanderthals, based on the Saint-Césaire skeleton and Neanderthal remains from the Grotte du Renne, although some argue that these associations result from mixed layers."
+    },
+    {
+      "term": "Clade",
+      "definition": "A group that includes a common ancestor and all of its descendants: a natural branch of the family tree. Whether the robust australopiths form a clade, for example, decides whether they deserve their own genus, Paranthropus."
+    },
+    {
+      "term": "Cleaver",
+      "definition": "A large biface with a broad, straight cutting edge at one end instead of a point. Cleavers, often made on big flakes, are especially common in the Acheulean of Africa, the Levant and India."
+    },
+    {
+      "term": "Clovis",
+      "definition": "A North American culture named after Clovis, New Mexico, dated to a few centuries around 13,000 years ago and known for fluted spear points, some found with mammoth bones. For decades it was thought to represent the first Americans, but sites such as Monte Verde in Chile and the White Sands footprints in New Mexico show that people arrived earlier."
+    },
+    {
+      "term": "Corded Ware",
+      "definition": "A culture of northern, central and eastern Europe, about 2900 to 2350 BCE, named after pottery decorated by pressing cord into the wet clay and known for single graves under mounds. Ancient DNA studies since 2015 show its people had roughly three quarters of their ancestry from steppe populations related to the Yamnaya, evidence of a large movement of people."
+    },
+    {
+      "term": "Core",
+      "definition": "The block of stone from which flakes or blades are struck. How a core was prepared and worked, for instance by the Levallois method, is one of the main ways archaeologists distinguish stone tool traditions."
+    },
+    {
+      "term": "Cryptotephra",
+      "definition": "Volcanic ash shards too small or too few to see with the naked eye, extracted from sediments in the laboratory. Because each eruption has a chemical fingerprint, cryptotephra can link sites thousands of kilometres apart; shards from the Toba eruption about 74,000 years ago have been identified at Pinnacle Point in South Africa, some 9,000 kilometres away."
+    },
+    {
+      "term": "Dansgaard–Oeschger event",
+      "definition": "One of about 25 abrupt warmings recorded in Greenland ice cores during the last glacial period, when temperatures there rose by several degrees, sometimes more than 10 °C, within decades, followed by slower cooling. Named after Willi Dansgaard and Hans Oeschger, these swings affected climates far beyond the North Atlantic."
+    },
+    {
+      "term": "Doggerland",
+      "definition": "The low-lying land that joined Britain to continental Europe across the southern North Sea during and after the last Ice Age, a name coined by the archaeologist Bryony Coles. Rising seas drowned it gradually; the Storegga tsunami of around 6200 BCE struck its remaining coasts, and the last islands disappeared within the following millennium or so."
+    },
+    {
+      "term": "Dolmen",
+      "definition": "A megalithic tomb made of upright stones supporting one or more large capstones, originally often covered by a mound of earth or stones. Dolmens were built by Neolithic communities across Atlantic Europe and the Mediterranean, and similar monuments were raised elsewhere, notably in Korea."
+    },
+    {
+      "term": "Domestication",
+      "definition": "A long process in which people and plants or animals became mutually dependent, with human selection changing the organisms’ genes, bodies and behaviour. Archaeological signs include cereals whose ripe grains no longer fall from the ear, larger seeds, and animals that are smaller or were culled at ages and sexes that point to herding."
+    },
+    {
+      "term": "Early Stone Age",
+      "definition": "The first stage of African archaeology, from the oldest stone tools more than 3 million years ago to roughly 300,000 years ago. It includes the Oldowan and the Acheulean and corresponds broadly to the Lower Palaeolithic of Eurasia."
+    },
+    {
+      "term": "Epigravettian",
+      "definition": "The late Upper Palaeolithic cultures of Italy, the Balkans and eastern Europe that followed the Gravettian, from around the Last Glacial Maximum to the end of the Pleistocene, with backed points and bladelets. Ancient DNA studies show that people associated with the Epigravettian spread their ancestry widely across Europe from about 14,000 years ago."
+    },
+    {
+      "term": "Epipalaeolithic",
+      "definition": "In Southwest Asia and North Africa, the period between the Upper Palaeolithic and the Neolithic, about 24,000 to 11,600 years ago, marked by microliths and increasingly settled life. In the Levant it includes the Kebaran, Geometric Kebaran and Natufian cultures."
+    },
+    {
+      "term": "Flake",
+      "definition": "A piece of stone struck from a core, with a striking platform, a bulb of percussion and naturally sharp edges. Flakes were used directly as knives or shaped further by retouch into scrapers, points and other tools."
+    },
+    {
+      "term": "Founder crops",
+      "definition": "The eight plants usually counted as the first domesticated crops of Southwest Asia: emmer wheat, einkorn wheat, barley, lentil, pea, chickpea, bitter vetch and flax. The idea was popularised by the botanist Daniel Zohary, but other plants, such as faba beans, were also cultivated early, so the list is now seen as incomplete."
+    },
+    {
+      "term": "Genome coverage",
+      "definition": "The average number of times each position in a genome is read during sequencing. The Altai Neanderthal genome published in 2014 had about 52-fold coverage, enough to determine each position reliably, while many ancient genomes have less than 1-fold coverage yet are still useful for studying populations."
+    },
+    {
+      "term": "Ghost population",
+      "definition": "A population known only from traces of its DNA in the genomes of others, with no directly sequenced remains. The Ancient North Eurasians were such a ghost until 2014, when the genome of a 24,000-year-old boy from Mal’ta in Siberia matched the prediction; the archaic ghost in West African genomes has not been identified."
+    },
+    {
+      "term": "Glacial and interglacial",
+      "definition": "Glacials are long cold periods when ice sheets grow and sea level falls; interglacials are the shorter warm periods between them, like the present Holocene and the Eemian, about 130,000 to 115,000 years ago. Over the last 800,000 years they have alternated roughly every 100,000 years."
+    },
+    {
+      "term": "Gravettian",
+      "definition": "An Upper Palaeolithic culture that spread from Portugal to Russia roughly 33,000 to 25,000 years ago, named after La Gravette in the Dordogne. It is known for narrow backed points, female figurines such as those of Willendorf and Dolní Věstonice, figures of fired clay and richly furnished burials."
+    },
+    {
+      "term": "Ground stone",
+      "definition": "Tools shaped by pecking and grinding rather than by flaking, including grinding slabs, querns, mortars, pestles and axes. Grinding stones for plant foods were used at Ohalo II 23,000 years ago, and edge-ground axes appear in northern Australia more than 40,000 years ago."
+    },
+    {
+      "term": "Hafting",
+      "definition": "Fixing a stone point or blade to a handle or shaft with bindings, adhesive or both, creating a composite tool. Evidence may go back 500,000 years at Kathu Pan in South Africa and is widespread after about 300,000 years ago; Neanderthals made birch-tar glue about 200,000 years ago, and people at Sibudu in South Africa mixed plant gum with ochre into compound adhesives."
+    },
+    {
+      "term": "Handaxe",
+      "definition": "A large, teardrop-shaped or oval stone tool flaked on both faces, the signature tool of the Acheulean. Handaxes served as all-purpose tools for butchery, woodworking and cutting plants, and were made for more than 1.5 million years."
+    },
+    {
+      "term": "Haplotype",
+      "definition": "A set of DNA variants inherited together along one stretch of a chromosome. Families of related haplotypes in mitochondrial DNA or the Y chromosome are called haplogroups and are used to trace maternal and paternal lines."
+    },
+    {
+      "term": "Harpoon",
+      "definition": "A barbed point designed to lodge in prey, often detaching from its shaft and tied to a line. Barbed bone points from Katanda in the Democratic Republic of the Congo, dated to about 90,000 years ago, are the oldest claimed; antler harpoons are typical of the European Magdalenian."
+    },
+    {
+      "term": "Heat treatment",
+      "definition": "Controlled heating of stone such as silcrete or flint to make it more glassy and easier to flake finely. At Pinnacle Point in South Africa it is documented from about 164,000 years ago and was routine by about 72,000 years ago (Brown et al. 2009)."
+    },
+    {
+      "term": "Heinrich event",
+      "definition": "An episode during the last glacial period when huge numbers of icebergs broke off the North American ice sheet into the North Atlantic, leaving layers of rock debris on the sea floor. Named after Hartmut Heinrich, who described the layers in 1988, these events brought cold, dry conditions to Europe and weakened monsoons in Africa and Asia."
+    },
+    {
+      "term": "Henge",
+      "definition": "In British archaeology, a circular or oval enclosure with a bank outside its ditch, the reverse of a defensive layout, built from about 3000 BCE. Avebury and Durrington Walls are henges; Stonehenge, whose main bank lies inside its ditch, strictly is not."
+    },
+    {
+      "term": "Holocene",
+      "definition": "The current geological epoch, which began 11,700 years ago with the end of the Younger Dryas cold phase, as defined in a Greenland ice core. Since 2018 it has been divided into the Greenlandian, Northgrippian and Meghalayan ages."
+    },
+    {
+      "term": "Holotype",
+      "definition": "The single specimen chosen to anchor a species name. OH 7 is the holotype of Homo habilis and the Harbin skull that of Homo longi, so any fossil judged to belong with them must take their names."
+    },
+    {
+      "term": "Hominin",
+      "definition": "Humans and all extinct species more closely related to us than to chimpanzees and bonobos, including Sahelanthropus, Ardipithecus, Australopithecus, Paranthropus and Homo. The older term hominid now usually covers all great apes and humans."
+    },
+    {
+      "term": "Howiesons Poort",
+      "definition": "A Middle Stone Age industry of southern Africa, about 65,000 to 59,000 years ago, named after a site near Makhanda (Grahamstown). It is known for small backed segments, probably hafted as arrow tips or barbs, and for engraved ostrich eggshell containers at Diepkloof."
+    },
+    {
+      "term": "Iberomaurusian",
+      "definition": "A Later Stone Age industry of northwest Africa, roughly 25,000 to 11,000 years ago, rich in small backed bladelets; the name reflects a mistaken early idea of links with Iberia. At Taforalt in Morocco its people buried their dead in a cave cemetery, and genomes about 15,000 years old show a mix of Near Eastern and sub-Saharan African ancestry."
+    },
+    {
+      "term": "Industry",
+      "definition": "A set of stone tool types and making techniques that recurs across many sites and layers, such as the Oldowan or the Mousterian. Archaeologists usually speak of a culture when more than tools, such as art, burial customs or houses, is shared."
+    },
+    {
+      "term": "Introgression",
+      "definition": "The transfer of genetic material from one population or species into another through hybridisation followed by back-crossing. A Denisovan version of the EPAS1 gene that helps Tibetans cope with high altitude is a well-known example of introgression from archaic humans."
+    },
+    {
+      "term": "Isotope analysis",
+      "definition": "Measuring ratios of stable isotopes, such as those of carbon, nitrogen, oxygen and strontium, in bones, teeth or shells. Carbon and nitrogen reveal diet, oxygen reflects climate and water sources, and strontium, which mirrors local geology, shows where a person or animal grew up."
+    },
+    {
+      "term": "IUP (Initial Upper Palaeolithic)",
+      "definition": "Early blade industries made with distinctive core techniques, found from the Levant and Bulgaria to Siberia, Mongolia and northern China roughly 50,000 to 40,000 years ago. Many researchers link them to early dispersals of Homo sapiens, which human remains from Bacho Kiro Cave in Bulgaria confirm for Europe."
+    },
+    {
+      "term": "Jōmon",
+      "definition": "The pottery-making culture of hunter-gatherers and fishers in the Japanese archipelago, lasting from about 16,000 years ago until rice farming spread in the first millennium BCE. Named after the cord-marked decoration of its pots, it produced large villages such as Sannai-Maruyama and elaborate clay figurines called dogū."
+    },
+    {
+      "term": "ka and Ma",
+      "definition": "Abbreviations for thousands of years (kilo-annum) and millions of years (mega-annum), usually meaning thousands or millions of years ago. So 40 ka means about 40,000 years ago and 1.8 Ma about 1.8 million years ago."
+    },
+    {
+      "term": "Knapping",
+      "definition": "Shaping stone by striking or pressing off flakes. Knappers use hard hammers of stone, soft hammers of antler, bone or wood, or pressure tools, and choose fine-grained stones such as flint, obsidian or quartzite that break predictably."
+    },
+    {
+      "term": "Kurgan",
+      "definition": "A burial mound raised over one or more graves, especially on the Eurasian steppe; the word entered Russian from Turkic languages. Yamnaya kurgans of about 3300 to 2600 BCE gave their name to Marija Gimbutas’s Kurgan hypothesis of 1956, which linked steppe herders to the spread of Indo-European languages."
+    },
+    {
+      "term": "Last Glacial Maximum (LGM)",
+      "definition": "The time when the ice sheets of the last glacial period were at their largest, about 26,000 to 19,000 years ago, with global sea level some 120 to 130 metres lower than today. Northern Europe, much of North America and high mountains lay under ice, and people withdrew to refugia further south."
+    },
+    {
+      "term": "Later Stone Age",
+      "definition": "The final stage of the Stone Age in sub-Saharan Africa, beginning roughly 50,000 to 40,000 years ago in some regions, with microliths, bone tools and ornaments such as ostrich eggshell beads. In parts of southern Africa, Later Stone Age technology continued into recent centuries."
+    },
+    {
+      "term": "LBK (Linear Pottery culture)",
+      "definition": "The Linearbandkeramik, the first farming culture of central Europe, about 5500 to 4900 BCE, named after bands of incised lines on its pottery. Its farmers built timber longhouses, some more than 30 metres long, and spread from Hungary to the Paris Basin and Ukraine within a few centuries."
+    },
+    {
+      "term": "Levallois",
+      "definition": "A prepared-core technique in which a knapper shapes a core so that a flake of predetermined size and shape can be struck off with a single blow. Named after Levallois-Perret near Paris, it spread in Africa and Eurasia from roughly 400,000 to 300,000 years ago and became the typical method of the Middle Stone Age and Middle Palaeolithic."
+    },
+    {
+      "term": "Lomekwian",
+      "definition": "The name proposed for stone tools about 3.3 million years old found in 2011 at Lomekwi 3, west of Lake Turkana in Kenya: large, simply struck cores and flakes older than any known fossil of Homo. Some researchers question whether the tools really come from such old layers, but many accept them as the earliest known."
+    },
+    {
+      "term": "Lost-wax casting",
+      "definition": "A method of casting metal in which a model is made in wax, encased in clay and heated so that the wax melts out, leaving a mould for molten metal. Among the earliest examples are the arsenical copper objects of the Nahal Mishmar hoard in the southern Levant, of the late fifth or early fourth millennium BCE, and a copper amulet from Mehrgarh in Pakistan about 6,000 years old."
+    },
+    {
+      "term": "Lower Palaeolithic",
+      "definition": "The earliest part of the Palaeolithic, from the first stone tools to roughly 300,000 years ago, including the Oldowan, the Acheulean and simple core-and-flake industries."
+    },
+    {
+      "term": "Magdalenian",
+      "definition": "The last major Upper Palaeolithic culture of western and central Europe, roughly 21,000 to 14,000 years ago, named after La Madeleine in the Dordogne. Its people made antler harpoons, decorated spear-throwers, eyed needles and much of the famous cave art, including that of Altamira and Niaux, and they resettled northern Europe as the ice retreated."
+    },
+    {
+      "term": "Marine Isotope Stage (MIS)",
+      "definition": "A numbered stage in the climate history recorded by oxygen isotopes in deep-sea sediments: odd numbers are warm periods, even numbers cold ones. MIS 1 is the Holocene, MIS 2 includes the Last Glacial Maximum, and MIS 5e is the last interglacial, about 130,000 to 115,000 years ago."
+    },
+    {
+      "term": "Megafauna",
+      "definition": "Large animals, usually defined as those weighing more than about 44 kilograms. Many, such as mammoths, giant ground sloths and Australia’s Diprotodon, died out in the late Pleistocene; how far humans and how far climate change were responsible is debated and differed between continents."
+    },
+    {
+      "term": "Megalith",
+      "definition": "A large stone used, alone or with others, to build a monument. Megalithic monuments such as dolmens, passage tombs, standing stones and stone circles were built in Atlantic Europe from about 4500 BCE onwards, and in many other parts of the world at different times."
+    },
+    {
+      "term": "Megasite",
+      "definition": "An exceptionally large settlement for its time. The term is used especially for Cucuteni–Trypillia sites in Ukraine such as Maidanetske, Nebelivka and Talianki, which around 4000 BCE covered up to about 320 hectares, with hundreds to thousands of houses arranged in concentric rings."
+    },
+    {
+      "term": "Menhir",
+      "definition": "A single standing stone, from Breton words meaning “long stone”. The largest known, the Grand Menhir Brisé at Locmariaquer in Brittany, was more than 20 metres long before it fell and broke."
+    },
+    {
+      "term": "Mesolithic",
+      "definition": "Literally the “middle stone age”, but used only for Europe and neighbouring regions: the period of post-glacial hunter-gatherers from about 11,700 years ago until farming arrived, some 8,500 years ago in the southeast and about 6,000 years ago in Britain and Scandinavia. It is known for microliths, canoes, fishing gear and settlements such as Star Carr and Lepenski Vir."
+    },
+    {
+      "term": "Microlith",
+      "definition": "A very small stone tool, usually less than about 3 centimetres long, often made from a bladelet and shaped into a geometric form such as a triangle, crescent or trapeze. Microliths were set into shafts and handles as points and barbs; they appear at Pinnacle Point in South Africa about 71,000 years ago and dominate many Mesolithic and Epipalaeolithic industries."
+    },
+    {
+      "term": "Middle Palaeolithic",
+      "definition": "The Eurasian period from roughly 300,000 to 40,000 years ago, characterised by prepared-core flake tools such as those of the Mousterian. In Europe it is associated with Neanderthals, in western Asia with both Neanderthals and early Homo sapiens."
+    },
+    {
+      "term": "Middle Stone Age",
+      "definition": "The African stage from roughly 300,000 years ago until between 50,000 and 25,000 years ago, depending on the region, characterised by prepared cores, points and scrapers, often hafted. It spans the emergence of Homo sapiens and includes early pigments, beads and engravings, as at Blombos Cave."
+    },
+    {
+      "term": "Mousterian",
+      "definition": "The main Middle Palaeolithic industry of Europe and western Asia, named after Le Moustier in the Dordogne, with scrapers, points and flakes often made by the Levallois method. It was made mostly by Neanderthals, but in the Levant also by early Homo sapiens, between roughly 300,000 and 40,000 years ago."
+    },
+    {
+      "term": "Movius line",
+      "definition": "A line drawn by the archaeologist Hallam Movius in 1948 to separate a western region with Acheulean handaxes from an East Asian region supposedly without them. Handaxes found since, for example in the Bose Basin of southern China about 800,000 years ago, have blurred the line, although handaxes are indeed rarer in East Asia."
+    },
+    {
+      "term": "mtDNA (mitochondrial DNA)",
+      "definition": "The small circular genome, 16,569 base pairs long, of the cell’s mitochondria, inherited only from the mother. Because each cell holds many copies, it is easier to recover from ancient remains than nuclear DNA, but it records only one line of ancestry."
+    },
+    {
+      "term": "Natufian",
+      "definition": "A late Epipalaeolithic culture of the Levant, about 15,000 to 11,600 years ago, whose people lived in villages of round stone houses, harvested wild cereals with sickles and buried their dead in cemeteries. Charred bread-like remains from Shubayqa 1 in Jordan, about 14,400 years old, are thousands of years older than farming."
+    },
+    {
+      "term": "Neolithic",
+      "definition": "The “New Stone Age”, a term coined by John Lubbock in 1865 for the period of polished stone tools, now defined mainly by farming and herding, often with villages, pottery and ground stone tools. It began about 11,600 years ago in Southwest Asia and at different times elsewhere, in several regions independently, as in China, New Guinea and the Americas."
+    },
+    {
+      "term": "Obsidian",
+      "definition": "Natural volcanic glass that breaks with extremely sharp edges. Each source has a distinctive chemical signature, so obsidian artefacts show how far stone was carried or traded; at Olorgesailie in Kenya, people about 300,000 years ago used obsidian from sources 25 to 95 kilometres away."
+    },
+    {
+      "term": "Ochre",
+      "definition": "Earth pigments rich in iron oxides, red (haematite) or yellow (goethite), ground into powder for paint, adhesives and hide working, among other uses. Hominins were using pigments by about 300,000 years ago in East Africa, and pieces of ochre engraved with cross-hatched lines from Blombos Cave in South Africa are about 75,000 to 100,000 years old."
+    },
+    {
+      "term": "Oldowan",
+      "definition": "The earliest widespread stone tool industry, named after Olduvai Gorge in Tanzania: sharp flakes struck from cobbles, together with the cores and hammerstones used to make them. The oldest Oldowan tools, at Nyayanga in Kenya, date to between about 3.0 and 2.6 million years ago, and the tradition persisted until about 1.7 million years ago, and later in places."
+    },
+    {
+      "term": "OSL (optically stimulated luminescence)",
+      "definition": "A dating method that measures when sediment grains of quartz or feldspar were last exposed to sunlight. Natural radiation gradually fills tiny traps in the crystals with electrons; in the laboratory, light releases them as a glow proportional to the time since burial."
+    },
+    {
+      "term": "Palaeolithic",
+      "definition": "The “Old Stone Age”, a term coined by John Lubbock in 1865, from the first stone tools more than 3 million years ago to the end of the Pleistocene about 11,700 years ago. In Eurasia it is divided into Lower, Middle and Upper Palaeolithic; in sub-Saharan Africa the Early, Middle and Later Stone Age are used instead."
+    },
+    {
+      "term": "Passage tomb",
+      "definition": "A Neolithic monument in which a long stone-lined passage leads to a burial chamber beneath a large mound or cairn. Famous examples include Newgrange in Ireland, built around 3200 BCE, whose passage is lit by the rising sun at the winter solstice, Maeshowe in Orkney and Gavrinis in Brittany."
+    },
+    {
+      "term": "Pastoralism",
+      "definition": "A way of life based on herding domestic animals such as cattle, sheep, goats, camels or reindeer, often with seasonal moves between pastures. In northern Africa, cattle herding spread across the then-green Sahara long before crops were farmed there."
+    },
+    {
+      "term": "Phytolith",
+      "definition": "A microscopic particle of silica formed inside plant cells, which survives long after the rest of the plant has decayed. Phytolith shapes are distinctive enough to identify many plant groups, such as grasses, palms and rice husks, in sediments and on tools."
+    },
+    {
+      "term": "Pleistocene",
+      "definition": "The geological epoch from 2.58 million to 11,700 years ago, marked by repeated cycles of glacials and interglacials. Almost all of human evolution and the whole of the Palaeolithic took place within it."
+    },
+    {
+      "term": "Polished axe",
+      "definition": "A stone axe or adze head shaped by grinding and polishing, which made it tougher and less likely to chip in heavy woodworking. Polished axes are typical of the Neolithic; axes of jadeitite quarried in the Italian Alps were carried as prestige objects as far as Britain and Ireland."
+    },
+    {
+      "term": "PPNA (Pre-Pottery Neolithic A)",
+      "definition": "The first Neolithic phase in the Levant and upper Mesopotamia, roughly 9600 to 8800 BCE. Its people lived in round houses, cultivated cereals and legumes that were still wild in form, and built the tower of Jericho and the earliest monumental enclosures of Göbekli Tepe."
+    },
+    {
+      "term": "PPNB (Pre-Pottery Neolithic B)",
+      "definition": "The phase roughly 8800 to 7000 BCE when rectangular houses, domesticated wheat and barley, sheep, goats, cattle and pigs became established across Southwest Asia. Plastered skulls and the lime plaster statues of ʿAin Ghazal belong to this phase."
+    },
+    {
+      "term": "Pressure flaking",
+      "definition": "Removing small, thin flakes by pressing a pointed tool of antler, bone or wood against the edge of a stone instead of striking it. It gives fine control; the earliest known examples are Still Bay points from Blombos Cave about 75,000 years ago, and the technique later produced thin Solutrean points and countless arrowheads."
+    },
+    {
+      "term": "Radiocarbon dating",
+      "definition": "A method that dates once-living material by measuring its remaining carbon-14, a radioactive form of carbon that decays with a half-life of about 5,730 years. It works back to about 50,000 years ago, and its results must be calibrated to give calendar ages."
+    },
+    {
+      "term": "Refugium",
+      "definition": "An area where plants, animals or people survived a period of hostile climate and from which they later spread out again (plural refugia). During the Last Glacial Maximum, southwestern France, Iberia, Italy and the Balkans served as refugia for European populations."
+    },
+    {
+      "term": "Retouch",
+      "definition": "Small secondary removals along the edge of a flake or blade to sharpen, shape, strengthen or blunt it. The pattern of retouch defines most formal tool types, such as scrapers, points and backed pieces."
+    },
+    {
+      "term": "Sahul",
+      "definition": "The continent formed by Australia, New Guinea and Tasmania when sea levels were low, separated from mainland Asia by the islands of Wallacea. Reaching it always required sea crossings; people arrived by at least 50,000 years ago, and possibly 65,000 years ago according to dates from Madjedbebe in northern Australia."
+    },
+    {
+      "term": "Secondary products",
+      "definition": "Products taken from living animals rather than their carcasses, such as milk, wool, traction and riding. Andrew Sherratt proposed in 1981 a “Secondary Products Revolution” in the fourth millennium BCE, but milk residues in pottery show that dairying had begun by the seventh millennium BCE in Anatolia."
+    },
+    {
+      "term": "Sedentism",
+      "definition": "Living in one place for all or most of the year. Sedentism did not always follow farming: the Natufians of the Levant and the Jōmon of Japan were largely settled hunter-gatherers."
+    },
+    {
+      "term": "Shell midden",
+      "definition": "A heap of discarded shells and other food waste, often built up over centuries at a coastal or riverside camp. Middens record diet, seasons and environments; the Danish kitchen middens of the Ertebølle culture, studied from the 1840s, were among the first to be investigated scientifically."
+    },
+    {
+      "term": "Sickle gloss",
+      "definition": "A bright polish that forms on the edges of flint blades used to cut silica-rich plant stems such as cereals and reeds. It is one of the main archaeological signs of harvesting, from the Natufian onwards."
+    },
+    {
+      "term": "Smelting",
+      "definition": "Extracting metal from ore by heating it with charcoal in a low-oxygen fire. The earliest secure evidence of copper smelting, from Belovode in Serbia, dates to about 5000 BCE, although claims from Iran and Anatolia may be as old or older."
+    },
+    {
+      "term": "Solutrean",
+      "definition": "An Upper Palaeolithic culture of France and Iberia during the Last Glacial Maximum, roughly 25,000 to 20,000 years ago, named after Solutré in Burgundy. Its knappers made exceptionally thin laurel-leaf points using heat treatment and pressure flaking; the idea that Solutreans crossed the Atlantic to America is rejected by most researchers on genetic and archaeological grounds."
+    },
+    {
+      "term": "Starch grain",
+      "definition": "A microscopic granule in which plants store energy, with shapes typical of particular species. Starch grains preserved on grinding stones, tools and dental calculus reveal plant foods; at Ohalo II in Israel they show that wild barley and wheat were ground about 23,000 years ago."
+    },
+    {
+      "term": "Still Bay",
+      "definition": "A Middle Stone Age industry of southern Africa, roughly 77,000 to 70,000 years ago, named after a coastal town in the Western Cape. It is known for finely made, leaf-shaped bifacial points, some finished by pressure flaking, as at Blombos Cave."
+    },
+    {
+      "term": "Stratigraphy",
+      "definition": "The study of layers (strata) in sediments and archaeological deposits. Under the law of superposition, lower layers are older unless disturbed, so careful recording of layers underpins relative dating and the association of finds."
+    },
+    {
+      "term": "Sunda",
+      "definition": "The continental shelf joining the Malay Peninsula, Sumatra, Java and Borneo to mainland Southeast Asia when sea levels were low. It formed a large land area of forests and savanna corridors, much of it now under the South China Sea and the Java Sea."
+    },
+    {
+      "term": "Taphonomy",
+      "definition": "The study of what happens to remains between death and discovery: decay, scavenging, trampling, transport, burial and fossilisation. Taphonomic analysis distinguishes butchery marks from carnivore bites or trampling, and natural bone accumulations from deliberate burial; the term was coined by Ivan Efremov in 1940."
+    },
+    {
+      "term": "Tell",
+      "definition": "A mound built up from the debris of successive settlements on the same spot over centuries or millennia, typical of Southwest Asia and southeastern Europe. Local names include tall in Arabic, tepe in Persian and Turkish, and höyük in Turkish, as in Çatalhöyük."
+    },
+    {
+      "term": "Tephra",
+      "definition": "Fragments of rock, glass and crystals thrown out by volcanic eruptions, from fine ash to pumice. Tephra layers make ideal time markers because each eruption is geologically instantaneous and has a distinctive chemistry, and they can often be dated directly."
+    },
+    {
+      "term": "Tin bronze",
+      "definition": "An alloy of copper with around 10 percent tin, harder and easier to cast than copper. A few early pieces, such as a foil from Pločnik in Serbia of about 4650 BCE, were made from naturally mixed ores; deliberate tin bronze spread across Southwest Asia in the third millennium BCE and through Europe by about 2000 BCE, creating long-distance trade in scarce tin."
+    },
+    {
+      "term": "U-series dating",
+      "definition": "Uranium-series dating measures the decay of uranium, dissolved in water, into thorium in materials such as cave calcite, corals and teeth. Because thorium does not dissolve in water, newly formed calcite contains almost none, and its gradual build-up gives ages up to about 500,000 years."
+    },
+    {
+      "term": "Upper Palaeolithic",
+      "definition": "The last part of the Palaeolithic in Eurasia, from roughly 50,000 to about 12,000 years ago, associated with Homo sapiens. It is marked by blade and bladelet technology, tools of bone, antler and ivory, personal ornaments, figurative art and musical instruments."
+    },
+    {
+      "term": "Use-wear",
+      "definition": "Microscopic damage, polish and striations on a tool’s edge caused by use, which reveal how it was used and on what material. The method was founded by Sergei Semenov in the Soviet Union and refined from the 1970s by Lawrence Keeley and others through experiments with replica tools."
+    },
+    {
+      "term": "Wallacea",
+      "definition": "The islands between the Sunda and Sahul continental shelves, including Sulawesi, Lombok, Flores, Timor and the Moluccas, which were never joined to either by land. Named after the naturalist Alfred Russel Wallace, they could only be reached across the sea, which hominins had done on Flores by about 1 million years ago."
+    },
+    {
+      "term": "Y chromosome",
+      "definition": "The sex chromosome passed from father to son, most of which does not recombine and so traces a single paternal line. Ancient Y chromosomes show, for instance, that the original Neanderthal Y was replaced by one from early relatives of Homo sapiens (Petr et al. 2020)."
+    },
+    {
+      "term": "Yamnaya",
+      "definition": "Pastoralists of the Pontic–Caspian steppe, about 3300 to 2600 BCE, who used wagons, herded cattle and sheep and buried their dead under kurgans. Ancient DNA shows that people with Yamnaya-related ancestry spread west into Europe and east to the Altai within a few centuries, a movement many researchers link to the spread of Indo-European languages."
+    },
+    {
+      "term": "Yangshao",
+      "definition": "A Neolithic culture of the middle Yellow River valley in China, about 5000 to 3000 BCE, based on millet farming and pig keeping and known for red pottery painted in black. Villages such as Banpo near Xi’an and Jiangzhai had houses arranged around central open spaces."
+    },
+    {
+      "term": "Younger Dryas",
+      "definition": "A cold interval about 12,900 to 11,700 years ago, when much of the northern hemisphere returned abruptly to near-glacial conditions. It was most likely caused by a slowdown of the Atlantic Ocean circulation; a proposed comet impact trigger is rejected by most researchers. It is named after the tundra flower Dryas octopetala."
+    }
+  ]
+}

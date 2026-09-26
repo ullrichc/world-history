@@ -1,0 +1,337 @@
+{
+  "id": "first-tools",
+  "order": 3,
+  "act": "toolmakers",
+  "title": "The First Toolmakers",
+  "subtitle": "Lomekwi, Nyayanga and the Oldowan",
+  "era": "Early Stone Age (Lomekwian and Oldowan)",
+  "start": 3300000,
+  "end": 1700000,
+  "dateLabel": "3.3–1.7 million years ago",
+  "regions": [
+    "africa"
+  ],
+  "focus": [
+    0,
+    -5,
+    45,
+    38
+  ],
+  "emblem": "chopper",
+  "summary": "More than 3 million years ago, hominins in eastern Africa began breaking stones on purpose to make sharp edges. From Lomekwi’s heavy cores to the Oldowan flakes of Nyayanga, Gona and Olduvai, the first technology spread across Africa, and it may not have been invented by our own genus.",
+  "narration": [
+    "Strike one cobble of lava against another at just the right angle, and a sharp flake peels away, with an edge keener than any tooth or claw. Around 3.3 million years ago, west of Lake Turkana in Kenya, someone was doing exactly that. At a site called Lomekwi 3, archaeologists found heavy cores, flakes and stone anvils, the oldest known knapped tools, older than any fossil of our own genus.",
+    "By about 2.6 million years ago a more controlled way of flaking, the Oldowan, appears in Ethiopia and Kenya. At Nyayanga, near the shore of Lake Victoria, toolmakers used simple flakes to butcher hippopotamuses and to pound plants, sometime between 3 million and 2.6 million years ago. The only hominin fossils found there are teeth of Paranthropus, the robust cousin of our ancestors.",
+    "The Oldowan spread across Africa, from Algeria to Tanzania, and for more than half a million years it barely changed. Capuchin monkeys in Brazil produce similar flakes by accident when they bang stones together, and chimpanzees in West Africa leave behind their own nut-cracking stones. So archaeologists must ask a hard question: was the Oldowan a tradition, taught and learned, or an easy trick that any clever primate could reinvent?",
+    "What is clear is that the first toolmakers did not need big brains. The old idea that stone tools define our genus, and that Homo invented them, no longer fits the evidence."
+  ],
+  "pronounce": {
+    "Lomekwi": "Lo-meh-kwee",
+    "Nyayanga": "Nyah-yahn-gah",
+    "Oldowan": "Ol-doh-wan",
+    "Paranthropus": "Par-an-thro-pus",
+    "Turkana": "Tur-kah-nah"
+  },
+  "body": [
+    {
+      "heading": "How to break a stone",
+      "paragraphs": [
+        "Knapping relies on conchoidal fracture. Fine-grained, brittle rocks such as flint, chert, obsidian, fine basalt and quartzite break like thick glass: a blow near the edge of a cobble, struck at an angle of less than 90 degrees to a flat ‘striking platform’, sends a cone of force through the stone and detaches a flake with a smooth, shell-like surface. The flake keeps the marks of the blow, a bulb of percussion and ripple lines, and the core keeps a matching scar. Series of scars struck from the same platform, and flakes that refit onto their core, distinguish deliberate knapping from breakage by rivers, rockfalls or trampling animals.",
+        "The skill lies in choosing the right stone, angle and force, and in planning each blow from the scars left by the last. Brain-imaging studies by Dietrich Stout and colleagues show that even simple Oldowan knapping recruits networks for visual and motor coordination. Three techniques appear early: freehand percussion with a hammerstone; bipolar percussion, with the core resting on an anvil; and passive hammer, in which the core is swung against a stationary anvil."
+      ]
+    },
+    {
+      "heading": "Lomekwi 3: older than Homo",
+      "paragraphs": [
+        "In July 2011 a team led by Sonia Harmand and Jason Lewis, surveying west of Lake Turkana, took a wrong turn and found stone artefacts on a hillside. Excavations at Lomekwi 3 recovered 149 artefacts, including cores, flakes, anvils and hammerstones, some weighing several kilograms. Published in Nature in 2015, they were dated to about 3.3 million years by argon–argon dating of nearby volcanic ash layers and by palaeomagnetism, some 700,000 years before the oldest known Oldowan tools.",
+        "Harmand’s team named the industry the Lomekwian. Its makers relied mainly on anvil-based techniques and produced large, irregular flakes, with less control than later Oldowan knappers. In 2016 Manuel Domínguez-Rodrigo and Luis Alcalá questioned whether the artefacts really came from the 3.3-million-year-old layer, since many were collected on the surface and the in situ finds might have come from younger sediments. The excavators answered with detailed geological mapping. No second site of the same age has yet been found."
+      ]
+    },
+    {
+      "heading": "Cut marks at Dikika",
+      "paragraphs": [
+        "Stone use may be older still. In 2010 Shannon McPherron, Zeresenay Alemseged and colleagues reported two animal bones from Dikika, Ethiopia, a rib of a cow-sized animal and a thigh bone of a goat-sized one, with marks they interpreted as cutting flesh and hammering for marrow, dated to about 3.39 million years ago. No stone tools were found with them. Domínguez-Rodrigo, Travis Pickering and Henry Bunn argued that the marks were made when bones were trampled in coarse sand. If the marks are genuine, they were probably made by Australopithecus afarensis, the only hominin known in the area, perhaps using naturally sharp stones."
+      ]
+    },
+    {
+      "heading": "The Oldowan appears",
+      "paragraphs": [
+        "The Oldowan, named by Mary Leakey after Olduvai Gorge, where she classified its tools in a 1971 monograph, consists of cores, sharp flakes, hammerstones and battered pieces. Its knappers struck flakes with controlled freehand blows, often turning a core to find new platforms. For decades the oldest examples came from Gona in Ethiopia’s Afar, where Sileshi Semaw and colleagues reported tools 2.6–2.5 million years old in 1997. In 2019 David Braun and colleagues described slightly older tools from Bokol Dora 1 at Ledi-Geraru, 2.61–2.58 million years old, in the same research area as the oldest known jaw of Homo (chapter 4). They differ subtly from the Gona tools, hinting at more than one early tradition.",
+        "In 2023 a team led by Thomas Plummer extended the early Oldowan far to the south-west. At Nyayanga on the Homa Peninsula, by Lake Victoria in Kenya, they excavated 330 artefacts dated to between about 3.0 and 2.6 million years ago by argon–argon, palaeomagnetism and associated fossils. Cut marks and fractures on hippopotamus bones show butchery, and microscopic wear on the tools shows that they were used on animal tissue and on plants, including starchy parts. The only hominin remains are two Paranthropus molars, among the oldest fossils of the genus.",
+        "A 2025 study in Nature Communications, led by David Braun, followed the Oldowan at Namorotukunan in Kenya’s Turkana Basin through about 300,000 years, from roughly 2.75 to 2.44 million years ago. Despite environmental upheavals, including droughts and fires recorded in the same sequence, the knappers kept selecting good stone and making tools the same way, suggesting a stable, well-learned skill."
+      ]
+    },
+    {
+      "heading": "Across Africa",
+      "paragraphs": [
+        "By 2 million years ago Oldowan toolmakers were widespread. At Kanjera South, also on the Homa Peninsula, Plummer’s excavations show that hominins carried good stone more than 10 kilometres and repeatedly butchered small antelopes, apparently whole, and the heads of larger ones, evidence for regular meat eating. At Ain Boucherit in northeastern Algeria, a team led by Mohamed Sahnouni reported in 2018 Oldowan tools and cut-marked bones dated by palaeomagnetism, electron spin resonance and animal fossils to about 2.4 and 1.9 million years ago. If the older date holds, toolmaking either spread across the continent quickly or began in more than one place; some researchers suspect the layers are younger.",
+        "At Olduvai Gorge, sites in Bed I from about 1.9 million years ago preserve dense concentrations of tools and animal bones that shaped debates about early human behaviour (chapter 4). The Oldowan continued in many places long after the first handaxes appeared about 1.75 million years ago, and it was the technology carried into Asia by the first hominins to leave Africa (chapter 6)."
+      ]
+    },
+    {
+      "heading": "Other primates, other stones",
+      "paragraphs": [
+        "Stone tool use is not unique to hominins, which both helps and complicates the search for the first tools. West African chimpanzees crack nuts with stone hammers, and in 2007 Julio Mercader and colleagues excavated chimpanzee nut-cracking stones about 4,300 years old at Noulo in Côte d’Ivoire’s Taï Forest. In 2016 Tomos Proffitt and colleagues showed that wild bearded capuchins in Brazil’s Serra da Capivara National Park, pounding quartzite cobbles, unintentionally detach flakes with conchoidal fractures that resemble some early hominin flakes; capuchins there have used stones for at least 3,000 years. Long-tailed macaques in Thailand produce similar debris when cracking nuts and shellfish.",
+        "Percussion with stones is therefore probably ancient among primates, and sharp flakes can arise without intent. What marks the hominin record is the repeated, deliberate production of flakes, their transport across the landscape and their use on meat and plants. Lomekwi 3 may have emerged from a long, nearly invisible phase of pounding and cracking."
+      ]
+    },
+    {
+      "heading": "Learning to knap",
+      "paragraphs": [
+        "Oldowan tools look simple, but making them well takes practice. In 2015 Thomas Morgan and colleagues taught volunteers Oldowan knapping in chains of learners, each passing the skill on by a different means: letting the next person study the products, demonstrating, gesturing or talking. Learners taught with gestures and especially with speech produced more usable flakes, and the authors suggested that toolmaking and teaching may have co-evolved, favouring early forms of language. Other experiments, by William Snyder, Claudio Tennie and colleagues in 2022, found that people who had never seen knapping could work out how to detach sharp flakes on their own, supporting the view that Oldowan flaking lay within reach of individual invention."
+      ]
+    },
+    {
+      "heading": "Who made them?",
+      "paragraphs": [
+        "For decades the answer seemed obvious: Homo habilis, the ‘handy man’, named in 1964 partly because of the Oldowan tools at Olduvai. The evidence now points to a wider cast. Lomekwi 3 is older than any known Homo; the nearest hominin fossils in time and place are Kenyanthropus platyops and Australopithecus afarensis. Cut-marked bones at Bouri lie near fossils of A. garhi. At Nyayanga, Paranthropus is the only hominin found. Early Homo is present in the Ledi-Geraru area near the oldest Oldowan tools, but not at the tool site itself.",
+        "Anatomy supports a broad view. In 2015 Matthew Skinner and colleagues found that the internal bone structure of A. africanus hand bones reflects forceful, human-like grips, and in 2025 Paranthropus boisei hand bones from Koobi Fora showed human-like thumb and finger proportions (chapter 2). Several kinds of hominin, with brains little larger than a chimpanzee’s, probably made and used stone tools."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Are the Lomekwi 3 artefacts the oldest stone tools?",
+      "views": [
+        {
+          "label": "Yes, 3.3 million years old",
+          "text": "Sonia Harmand, Jason Lewis and colleagues argue that artefacts excavated in place, with clear knapping scars and refits, lie in sediments securely dated by volcanic ash and palaeomagnetism to 3.3 million years."
+        },
+        {
+          "label": "Not yet proven",
+          "text": "Manuel Domínguez-Rodrigo and Luis Alcalá (2016) and other sceptics note that many pieces were surface finds, question the link between the excavated artefacts and the dated layer, and call for a second site of similar age before rewriting the story."
+        }
+      ],
+      "status": "Lomekwi 3 is widely cited as the oldest evidence of knapping, but it remains a single site. The discovery of comparable artefacts elsewhere, or new work at Lomekwi, would settle the question."
+    },
+    {
+      "question": "Were the Dikika bones butchered 3.39 million years ago?",
+      "views": [
+        {
+          "label": "Butchery marks",
+          "text": "Shannon McPherron, Zeresenay Alemseged and colleagues argue that the marks’ shapes, positions and internal features match stone-tool cuts and percussion rather than trampling."
+        },
+        {
+          "label": "Trampling",
+          "text": "Manuel Domínguez-Rodrigo, Travis Pickering and Henry Bunn argue that the marks match experimental damage from bones trampled in abrasive sand, and note that no tools were found."
+        }
+      ],
+      "status": "Still debated in 2026. Methods that separate cut marks from trampling statistically have improved, but two bones are a small sample; more marked bones from the same period would be decisive."
+    },
+    {
+      "question": "Who made the first stone tools?",
+      "views": [
+        {
+          "label": "Early Homo",
+          "text": "The traditional view links tools to Homo, whose earliest fossil, LD 350-1 at 2.8 million years, comes from the same area as the oldest Oldowan tools, and whose smaller teeth may reflect food processed with tools."
+        },
+        {
+          "label": "Other hominins too",
+          "text": "Sonia Harmand, Thomas Plummer and others point out that Lomekwi 3 predates known Homo, that Paranthropus is the only hominin at Nyayanga, that A. garhi lived near cut-marked bones at Bouri, and that australopith and Paranthropus hands could make tools."
+        }
+      ],
+      "status": "Most researchers now accept that tool use was not unique to Homo and that several hominins probably made tools. Direct proof, such as a toolmaker’s hand found with tools, is still lacking."
+    },
+    {
+      "question": "Was early knapping a cultural tradition?",
+      "views": [
+        {
+          "label": "Taught and learned",
+          "text": "Dietrich Stout, Thomas Morgan and others argue that controlled Oldowan flaking takes practice and benefits from teaching, and that consistent, long-lived traditions such as those at Namorotukunan imply social transmission."
+        },
+        {
+          "label": "Reinvented by individuals",
+          "text": "Claudio Tennie, William Snyder and colleagues argue that basic flaking is a ‘latent solution’ that individuals can rediscover, as capuchins and naive human volunteers show, so its stability need not imply culture."
+        }
+      ],
+      "status": "Both processes probably played a part. Regional differences between early sites, if confirmed, would support learned traditions; better experiments on how quickly naive knappers reach Oldowan standards would help."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Oldest knapped tools",
+      "value": "Lomekwi 3, Kenya, about 3.3 million years (published 2015)"
+    },
+    {
+      "label": "Oldest Oldowan",
+      "value": "Nyayanga (3.0–2.6 million years) and Bokol Dora 1, Ledi-Geraru (2.61–2.58 million years)"
+    },
+    {
+      "label": "Oldest claimed cut marks",
+      "value": "Dikika, Ethiopia, about 3.39 million years (disputed)"
+    },
+    {
+      "label": "Early Oldowan in North Africa",
+      "value": "Ain Boucherit, Algeria, about 2.4 million years (debated)"
+    },
+    {
+      "label": "Early big-game butchery",
+      "value": "Hippopotamus bones at Nyayanga"
+    },
+    {
+      "label": "Non-human stone archaeology",
+      "value": "Chimpanzee nut-cracking stones 4,300 years old, Côte d’Ivoire"
+    }
+  ],
+  "sites": [
+    {
+      "id": "lomekwi-3",
+      "name": "Lomekwi 3",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 3.91,
+      "lon": 35.87,
+      "start": 3300000,
+      "end": 3300000,
+      "dateLabel": "3.3 million years ago",
+      "type": "tools",
+      "summary": "Site of the Lomekwian: large cores, flakes and anvils about 3.3 million years old, the oldest known knapped stone tools, published in 2015."
+    },
+    {
+      "id": "dikika",
+      "name": "Dikika (DIK-55)",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 11.05,
+      "lon": 40.63,
+      "start": 3390000,
+      "end": 3390000,
+      "dateLabel": "about 3.39 million years ago",
+      "type": "other",
+      "summary": "Two animal bones with marks interpreted as stone-tool butchery, reported in 2010, or as trampling damage according to critics."
+    },
+    {
+      "id": "nyayanga",
+      "name": "Nyayanga",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": -0.4,
+      "lon": 34.4,
+      "start": 3000000,
+      "end": 2600000,
+      "dateLabel": "3.0–2.6 million years ago",
+      "type": "tools",
+      "summary": "Homa Peninsula site with 330 Oldowan artefacts, butchered hippopotamus bones and two Paranthropus molars, published in 2023."
+    },
+    {
+      "id": "ledi-geraru",
+      "name": "Ledi-Geraru (Bokol Dora 1)",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 11.35,
+      "lon": 40.8,
+      "start": 2610000,
+      "end": 2580000,
+      "dateLabel": "2.61–2.58 million years ago",
+      "type": "tools",
+      "summary": "Some of the oldest Oldowan tools, described in 2019, from the same Afar research area as the oldest jaw of Homo."
+    },
+    {
+      "id": "gona",
+      "name": "Gona",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 11.1,
+      "lon": 40.35,
+      "start": 2600000,
+      "end": 2500000,
+      "dateLabel": "2.6–2.5 million years ago",
+      "type": "tools",
+      "summary": "Where Oldowan tools dated to 2.6–2.5 million years were reported in 1997, long the oldest known stone tools."
+    },
+    {
+      "id": "bouri",
+      "name": "Bouri",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 10.3,
+      "lon": 40.53,
+      "start": 2500000,
+      "end": 2500000,
+      "dateLabel": "about 2.5 million years ago",
+      "type": "fossil",
+      "summary": "Middle Awash site of Australopithecus garhi, found near antelope bones with cut marks and marrow-extraction fractures."
+    },
+    {
+      "id": "ain-boucherit",
+      "name": "Ain Boucherit",
+      "country": "Algeria",
+      "region": "africa",
+      "lat": 36.24,
+      "lon": 5.62,
+      "start": 2400000,
+      "end": 1900000,
+      "dateLabel": "about 2.4–1.9 million years ago",
+      "type": "tools",
+      "summary": "Oldowan tools and cut-marked bones in northeastern Algeria, reported in 2018; the older date would make it one of the earliest toolmaking sites anywhere."
+    },
+    {
+      "id": "kanjera-south",
+      "name": "Kanjera South",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": -0.34,
+      "lon": 34.53,
+      "start": 2000000,
+      "end": 2000000,
+      "dateLabel": "about 2 million years ago",
+      "type": "tools",
+      "summary": "Oldowan site where hominins carried stone from more than 10 kilometres away and repeatedly butchered antelopes, early evidence of regular meat eating."
+    },
+    {
+      "id": "olduvai-gorge",
+      "name": "Olduvai Gorge",
+      "country": "Tanzania",
+      "region": "africa",
+      "lat": -2.99,
+      "lon": 35.35,
+      "start": 1900000,
+      "end": 1700000,
+      "dateLabel": "about 1.9–1.7 million years ago",
+      "type": "tools",
+      "summary": "The gorge that gave the Oldowan its name; Mary Leakey’s excavations in Bed I defined the industry in her 1971 monograph."
+    }
+  ],
+  "themes": [
+    "technology",
+    "food",
+    "animals",
+    "species"
+  ],
+  "sources": [
+    {
+      "cite": "Harmand, S. et al. (2015). 3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya. Nature 521, 310–315.",
+      "doi": "10.1038/nature14464"
+    },
+    {
+      "cite": "McPherron, S. P. et al. (2010). Evidence for stone-tool-assisted consumption of animal tissues before 3.39 million years ago at Dikika, Ethiopia. Nature 466, 857–860."
+    },
+    {
+      "cite": "Domínguez-Rodrigo, M. & Alcalá, L. (2016). 3.3-million-year-old stone tools and butchery traces? More evidence needed. PaleoAnthropology 2016, 46–53."
+    },
+    {
+      "cite": "Semaw, S. et al. (1997). 2.5-million-year-old stone tools from Gona, Ethiopia. Nature 385, 333–336."
+    },
+    {
+      "cite": "Braun, D. R. et al. (2019). Earliest known Oldowan artifacts at >2.58 Ma from Ledi-Geraru, Ethiopia, highlight early technological diversity. PNAS 116, 11712–11717."
+    },
+    {
+      "cite": "Plummer, T. W. et al. (2023). Expanded geographic distribution and dietary strategies of the earliest Oldowan hominins and Paranthropus. Science 379, 561–566."
+    },
+    {
+      "cite": "Braun, D. R. et al. (2025). Early Oldowan technology thrived during Pliocene environmental change in the Turkana Basin, Kenya. Nature Communications 16."
+    },
+    {
+      "cite": "Sahnouni, M. et al. (2018). 1.9-million- and 2.4-million-year-old artifacts and stone tool-cutmarked bones from Ain Boucherit, Algeria. Science 362, 1297–1301."
+    },
+    {
+      "cite": "Proffitt, T. et al. (2016). Wild monkeys flake stone tools. Nature 539, 85–88."
+    },
+    {
+      "cite": "Mercader, J. et al. (2007). 4,300-year-old chimpanzee sites and the origins of percussive stone technology. PNAS 104, 3043–3048."
+    },
+    {
+      "cite": "Morgan, T. J. H. et al. (2015). Experimental evidence for the co-evolution of hominin tool-making teaching and language. Nature Communications 6, 6029."
+    }
+  ]
+}

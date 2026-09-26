@@ -1,0 +1,25 @@
+{
+  "name": "the-long-dawn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An interactive, narrated world history of the Stone Age",
+  "type": "module",
+  "scripts": {
+    "validate": "node tools/validate-content.mjs",
+    "build:content": "node tools/validate-content.mjs && node tools/build-content.mjs",
+    "build:geo": "node tools/build-geo.mjs",
+    "build:vendor": "node tools/build-vendor.mjs",
+    "serve": "npx --yes http-server -c-1 -p 8080 ."
+  },
+  "devDependencies": {
+    "@fontsource-variable/fraunces": "^5.2.8",
+    "@fontsource/ibm-plex-mono": "^5.2.7",
+    "@fontsource/literata": "^5.2.8",
+    "d3": "^7.9.0",
+    "mapshaper": "^0.6.113",
+    "topojson-client": "^3.1.0",
+    "topojson-server": "^3.0.1",
+    "world-atlas": "^2.0.2"
+  },
+  "license": "Apache-2.0"
+}

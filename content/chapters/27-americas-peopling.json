@@ -1,0 +1,523 @@
+{
+  "id": "americas-peopling",
+  "order": 27,
+  "act": "one-species",
+  "title": "Into the Americas",
+  "subtitle": "Beringia, White Sands, Monte Verde and Clovis",
+  "era": "Late Pleistocene (Palaeoindian)",
+  "start": 30000,
+  "end": 11000,
+  "dateLabel": "30,000–11,000 years ago",
+  "regions": [
+    "americas",
+    "asia"
+  ],
+  "focus": [
+    -180,
+    -45,
+    -35,
+    72
+  ],
+  "emblem": "point",
+  "summary": "People from northeast Asia reached the Americas across Beringia and spread to southern Chile by 14,500 years ago, long before Clovis. Footprints at White Sands may push arrival back to 23,000 years ago, and the fate of the Ice Age giants is still debated.",
+  "narration": [
+    "About 23,000 years ago, on the muddy shore of a lake in what is now New Mexico, teenagers and young children walked and played along the water’s edge. Their footprints filled with sediment and hardened. Today the lake is the white gypsum flat of White Sands, and those prints are among the most debated evidence in American archaeology.",
+    "For most of the twentieth century the story seemed settled. Hunters crossed a land bridge from Siberia to Alaska, walked south through a gap between the ice sheets around 13,000 years ago, and spread across two continents with their fluted Clovis spear points. That model has collapsed. At Monte Verde in southern Chile, people were living in timber-framed shelters and eating seaweed 14,500 years ago, and sites in Idaho, Texas, Florida and Oregon are as old or older.",
+    "Genomes tell a parallel story. The ancestors of Native Americans formed as a distinct population in northeast Asia or Beringia between about 25,000 and 20,000 years ago, from a mixture of East Asian and Ancient North Eurasian ancestry. Some of their descendants stayed in the north. Others moved south, probably along a Pacific coast rich in kelp, fish and seals, because the inland corridor between the ice sheets could not support travellers until about 13,000 years ago.",
+    "Then, as the Ice Age ended, mammoths, mastodons, giant ground sloths and American horses vanished. Whether people, climate or both were to blame is one of the oldest arguments in the field."
+  ],
+  "pronounce": {
+    "Monte Verde": "Mon-teh Vair-deh",
+    "Beringia": "Beh-rin-jee-uh"
+  },
+  "body": [
+    {
+      "heading": "Beringia and the standstill",
+      "paragraphs": [
+        "When sea level stood about 120 metres lower, a plain up to 1,000 kilometres wide from north to south joined Siberia and Alaska. Beringia was cold, dry grassland, and people were already in the Siberian Arctic by about 32,000 years ago (chapter 22). Genomes show that the ancestors of Native Americans formed as a distinct population between roughly 25,000 and 20,000 years ago, when a group related to East Asians mixed with Ancient North Eurasians, known from the 24,000-year-old boy of Mal’ta near Lake Baikal. In 2007 Erika Tamm and colleagues used mitochondrial DNA to propose a “Beringian standstill”: several thousand years of isolation during which distinctive lineages accumulated. Where it happened is debated. The name implies Beringia itself, but some genomic studies place the isolated population in northeast Asia.",
+        "In 2013 archaeologists at the Upward Sun River site in central Alaska found the burial of an infant girl about 11,500 years old, whom the Healy Lake Village community named Xach’itee’aanenh T’eede Gaay, “sunrise girl-child”. Her genome, published in 2018 by José Víctor Moreno-Mayar, Ben Potter, Eske Willerslev and colleagues, revealed a previously unknown population, the Ancient Beringians, who had split from other Native American ancestors about 22,000–18,000 years ago and stayed in the north. The rest divided around 17,500–14,600 years ago into northern and southern branches; the southern branch gave rise to most Indigenous peoples of Central and South America.",
+        "A further puzzle came in 2015, when Pontus Skoglund, David Reich and colleagues found that some Amazonian peoples, such as the Suruí and Karitiana, share slightly more genetic variants with Indigenous Australians, New Guineans and Andaman Islanders than other Native Americans do. The signal, attributed to an unsampled “Population Y”, was later found in a roughly 10,400-year-old individual from Lagoa Santa in Brazil. Most geneticists think it reflects structure within the founding population in northeast Asia or Beringia rather than a voyage across the Pacific."
+      ]
+    },
+    {
+      "heading": "Footprints at White Sands",
+      "paragraphs": [
+        "In the Tularosa Basin of New Mexico, the dried bed of Ice Age Lake Otero preserves the tracks of mammoths, giant ground sloths, camels and dire wolves, and of people. In 2021 Matthew Bennett, Kathleen Springer, Jeffrey Pigati and colleagues reported human footprints, mostly of teenagers and children, sealed between layers containing seeds of the aquatic plant Ruppia cirrhosa radiocarbon dated to about 23,000–21,000 years ago, in the depths of the Last Glacial Maximum. A group led by David Madsen objected that aquatic plants absorb old carbon dissolved in lake water, which could make the dates thousands of years too old.",
+        "In 2023 the team answered with radiocarbon dates on pollen from land plants, mainly conifers, and with optically stimulated luminescence dates on quartz grains; both gave similar ages. Many archaeologists were persuaded. Sceptics still ask why no stone tools or camps of that age have been found nearby, and whether the pollen could have been washed in from older deposits."
+      ]
+    },
+    {
+      "heading": "Older claims",
+      "paragraphs": [
+        "Other sites claim still earlier arrivals, and each is disputed. At Chiquihuite Cave, high in the mountains of Zacatecas in Mexico, Ciprian Ardelean and colleagues reported in 2020 nearly 2,000 limestone artefacts in layers beginning about 33,000 years ago; critics argue that many could be naturally broken rock and note the absence of hearths or human DNA. At Bluefish Caves in the Yukon, a 2017 re-study led by Lauriane Bourgeon identified cut marks on a horse jaw about 24,000 years old, though carnivores and trampling can leave similar marks. At Santa Elina rock shelter in central Brazil, researchers reported in 2023 bony skin plates of a giant ground sloth, about 27,000 years old, that appear to have been drilled and polished into ornaments. None has convinced most specialists on its own; together with White Sands, they keep the possibility of a much earlier arrival open."
+      ]
+    },
+    {
+      "heading": "Before Clovis",
+      "paragraphs": [
+        "The case for people before Clovis rests on sites that most archaeologists now accept. At Monte Verde in southern Chile, excavated by Tom Dillehay from 1977, waterlogged peat preserved the timber foundations of a long, apparently hide-covered structure, wooden stakes, pieces of meat, wild potatoes and medicinal plants, dated to about 14,500 years ago. In 2008 Dillehay’s team identified several species of seaweed brought from the coast, eaten and probably used as medicine. After a panel of visiting sceptics accepted the site in 1997, the Clovis-first model collapsed. Dillehay has also reported stone tools about 18,500 years old from deeper layers, a claim that remains contested.",
+        "In North America, Paisley Caves in Oregon yielded human coprolites containing human DNA, about 14,300 years old, alongside stemmed points. At Page-Ladson, a sinkhole in Florida’s Aucilla River, divers recovered a stone knife and a mastodon tusk with cut marks, about 14,550 years old. Beside Buttermilk Creek in Texas, the Friedkin site produced thousands of artefacts in layers dated by luminescence to about 15,500–13,200 years ago. At Cooper’s Ferry in Idaho, Loren Davis and colleagues dated pits and stemmed points to about 16,000 years ago, and have compared the points with those of Late Palaeolithic Japan, a hint of a Pacific Rim connection."
+      ]
+    },
+    {
+      "heading": "Clovis and Folsom",
+      "paragraphs": [
+        "Even the existence of Ice Age Americans was once controversial. In 1908 a flood exposed large bones in Wild Horse Arroyo near Folsom, New Mexico, and George McJunkin, a ranch foreman born into slavery, recognised that they were unusual. Excavations by the Colorado Museum of Natural History in 1926–27 found fluted points among the bones of an extinct bison, and in 1927 a point was left in place between two ribs so that visiting scientists could see it: proof that people had hunted Ice Age animals in the Americas.",
+        "In the 1930s, at Blackwater Draw near Clovis, New Mexico, larger fluted points were found with mammoth bones, beneath the Folsom layers. Clovis points, thinned by long flakes struck from the base, spread across much of North America; a 2020 re-dating by Michael Waters and colleagues places the Clovis complex at about 13,050–12,750 years ago. Many researchers now see Clovis as a technology that spread quickly among people already present, rather than the arrival of the first Americans. The only known Clovis burial, the Anzick child from Montana, belongs genetically to the southern branch of Native American ancestry."
+      ]
+    },
+    {
+      "heading": "Coast or corridor?",
+      "paragraphs": [
+        "How people got south of the ice is still argued. The Laurentide and Cordilleran ice sheets met along the eastern flank of the Rocky Mountains during the glacial maximum. When they parted, an ice-free corridor opened between them, but a 2016 study led by Mikkel Winther Pedersen, using ancient DNA from lake sediments, found that it lacked the plants and animals needed to support travellers until about 12,600 years ago, and bison fossils suggest the corridor was not open end to end until roughly 13,000 years ago. That is too late for Monte Verde or Paisley Caves.",
+        "The alternative is the Pacific coast, where outer islands and headlands were free of ice by about 17,000–16,000 years ago. In 2007 Jon Erlandson and colleagues proposed a “kelp highway”: a near-continuous belt of kelp forests from Japan to Baja California, rich in fish, shellfish, sea mammals and seabirds, which people with boats could follow. Its weakness is evidence: the Ice Age shoreline now lies tens of metres underwater, so the route must largely be inferred."
+      ]
+    },
+    {
+      "heading": "The great die-off",
+      "paragraphs": [
+        "By about 11,000 years ago North America had lost most of its large mammals, including mammoths, mastodons, giant ground sloths, horses, camels, sabre-toothed cats, short-faced bears and dire wolves, and South America lost glyptodonts and giant sloths. In 1967 Paul Martin proposed prehistoric overkill, later sharpened into a “blitzkrieg” in which skilled hunters wiped out naive prey within centuries. Supporters point to the timing and to a worldwide pattern of extinctions following human arrival. Critics such as Donald Grayson and David Meltzer note that only a handful of Clovis sites show mammoths or mastodons killed or butchered, and that some species were declining as climate swung from the Bølling–Allerød warmth into the Younger Dryas cold (chapter 28). Many researchers now think hunting and habitat change acted together.",
+        "In 2007 Richard Firestone, Allen West, James Kennett and colleagues proposed a more dramatic cause: a comet impact or airburst about 12,800 years ago that triggered the Younger Dryas, wildfires, the extinctions and a collapse of Clovis populations. The idea has been promoted vigorously, but most researchers reject it, for the reasons summarised in the debates below."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "When did people first reach the Americas?",
+      "views": [
+        {
+          "label": "During or before the glacial maximum",
+          "text": "The White Sands team (Bennett, Springer, Pigati and colleagues) argue that three independent dating methods place footprints at 23,000–21,000 years ago. Ciprian Ardelean (Chiquihuite Cave) and the Santa Elina researchers argue for even earlier occupation, perhaps by groups that left few descendants."
+        },
+        {
+          "label": "Not much before 16,000 years ago",
+          "text": "Sceptics note that the oldest widely accepted sites with tools and camps, such as Cooper’s Ferry, are about 16,000 years old, that genetic models place the formation of the ancestral Native American population around 25,000–20,000 years ago in Asia or Beringia, and that the White Sands dates rest on indirect material."
+        }
+      ],
+      "status": "By 2026 many archaeologists accept that people were at White Sands by about 21,000 years ago, but a pre-glacial arrival is not established. If it is right, those first arrivals may have contributed little to later Native American ancestry. Stone tools or human DNA of similar age would settle it."
+    },
+    {
+      "question": "Did the first Americans travel down the coast or through an inland corridor?",
+      "views": [
+        {
+          "label": "Pacific coast",
+          "text": "Jon Erlandson, Todd Braje, Loren Davis and others argue that coastal areas were free of ice by about 17,000–16,000 years ago and offered a rich kelp-forest economy, which fits the ages of Monte Verde, Paisley Caves and Cooper’s Ferry."
+        },
+        {
+          "label": "Ice-free corridor",
+          "text": "The traditional route between the ice sheets suited the Clovis-first model. Some researchers still see it as important for later movements, including bison and people travelling north and south after about 13,000 years ago."
+        }
+      ],
+      "status": "Sediment DNA and bison fossils show that the corridor was not viable before about 13,000–12,600 years ago, so most researchers now favour the coast for the first arrivals. Direct proof lies on drowned shorelines, which are only beginning to be explored."
+    },
+    {
+      "question": "What killed the American megafauna?",
+      "views": [
+        {
+          "label": "Human hunting",
+          "text": "Following Paul Martin, supporters of overkill point to the close timing with human expansion and to similar extinctions after human arrival on other continents and islands."
+        },
+        {
+          "label": "Climate change",
+          "text": "Donald Grayson, David Meltzer and others stress the small number of kill sites and argue that rapid swings between the Bølling–Allerød and the Younger Dryas reshaped habitats."
+        },
+        {
+          "label": "Both together",
+          "text": "Many recent studies combine the two, arguing that hunting pressure tipped populations already stressed by changing vegetation and climate."
+        }
+      ],
+      "status": "The combined view is the most widely held today. Better dating of the last appearance of each species, including from sediment DNA, is steadily refining the picture."
+    },
+    {
+      "question": "Did a cosmic impact trigger the Younger Dryas?",
+      "views": [
+        {
+          "label": "Impact hypothesis",
+          "text": "Richard Firestone, Allen West, James Kennett and members of the Comet Research Group argue that a layer about 12,800 years old contains magnetic spherules, nanodiamonds, melt glass and platinum anomalies from a fragmented comet."
+        },
+        {
+          "label": "Rejection",
+          "text": "Vance Holliday, David Meltzer, Mark Boslough and others counter that the markers are not unique, not reproducible and not of the same age everywhere, that no crater exists, that many extinctions were not simultaneous, that Clovis gave way to Folsom without a collapse, and that the Younger Dryas is well explained by meltwater weakening Atlantic circulation."
+        }
+      ],
+      "status": "A comprehensive 2023 review led by Holliday concluded that the hypothesis is not supported, and most geologists and archaeologists reject it, though its proponents continue to publish."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "White Sands footprints",
+      "value": "About 23,000–21,000 years ago (reported 2021; supported by new dates in 2023)"
+    },
+    {
+      "label": "Monte Verde, Chile",
+      "value": "About 14,500 years ago; accepted in 1997"
+    },
+    {
+      "label": "Clovis complex",
+      "value": "About 13,050–12,750 years ago"
+    },
+    {
+      "label": "Ice-free corridor",
+      "value": "Viable for travellers only after about 13,000–12,600 years ago"
+    },
+    {
+      "label": "Ancient Beringians",
+      "value": "Split from other Native American ancestors about 22,000–18,000 years ago"
+    }
+  ],
+  "sites": [
+    {
+      "id": "white-sands",
+      "name": "White Sands",
+      "country": "United States (New Mexico)",
+      "region": "americas",
+      "lat": 32.88,
+      "lon": -106.38,
+      "start": 23000,
+      "end": 21000,
+      "dateLabel": "about 23,000–21,000 years ago",
+      "type": "footprints",
+      "summary": "Human footprints, mostly of teenagers and children, beside tracks of mammoths and ground sloths. Dated with seeds, pollen and luminescence; still debated."
+    },
+    {
+      "id": "chiquihuite-cave",
+      "name": "Chiquihuite Cave",
+      "country": "Mexico",
+      "region": "americas",
+      "lat": 24.64,
+      "lon": -101.4,
+      "start": 33000,
+      "end": 13000,
+      "dateLabel": "about 33,000–13,000 years ago (claimed)",
+      "type": "tools",
+      "summary": "High mountain cave with nearly 2,000 claimed stone artefacts in layers from about 33,000 years ago; many archaeologists doubt they are human-made."
+    },
+    {
+      "id": "bluefish-caves",
+      "name": "Bluefish Caves",
+      "country": "Canada (Yukon)",
+      "region": "americas",
+      "lat": 67.15,
+      "lon": -140.78,
+      "start": 24000,
+      "end": 12000,
+      "dateLabel": "about 24,000 years ago (claimed)",
+      "type": "tools",
+      "summary": "Small caves in eastern Beringia with animal bones that may carry human cut marks about 24,000 years old."
+    },
+    {
+      "id": "upward-sun-river",
+      "name": "Upward Sun River",
+      "country": "United States (Alaska)",
+      "region": "americas",
+      "lat": 64.3,
+      "lon": -146.55,
+      "start": 11500,
+      "end": 11500,
+      "dateLabel": "about 11,500 years ago",
+      "type": "dna",
+      "summary": "Burial of an infant girl whose genome revealed the Ancient Beringians, a previously unknown population."
+    },
+    {
+      "id": "coopers-ferry",
+      "name": "Cooper’s Ferry",
+      "country": "United States (Idaho)",
+      "region": "americas",
+      "lat": 45.85,
+      "lon": -116.42,
+      "start": 16000,
+      "end": 15000,
+      "dateLabel": "about 16,000 years ago",
+      "type": "tools",
+      "summary": "Pits and stemmed points about 16,000 years old on the Salmon River, among the oldest accepted evidence of people in North America."
+    },
+    {
+      "id": "paisley-caves",
+      "name": "Paisley Caves",
+      "country": "United States (Oregon)",
+      "region": "americas",
+      "lat": 42.76,
+      "lon": -120.54,
+      "start": 14300,
+      "end": 12000,
+      "dateLabel": "about 14,300 years ago",
+      "type": "dna",
+      "summary": "Caves with human coprolites containing human DNA and stemmed points, older than Clovis."
+    },
+    {
+      "id": "page-ladson",
+      "name": "Page-Ladson",
+      "country": "United States (Florida)",
+      "region": "americas",
+      "lat": 30.18,
+      "lon": -83.93,
+      "start": 14550,
+      "end": 14550,
+      "dateLabel": "about 14,550 years ago",
+      "type": "tools",
+      "summary": "Underwater sinkhole site with a stone knife and a cut-marked mastodon tusk."
+    },
+    {
+      "id": "friedkin-site",
+      "name": "Friedkin site (Buttermilk Creek)",
+      "country": "United States (Texas)",
+      "region": "americas",
+      "lat": 30.89,
+      "lon": -97.73,
+      "start": 15500,
+      "end": 13200,
+      "dateLabel": "about 15,500–13,200 years ago",
+      "type": "tools",
+      "summary": "Thousands of stone artefacts in layers beneath Clovis, dated by luminescence."
+    },
+    {
+      "id": "monte-verde",
+      "name": "Monte Verde",
+      "country": "Chile",
+      "region": "americas",
+      "lat": -41.5,
+      "lon": -73.2,
+      "start": 14500,
+      "end": 14500,
+      "dateLabel": "about 14,500 years ago",
+      "type": "settlement",
+      "summary": "Waterlogged camp with timber structures, meat, wild potatoes and seaweed; its acceptance in 1997 ended the Clovis-first model."
+    },
+    {
+      "id": "santa-elina",
+      "name": "Santa Elina",
+      "country": "Brazil",
+      "region": "americas",
+      "lat": -15.45,
+      "lon": -56.77,
+      "start": 27000,
+      "end": 10000,
+      "dateLabel": "about 27,000 years ago (claimed)",
+      "type": "tools",
+      "summary": "Rock shelter with giant ground sloth bone plates that appear to have been worked into ornaments about 27,000 years ago."
+    },
+    {
+      "id": "blackwater-draw",
+      "name": "Blackwater Draw",
+      "country": "United States (New Mexico)",
+      "region": "americas",
+      "lat": 34.28,
+      "lon": -103.33,
+      "start": 13050,
+      "end": 12750,
+      "dateLabel": "about 13,050–12,750 years ago (Clovis)",
+      "type": "tools",
+      "summary": "Type site of the Clovis culture, where fluted points were found with mammoth bones in the 1930s."
+    },
+    {
+      "id": "folsom-site",
+      "name": "Folsom site",
+      "country": "United States (New Mexico)",
+      "region": "americas",
+      "lat": 36.86,
+      "lon": -104.03,
+      "start": 12700,
+      "end": 12200,
+      "dateLabel": "about 12,700–12,200 years ago",
+      "type": "tools",
+      "summary": "Bison kill site where a point found between the ribs of an extinct bison in 1927 proved that people lived in the Americas during the Ice Age."
+    }
+  ],
+  "routes": [
+    {
+      "id": "beringian-crossing",
+      "label": "Across Beringia",
+      "start": 25000,
+      "end": 15000,
+      "certainty": "established",
+      "path": [
+        [
+          150,
+          68
+        ],
+        [
+          165,
+          67
+        ],
+        [
+          177,
+          65.5
+        ],
+        [
+          -178,
+          65.3
+        ],
+        [
+          -170,
+          65.3
+        ],
+        [
+          -162,
+          65.5
+        ],
+        [
+          -153,
+          65.5
+        ],
+        [
+          -146,
+          64.3
+        ]
+      ]
+    },
+    {
+      "id": "pacific-coast-route",
+      "label": "Pacific coastal route (favoured for first arrivals)",
+      "start": 17000,
+      "end": 14500,
+      "certainty": "debated",
+      "path": [
+        [
+          -165,
+          55
+        ],
+        [
+          -155,
+          58
+        ],
+        [
+          -146,
+          60
+        ],
+        [
+          -137,
+          58
+        ],
+        [
+          -132,
+          54
+        ],
+        [
+          -127,
+          49.5
+        ],
+        [
+          -124.5,
+          43
+        ],
+        [
+          -122,
+          37
+        ],
+        [
+          -117.5,
+          32.5
+        ],
+        [
+          -110,
+          23.5
+        ],
+        [
+          -96,
+          15.5
+        ],
+        [
+          -84,
+          8
+        ],
+        [
+          -80,
+          1
+        ],
+        [
+          -80.5,
+          -6
+        ],
+        [
+          -76.5,
+          -14
+        ],
+        [
+          -71.5,
+          -30
+        ],
+        [
+          -73.2,
+          -41.5
+        ]
+      ]
+    },
+    {
+      "id": "ice-free-corridor",
+      "label": "Ice-free corridor (viable only after about 13,000 years ago)",
+      "start": 13000,
+      "end": 11000,
+      "certainty": "debated",
+      "path": [
+        [
+          -146,
+          64.3
+        ],
+        [
+          -135,
+          63
+        ],
+        [
+          -125,
+          60
+        ],
+        [
+          -119,
+          56
+        ],
+        [
+          -114,
+          51.5
+        ],
+        [
+          -110,
+          47.5
+        ],
+        [
+          -106,
+          43
+        ]
+      ]
+    }
+  ],
+  "themes": [
+    "migration",
+    "genetics",
+    "technology",
+    "animals",
+    "climate",
+    "seafaring"
+  ],
+  "sources": [
+    {
+      "cite": "Moreno-Mayar, J.V. et al. (2018). Terminal Pleistocene Alaskan genome reveals first founding population of Native Americans. Nature 553."
+    },
+    {
+      "cite": "Skoglund, P. et al. (2015). Genetic evidence for two founding populations of the Americas. Nature 525."
+    },
+    {
+      "cite": "Bennett, M.R. et al. (2021). Evidence of humans in North America during the Last Glacial Maximum. Science 373."
+    },
+    {
+      "cite": "Pigati, J.S. et al. (2023). Independent age estimates resolve the controversy of ancient human footprints at White Sands. Science 382."
+    },
+    {
+      "cite": "Ardelean, C.F. et al. (2020). Evidence of human occupation in Mexico around the Last Glacial Maximum. Nature 584."
+    },
+    {
+      "cite": "Dillehay, T.D. et al. (2008). Monte Verde: seaweed, food, medicine, and the peopling of South America. Science 320."
+    },
+    {
+      "cite": "Davis, L.G. et al. (2019). Late Upper Paleolithic occupation at Cooper’s Ferry, Idaho, USA, ~16,000 years ago. Science 365."
+    },
+    {
+      "cite": "Waters, M.R., Stafford, T.W., Carlson, D.L. (2020). The age of Clovis: 13,050 to 12,750 cal yr B.P. Science Advances 6."
+    },
+    {
+      "cite": "Pedersen, M.W. et al. (2016). Postglacial viability and colonization in North America’s ice-free corridor. Nature 537."
+    },
+    {
+      "cite": "Holliday, V.T. et al. (2023). Comprehensive refutation of the Younger Dryas Impact Hypothesis (YDIH). Earth-Science Reviews 247."
+    }
+  ]
+}

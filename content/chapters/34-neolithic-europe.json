@@ -1,0 +1,454 @@
+{
+  "id": "neolithic-europe",
+  "order": 34,
+  "act": "transition",
+  "title": "Farmers Come to Europe",
+  "subtitle": "From Knossos to longhouses, pile dwellings and the Trypillia megasites",
+  "era": "Neolithic",
+  "start": 9000,
+  "end": 5000,
+  "dateLabel": "c. 7000–3000 BCE",
+  "regions": [
+    "europe"
+  ],
+  "focus": [
+    -10,
+    34,
+    36,
+    57
+  ],
+  "emblem": "house",
+  "summary": "From about 7000 BCE, farmers descended from Anatolian populations carried crops and herds into Europe along two great routes, up the Danube and around the Mediterranean shore. They built longhouses and timber wells, mixed with local hunter-gatherers, fought, boomed and crashed, and in Ukraine raised settlements of more than a thousand houses.",
+  "narration": [
+    "The farmers of Anatolia did not stay at home. Beneath the Bronze Age palace at Knossos, on Crete, lies something far older: a farming village founded about 9,000 years ago by people who had crossed the sea with wheat, barley, sheep, goats, pigs and cattle in their boats. None of those animals or crops was native to the island. They were the vanguard of a movement that would transform Europe.",
+    "Ancient DNA has settled an old argument. Farming did not spread across Europe mainly as an idea passed from neighbour to neighbour. It travelled with people, descendants of Anatolian farmers, who moved up the Danube and along the Mediterranean shore, meeting and slowly mixing with the hunter-gatherers already there. Within two thousand years their longhouses stood from Hungary to the Paris Basin, and the timber linings of their wells, dated to the year by tree rings, are among the oldest surviving examples of carpentry.",
+    "It was not a gentle story. At Talheim in Germany, 34 men, women and children were killed with stone adzes and arrows and thrown into a pit about 7,000 years ago. Populations boomed and then crashed. Yet far to the east, in what is now Ukraine, farmers built settlements of more than a thousand houses laid out in great rings, and some archaeologists think they ran them without kings."
+  ],
+  "pronounce": {
+    "Knossos": "Knoss-oss",
+    "Talheim": "Tahl-hime"
+  },
+  "body": [
+    {
+      "heading": "Across the Aegean",
+      "paragraphs": [
+        "Farming entered Europe by sea as well as by land. At Knossos on Crete, the lowest layer beneath the later palace is an aceramic village founded around 7000 BCE by settlers who brought cereals, sheep, goats, pigs and cattle, none of them native to the island. On the Greek mainland, Franchthi Cave in the Argolid had been home to hunter-gatherers who already sailed to Melos for obsidian; domestic plants and animals appear there around 6800 BCE. The plain of Thessaly soon filled with farming villages that grew into mounds, among them Sesklo and Argissa.",
+        "Genomes from early farmers in Greece and northwest Anatolia, published by Zuzana Hofmanová and colleagues in 2016, show that they descended from Anatolian farmers and were close relatives of the ancestors of most of Europe’s first farmers."
+      ]
+    },
+    {
+      "heading": "Up the Danube",
+      "paragraphs": [
+        "From the southern Balkans, the Starčevo–Körös–Criș cultures spread farming villages across Serbia, Hungary and Romania between about 6200 and 5500 BCE. Around 5500 BCE, in western Hungary, a new way of life took shape: the Linearbandkeramik, or Linear Pottery culture (LBK), named after the incised bands on its pots. Within a few centuries LBK farmers had settled the fertile loess soils from Hungary to the Paris Basin and from the Rhine to Ukraine.",
+        "Their signature was the longhouse, a timber building 5 to 7 m wide and often 20 to 40 m long, with five rows of posts, walls of wattle and daub, and pits alongside from which clay was dug. Hamlets of a few houses grew emmer, einkorn, peas, lentils and flax and kept cattle, sheep, goats and pigs. They also dug wells. Waterlogged oak linings from wells at Erkelenz-Kückhoven in the Rhineland and Altscherbitz near Leipzig have been dated by tree rings to around 5100 BCE, and some wells in Saxony are older still. A 2012 study of four Saxon wells, including Altscherbitz, led by Willy Tegel showed that their corner joints were cut with stone adzes as skilfully as later log cabins, making them among the oldest surviving examples of timber joinery in the world."
+      ]
+    },
+    {
+      "heading": "Along the Mediterranean shore",
+      "paragraphs": [
+        "A second stream moved west by boat. Farmers making Impressa pottery settled the Adriatic coasts and southern Italy from around 6100 BCE. The Cardial culture, named for pottery decorated with the edge of cockle shells, then leapfrogged along the coasts of Liguria, southern France and Iberia, reaching Portugal by around 5400 BCE. João Zilhão argued in 2001 that such speed implies small groups of seafaring pioneers founding enclaves among hunter-gatherers. At La Draga, beside Lake Banyoles in Catalonia, a lakeside village of about 5300 BCE preserved in waterlogged mud has yielded wooden posts, digging sticks, sickle handles, baskets and yew bows, the kind of equipment that almost never survives."
+      ]
+    },
+    {
+      "heading": "People, not just ideas",
+      "paragraphs": [
+        "In the 1970s Albert Ammerman and Luca Cavalli-Sforza modelled the spread of farming as a “wave of advance” of about a kilometre a year, driven by population growth and short moves by farmers’ children. Many archaeologists preferred cultural diffusion, in which local hunter-gatherers adopted crops and herds. Ancient DNA has largely settled the question for central, southern and western Europe: the first farmers there were overwhelmingly of Anatolian descent. A 2017 study led by Mark Lipson then showed that hunter-gatherer ancestry rose within farming populations over the following two thousand years, by different amounts in different regions, as the two groups mixed.",
+        "Britain and Ireland, reached around 4000 BCE, show the same pattern: a 2019 study led by Selina Brace found that British Neolithic farmers descended mainly from continental farmers related to those of Iberia and France, with little local hunter-gatherer ancestry. In southern Scandinavia the Funnel Beaker culture brought farming around 4000 BCE with a similar turnover. In the eastern Baltic and the forests further east, by contrast, hunter-gatherers adopted pottery and some farming practices while keeping their own ancestry."
+      ]
+    },
+    {
+      "heading": "Milk and cheese",
+      "paragraphs": [
+        "Chemistry shows what the new farmers did with their herds. Richard Evershed’s team found milk fats in pottery from northwestern Anatolia dating to the seventh millennium BCE. In 2013 Mélanie Salque and colleagues identified milk residues in perforated sherds, probably cheese strainers, from sites in the Kuyavia region of Poland dated between about 5200 and 4800 BCE, the earliest direct evidence of cheese making. Turning milk into cheese or yoghurt lowers its lactose, which mattered because almost no adults could then digest fresh milk: the genetic variant for lactase persistence became common only thousands of years later."
+      ]
+    },
+    {
+      "heading": "Massacres and crashes",
+      "paragraphs": [
+        "The end of the LBK, around 5000 BCE, was violent in places. At Talheim in southwestern Germany, a pit held 34 people, men, women and children, killed by blows from stone adzes and by arrows. At Schöneck-Kilianstädten near Frankfurt, a mass grave of 26 people, published by Christian Meyer and colleagues in 2015, showed that many victims’ lower legs had been deliberately broken, perhaps as torture or mutilation. At Asparn-Schletz in Austria, the ditch around a settlement held dozens of bodies with head wounds, with young women notably under-represented, perhaps because they were taken captive.",
+        "Herxheim in the Palatinate is stranger still. Its ditches contained the broken, scattered remains of at least 500 people, with cut marks, smashed long bones and carefully trimmed skull caps, deposited with fine pottery, some of it in styles from regions hundreds of kilometres away. Whether this was cannibalism, sacrifice or an unusual funerary rite is one of the sharpest debates of European prehistory (see Debates).",
+        "In 2013 Stephen Shennan and colleagues used thousands of radiocarbon dates as a proxy for population and found that, region after region, numbers rose steeply after farming arrived and then fell back sharply within a few centuries. The LBK crisis fits this boom-and-bust pattern."
+      ]
+    },
+    {
+      "heading": "Lakes and megasites",
+      "paragraphs": [
+        "Around the Alps, from about 5000 BCE, farmers built villages on the shores of lakes and bogs, often on raised floors or piles. Waterlogged sediments preserved wooden houses, textiles, bread, tools and seeds, and tree rings date many buildings to the exact year of felling. In 2011 UNESCO listed 111 of these pile-dwelling sites in six countries: Switzerland, Austria, France, Germany, Italy and Slovenia.",
+        "In the forest-steppe of Ukraine, the Cucuteni–Trypillia culture produced something without parallel in Neolithic Europe. Between about 4100 and 3400 BCE, settlements such as Nebelivka, Maidanetske and Talianki covered 200 to more than 300 hectares, with one to two thousand or more houses arranged in concentric oval rings around an open centre, larger assembly buildings at intervals, and houses deliberately burned at the end of their use. Geomagnetic surveys by German, British and Ukrainian teams have mapped them in detail. Population estimates range from a few thousand to tens of thousands, and how such places were organised without palaces or obvious rulers is fiercely argued."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Did farming spread by migration or by imitation?",
+      "views": [
+        {
+          "label": "Demic diffusion",
+          "text": "Albert Ammerman and Luca Cavalli-Sforza proposed that farming spread with farmers themselves in a slow wave of advance. Ancient DNA studies since 2015, by Wolfgang Haak, Iain Mathieson, Zuzana Hofmanová, Mark Lipson, Selina Brace and others, show that early farmers across most of Europe descended overwhelmingly from Anatolian populations."
+        },
+        {
+          "label": "Cultural diffusion",
+          "text": "Marek Zvelebil, Julian Thomas and others argued that local hunter-gatherers adopted farming, pottery and monuments, pointing to continuity in stone tools and settlement in some regions. Hunter-gatherer ancestry did return within farming populations, and in the eastern Baltic and the forest zone foragers adopted pottery and herding largely as ideas."
+        }
+      ],
+      "status": "Migration was the main engine in southern, central and western Europe, including Britain and Ireland, often by leaps rather than a smooth wave. Local hunter-gatherers were absorbed gradually, and in the northeast adoption without large migration mattered more."
+    },
+    {
+      "question": "What happened at Herxheim?",
+      "views": [
+        {
+          "label": "Cannibalism",
+          "text": "Bruno Boulestin, Andrea Zeeb-Lanz and colleagues (2009) argued that cut marks, marrow-cracking of long bones and processing patterns resembling those on butchered animals show that hundreds of people were eaten, perhaps as part of a ritual at the end of the LBK."
+        },
+        {
+          "label": "Ritual destruction or secondary burial",
+          "text": "Jörg Orschiedt, Miriam Haidle and others see an elaborate mortuary rite in which bodies were dismembered and destroyed, arguing that the marks do not prove consumption."
+        },
+        {
+          "label": "Sacrifice of outsiders",
+          "text": "Isotope studies indicate that many individuals were not local and pottery came from distant regions, leading some to suggest the killing or sacrifice of captives or pilgrims."
+        }
+      ],
+      "status": "Herxheim is unique and remains unresolved. Most researchers agree that the remains were deliberately processed at a time of social crisis; whether people were eaten is disputed."
+    },
+    {
+      "question": "Were the Trypillia megasites egalitarian cities?",
+      "views": [
+        {
+          "label": "Large, permanent and self-governing",
+          "text": "Johannes Müller, Robert Hofmann, René Ohlrau and the Kiel team argue from dating and survey that most houses were occupied at the same time, implying populations in the thousands to tens of thousands, and interpret the assembly buildings as places of collective decision-making without rulers. David Graeber and David Wengrow popularised this as early urbanism without kings."
+        },
+        {
+          "label": "Assembly places",
+          "text": "Bisserka Gaydarska, John Chapman and colleagues working at Nebelivka propose that megasites grew as periodic gathering places for dispersed communities, with far fewer permanent residents at any one time."
+        }
+      ],
+      "status": "Both camps agree the megasites lacked palaces or clear elites. Their size at any moment, and so whether they count as cities, depends on dating that is still being refined."
+    },
+    {
+      "question": "Why did early farming populations boom and bust?",
+      "views": [
+        {
+          "label": "Internal dynamics",
+          "text": "Stephen Shennan and colleagues (2013) found that population collapses followed initial booms in most regions without matching climate events, suggesting overshoot, conflict or disease."
+        },
+        {
+          "label": "Climate and environment",
+          "text": "Other researchers link some declines to cool, wet or unstable phases and soil exhaustion."
+        },
+        {
+          "label": "Methodological caution",
+          "text": "Critics such as Daniel Contreras and John Meadows (2014) showed that summed radiocarbon dates can create spurious peaks and troughs, so the method needs careful testing."
+        }
+      ],
+      "status": "Improved statistical methods still show booms and busts in many regions, but their causes probably differed from place to place."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "First farmers in Europe",
+      "value": "Knossos and Thessaly, c. 7000–6500 BCE"
+    },
+    {
+      "label": "LBK",
+      "value": "c. 5500–4900 BCE, from Hungary to the Paris Basin"
+    },
+    {
+      "label": "Oldest timber wells",
+      "value": "Around 5100 BCE, dated by tree rings"
+    },
+    {
+      "label": "Talheim massacre",
+      "value": "34 people killed, c. 5000 BCE"
+    },
+    {
+      "label": "Pile dwellings",
+      "value": "111 UNESCO sites in six Alpine countries (2011)"
+    },
+    {
+      "label": "Trypillia megasites",
+      "value": "200 to over 300 hectares, c. 4100–3400 BCE"
+    }
+  ],
+  "sites": [
+    {
+      "id": "knossos",
+      "name": "Knossos",
+      "country": "Greece",
+      "region": "europe",
+      "lat": 35.3,
+      "lon": 25.16,
+      "start": 9000,
+      "end": 8500,
+      "dateLabel": "c. 7000–6500 BCE",
+      "type": "settlement",
+      "summary": "Aceramic Neolithic village beneath the later palace, founded by seafaring farmers with imported crops and livestock."
+    },
+    {
+      "id": "franchthi-cave",
+      "name": "Franchthi Cave",
+      "country": "Greece",
+      "region": "europe",
+      "lat": 37.42,
+      "lon": 23.13,
+      "start": 8800,
+      "end": 5000,
+      "dateLabel": "c. 6800–3000 BCE",
+      "type": "settlement",
+      "summary": "Cave with a long hunter-gatherer sequence, including Melian obsidian, where domestic plants and animals appear around 6800 BCE."
+    },
+    {
+      "id": "sesklo",
+      "name": "Sesklo",
+      "country": "Greece",
+      "region": "europe",
+      "lat": 39.36,
+      "lon": 22.84,
+      "start": 8700,
+      "end": 6500,
+      "dateLabel": "c. 6700–4500 BCE",
+      "type": "settlement",
+      "summary": "Thessalian tell that gave its name to an Early and Middle Neolithic culture of painted pottery and mudbrick houses."
+    },
+    {
+      "id": "erkelenz-kuckhoven",
+      "name": "Erkelenz-Kückhoven",
+      "country": "Germany",
+      "region": "europe",
+      "lat": 51.06,
+      "lon": 6.34,
+      "start": 7100,
+      "end": 7000,
+      "dateLabel": "c. 5100 BCE",
+      "type": "settlement",
+      "summary": "LBK settlement with an oak-lined well dated by tree rings, one of the oldest examples of timber joinery known."
+    },
+    {
+      "id": "talheim",
+      "name": "Talheim",
+      "country": "Germany",
+      "region": "europe",
+      "lat": 49.08,
+      "lon": 9.19,
+      "start": 7000,
+      "end": 7000,
+      "dateLabel": "c. 5000 BCE",
+      "type": "burial",
+      "summary": "Mass grave of 34 men, women and children killed with adzes and arrows at the end of the LBK."
+    },
+    {
+      "id": "herxheim",
+      "name": "Herxheim",
+      "country": "Germany",
+      "region": "europe",
+      "lat": 49.15,
+      "lon": 8.22,
+      "start": 7050,
+      "end": 6950,
+      "dateLabel": "c. 5050–4950 BCE",
+      "type": "burial",
+      "summary": "LBK enclosure whose ditches held the processed remains of at least 500 people, interpreted as cannibalism, sacrifice or mortuary ritual."
+    },
+    {
+      "id": "la-draga",
+      "name": "La Draga",
+      "country": "Spain",
+      "region": "europe",
+      "lat": 42.13,
+      "lon": 2.76,
+      "start": 7300,
+      "end": 7000,
+      "dateLabel": "c. 5300–5000 BCE",
+      "type": "settlement",
+      "summary": "Waterlogged early farming village on Lake Banyoles with rare wooden tools, bows and baskets."
+    },
+    {
+      "id": "unteruhldingen",
+      "name": "Unteruhldingen, Lake Constance",
+      "country": "Germany",
+      "region": "europe",
+      "lat": 47.73,
+      "lon": 9.25,
+      "start": 7000,
+      "end": 2500,
+      "dateLabel": "c. 5000–500 BCE (Alpine series)",
+      "type": "settlement",
+      "summary": "Part of the UNESCO series of prehistoric pile dwellings around the Alps, where waterlogged lake-shore villages are dated to the year by tree rings."
+    },
+    {
+      "id": "talianki",
+      "name": "Talianki",
+      "country": "Ukraine",
+      "region": "europe",
+      "lat": 48.79,
+      "lon": 30.47,
+      "start": 6000,
+      "end": 5600,
+      "dateLabel": "c. 4000–3600 BCE",
+      "type": "settlement",
+      "summary": "The largest Trypillia megasite, covering some 300 hectares, with houses in concentric rings around an open centre."
+    }
+  ],
+  "routes": [
+    {
+      "id": "danubian-farming",
+      "label": "Danubian spread of farming",
+      "start": 8500,
+      "end": 6900,
+      "certainty": "established",
+      "path": [
+        [
+          29.5,
+          40.3
+        ],
+        [
+          26.5,
+          41.0
+        ],
+        [
+          22.4,
+          39.6
+        ],
+        [
+          21.9,
+          41.9
+        ],
+        [
+          21.2,
+          43.6
+        ],
+        [
+          20.5,
+          44.8
+        ],
+        [
+          19.5,
+          46.6
+        ],
+        [
+          17.6,
+          47.3
+        ],
+        [
+          16.4,
+          48.2
+        ],
+        [
+          12.1,
+          48.9
+        ],
+        [
+          8.3,
+          49.9
+        ],
+        [
+          6.3,
+          51.0
+        ],
+        [
+          3.0,
+          49.3
+        ]
+      ]
+    },
+    {
+      "id": "mediterranean-farming",
+      "label": "Mediterranean spread of farming",
+      "start": 8700,
+      "end": 7400,
+      "certainty": "established",
+      "path": [
+        [
+          26.5,
+          38.6
+        ],
+        [
+          23.1,
+          37.4
+        ],
+        [
+          19.5,
+          39.6
+        ],
+        [
+          16.0,
+          41.4
+        ],
+        [
+          13.0,
+          42.6
+        ],
+        [
+          10.3,
+          43.6
+        ],
+        [
+          8.4,
+          44.2
+        ],
+        [
+          4.5,
+          43.5
+        ],
+        [
+          2.8,
+          42.1
+        ],
+        [
+          -0.4,
+          39.4
+        ],
+        [
+          -5.0,
+          36.6
+        ],
+        [
+          -8.9,
+          38.6
+        ]
+      ]
+    }
+  ],
+  "themes": [
+    "farming",
+    "migration",
+    "genetics",
+    "settlement",
+    "violence",
+    "food",
+    "animals",
+    "seafaring"
+  ],
+  "sources": [
+    {
+      "cite": "Ammerman, A. J. & Cavalli-Sforza, L. L. (1984). The Neolithic Transition and the Genetics of Populations in Europe. Princeton: Princeton University Press."
+    },
+    {
+      "cite": "Boulestin, B. et al. (2009). Mass cannibalism in the Linear Pottery Culture at Herxheim (Palatinate, Germany). Antiquity 83, 968–982."
+    },
+    {
+      "cite": "Tegel, W. et al. (2012). Early Neolithic water wells reveal the world’s oldest wood architecture. PLOS ONE 7, e51374."
+    },
+    {
+      "cite": "Salque, M. et al. (2013). Earliest evidence for cheese making in the sixth millennium BC in northern Europe. Nature 493, 522–525."
+    },
+    {
+      "cite": "Shennan, S. et al. (2013). Regional population collapse followed initial agriculture booms in mid-Holocene Europe. Nature Communications 4, 2486."
+    },
+    {
+      "cite": "Meyer, C. et al. (2015). The massacre mass grave of Schöneck-Kilianstädten reveals new insights into collective violence in Early Neolithic Central Europe. PNAS 112, 11217–11222."
+    },
+    {
+      "cite": "Hofmanová, Z. et al. (2016). Early farmers from across Europe directly descended from Neolithic Aegeans. PNAS 113, 6886–6891."
+    },
+    {
+      "cite": "Müller, J., Rassmann, K. & Videiko, M. (eds) (2016). Trypillia Mega-Sites and European Prehistory, 4100–3400 BCE. London: Routledge."
+    },
+    {
+      "cite": "Lipson, M. et al. (2017). Parallel palaeogenomic transects reveal complex genetic history of early European farmers. Nature 551, 368–372."
+    },
+    {
+      "cite": "Gaydarska, B. (ed.) (2020). Early Urbanism in Europe: The Trypillia Megasites of the Ukrainian Forest-Steppe. Warsaw and Berlin: De Gruyter Open."
+    }
+  ]
+}

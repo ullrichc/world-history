@@ -1,0 +1,230 @@
+{
+  "id": "genus-homo",
+  "order": 4,
+  "act": "toolmakers",
+  "title": "The Genus Homo",
+  "subtitle": "Early Homo, bigger brains and the meat question",
+  "era": "Early Stone Age (Oldowan)",
+  "start": 2800000,
+  "end": 1400000,
+  "dateLabel": "2.8–1.4 million years ago",
+  "regions": ["africa"],
+  "focus": [26, -12, 45, 14],
+  "emblem": "hand",
+  "summary": "Our genus appears in eastern Africa about 2.8 million years ago, in landscapes shared with other hominins. Homo habilis and H. rudolfensis, butchered carcasses at Olduvai and the first systematic bone tools raise two old questions: what counts as Homo, and did meat make us human?",
+  "narration": [
+    "In January 2013, a graduate student named Chalachew Seyoum was climbing a slope at Ledi-Geraru, in Ethiopia’s Afar region, when he saw a tooth poking out of the ground. It belonged to half of a lower jaw, and that jaw, about 2.8 million years old, is the oldest fossil yet assigned to our own genus, Homo.",
+    "Its owner lived only a few hundred thousand years after Lucy’s kind, and not far away. But the first members of our genus did not simply replace the southern apes. For more than a million years, eastern Africa was home to several kinds of hominin at once: the handy man, Homo habilis, named from Olduvai Gorge in 1964; the flat-faced Homo rudolfensis; the big-jawed Paranthropus; and, from about 2 million years ago, Homo erectus. At Ileret in Kenya, fossils show that habilis and erectus lived side by side for half a million years.",
+    "These hominins carried stone flakes to carcasses, sliced off meat and smashed bones for marrow. At a place called FLK Zinj, thousands of animal bones and stone tools lie together. Were the butchers bold hunters or cautious scavengers, and did the extra fat and protein fuel the growth of bigger brains? A study in 2022 warned that the evidence for rising meat eating partly reflects where archaeologists have chosen to dig.",
+    "One discovery is new and clear. By 1.5 million years ago at Olduvai, someone was knapping tools not only from stone, but from the leg bones of elephants and hippos."
+  ],
+  "pronounce": {
+    "Chalachew Seyoum": "Cha-la-chew Seh-yoom",
+    "Ledi-Geraru": "Leh-dee Geh-rah-roo",
+    "Olduvai": "Ol-doo-vye",
+    "rudolfensis": "roo-dolf-en-sis",
+    "Ileret": "Ee-leh-ret",
+    "Paranthropus": "Par-an-thro-pus"
+  },
+  "body": [
+    {
+      "heading": "The jaw from Ledi-Geraru",
+      "paragraphs": [
+        "On 29 January 2013 Chalachew Seyoum, a graduate student at Arizona State University, found the left half of a lower jaw with several teeth at Ledi-Geraru in the Afar. Published in Science in 2015 by Brian Villmoare, William Kimbel and colleagues, LD 350-1 lies between volcanic ashes dated by argon–argon to 2.80–2.75 million years. It combines a primitive, receding chin region like that of Australopithecus with slim molars and symmetrical premolars like those of later Homo. A companion study led by Erin DiMaggio showed that the landscape had become more open, with grassland and trees along rivers.",
+        "In 2025 the Ledi-Geraru team reported in Nature new teeth dated between about 2.8 and 2.6 million years ago. Some belong to early Homo; others belong to an Australopithecus that matches neither A. afarensis, which had disappeared by about 2.95 million years ago, nor A. garhi. The Afar therefore held at least two hominin lineages when Homo appeared, and the australopith may be a species still without a name. Other early Homo fossils include a 2.33-million-year-old upper jaw from Hadar (A.L. 666-1), found with Oldowan tools, and a jaw from Uraha in Malawi, roughly 2.4 million years old."
+      ]
+    },
+    {
+      "heading": "Handy man",
+      "paragraphs": [
+        "The genus Homo was once defined by a big brain. In 1960, at FLK NN in Olduvai Gorge, Jonathan Leakey, eldest son of Louis and Mary Leakey, found the jaw, skull bones and hand bones of a juvenile, OH 7, about 1.8 million years old. In 1964 Louis Leakey, Phillip Tobias and John Napier named it Homo habilis, ‘handy man’, a name suggested by Raymond Dart, and redefined Homo to admit brains below the 750-cubic-centimetre ‘cerebral Rubicon’ proposed by Arthur Keith. They argued that habilis, not the Paranthropus found nearby, made the Oldowan tools.",
+        "Further finds filled out the species: the crushed skull OH 24, nicknamed ‘Twiggy’; the skull KNM-ER 1813 from Koobi Fora, about 1.9 million years old, with a brain of only about 510 cubic centimetres; and OH 62, a fragmentary partial skeleton found in 1986 that suggests long arms and short legs. Brain sizes in habilis range from roughly 500 to 700 cubic centimetres. In 2015 Fred Spoor and colleagues reconstructed the distorted OH 7 jaw digitally and found it surprisingly primitive, with a long, narrow dental arcade, while estimating its brain at roughly 730–820 cubic centimetres. They concluded that the Homo lineage had split from Australopithecus well before 2.3 million years ago, consistent with LD 350-1."
+      ]
+    },
+    {
+      "heading": "The flat-faced one",
+      "paragraphs": [
+        "In 1972 Bernard Ngeneo, a member of Richard Leakey’s team at Koobi Fora east of Lake Turkana, found fragments of a skull that became KNM-ER 1470. Reconstructed from many pieces, it had a brain of about 750 cubic centimetres and a long, flat face. First thought to be nearly 3 million years old, it was redated to about 1.9 million years after a long controversy over the age of a volcanic ash, the KBS Tuff. Its differences from habilis led Valerii Alexeev in 1986 to name a second species, Homo rudolfensis, after Lake Rudolf, the old name for Lake Turkana.",
+        "For decades 1470 stood almost alone. In 2012 Meave Leakey, Fred Spoor and colleagues described three new Koobi Fora fossils dated to 1.95–1.78 million years, including the face of a juvenile (KNM-ER 62000) and an almost complete lower jaw (KNM-ER 60000). The face matched 1470 and the jaw fitted it, strengthening the case that two species of early Homo besides H. erectus lived around Lake Turkana at the same time."
+      ]
+    },
+    {
+      "heading": "What counts as Homo?",
+      "paragraphs": [
+        "In 1999 Bernard Wood and Mark Collard argued in Science that habilis and rudolfensis resemble australopiths more than later humans in body size and shape, limb proportions, jaws, teeth and growth, and should be moved to Australopithecus. On this view Homo begins with H. erectus, the first hominin with a humanlike body. Susan Antón, Richard Potts and Leslie Aiello argued in 2014 for keeping a diverse early Homo, in which traits of the ‘human package’, such as larger brains, smaller teeth, longer legs and wider ranging, appeared piecemeal in different species.",
+        "Part of the problem is that most early Homo fossils are isolated jaws, teeth or skulls, and few can be linked to a skeleton. It is hard to decide whether LD 350-1, A.L. 666-1 or the Uraha jaw belong to habilis, rudolfensis or something else, and many researchers simply speak of ‘early Homo’."
+      ]
+    },
+    {
+      "heading": "Bones at FLK Zinj",
+      "paragraphs": [
+        "In 1959, the season Mary Leakey found the Paranthropus boisei cranium OH 5, the Leakeys excavated the surrounding level at FLK in Bed I of Olduvai Gorge. FLK Zinj, about 1.84 million years old, produced thousands of stone artefacts and bone fragments from dozens of large animals, mostly antelopes, concentrated in a few hundred square metres. It became the test case for how early hominins obtained meat.",
+        "Lewis Binford argued in 1981 that hominins were marginal scavengers, picking at scraps left by carnivores. Robert Blumenschine’s experiments in the 1980s and 1990s, comparing tooth marks with hammerstone marks, suggested that carnivores often reached the bones first and hominins then broke them for marrow. Henry Bunn and Ellen Kroll, and later Manuel Domínguez-Rodrigo and colleagues, countered that cut marks cluster on the meaty mid-shafts of limb bones, which predators strip quickly, so hominins must often have had early access to fleshed carcasses, by hunting or by driving predators away."
+      ]
+    },
+    {
+      "heading": "Did meat make us human?",
+      "paragraphs": [
+        "Brains are costly: the human brain is about 2 percent of body mass but uses around 20 percent of resting energy. In 1995 Leslie Aiello and Peter Wheeler proposed the expensive-tissue hypothesis: the brain could only grow if another costly organ, the gut, shrank, which required a richer, more digestible diet such as meat and marrow. Butchery marks from about 2.6 million years ago onward, and the larger brains of early Homo and especially H. erectus, seemed to fit.",
+        "In 2022 a team led by Andrew Barr tested the pattern with the zooarchaeological record of eastern Africa between 2.6 and 1.2 million years ago. They found that the apparent jump in evidence for carnivory after H. erectus appeared tracks a jump in research effort: more sites and more bones have been studied from the later period. Once sampling was taken into account, there was no sustained increase. Meat was clearly eaten, but its role as the driver of brain growth needs other support. Alternatives include underground plant foods, cooking and help from grandmothers in feeding children."
+      ]
+    },
+    {
+      "heading": "Tools of bone",
+      "paragraphs": [
+        "In 2025 a team led by Ignacio de la Torre reported in Nature 27 bone tools from the T69 Complex at Olduvai Gorge, about 1.5 million years old. Most were made from limb bones of elephants and hippopotamuses and knapped with a hammerstone, like stone cores, to create long cutting or heavy-duty edges. Hominins at Swartkrans and Drimolen in South Africa had used bone fragments to dig into termite mounds, but the Olduvai tools are the oldest evidence of systematic bone knapping, roughly a million years before the practice became common. Their makers could have been H. erectus or Paranthropus boisei, both present nearby."
+      ]
+    },
+    {
+      "heading": "Living side by side",
+      "paragraphs": [
+        "The idea of a single ladder from habilis to erectus was undermined in 2007, when Fred Spoor, Meave Leakey and colleagues described two fossils from Ileret, east of Lake Turkana: an upper jaw of H. habilis (KNM-ER 42703) about 1.44 million years old, and a small braincase of H. erectus (KNM-ER 42700) about 1.55 million years old. The two species evidently shared the basin for roughly half a million years, presumably in different ecological niches, alongside Paranthropus boisei. Around 1.9 million years ago the Turkana Basin may have held four hominin species at once."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Where does the genus Homo begin?",
+      "views": [
+        {"label": "About 2.8 million years ago", "text": "Brian Villmoare, William Kimbel and colleagues assign LD 350-1 to Homo on the basis of its slim molars and premolar shape, and the 2025 Ledi-Geraru teeth add further early Homo specimens alongside a separate australopith."},
+        {"label": "With Homo erectus", "text": "Bernard Wood and Mark Collard (1999) argued that habilis and rudolfensis lack the body, growth pattern and diet that define our genus, so Homo should begin with erectus about 2 million years ago; others note that a single jaw cannot establish a genus."}
+      ],
+      "status": "Most researchers accept a Homo lineage by about 2.8 million years ago, but where to draw the genus boundary depends on definitions. Associated skulls and skeletons of the earliest Homo are the missing evidence."
+    },
+    {
+      "question": "One species of early Homo or two?",
+      "views": [
+        {"label": "Two species", "text": "Meave Leakey, Fred Spoor and colleagues (2012) argue that the flat, long face of 1470 and KNM-ER 62000 and the distinctive jaw of KNM-ER 60000 separate H. rudolfensis from H. habilis."},
+        {"label": "One variable species", "text": "Phillip Tobias and later researchers who stress the size differences between males and females in living apes have treated 1470 and the habilis fossils as one variable species."}
+      ],
+      "status": "The 2012 finds persuaded many that two species existed, but the boundaries of each remain debated, and some fossils fit neither comfortably."
+    },
+    {
+      "question": "Hunters or scavengers at FLK Zinj?",
+      "views": [
+        {"label": "Early access", "text": "Henry Bunn, Ellen Kroll and Manuel Domínguez-Rodrigo argue that cut marks on meat-bearing bone shafts show that hominins butchered fleshed carcasses, obtained by hunting or by chasing predators away."},
+        {"label": "Scavenging", "text": "Lewis Binford and Robert Blumenschine argued that carnivores often fed first, leaving hominins scraps and marrow, as tooth marks beneath percussion marks suggest."}
+      ],
+      "status": "Many zooarchaeologists now favour early access to at least some carcasses, but marks can form in several ways, and the balance of hunting and scavenging probably varied between sites and species."
+    },
+    {
+      "question": "Did meat drive brain expansion?",
+      "views": [
+        {"label": "Meat made the difference", "text": "Following Leslie Aiello and Peter Wheeler (1995), many researchers argue that energy-dense animal foods allowed a smaller gut and a larger brain, and that butchery evidence tracks the rise of Homo."},
+        {"label": "The evidence is biased", "text": "Andrew Barr and colleagues (2022) showed that the apparent rise in butchery after about 2 million years ago mirrors research effort; others emphasise plant foods, cooking or cooperative childcare."}
+      ],
+      "status": "Meat eating by early Homo is certain; its causal role in brain growth is open. Standardised sampling across sites and new dietary tracers such as nitrogen and zinc isotopes in enamel may help."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Oldest fossil of Homo", "value": "LD 350-1 jaw, 2.80–2.75 million years, Ledi-Geraru (Ethiopia)"},
+    {"label": "Homo habilis named", "value": "1964, from OH 7 at Olduvai Gorge"},
+    {"label": "Brain size of early Homo", "value": "About 500–800 cubic centimetres"},
+    {"label": "Famous butchery site", "value": "FLK Zinj, Olduvai, about 1.84 million years"},
+    {"label": "Oldest systematic bone tools", "value": "T69 Complex, Olduvai, about 1.5 million years (2025)"},
+    {"label": "Side by side", "value": "H. erectus at 1.55 and H. habilis at 1.44 million years, Ileret (Kenya)"}
+  ],
+  "sites": [
+    {
+      "id": "ledi-geraru",
+      "name": "Ledi-Geraru",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 11.35, "lon": 40.8,
+      "start": 2800000, "end": 2600000,
+      "dateLabel": "2.8–2.6 million years ago",
+      "type": "fossil",
+      "summary": "Afar research area that produced LD 350-1, the oldest jaw of Homo, and in 2025 teeth of both early Homo and an unnamed Australopithecus."
+    },
+    {
+      "id": "hadar",
+      "name": "Hadar (A.L. 666)",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 11.1, "lon": 40.58,
+      "start": 2330000, "end": 2330000,
+      "dateLabel": "about 2.33 million years ago",
+      "type": "fossil",
+      "summary": "An upper jaw of early Homo found with Oldowan tools, among the earliest associations of Homo with stone tools."
+    },
+    {
+      "id": "uraha",
+      "name": "Uraha",
+      "country": "Malawi",
+      "region": "africa",
+      "lat": -10.02, "lon": 33.92,
+      "start": 2500000, "end": 2300000,
+      "dateLabel": "roughly 2.5–2.3 million years ago",
+      "type": "fossil",
+      "summary": "Find spot of a lower jaw attributed to Homo rudolfensis, extending early Homo to the southern end of the East African Rift."
+    },
+    {
+      "id": "koobi-fora",
+      "name": "Koobi Fora",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 3.95, "lon": 36.25,
+      "start": 1950000, "end": 1780000,
+      "dateLabel": "1.95–1.78 million years ago",
+      "type": "fossil",
+      "summary": "East Turkana area of KNM-ER 1470, the type skull of H. rudolfensis, and the 2012 finds that confirmed two lineages of early Homo."
+    },
+    {
+      "id": "flk-zinj",
+      "name": "FLK Zinj, Olduvai Gorge",
+      "country": "Tanzania",
+      "region": "africa",
+      "lat": -2.99, "lon": 35.34,
+      "start": 1840000, "end": 1840000,
+      "dateLabel": "about 1.84 million years ago",
+      "type": "tools",
+      "summary": "Dense concentration of stone tools and butchered antelope bones, the classic test case in the debate over early hunting versus scavenging."
+    },
+    {
+      "id": "olduvai-gorge",
+      "name": "Olduvai Gorge",
+      "country": "Tanzania",
+      "region": "africa",
+      "lat": -2.99, "lon": 35.35,
+      "start": 1800000, "end": 1500000,
+      "dateLabel": "about 1.8–1.5 million years ago",
+      "type": "tools",
+      "summary": "Type site of Homo habilis (OH 7, found 1960) and of the oldest systematic bone tools, knapped from elephant and hippo limb bones about 1.5 million years ago."
+    },
+    {
+      "id": "ileret",
+      "name": "Ileret",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 4.3, "lon": 36.27,
+      "start": 1550000, "end": 1440000,
+      "dateLabel": "1.55–1.44 million years ago",
+      "type": "fossil",
+      "summary": "Fossils showing that Homo habilis (1.44 million years) and Homo erectus (1.55 million years) lived in the same basin for a long time."
+    },
+    {
+      "id": "swartkrans",
+      "name": "Swartkrans",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -26.01, "lon": 27.72,
+      "start": 1800000, "end": 1000000,
+      "dateLabel": "about 1.8–1 million years ago",
+      "type": "tools",
+      "summary": "Cave where bone fragments worn by digging into termite mounds show early bone tool use by Paranthropus or early Homo."
+    }
+  ],
+  "themes": ["species", "food", "technology", "animals"],
+  "sources": [
+    {"cite": "Villmoare, B. et al. (2015). Early Homo at 2.8 Ma from Ledi-Geraru, Afar, Ethiopia. Science 347, 1352–1355."},
+    {"cite": "Villmoare, B. et al. (2025). New discoveries of Australopithecus and Homo from Ledi-Geraru, Ethiopia. Nature."},
+    {"cite": "Leakey, L. S. B., Tobias, P. V. & Napier, J. R. (1964). A new species of the genus Homo from Olduvai Gorge. Nature 202, 7–9."},
+    {"cite": "Wood, B. & Collard, M. (1999). The human genus. Science 284, 65–71."},
+    {"cite": "Leakey, M. G. et al. (2012). New fossils from Koobi Fora in northern Kenya confirm taxonomic diversity in early Homo. Nature 488, 201–204."},
+    {"cite": "Spoor, F. et al. (2007). Implications of new early Homo fossils from Ileret, east of Lake Turkana, Kenya. Nature 448, 688–691."},
+    {"cite": "Bunn, H. T. & Kroll, E. M. (1986). Systematic butchery by Plio/Pleistocene hominids at Olduvai Gorge, Tanzania. Current Anthropology 27, 431–452."},
+    {"cite": "Aiello, L. C. & Wheeler, P. (1995). The expensive-tissue hypothesis: the brain and the digestive system in human and primate evolution. Current Anthropology 36, 199–221."},
+    {"cite": "Barr, W. A. et al. (2022). No sustained increase in zooarchaeological evidence for carnivory after the appearance of Homo erectus. PNAS 119, e2115540119."},
+    {"cite": "de la Torre, I. et al. (2025). Systematic bone tool production at 1.5 million years ago. Nature."}
+  ]
+}

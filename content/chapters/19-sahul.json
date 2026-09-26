@@ -1,0 +1,483 @@
+{
+  "id": "sahul",
+  "order": 19,
+  "act": "one-species",
+  "title": "Across Wallacea to Sahul",
+  "subtitle": "The first ocean voyages, the oldest rock art and a continent of giants",
+  "era": "Late Pleistocene",
+  "start": 70000,
+  "end": 40000,
+  "dateLabel": "70,000–40,000 years ago",
+  "regions": [
+    "oceania"
+  ],
+  "focus": [
+    100,
+    -45,
+    158,
+    8
+  ],
+  "emblem": "hand",
+  "summary": "To reach Australia and New Guinea, people had to cross open sea again and again through the islands of Wallacea. When they first arrived is one of archaeology’s sharpest disputes, sharpened again in 2026 by a hand stencil at least 67,800 years old.",
+  "narration": [
+    "On the island of Muna, off southeastern Sulawesi, someone pressed a hand against a limestone wall and sprayed red pigment around it. The outline of the fingers was then narrowed, turning the hand into something like a claw. A thin mineral crust later grew over the paint, and in 2026 that crust gave a minimum age of 67,800 years. It is the oldest dated rock art in the world.",
+    "The painters were on their way somewhere. East of Borneo and Bali lies Wallacea, a scatter of islands that no land bridge ever joined to Asia or to Sahul, the single continent that Australia, New Guinea and Tasmania formed when sea levels were low. To reach Sahul, people had to cross open water again and again, at least once over a distance approaching 100 kilometres. Models suggest that the founding population numbered well over a thousand. These were planned voyages, not accidents.",
+    "When the first voyagers landed is fiercely debated. Stone tools at Madjedbebe in Arnhem Land have been dated to about 65,000 years ago, while some archaeologists and geneticists argue for about 50,000. Either way, people spread quickly. They caught tuna off Timor, gathered pandanus nuts in the New Guinea highlands and buried their dead with ceremony at Lake Mungo 40,000 years ago. And Sahul’s giant animals, from the rhinoceros-sized Diprotodon to the towering flightless bird Genyornis, disappeared."
+  ],
+  "pronounce": {
+    "Madjedbebe": "Mudge-ed-beh-beh",
+    "Wallacea": "Wol-ay-see-ah",
+    "Sahul": "Sah-hool",
+    "Diprotodon": "Dye-pro-toe-don",
+    "Genyornis": "Jen-ee-or-nis"
+  },
+  "body": [
+    {
+      "heading": "Sunda, Sahul and the lines between",
+      "paragraphs": [
+        "Through much of the last glacial period, sea level stood 50–120 metres below today’s. Borneo, Sumatra, Java and Bali joined mainland Southeast Asia as the continent of Sunda, while Australia, New Guinea and Tasmania formed Sahul. Between them lay Wallacea: Sulawesi, Lombok, Flores, Timor, the Moluccas and hundreds of smaller islands, separated by deep channels that never dried.",
+        "Alfred Russel Wallace mapped the boundary in the 1850s. West of a line between Bali and Lombok and between Borneo and Sulawesi lived Asian animals such as tigers and monkeys; to the east, marsupials and cockatoos increasingly took over. For humans the Wallace Line marked where walking stopped. Earlier hominins had crossed into Wallacea, reaching Flores and Sulawesi more than a million years ago (chapter 8), but only Homo sapiens is known to have gone on to Sahul.",
+        "Two broad routes are proposed. A northern one ran from Borneo to Sulawesi and on through the Sula islands or the Moluccas to the Bird’s Head of New Guinea; a southern one led along the Lesser Sunda chain through Flores and Timor to the exposed shelf off northwest Australia. A 2018 modelling study by Shimona Kealy, Julien Louys and Sue O’Connor, based on which islands were visible from one another, favoured the northern route."
+      ]
+    },
+    {
+      "heading": "Voyagers, not castaways",
+      "paragraphs": [
+        "No Pleistocene boat survives; the craft may have been bamboo rafts or bark canoes. What can be estimated is scale. In 2019 Corey Bradshaw, Sean Ulm and colleagues modelled births, deaths and extinction risk and concluded that a viable colony needed some 1,300–1,550 founders, arriving at once or in repeated voyages of at least 130 people over roughly 700–900 years. At least one crossing approached 100 kilometres. Sahul was not settled by a raft blown off course but by planned, repeated expeditions.",
+        "People soon mastered the sea. At Jerimalai cave in East Timor, Sue O’Connor’s team found about 38,000 fish bones from more than 2,800 individual fish, including tuna and other fast open-water species, in layers dated to about 42,000 years ago. A fishhook cut from shell, dated to between 23,000 and 16,000 years ago, is among the oldest known. Catching tuna implies boats, lines and knowledge of seasons and currents."
+      ]
+    },
+    {
+      "heading": "How old? Madjedbebe and the long chronology",
+      "paragraphs": [
+        "Madjedbebe, a sandstone rock shelter in Mirarr country in Arnhem Land, is at the heart of the debate. Excavations by Chris Clarkson’s team in partnership with the Gundjeihmi Aboriginal Corporation, published in Nature in 2017, dated the lowest dense layer of artefacts to about 65,000 years ago using optically stimulated luminescence (OSL) of individual sand grains. The finds include grinding stones, ground ochre mixed with mica to make a reflective pigment, and fragments of the world’s oldest known edge-ground axes. Charred plant remains studied by Anna Florin and colleagues in 2020 show that the first occupants ate fruits, nuts, roots and palm stems, some of which needed processing.",
+        "Critics, notably Jim O’Connell and Jim Allen, argue that artefacts can sink through loose sand, moved by termites or trampling, so the deepest tools may be younger than the grains around them. Most other early sites in Sahul, they note, date between about 54,000 and 43,000 years ago. In 2025 they added a genetic argument: Aboriginal Australians and Papuans carry the same Neanderthal admixture as other non-Africans, dated to about 50,500–43,500 years ago, so their ancestors cannot have reached Sahul by 65,000 years ago.",
+        "The long chronology has since gained support. A 2025 study in Science Advances by Francesca Gandini, Martin Richards, Pedro Soares and colleagues analysed some 2,500 mitochondrial genomes from Australia, New Guinea and the western Pacific, corrected for the way mutation rates appear to change over time, and dated the founding lineages to about 60,000 years ago, arriving along a main northern and a minor southern route. The Muna stencil, if made by Homo sapiens, puts our species in Wallacea by 67,800 years ago. How these dates fit the genomic admixture clock remains unresolved."
+      ]
+    },
+    {
+      "heading": "Painting on the way: Sulawesi",
+      "paragraphs": [
+        "The limestone karst of Maros-Pangkep in South Sulawesi, and the islands nearby, hold some of the world’s oldest paintings. They are dated by uranium-series analysis of thin calcite crusts that formed over the pigment, so each date is a minimum. In 2021 Adam Brumm, Maxime Aubert and colleagues reported a life-size painting of a Sulawesi warty pig at Leang Tedongnge at least 45,500 years old. In 2024 a team co-led by Adhi Agus Oktaviana used a laser-ablation version of the method to date a scene at Leang Karampuang to at least 51,200 years ago: a pig 92 centimetres long with at least three human-like figures around it, the oldest known narrative image.",
+        "In January 2026 the same Indonesian and Australian team reported hand stencils in Liang Metanduno on Muna Island, one at least 67,800 years old. Its fingers appear to have been deliberately narrowed after stencilling, a stylistic choice the authors see as a mark of Homo sapiens, although other kinds of humans had lived in the region earlier. It is the oldest dated rock art known anywhere."
+      ]
+    },
+    {
+      "heading": "Across a continent",
+      "paragraphs": [
+        "Once in Sahul, people spread into every environment. At Boodie Cave on Barrow Island, then a hill on the coastal plain of northwest Australia, Peter Veth’s team found shellfish and other marine foods from about 51,000 years ago. Warratyi rock shelter in the Flinders Ranges was located by Adnyamathanha elder Clifford Coulthard and archaeologist Giles Hamm; its layers from 49,000–46,000 years ago contain Australia’s earliest known use of ochre and gypsum pigment, a bone point, and bones of Diprotodon and eggshell of a giant bird. At Devil’s Lair in the far southwest, people were present by about 48,000 years ago.",
+        "In the mountains of New Guinea, Glenn Summerhayes and colleagues excavated sites in the Ivane Valley, about 2,000 metres above sea level, dated to 49,000–44,000 years ago. People there gathered pandanus nuts, ate yams, burned forest to open it up and made heavy ‘waisted’ axes notched for hafting: some of the earliest evidence anywhere of Homo sapiens living in high tropical mountains."
+      ]
+    },
+    {
+      "heading": "Lake Mungo and the living ancestors",
+      "paragraphs": [
+        "The Willandra Lakes of western New South Wales, now dry, held water and fish 40,000 years ago. In 1968 geologist Jim Bowler found burned bones eroding from a dune at Lake Mungo: a young woman whose body had been cremated, her remaining bones broken and burned again, then buried. In 1974 he found a man laid on his back with hands clasped, sprinkled with red ochre. Both are dated to about 40,000 years ago, among the oldest known cremation and ochre burial anywhere. Nearby, hundreds of footprints of adults and children were pressed into a clay pan between about 23,000 and 19,000 years ago.",
+        "For the Paakantyi (Barkindji), Mutthi Mutthi and Ngiyampaa peoples, these are ancestors, not specimens. Mungo Lady was returned from the Australian National University in 1992 and Mungo Man in 2017. Since 2022 the Traditional Owners have pursued the reburial of both, and of more than a hundred other ancestral remains, at undisclosed places in the Willandra Lakes, a process marked by disagreement among some elders about how and where it should be done. Genetic work supports deep continuity: in 2017 Ray Tobler, Alan Cooper and colleagues found that Aboriginal mitochondrial lineages have stayed in the same regions for up to about 50,000 years."
+      ]
+    },
+    {
+      "heading": "The vanished giants",
+      "paragraphs": [
+        "Sahul’s Pleistocene animals included Diprotodon optatum, a wombat relative the size of a rhinoceros weighing up to about 2.7 tonnes; Genyornis newtoni, a flightless bird around two metres tall; the marsupial lion Thylacoleo; giant short-faced kangaroos; and a giant monitor lizard. Most had vanished by about 40,000 years ago.",
+        "The case against humans rests on timing. At Lynch’s Crater in Queensland, Susan Rule, Chris Johnson and colleagues found in 2012 that spores of dung fungi, a proxy for large herbivores, collapsed around 41,000 years ago, before fire and vegetation changed. A 2016 analysis by Frédérik Saltré and colleagues found no link between extinctions and climate shifts. Gifford Miller’s team argued in 2016 that burned Genyornis eggshells showed people cooking the eggs about 47,000 years ago. Others said the shells came from a large megapode, but a 2022 protein study led by Beatrice Demarchi confirmed they were Genyornis; whether the burning was human remains debated.",
+        "Others stress climate. Sahul grew drier and more variable, and at South Walker Creek in Queensland, Scott Hocknull and colleagues (2020) documented a diverse megafauna that disappeared about 40,000 years ago amid environmental decline, with no sign of people. At Cuddie Springs in New South Wales, Judith Field and colleagues report stone tools among bones of Diprotodon and Genyornis dated to roughly 36,000–30,000 years ago, suggesting long coexistence, although the integrity of the layers has been challenged. A 2019 study of southeastern Australia by Saltré and colleagues concluded that extinctions followed the combination of human presence and climatic stress."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "When did people first reach Sahul?",
+      "views": [
+        {
+          "label": "Long chronology, about 65,000 years",
+          "text": "Chris Clarkson, Zenobia Jacobs, Richard ‘Bert’ Roberts and colleagues defend the Madjedbebe luminescence dates, citing consistent single-grain ages and distinctive artefacts in the lowest layer. The 2025 mitochondrial estimate of about 60,000 years (Gandini and colleagues) and the 67,800-year-old Muna stencil add support."
+        },
+        {
+          "label": "Short chronology, about 50,000 years",
+          "text": "Jim O’Connell, Jim Allen and others argue that artefacts moved downward in Madjedbebe’s sands, that the other early sites cluster between about 54,000 and 43,000 years ago, and that the Neanderthal admixture shared by all non-Africans, dated to about 50,500–43,500 years ago, rules out an earlier arrival of the ancestors of today’s Aboriginal Australians and Papuans."
+        }
+      ],
+      "status": "Unresolved in 2026. One suggested reconciliation, an earlier population that was later absorbed or replaced, has no direct evidence. More sites older than 55,000 years, independent dating of Madjedbebe’s deepest layers, or ancient genomes from Pleistocene Sahul or Wallacea would decide it."
+    },
+    {
+      "question": "Which way did the first voyagers go through Wallacea?",
+      "views": [
+        {
+          "label": "Northern route",
+          "text": "Least-cost and intervisibility models (Kealy and colleagues, 2018), Sulawesi’s very early rock art and the 2025 mitochondrial study, which traced most founding lineages through the northern islands to New Guinea, favour a path via Sulawesi and the Moluccas."
+        },
+        {
+          "label": "Southern route",
+          "text": "The chain through Flores and Timor led directly to the broad exposed shelf of northwest Australia. Early sites on Timor such as Jerimalai, and a minor southern genetic signal, show that this route was used too."
+        }
+      ],
+      "status": "Probably both, perhaps at different times. What is clear is that the crossings were repeated and deliberate. Early sites on the Moluccas or the now-drowned Sahul shelf would sharpen the picture."
+    },
+    {
+      "question": "What wiped out Sahul’s megafauna?",
+      "views": [
+        {
+          "label": "Humans",
+          "text": "Richard Roberts, Tim Flannery, Chris Johnson, Corey Bradshaw and Frédérik Saltré point to extinctions following human arrival, the dung-spore collapse at Lynch’s Crater and the lack of a climate trigger. Megafauna had survived earlier arid phases."
+        },
+        {
+          "label": "Climate",
+          "text": "Stephen Wroe, Judith Field, Scott Hocknull and others emphasise long-term drying, sites like South Walker Creek where megafauna vanished without people, and possible coexistence at Cuddie Springs."
+        },
+        {
+          "label": "Both",
+          "text": "Regional studies, such as Saltré and colleagues in 2019, find that extinction came where hunting and landscape burning acted on populations already stressed by climate."
+        }
+      ],
+      "status": "Most researchers now see human impact as the main driver, acting with climate, though the balance varies by region and species. Better last-appearance dates for each species are the main need; collagen fingerprinting and ancient proteins are starting to supply them."
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Oldest dated rock art",
+      "value": "Hand stencil, Liang Metanduno (Muna), at least 67,800 years"
+    },
+    {
+      "label": "Earliest occupation claim",
+      "value": "Madjedbebe, about 65,000 years (OSL); disputed"
+    },
+    {
+      "label": "Oldest narrative scene",
+      "value": "Leang Karampuang, at least 51,200 years"
+    },
+    {
+      "label": "Minimum founding population",
+      "value": "About 1,300–1,550 people (Bradshaw et al. 2019)"
+    },
+    {
+      "label": "Earliest deep-sea fishing",
+      "value": "Jerimalai, Timor, about 42,000 years ago"
+    },
+    {
+      "label": "Mungo burials",
+      "value": "About 40,000 years old; returned to country (Mungo Man in 2017)"
+    }
+  ],
+  "sites": [
+    {
+      "id": "madjedbebe",
+      "name": "Madjedbebe",
+      "country": "Australia",
+      "region": "oceania",
+      "lat": -12.5,
+      "lon": 132.88,
+      "start": 65000,
+      "end": 53000,
+      "dateLabel": "about 65,000 years ago onward",
+      "type": "tools",
+      "summary": "Rock shelter in Mirarr country, Arnhem Land. Luminescence dates of about 65,000 years for the lowest artefacts, with grinding stones, ground ochre and the oldest edge-ground axes, anchor the long chronology for Sahul."
+    },
+    {
+      "id": "liang-metanduno",
+      "name": "Liang Metanduno, Muna Island",
+      "country": "Indonesia",
+      "region": "oceania",
+      "lat": -4.92,
+      "lon": 122.7,
+      "start": 67800,
+      "end": 67800,
+      "dateLabel": "at least 67,800 years ago",
+      "type": "art",
+      "summary": "Limestone cave off southeastern Sulawesi with hand stencils, one dated in 2026 to at least 67,800 years by uranium-series analysis of the overlying crust. One stencil’s fingers were narrowed into a claw-like shape, which the team reads as the work of Homo sapiens."
+    },
+    {
+      "id": "maros-pangkep-karst",
+      "name": "Maros-Pangkep karst (Leang Karampuang, Leang Tedongnge)",
+      "country": "Indonesia",
+      "region": "oceania",
+      "lat": -4.93,
+      "lon": 119.66,
+      "start": 51200,
+      "end": 45500,
+      "dateLabel": "at least 51,200–45,500 years ago",
+      "type": "art",
+      "summary": "Limestone caves in South Sulawesi. A painted warty pig at Leang Tedongnge is at least 45,500 years old, and a scene of a pig with three human-like figures at Leang Karampuang at least 51,200 years."
+    },
+    {
+      "id": "jerimalai",
+      "name": "Jerimalai",
+      "country": "Timor-Leste",
+      "region": "oceania",
+      "lat": -8.4,
+      "lon": 127.28,
+      "start": 42000,
+      "end": 16000,
+      "dateLabel": "42,000–16,000 years ago",
+      "type": "tools",
+      "summary": "Cave at the eastern tip of Timor with bones of tuna and other open-sea fish from about 42,000 years ago and a shell fishhook of 23,000–16,000 years ago."
+    },
+    {
+      "id": "ivane-valley",
+      "name": "Ivane Valley",
+      "country": "Papua New Guinea",
+      "region": "oceania",
+      "lat": -8.45,
+      "lon": 147.2,
+      "start": 49000,
+      "end": 44000,
+      "dateLabel": "49,000–44,000 years ago",
+      "type": "settlement",
+      "summary": "Highland valley at about 2,000 metres where people collected pandanus nuts, ate yams, cleared forest by burning and made waisted axes."
+    },
+    {
+      "id": "boodie-cave",
+      "name": "Boodie Cave, Barrow Island",
+      "country": "Australia",
+      "region": "oceania",
+      "lat": -20.78,
+      "lon": 115.38,
+      "start": 51000,
+      "end": 46000,
+      "dateLabel": "51,000–46,000 years ago (first occupation)",
+      "type": "settlement",
+      "summary": "Limestone cave on what was then a hill on the coastal plain; its shell middens are Australia’s earliest direct evidence of marine foods."
+    },
+    {
+      "id": "warratyi",
+      "name": "Warratyi rock shelter",
+      "country": "Australia",
+      "region": "oceania",
+      "lat": -30.3,
+      "lon": 138.9,
+      "start": 49000,
+      "end": 46000,
+      "dateLabel": "49,000–46,000 years ago",
+      "type": "settlement",
+      "summary": "Rock shelter in Adnyamathanha country in the Flinders Ranges with early ochre and gypsum pigment, a bone point, Diprotodon bone and giant-bird eggshell."
+    },
+    {
+      "id": "devils-lair",
+      "name": "Devil’s Lair",
+      "country": "Australia",
+      "region": "oceania",
+      "lat": -34.15,
+      "lon": 115.08,
+      "start": 48000,
+      "end": 12000,
+      "dateLabel": "from about 48,000 years ago",
+      "type": "settlement",
+      "summary": "Limestone cave near Cape Leeuwin in southwestern Australia, occupied from about 48,000 years ago, with processed ochre and bone tools."
+    },
+    {
+      "id": "lake-mungo",
+      "name": "Lake Mungo, Willandra Lakes",
+      "country": "Australia",
+      "region": "oceania",
+      "lat": -33.72,
+      "lon": 143.1,
+      "start": 42000,
+      "end": 19000,
+      "dateLabel": "about 40,000 years ago (burials); footprints 23,000–19,000",
+      "type": "burial",
+      "summary": "Dry lake basin where Mungo Lady, one of the world’s oldest cremations, and Mungo Man, buried with red ochre, date to about 40,000 years ago. Later footprints record adults and children crossing a clay pan."
+    }
+  ],
+  "routes": [
+    {
+      "id": "sahul-northern-route",
+      "label": "Northern route via Sulawesi and the Moluccas",
+      "start": 70000,
+      "end": 50000,
+      "certainty": "debated",
+      "path": [
+        [
+          116.8,
+          0.8
+        ],
+        [
+          119.6,
+          -3.0
+        ],
+        [
+          121.5,
+          -1.6
+        ],
+        [
+          124.8,
+          -1.9
+        ],
+        [
+          127.6,
+          -1.5
+        ],
+        [
+          130.0,
+          -1.9
+        ],
+        [
+          132.5,
+          -1.3
+        ],
+        [
+          136.5,
+          -4.0
+        ],
+        [
+          141.0,
+          -5.5
+        ],
+        [
+          147.2,
+          -8.4
+        ]
+      ]
+    },
+    {
+      "id": "sahul-southern-route",
+      "label": "Southern route via Flores and Timor",
+      "start": 70000,
+      "end": 50000,
+      "certainty": "debated",
+      "path": [
+        [
+          114.6,
+          -8.3
+        ],
+        [
+          116.2,
+          -8.6
+        ],
+        [
+          118.5,
+          -8.5
+        ],
+        [
+          121.0,
+          -8.6
+        ],
+        [
+          124.3,
+          -8.4
+        ],
+        [
+          127.2,
+          -8.5
+        ],
+        [
+          128.0,
+          -10.8
+        ],
+        [
+          130.2,
+          -12.5
+        ],
+        [
+          132.9,
+          -12.5
+        ]
+      ]
+    },
+    {
+      "id": "sahul-interior-southeast",
+      "label": "Into the interior and the southeast",
+      "start": 55000,
+      "end": 42000,
+      "certainty": "established",
+      "path": [
+        [
+          132.9,
+          -12.5
+        ],
+        [
+          133.9,
+          -23.7
+        ],
+        [
+          138.9,
+          -30.3
+        ],
+        [
+          143.1,
+          -33.7
+        ]
+      ]
+    },
+    {
+      "id": "sahul-western-coasts",
+      "label": "Along the western coasts",
+      "start": 55000,
+      "end": 46000,
+      "certainty": "established",
+      "path": [
+        [
+          132.9,
+          -12.5
+        ],
+        [
+          126.0,
+          -15.5
+        ],
+        [
+          121.0,
+          -19.0
+        ],
+        [
+          115.4,
+          -20.8
+        ],
+        [
+          114.0,
+          -26.0
+        ],
+        [
+          115.1,
+          -34.1
+        ]
+      ]
+    }
+  ],
+  "themes": [
+    "seafaring",
+    "migration",
+    "art",
+    "animals",
+    "burial",
+    "food",
+    "climate"
+  ],
+  "sources": [
+    {
+      "cite": "Oktaviana, A. A., Joannes-Boyau, R., Hakim, B. et al. (2026). Rock art from at least 67,800 years ago in Sulawesi. Nature.",
+      "doi": "10.1038/s41586-025-09968-y"
+    },
+    {
+      "cite": "Oktaviana, A. A. et al. (2024). Narrative cave art in Indonesia by 51,200 years ago. Nature 631.",
+      "doi": "10.1038/s41586-024-07541-7"
+    },
+    {
+      "cite": "Clarkson, C. et al. (2017). Human occupation of northern Australia by 65,000 years ago. Nature 547, 306–310.",
+      "doi": "10.1038/nature22968"
+    },
+    {
+      "cite": "Allen, J. & O’Connell, J. F. (2025). Recent DNA studies question a 65 kya arrival of humans in Sahul. Archaeology in Oceania.",
+      "doi": "10.1002/arco.70002"
+    },
+    {
+      "cite": "Gandini, F., Almeida, M. et al. (2025). Genomic evidence supports the “long chronology” for the peopling of Sahul. Science Advances 11 (48)."
+    },
+    {
+      "cite": "Bradshaw, C. J. A. et al. (2019). Minimum founding populations for the first peopling of Sahul. Nature Ecology & Evolution 3, 1057–1063.",
+      "doi": "10.1038/s41559-019-0902-6"
+    },
+    {
+      "cite": "Summerhayes, G. R. et al. (2010). Human adaptation and plant use in highland New Guinea 49,000 to 44,000 years ago. Science 330, 78–81.",
+      "doi": "10.1126/science.1193130"
+    },
+    {
+      "cite": "O’Connor, S., Ono, R. & Clarkson, C. (2011). Pelagic fishing at 42,000 years before the present and the maritime skills of modern humans. Science 334, 1117–1121."
+    },
+    {
+      "cite": "Demarchi, B. et al. (2022). Ancient proteins resolve controversy over the identity of Genyornis eggshell. PNAS 119, e2109326119.",
+      "doi": "10.1073/pnas.2109326119"
+    },
+    {
+      "cite": "Bowler, J. M. et al. (2003). New ages for human occupation and climatic change at Lake Mungo, Australia. Nature 421, 837–840."
+    }
+  ]
+}

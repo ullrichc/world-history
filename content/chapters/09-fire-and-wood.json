@@ -1,0 +1,277 @@
+{
+  "id": "fire-and-wood",
+  "order": 9,
+  "act": "toolmakers",
+  "title": "Fire and Wood",
+  "subtitle": "The first hearths, the first fire-making and the oldest wooden tools",
+  "era": "Early and Middle Pleistocene; Lower and Middle Palaeolithic",
+  "start": 1500000,
+  "end": 120000,
+  "dateLabel": "about 1.5 million–120,000 years ago",
+  "regions": ["africa", "asia", "europe"],
+  "focus": [-12, -30, 108, 56],
+  "emblem": "fire",
+  "summary": "Traces of fire go back about 1.5 million years, cooked fish to 780,000 years and the deliberate making of fire, on current evidence, to about 400,000 years. Rare waterlogged sites show that wood, from spears to a notched log structure, was just as important as stone.",
+  "narration": [
+    "Fire leaves frustratingly little behind. Ash blows away, charcoal crumbles, and lightning can burn a landscape without any human help. So the search for the first hearths is a search for faint traces: a patch of reddened earth, a flint cracked by heat, a scatter of burnt bone.",
+    "Some of those traces are very old. Deep inside Wonderwerk Cave in South Africa, where no wildfire could reach, ash and burnt bone lie in layers about a million years old. On the shore of an ancient lake in Israel, at Gesher Benot Yaʿaqov, people cooked fish 780,000 years ago.",
+    "Using fire is not the same as making it. In 2025 researchers working at Barnham, in eastern England, reported a patch of earth heated again and again, and two small pieces of pyrite, a mineral that throws sparks when struck with flint. Someone had carried them there about 400,000 years ago. It is the oldest evidence that people could light a fire whenever they chose.",
+    "Fire had a partner that rots even faster: wood. At Kalambo Falls in Zambia, two logs joined by a notch cut about 476,000 years ago form the oldest known wooden structure. At Schöningen in Germany, hunters left spears longer than a tall man, carefully shaped, beside the bones of butchered horses. Around fires like these, anthropologists suspect, the long evenings became a time for stories."
+  ],
+  "pronounce": {
+    "Wonderwerk": "Von-der-verk",
+    "Gesher Benot Yaʿaqov": "Geh-sher Beh-note Yah-ah-kove",
+    "Barnham": "Bar-num",
+    "Kalambo": "Kah-lahm-boh",
+    "Schöningen": "Shuh-ning-en"
+  },
+  "body": [
+    {
+      "heading": "How to find an ancient fire",
+      "paragraphs": [
+        "Fire is the hardest early technology to prove. Ash is blown or washed away, charcoal fragments, and wildfires burn soils, bones and stones with no hominin involved. Archaeologists therefore look for several clues together: sediment heated in place, detected by its magnetic properties or by mineral changes seen under the microscope in intact blocks of soil; burnt bone, identified by colour and infrared spectroscopy; flints cracked, reddened or pitted by heat; and a spatial pattern, such as burnt material clustered in one spot. Fire deep inside a cave is stronger evidence than fire in the open, because lightning rarely reaches there.",
+        "Researchers also distinguish three stages that the record tends to blur: opportunistic use of natural fire, habitual tending of fires kept alight, and the ability to make fire at will."
+      ]
+    },
+    {
+      "heading": "Early African embers",
+      "paragraphs": [
+        "The oldest claims come from East Africa. At FxJj 20 Main, in the Koobi Fora region east of Lake Turkana, Randy Bellomo described in the 1990s reddened patches of sediment among stone tools about 1.5 million years old, with magnetic signatures suggesting heating like that of a campfire. A 2019 study led by Sarah Hlubik reported burnt bone and heated stone artefacts from the same area. At Swartkrans in South Africa, Bob Brain and Andrew Sillen reported in 1988 about 270 burnt bones among many thousands in Member 3, roughly a million years old or more, heated to a range of temperatures they compared to experimental campfires. At both sites natural fires cannot be completely excluded.",
+        "The case is stronger at Wonderwerk Cave in South Africa’s Northern Cape. In 2012 Francesco Berna, Michael Chazan and colleagues studied intact blocks of Acheulean deposits about 1 million years old, some 30 metres inside the cave. Under the microscope they found ashed plant remains and burnt bone fragments that had burned where they lay, too deep in the cave for wildfire to explain."
+      ]
+    },
+    {
+      "heading": "Lakeshore fires in the Levant",
+      "paragraphs": [
+        "At Gesher Benot Yaʿaqov, on the Jordan River north of the Sea of Galilee, waterlogged layers about 780,000 years old preserve wood, seeds and fruit. Naama Goren-Inbar and colleagues reported burnt seeds, wood and flint in 2004, and Nira Alperson-Afil mapped tiny burnt flint fragments concentrated in distinct patches, ‘phantom hearths’ that recur through many layers. In 2022 Irit Zohar and colleagues examined fish teeth, mostly from large carp. X-ray diffraction showed that the enamel crystals had been heated to moderate temperatures, below about 500 °C, consistent with cooking rather than burning, and the teeth clustered in the hearth areas. It is the oldest known evidence of cooking.",
+        "At Evron Quarry, an open-air site in western Galilee about 1 million to 800,000 years old, no fire was visible to the eye. In 2022 Zane Stepka, Filipe Natalio and colleagues trained an artificial-intelligence model on the spectroscopic signatures of flint heated to known temperatures, then scanned artefacts from the site. Some flints and a fragment of tusk had been heated to several hundred degrees, suggesting fire that ordinary methods had missed."
+      ]
+    },
+    {
+      "heading": "From keeping fire to making it",
+      "paragraphs": [
+        "After about 400,000 years ago, traces of fire become far more common. At Beeches Pit in Suffolk, England, burnt flint and hearth features date to about 400,000 years ago. At Qesem Cave in Israel, Ruth Shahack-Gross and colleagues identified in 2014 a large central hearth used repeatedly around 300,000 years ago, ringed by burnt bone and flint. In 2011 Wil Roebroeks and Paola Villa surveyed the European record and argued that fire became habitual only from about 400,000–300,000 years ago; earlier Europeans, at Happisburgh or Gran Dolina, left no sign of it, even in cold climates.",
+        "Whether these people could light fires on demand is a separate question. The earliest direct evidence long came from Neanderthal handaxes about 50,000 years old with wear from striking pyrite, reported by Andrew Sorensen and colleagues in 2018. In December 2025 a team led by Rob Davis and Nick Ashton of the British Museum published evidence from Barnham, Suffolk, about 400,000 years old: a patch of clayey silt heated repeatedly to high temperatures, heat-shattered flint handaxes, and two fragments of iron pyrite, a mineral rare in the local geology that throws sparks when struck with flint. They argue the pyrite was brought in to make fire, pushing fire-making back by some 350,000 years. The makers were probably early Neanderthals, like the people represented by the Swanscombe skull from Kent."
+      ]
+    },
+    {
+      "heading": "Cooking and the human body",
+      "paragraphs": [
+        "In his 2009 book Catching Fire, the primatologist Richard Wrangham argued that cooking made us human. Heat makes starch and protein easier to digest and kills pathogens, so cooked food yields more energy for less chewing and a smaller gut. He linked the smaller teeth and jaws, reduced gut and larger body of Homo erectus about 1.9 million years ago to the start of cooking. Critics reply that clear evidence of regular fire lags far behind that date. In 2016 Katherine Zink and Daniel Lieberman showed that simply slicing meat and pounding tubers with stone tools reduces chewing effort substantially, offering another route to smaller teeth. Many researchers now picture a stepwise process: meat eating and food processing first, occasional fire and cooking later, habitual cooking by the Middle Pleistocene."
+      ]
+    },
+    {
+      "heading": "Around the campfire",
+      "paragraphs": [
+        "Fire also changed the shape of the day, extending light into the evening and creating a place to gather. In 2014 the anthropologist Polly Wiessner analysed conversations she had recorded in the 1970s among the Ju/’hoansi of the Kalahari in Namibia and Botswana. Daytime talk dealt mostly with practical matters, complaints and gossip; by firelight, most long conversations were stories about people near and far, the spirit world and the past. She argued that firelight talk helped build the wider networks and shared understandings on which human societies depend. How far back this goes cannot be measured, but a hearth like Qesem’s, used again and again, was certainly a place where people sat together."
+      ]
+    },
+    {
+      "heading": "The age of wood",
+      "paragraphs": [
+        "Stone survives; wood almost never does, yet it was probably the most used material through most of prehistory. At Kalambo Falls on the Zambia–Tanzania border, where a high water table has kept deposits waterlogged, a team led by Larry Barham found two logs joined at right angles through a notch cut deliberately into the upper one, with marks of chopping and scraping. Published in 2023 and dated by luminescence to at least 476,000 years ago, it is the oldest known wooden structure, perhaps part of a platform or foundation by the river. The same deposits held a wedge, a digging stick and other worked wood.",
+        "In the 1990s Hartmut Thieme uncovered at Schöningen, an opencast lignite mine in northern Germany, around ten spears of spruce and pine, 1.8 to 2.5 metres long, thickest towards the front like modern javelins, among the butchered remains of many horses. A 2024 study of the whole wooden assemblage by Dirk Leder and colleagues documented bark removal, splitting, shaping and seasoning of the wood. The spears were long dated to about 300,000 years; a 2025 study argued that the spear layer is younger, about 200,000 years, and the age is still being discussed.",
+        "Other finds fill in the picture: a yew spear tip from Clacton-on-Sea in England, about 400,000 years old; a yew spear about 2.4 metres long found in 1948 among the bones of a straight-tusked elephant at Lehringen in Germany, about 120,000 years old; boxwood digging sticks shaped with the help of fire at Poggetti Vecchi in Tuscany, about 171,000 years old; and a yew digging stick at Aranbaltza in the Basque Country, about 90,000 years old. In 2025 Chinese researchers reported dozens of wooden tools from Gantangqing in Yunnan, roughly 300,000 years old, including digging sticks probably used to extract roots and tubers on an ancient lakeshore: the first such evidence from East Asia."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "When did fire become a habitual part of life?",
+      "views": [
+        {
+          "label": "Early, with Homo erectus",
+          "text": "Richard Wrangham, John Gowlett and others argue that the anatomy of Homo erectus implies cooked food from about 1.9 million years ago, and that Koobi Fora, Swartkrans and Wonderwerk show fire in use by 1.5 to 1 million years. For them, the thin early record reflects poor preservation of ash and charcoal."
+        },
+        {
+          "label": "Late, from about 400,000 years ago",
+          "text": "Wil Roebroeks and Paola Villa argue that fire traces become regular only after about 400,000 years ago, and that early Europeans lived in cold places without leaving any sign of fire. The oldest cases are few, scattered and hard to separate from natural fires."
+        }
+      ],
+      "status": "Fire use before 1 million years ago is supported at a handful of sites, but fire appears routinely across many sites only in the later Middle Pleistocene. The gap between the anatomical argument and the archaeological evidence is still unresolved."
+    },
+    {
+      "question": "Could Neanderthals and their ancestors make fire?",
+      "views": [
+        {
+          "label": "Dependent on natural fire",
+          "text": "Dennis Sandgathe, Harold Dibble and colleagues found in the French caves of Pech de l’Azé IV and Roc de Marsal that Neanderthals used fire often in warmer phases but rarely in the coldest, when they would have needed it most. They proposed in 2011 that Neanderthals gathered fire from wildfires rather than making it."
+        },
+        {
+          "label": "Fire-makers",
+          "text": "Wear traces on Neanderthal bifaces reported by Andrew Sorensen and colleagues in 2018, and the 2025 Barnham study of imported pyrite about 400,000 years old, indicate that fire could be struck with flint and pyrite. Less fire in cold phases might reflect scarce fuel or different uses of sites."
+        }
+      ],
+      "status": "Barnham has shifted opinion towards early fire-making, though some researchers want more sites before accepting that the pyrite was used for sparks. The skill may have been known to some groups and not to others."
+    },
+    {
+      "question": "Were the earliest wooden spears thrown or thrust?",
+      "views": [
+        {
+          "label": "Thrown weapons",
+          "text": "Hartmut Thieme argued that the forward-balanced Schöningen spears were javelins. In 2019 Annemieke Milks and colleagues had trained javelin athletes throw replicas and found they could hit targets at up to about 20 metres."
+        },
+        {
+          "label": "Thrusting or multipurpose tools",
+          "text": "Others think the spears were used mainly at close range, as the Lehringen elephant find might suggest, or for several jobs including digging and warding off carnivores."
+        }
+      ],
+      "status": "The experiments show that throwing was feasible, and Schöningen also yielded shorter double-pointed throwing sticks, so most researchers now think these hunters used both thrown and thrusting weapons."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Oldest widely cited fire traces", "value": "about 1.5 million years, Koobi Fora (Kenya)"},
+    {"label": "Fire deep inside a cave", "value": "about 1 million years, Wonderwerk (South Africa)"},
+    {"label": "Oldest evidence of cooking", "value": "fish, about 780,000 years, Gesher Benot Yaʿaqov (Israel)"},
+    {"label": "Earliest evidence of making fire", "value": "about 400,000 years, Barnham (England), published 2025"},
+    {"label": "Oldest wooden structure", "value": "at least 476,000 years, Kalambo Falls (Zambia)"},
+    {"label": "Oldest complete spears", "value": "Schöningen (Germany), about 300,000 or 200,000 years (debated)"}
+  ],
+  "sites": [
+    {
+      "id": "koobi-fora-fxjj20",
+      "name": "FxJj 20, Koobi Fora",
+      "country": "Kenya",
+      "region": "africa",
+      "lat": 3.88, "lon": 36.35,
+      "start": 1500000, "end": 1500000,
+      "dateLabel": "about 1.5 million years ago",
+      "type": "fire",
+      "summary": "Reddened, magnetically altered patches of sediment and burnt bone among stone tools, the oldest widely cited evidence of hominin fire use, though natural fire cannot be fully excluded."
+    },
+    {
+      "id": "swartkrans",
+      "name": "Swartkrans",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -26.01, "lon": 27.72,
+      "start": 1500000, "end": 1000000,
+      "dateLabel": "roughly 1.5–1 million years ago",
+      "type": "fire",
+      "summary": "About 270 burnt bones in Member 3 of this cave, heated to temperatures like those of campfires, reported in 1988 as early evidence of fire use."
+    },
+    {
+      "id": "wonderwerk-cave",
+      "name": "Wonderwerk Cave",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -27.85, "lon": 23.55,
+      "start": 1000000, "end": 1000000,
+      "dateLabel": "about 1 million years ago",
+      "type": "fire",
+      "summary": "Ashed plants and burnt bone burned in place about 30 metres inside the cave in Acheulean layers, the oldest secure evidence of fire inside a cave."
+    },
+    {
+      "id": "gesher-benot-yaaqov",
+      "name": "Gesher Benot Yaʿaqov",
+      "country": "Israel",
+      "region": "asia",
+      "lat": 33.01, "lon": 35.63,
+      "start": 780000, "end": 780000,
+      "dateLabel": "about 780,000 years ago",
+      "type": "fire",
+      "summary": "Waterlogged Acheulean lakeshore site with ‘phantom hearths’ of burnt flint and fish teeth heated at cooking temperatures, the oldest evidence of cooking."
+    },
+    {
+      "id": "evron-quarry",
+      "name": "Evron Quarry",
+      "country": "Israel",
+      "region": "asia",
+      "lat": 32.99, "lon": 35.10,
+      "start": 1000000, "end": 800000,
+      "dateLabel": "about 1 million–800,000 years ago",
+      "type": "fire",
+      "summary": "Open-air site where an artificial-intelligence model trained on spectroscopic data detected flints and tusk heated to several hundred degrees, invisible to the eye."
+    },
+    {
+      "id": "qesem-cave",
+      "name": "Qesem Cave",
+      "country": "Israel",
+      "region": "asia",
+      "lat": 32.11, "lon": 34.98,
+      "start": 420000, "end": 200000,
+      "dateLabel": "about 420,000–200,000 years ago; central hearth about 300,000",
+      "type": "fire",
+      "summary": "Cave with a large central hearth reused around 300,000 years ago, surrounded by burnt bone and flint, a focus of repeated gatherings."
+    },
+    {
+      "id": "barnham",
+      "name": "Barnham",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 52.38, "lon": 0.75,
+      "start": 400000, "end": 400000,
+      "dateLabel": "about 400,000 years ago",
+      "type": "fire",
+      "summary": "A repeatedly heated patch of sediment, heat-shattered handaxes and imported pyrite, published in 2025 as the earliest evidence of deliberate fire-making."
+    },
+    {
+      "id": "kalambo-falls",
+      "name": "Kalambo Falls",
+      "country": "Zambia",
+      "region": "africa",
+      "lat": -8.60, "lon": 31.24,
+      "start": 476000, "end": 476000,
+      "dateLabel": "at least 476,000 years ago",
+      "type": "other",
+      "summary": "Two logs joined by a deliberately cut notch, the oldest known wooden structure, with a wedge, digging stick and other worked wood preserved in waterlogged sediment."
+    },
+    {
+      "id": "schoningen",
+      "name": "Schöningen",
+      "country": "Germany",
+      "region": "europe",
+      "lat": 52.13, "lon": 10.97,
+      "start": 300000, "end": 200000,
+      "dateLabel": "about 300,000 or 200,000 years ago (debated)",
+      "type": "tools",
+      "summary": "About ten wooden spears and several throwing sticks among butchered horse remains in lakeshore sediments, the oldest complete hunting weapons known."
+    },
+    {
+      "id": "clacton-on-sea",
+      "name": "Clacton-on-Sea",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 51.79, "lon": 1.15,
+      "start": 400000, "end": 400000,
+      "dateLabel": "about 400,000 years ago",
+      "type": "tools",
+      "summary": "A sharpened yew point found in 1911, usually interpreted as the tip of a spear and long the oldest known wooden artefact."
+    },
+    {
+      "id": "poggetti-vecchi",
+      "name": "Poggetti Vecchi",
+      "country": "Italy",
+      "region": "europe",
+      "lat": 42.82, "lon": 11.15,
+      "start": 171000, "end": 171000,
+      "dateLabel": "about 171,000 years ago",
+      "type": "tools",
+      "summary": "Boxwood sticks shaped with stone tools and fire, probably digging sticks, found with straight-tusked elephant remains near Grosseto."
+    },
+    {
+      "id": "gantangqing",
+      "name": "Gantangqing",
+      "country": "China",
+      "region": "asia",
+      "lat": 24.35, "lon": 102.75,
+      "start": 300000, "end": 250000,
+      "dateLabel": "roughly 300,000 years ago",
+      "type": "tools",
+      "summary": "Dozens of wooden tools, including digging sticks for roots and tubers, from an ancient lakeshore in Yunnan, reported in 2025 as the oldest wooden tools in East Asia."
+    }
+  ],
+  "themes": ["fire", "technology", "food", "society"],
+  "sources": [
+    {"cite": "Davis, R. et al. (2025). Earliest evidence of making fire. Nature."},
+    {"cite": "Berna, F. et al. (2012). Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave, Northern Cape province, South Africa. Proceedings of the National Academy of Sciences 109, E1215–E1220."},
+    {"cite": "Goren-Inbar, N. et al. (2004). Evidence of hominin control of fire at Gesher Benot Ya’aqov, Israel. Science 304, 725–727."},
+    {"cite": "Zohar, I. et al. (2022). Evidence for the cooking of fish 780,000 years ago at Gesher Benot Ya’aqov, Israel. Nature Ecology & Evolution 6, 2016–2028."},
+    {"cite": "Stepka, Z. et al. (2022). Hidden signatures of early fire at Evron Quarry (1.0 to 0.8 Mya). Proceedings of the National Academy of Sciences 119."},
+    {"cite": "Roebroeks, W. & Villa, P. (2011). On the earliest evidence for habitual use of fire in Europe. Proceedings of the National Academy of Sciences 108, 5209–5214."},
+    {"cite": "Barham, L. et al. (2023). Evidence for the earliest structural use of wood at least 476,000 years ago. Nature 622, 107–111."},
+    {"cite": "Thieme, H. (1997). Lower Palaeolithic hunting spears from Germany. Nature 385, 807–810."},
+    {"cite": "Aranguren, B. et al. (2018). Wooden tools and fire technology in the early Neanderthal site of Poggetti Vecchi (Italy). Proceedings of the National Academy of Sciences 115, 2054–2059."},
+    {"cite": "Wiessner, P. W. (2014). Embers of society: Firelight talk among the Ju/’hoansi Bushmen. Proceedings of the National Academy of Sciences 111, 14027–14035."}
+  ]
+}

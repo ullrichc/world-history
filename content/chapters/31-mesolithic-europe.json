@@ -1,0 +1,235 @@
+{
+  "id": "mesolithic-europe",
+  "order": 31,
+  "act": "warming",
+  "title": "Europe’s Last Hunter-Gatherers",
+  "subtitle": "Star Carr, Doggerland, Lepenski Vir and the Mesolithic world",
+  "era": "Mesolithic",
+  "start": 12100,
+  "end": 6000,
+  "dateLabel": "c. 10,000–4000 BCE",
+  "regions": ["europe"],
+  "focus": [-10, 42, 62, 65],
+  "emblem": "harpoon",
+  "summary": "As forests spread over a warming Europe, hunter-gatherers built timber platforms at Star Carr, carved a towering wooden idol in the Urals, paddled dugouts across Doggerland and raised houses beside the Danube at Lepenski Vir. Ancient genomes now show who they were, what some of them looked like, and how they met the first farmers.",
+  "narration": [
+    "While pillars were rising at Göbekli Tepe, on the shore of a vanished lake in North Yorkshire, someone took the skull of a red deer, cut away most of the bone, thinned the antlers and bored holes so the whole thing could be tied on. Thirty-three of these antler headdresses have come out of the peat at Star Carr. The ice sheets had gone. Birch and pine were closing in, and the people who wore them lived in a new world of forests.",
+    "Europe in these millennia was a continent of woods, rivers and restless coasts. Between Britain and Denmark lay Doggerland, a low country of marshes and hills that the rising North Sea swallowed piece by piece. People paddled dugout canoes, set fish traps, gathered hazelnuts by the basketful and buried their dead with care. In one Danish grave, a newborn baby was laid on the wing of a swan.",
+    "Their genomes now tell us what some of them looked like. A man buried in Cheddar Gorge about 10,000 years ago most likely had dark skin and blue or green eyes, a combination rare in Europe today. And their story did not end the moment farmers arrived from the southeast. Beside the whirlpools of the Danube at Lepenski Vir, and in a cave in western Germany, hunters and farmers lived as neighbours for centuries, trading, marrying, and sometimes keeping to themselves."
+  ],
+  "pronounce": {
+    "Star Carr": "Star Car",
+    "Doggerland": "Dogger-land",
+    "Lepenski Vir": "Leh-pen-skee Veer"
+  },
+  "body": [
+    {
+      "heading": "A continent of forests",
+      "paragraphs": [
+        "The Mesolithic, or Middle Stone Age, is the name European archaeologists give to the hunter-gatherers who lived between the end of the Ice Age, about 9700 BCE, and the arrival of farming, which reached Greece before 6500 BCE but Britain and Scandinavia only around 4000 BCE. As the climate warmed, birch and pine spread north, followed by hazel and then oak, elm and lime. Reindeer and wild horse gave way to red deer, roe deer, elk, wild boar and aurochs. Rising seas drowned old coastlines and created new ones rich in fish, seals and shellfish.",
+        "Mesolithic toolkits are known for microliths, tiny flint pieces set into arrows and knives, but waterlogged sites reveal a world made largely of wood, bark, antler and fibre: bows, fish traps, nets, dugout canoes and paddles. Dogs were already companions and hunting partners."
+      ]
+    },
+    {
+      "heading": "Star Carr",
+      "paragraphs": [
+        "Star Carr, on the edge of the former Lake Flixton in North Yorkshire, is Britain’s best-known Mesolithic site. Grahame Clark excavated it from 1949 to 1951, and Nicky Milner, Chantal Conneller and Barry Taylor returned between 2004 and 2015. People came back to the lakeshore over several centuries around 9000 BCE. They laid platforms of split timbers along the water’s edge, among the earliest carpentry of this kind in Europe, and built at least one circular post-built structure about 3.5 m across, claimed as Britain’s oldest known house.",
+        "The most striking finds are 33 frontlets: red deer and a few roe deer skull caps with the antlers left attached and thinned, pierced so they could be worn. Barbed antler points, shale beads and a small shale pendant engraved with lines, found in 2015, fill out a rich material world. Star Carr belongs to a broader tradition of lakeside sites across northern Europe often called the Maglemosian, after a bog on the Danish island of Zealand."
+      ]
+    },
+    {
+      "heading": "Doggerland and the first boats",
+      "paragraphs": [
+        "Around 10,000 years ago Britain was a peninsula of the continent. Between it and Denmark lay Doggerland, a lowland of rivers, marshes and hills that the rising North Sea drowned in stages. Trawlers and sand dredgers have brought up its traces: a barbed antler point hauled up in 1931 by the trawler Colinda between the Leman and Ower banks, and, from the Brown Bank area off the Netherlands, Mesolithic bone and antler tools and human bones. Vince Gaffney’s teams have mapped its drowned valleys and lakes from seismic survey data and cored their sediments. Around 6150 BCE the Storegga landslide off Norway sent a tsunami across the North Sea, and soon afterwards Britain was an island.",
+        "Boats made this watery world work. The dugout from Pesse in the Netherlands, found in 1955 during road building, is a roughly 3 m long trunk of Scots pine radiocarbon dated to around 8000 BCE, the oldest known boat anywhere. At Tybrind Vig, an Ertebølle settlement now under the sea off the Danish island of Funen, divers found dugouts nearly 10 m long, decorated ash paddles, fish weirs and fragments of textile.",
+        "The Ertebølle culture of southern Scandinavia (about 5400 to 3950 BCE) left great shell middens, the “kitchen middens” that nineteenth-century Danish scientists first recognised as the refuse of human meals. From around 4700 BCE Ertebølle people made pottery, pointed-based jars and small oval bowls usually interpreted as lamps, though they did not farm (chapter 32 follows hunter-gatherer pottery across Eurasia)."
+      ]
+    },
+    {
+      "heading": "Faces from the genome",
+      "paragraphs": [
+        "Ancient DNA divides Mesolithic Europeans into distinct groups. Western Hunter-Gatherers (WHG), descended largely from people who spread across Europe from the south and southeast around 14,000 years ago, lived from Iberia to Hungary and Britain. Eastern Hunter-Gatherers (EHG), in Russia and Karelia, carried much ancestry from Ice Age Siberians like the boy from Mal’ta. At Yuzhny Oleni Ostrov, an island cemetery in Lake Onega with more than 170 graves roughly 8,000 years old, many people were buried with elk-tooth pendants and carved elk heads. Scandinavian Hunter-Gatherers were a mixture of the two. A 2024 study led by Morten Allentoft, drawing on more than 1,600 ancient genomes, found a sharp genetic boundary running from the Black Sea to the Baltic.",
+        "Cheddar Man, a young man buried in Gough’s Cave in Somerset about 10,000 years ago and found in 1903, had his genome sequenced in 2018 by the Natural History Museum and University College London; it was published in 2019 in a study led by Selina Brace. His DNA lacked the variants that lighten skin in most Europeans today, so he most likely had dark or dark-to-black skin, while variants linked to eye colour point to blue or green eyes. Other Western Hunter-Gatherers, from Loschbour in Luxembourg to La Braña in Spain, show the same combination. Light skin became common in Europe only later, carried by farmers and steppe migrants and favoured by natural selection."
+      ]
+    },
+    {
+      "heading": "Idols, graves and violence",
+      "paragraphs": [
+        "Hunter-gatherers also made monumental art. The Shigir idol was dug out of a peat bog near Kirovgrad in the Middle Urals by gold miners in 1890. Carved from a larch trunk with faces and geometric signs, it stood about 5.3 m tall before parts were lost; about 2.8 m survive on display. Dating by Mikhail Zhilin, Thomas Terberger and colleagues put it at about 11,600 years old in 2018, and a later tree-ring study suggested it was carved about 12,000 years ago. It is the oldest known wooden sculpture in the world.",
+        "Burials show tenderness and ritual. At Vedbæk-Bøgebakken north of Copenhagen, around 5000 BCE, a young woman was buried with a newborn laid on a swan’s wing beside her, a flint blade at the baby’s waist. At Skateholm in southern Sweden, dogs were given their own graves, some with red ochre, antlers or flint blades. In 1908, at Ofnet cave in Bavaria, excavators found two pits holding more than 30 human heads, arranged facing west and adorned with shell and deer-tooth ornaments. Many skulls bear blows and cut marks from decapitation, which some read as the aftermath of a massacre roughly 8,500 years ago and others as a funerary rite for people who died at different times."
+      ]
+    },
+    {
+      "heading": "Lepenski Vir and the Iron Gates",
+      "paragraphs": [
+        "Where the Danube cuts through the Carpathians in the Iron Gates gorge, hunter-fishers lived for millennia beside whirlpools rich in sturgeon and carp. At Lepenski Vir in Serbia, whose name refers to one of those whirlpools, Dragoslav Srejović excavated from 1965 to 1970 before a dam flooded the valley. The settlement’s trapezoidal houses, dated mostly to about 6200 to 5900 BCE, had hard lime-plaster floors and stone-lined hearths and were set in a fan facing the river. Around the hearths stood boulder sculptures: river stones carved into faces with fish-like mouths and staring eyes. Isotopes in the bones show a diet rich in fish.",
+        "Lepenski Vir flourished just as farmers reached the central Balkans, and the two worlds met there. Early Neolithic pottery turns up at Iron Gates sites. A 2013 strontium isotope study by Dušan Borić and T. Douglas Price found more incomers, many of them women, buried in this period, and genomes published in 2018 by Iain Mathieson and colleagues show individuals with Anatolian farmer ancestry alongside local hunter-gatherers. Whether the sculptures and houses were a flowering of local tradition or a response to the newcomers is still debated."
+      ]
+    },
+    {
+      "heading": "Neighbours of the first farmers",
+      "paragraphs": [
+        "Farmers did not simply sweep Europe’s hunter-gatherers aside. At the Blätterhöhle cave in Hagen, western Germany, Ruth Bollongino and colleagues showed in 2013 that people of hunter-gatherer ancestry, eating a diet rich in freshwater fish, were buried in the same cave as farmers until about 3000 BCE, some 2,000 years after farming reached central Europe. On the Danish island of Lolland, a lump of birch pitch chewed about 5,700 years ago at Syltholm preserved the complete genome of a woman with Western Hunter-Gatherer ancestry, dark skin, dark hair and blue eyes, along with DNA from the hazelnuts and mallard duck she had eaten and from her mouth bacteria. The study, led by Theis Jensen and Hannes Schroeder, appeared in 2019.",
+        "When the end came, it could be abrupt. In Britain, genomes show that farmers arriving around 4000 BCE largely replaced the local population, and the 2024 study led by Allentoft found a similar near-complete turnover in Denmark around 3900 BCE. Further east, in the Baltic and the Russian forests, hunter-gatherers kept their ancestry and way of life far longer, adopting pottery and some domestic animals on their own terms."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "What did Cheddar Man look like?",
+      "views": [
+        {"label": "Dark skin, light eyes", "text": "The team led by Selina Brace and Ian Barnes used variants in pigmentation genes such as SLC24A5 and SLC45A2 to predict that Cheddar Man most likely had dark to black skin and blue or green eyes. Other Western Hunter-Gatherer genomes, such as Loschbour and La Braña, show the same pattern, and the widely publicised 2018 model by the Kennis brothers was based on it."},
+        {"label": "A probabilistic guess", "text": "Other geneticists, and members of the team themselves, stressed that pigmentation prediction relies on variants studied mainly in living Europeans. Unknown variants may have affected his skin, so the prediction gives probabilities, not a portrait, and the exact shade cannot be known."}
+      ],
+      "status": "Most geneticists accept that Western Hunter-Gatherers lacked the main light-skin variants common in Europe today, so their skin was probably considerably darker than that of modern Britons. Light skin spread later through farmer and steppe ancestry and natural selection. Precise appearance remains an informed reconstruction."
+    },
+    {
+      "question": "How did Europe’s hunter-gatherers meet the first farmers?",
+      "views": [
+        {"label": "Replacement", "text": "Ancient DNA shows that the first farmers in most of Europe descended from Anatolian populations. In Britain around 4000 BCE (Brace et al. 2019) and Denmark around 3900 BCE (Allentoft et al. 2024), incoming farmers replaced the local hunter-gatherer population almost completely within a few centuries."},
+        {"label": "Coexistence and mixing", "text": "Other evidence shows long contact. At the Blätterhöhle, hunter-fisher-gatherers lived alongside farmers for two millennia; at Lepenski Vir, farmers and foragers intermarried; and hunter-gatherer ancestry rose steadily within farming populations. Marek Zvelebil and Peter Rowley-Conwy’s ‘availability model’ described long frontier zones in which foragers adopted farming gradually."}
+      ],
+      "status": "Both happened. The outcome varied by region: rapid turnover in Britain and southern Scandinavia, centuries of coexistence and gradual mixing in central and southeastern Europe, and long hunter-gatherer continuity in the eastern Baltic and Russian forest zone."
+    },
+    {
+      "question": "Were the Star Carr headdresses hunting disguises or ritual regalia?",
+      "views": [
+        {"label": "Practical disguise", "text": "Grahame Clark, who found the first 21 frontlets, suggested they might have been worn while stalking deer, as some hunters have done in historic times, or in dances that re-enacted the hunt."},
+        {"label": "Ritual transformation", "text": "Chantal Conneller, Nicky Milner and colleagues argue that the careful thinning of the antlers, the fragility of the finished objects and their deliberate deposition at the lake edge point to ritual use, perhaps performances in which wearers took on the identity of deer, a practice known among some Siberian peoples."}
+      ],
+      "status": "Most researchers now favour a ritual role, supported by the way the frontlets were placed in the lake, but practical and ritual uses need not exclude each other, and no direct evidence shows how they were worn."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Oldest wooden sculpture", "value": "Shigir idol, Urals, carved about 12,000 years ago"},
+    {"label": "Star Carr headdresses", "value": "33 deer frontlets, c. 9000 BCE"},
+    {"label": "Oldest known boat", "value": "Pesse canoe, Netherlands, c. 8000 BCE"},
+    {"label": "Cheddar Man", "value": "About 10,000 years old; genome published 2019"},
+    {"label": "Genome from ‘chewing gum’", "value": "Syltholm birch pitch, Denmark, 5,700 years old (2019)"},
+    {"label": "Parallel societies", "value": "Hunter-gatherers beside farmers at the Blätterhöhle until c. 3000 BCE"}
+  ],
+  "sites": [
+    {
+      "id": "star-carr",
+      "name": "Star Carr",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 54.21, "lon": -0.42,
+      "start": 11300, "end": 10500,
+      "dateLabel": "c. 9300–8500 BCE",
+      "type": "settlement",
+      "summary": "Lakeside site with timber platforms, a post-built structure claimed as Britain’s oldest house, barbed points, an engraved pendant and 33 antler headdresses."
+    },
+    {
+      "id": "goughs-cave",
+      "name": "Gough’s Cave, Cheddar",
+      "country": "United Kingdom",
+      "region": "europe",
+      "lat": 51.28, "lon": -2.76,
+      "start": 10000, "end": 10000,
+      "dateLabel": "c. 8000 BCE",
+      "type": "dna",
+      "summary": "Burial place of Cheddar Man, whose genome, published in 2019, points to dark skin and light eyes, typical of Western Hunter-Gatherers."
+    },
+    {
+      "id": "pesse",
+      "name": "Pesse",
+      "country": "Netherlands",
+      "region": "europe",
+      "lat": 52.78, "lon": 6.46,
+      "start": 10000, "end": 9500,
+      "dateLabel": "c. 8000–7500 BCE",
+      "type": "other",
+      "summary": "Findspot of the Pesse canoe, a Scots pine dugout about 3 m long and the oldest known boat in the world."
+    },
+    {
+      "id": "vedbaek-bogebakken",
+      "name": "Vedbæk-Bøgebakken",
+      "country": "Denmark",
+      "region": "europe",
+      "lat": 55.84, "lon": 12.55,
+      "start": 7000, "end": 7000,
+      "dateLabel": "c. 5000 BCE",
+      "type": "burial",
+      "summary": "Mesolithic cemetery where a young woman was buried with a newborn laid on a swan’s wing, among other carefully furnished graves."
+    },
+    {
+      "id": "syltholm",
+      "name": "Syltholm, Lolland",
+      "country": "Denmark",
+      "region": "europe",
+      "lat": 54.67, "lon": 11.42,
+      "start": 5700, "end": 5700,
+      "dateLabel": "c. 3700 BCE",
+      "type": "dna",
+      "summary": "Site where chewed birch pitch yielded the complete genome of a hunter-gatherer woman, with traces of her last meals and her oral microbes."
+    },
+    {
+      "id": "lepenski-vir",
+      "name": "Lepenski Vir",
+      "country": "Serbia",
+      "region": "europe",
+      "lat": 44.56, "lon": 22.03,
+      "start": 11500, "end": 7500,
+      "dateLabel": "c. 9500–5500 BCE",
+      "type": "settlement",
+      "summary": "Danube settlement of trapezoidal houses and fish-faced boulder sculptures, where hunter-fishers met and mixed with the first Balkan farmers."
+    },
+    {
+      "id": "shigir",
+      "name": "Shigir peat bog",
+      "country": "Russia",
+      "region": "europe",
+      "lat": 57.40, "lon": 60.10,
+      "start": 12100, "end": 11600,
+      "dateLabel": "c. 10,100–9600 BCE",
+      "type": "art",
+      "summary": "Findspot of the Shigir idol, a carved larch sculpture about 12,000 years old and the oldest known wooden sculpture."
+    },
+    {
+      "id": "ofnet",
+      "name": "Ofnet cave",
+      "country": "Germany",
+      "region": "europe",
+      "lat": 48.82, "lon": 10.46,
+      "start": 8500, "end": 8400,
+      "dateLabel": "c. 6500 BCE",
+      "type": "burial",
+      "summary": "Two pits of ornamented human heads, many with fatal injuries, interpreted as a massacre or as a mortuary ritual."
+    },
+    {
+      "id": "blatterhohle",
+      "name": "Blätterhöhle",
+      "country": "Germany",
+      "region": "europe",
+      "lat": 51.36, "lon": 7.50,
+      "start": 11000, "end": 5000,
+      "dateLabel": "c. 9000–3000 BCE",
+      "type": "dna",
+      "summary": "Cave where fish-eating hunter-gatherers and farmers were buried side by side for centuries, evidence of parallel societies."
+    },
+    {
+      "id": "ertebolle",
+      "name": "Ertebølle",
+      "country": "Denmark",
+      "region": "europe",
+      "lat": 56.80, "lon": 9.18,
+      "start": 7400, "end": 5950,
+      "dateLabel": "c. 5400–3950 BCE",
+      "type": "settlement",
+      "summary": "Type site of the Ertebølle culture, a large shell midden on the Limfjord left by coastal hunter-gatherers who also made pottery."
+    }
+  ],
+  "themes": ["technology", "art", "burial", "genetics", "seafaring", "food", "climate", "violence"],
+  "sources": [
+    {"cite": "Milner, N., Conneller, C. & Taylor, B. (2018). Star Carr, Volume 1: A Persistent Place in a Changing World. York: White Rose University Press."},
+    {"cite": "Gaffney, V., Fitch, S. & Smith, D. (2009). Europe’s Lost World: The Rediscovery of Doggerland. York: Council for British Archaeology."},
+    {"cite": "Zhilin, M., Savchenko, S., Hansen, S., Heussner, K.-U. & Terberger, T. (2018). Early art in the Urals: new research on the wooden sculpture from Shigir. Antiquity 92."},
+    {"cite": "Brace, S. et al. (2019). Ancient genomes indicate population replacement in Early Neolithic Britain. Nature Ecology & Evolution 3, 765–771."},
+    {"cite": "Jensen, T. Z. T. et al. (2019). A 5700 year-old human genome and oral microbiome from chewed birch pitch. Nature Communications 10, 5520."},
+    {"cite": "Bollongino, R. et al. (2013). 2000 years of parallel societies in Stone Age Central Europe. Science 342, 479–481."},
+    {"cite": "Borić, D. & Price, T. D. (2013). Strontium isotopes document greater human mobility at the start of the Balkan Neolithic. PNAS 110, 3298–3303."},
+    {"cite": "Mathieson, I. et al. (2018). The genomic history of southeastern Europe. Nature 555, 197–203."},
+    {"cite": "Allentoft, M. E. et al. (2024). Population genomics of post-glacial western Eurasia. Nature 625, 301–311.", "doi": "10.1038/s41586-023-06865-0"}
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": "middle-pleistocene",
+  "order": 10,
+  "act": "many-humans",
+  "title": "The Muddle in the Middle",
+  "subtitle": "Bodo, Kabwe, Sima de los Huesos, Homo naledi and the Chinese crania",
+  "era": "Middle Pleistocene",
+  "start": 800000,
+  "end": 200000,
+  "dateLabel": "about 800,000–200,000 years ago",
+  "regions": ["africa", "europe", "asia"],
+  "focus": [-12, -30, 130, 50],
+  "emblem": "skull",
+  "summary": "Between about 800,000 and 200,000 years ago, several human lineages evolved in parallel across Africa, Europe and Asia. Their fossils resist neat classification, but ancient DNA from Sima de los Huesos and genetic clocks outline the branching that produced Neanderthals, Denisovans and our own species.",
+  "narration": [
+    "In northern Spain, at the bottom of a thirteen-metre shaft in the Atapuerca hills, lie the bones of at least 28 people. They are about 430,000 years old, and in 2016 they yielded the oldest human nuclear DNA yet recovered. It showed that these people were early relatives of the Neanderthals.",
+    "The long stretch of time after the first Europeans is a puzzle that palaeoanthropologists call the muddle in the middle. Across Africa, Europe and Asia, large-brained people with heavy brows left skulls that fit no tidy scheme: at Bodo in Ethiopia, where someone scraped the flesh from a face with a stone tool, at Kabwe in Zambia, and at Dali, Jinniushan and Harbin in China.",
+    "Stranger still, a small-brained species, Homo naledi, lived in South Africa as recently as about 250,000 years ago, at the same time as the earliest members of our own species. Its bones lie deep in a cave system reached only through narrow chutes, and whether it placed its dead there on purpose is fiercely argued.",
+    "Genetics sketches the outline that the bones cannot. Somewhere between about 765,000 and 550,000 years ago, the ancestors of modern humans parted from the line that would produce the Neanderthals in the west and the Denisovans in the east. The fossils of this middle period are the scattered traces of that branching, still being sorted into their places."
+  ],
+  "pronounce": {
+    "Homo naledi": "Hoh-moh nah-leh-dee",
+    "Bodo": "Boh-doh",
+    "Kabwe": "Kahb-weh",
+    "Jinniushan": "Jin-nyoh-shahn",
+    "Atapuerca": "Ah-tah-pwer-kah"
+  },
+  "body": [
+    {
+      "heading": "A tangle of names",
+      "paragraphs": [
+        "Between roughly 800,000 and 200,000 years ago the human family tree is at its most confusing. Fossils from this part of the Middle Pleistocene combine large brains, often 1,100 to 1,300 cubic centimetres, with heavy brow ridges, long low skulls and big faces. They come from Africa, Europe and Asia, are often incomplete and poorly dated, and differ in ways that are hard to sort. Palaeoanthropologists call the problem the ‘muddle in the middle’.",
+        "The default name was long Homo heidelbergensis, after the Mauer jaw of about 609,000 years, applied to large-brained fossils in Africa and Europe and often cast as the common ancestor of Neanderthals and modern humans. But many European fossils now look like early Neanderthals, and Mauer itself may sit on the Neanderthal line. African fossils such as Kabwe were sometimes called Homo rhodesiensis, a name coined by Arthur Smith Woodward in 1921. In 2021 Mirjana Roksandic, Predrag Radović, Xiu-Jie Wu and Christopher Bae proposed Homo bodoensis, based on the Bodo cranium, for most African fossils of the period ancestral to our species; they rejected rhodesiensis partly because it evokes the colonialist Cecil Rhodes."
+      ]
+    },
+    {
+      "heading": "Africa: Bodo and Kabwe",
+      "paragraphs": [
+        "The Bodo cranium was found in 1976 in the Middle Awash of Ethiopia and is about 600,000 years old by argon dating. It has a huge face and a brain of about 1,250 cubic centimetres. In 1986 Tim White described fine cut marks around the eye sockets and on the cheek: someone had removed the flesh with a stone tool. Whether this was mortuary ritual, cannibalism or something else is unknown, but it is one of the oldest signs of deliberate processing of a human body after death.",
+        "Kabwe 1, or Broken Hill 1, was found in 1921 by miners at a lead and zinc mine in what was then Northern Rhodesia, now Zambia. The heavy-browed skull has some of the worst tooth decay known in a fossil human, with cavities in most upper teeth and abscesses. The cave was destroyed by mining, so its age was long unknown. In 2020 Rainer Grün, Chris Stringer and colleagues dated the skull directly by uranium-series and electron spin resonance to about 299,000 years, give or take 25,000. Kabwe was thus contemporary with the earliest Homo sapiens at Jebel Irhoud in Morocco and with Homo naledi. The skull is held by the Natural History Museum in London, and Zambia has asked for its return."
+      ]
+    },
+    {
+      "heading": "The pit of bones",
+      "paragraphs": [
+        "The richest Middle Pleistocene site anywhere is Sima de los Huesos, the ‘pit of bones’, reached by crawling through the Cueva Mayor cave system in the Sierra de Atapuerca and descending a 13-metre shaft. Since the 1980s the team led by Juan Luis Arsuaga has recovered thousands of human fossils from at least 28 individuals, mostly teenagers and young adults, together with cave bears and other carnivores but almost no herbivores. In 2014 Arsuaga and colleagues dated the deposit to about 430,000 years ago and showed that the skulls combine Neanderthal-like faces and teeth with more primitive braincases: Neanderthal features evolved piece by piece, the face first.",
+        "Among the bones lay a single stone tool, a handaxe of red quartzite found in 1998 and nicknamed ‘Excalibur’. Cranium 17 has two nearly identical fractures above the left eye, made by the same object in two separate blows; Nohemi Sala and colleagues argued in 2015 that it is the oldest known case of lethal violence between people."
+      ]
+    },
+    {
+      "heading": "DNA from 430,000 years ago",
+      "paragraphs": [
+        "The cave’s constant cool temperature preserved something extraordinary. In 2013 Matthias Meyer, Svante Pääbo and colleagues reconstructed a nearly complete mitochondrial genome from a Sima de los Huesos thighbone. To general surprise it was closer to that of the Denisovans, the Asian archaic group first identified in Siberia, than to Neanderthals. In 2016 the team recovered nuclear DNA from two individuals, which showed clearly that the Sima people belonged to the Neanderthal lineage after its split from the Denisovans.",
+        "The mitochondrial puzzle has a likely solution, set out by Cosimo Posth and colleagues in 2017: early Neanderthals carried Denisovan-like mitochondria, which were later replaced by a type introduced through interbreeding with an early African population related to Homo sapiens. The Sima results also show that Neanderthals and Denisovans had already diverged by 430,000 years ago."
+      ]
+    },
+    {
+      "heading": "Homo naledi: a small brain in a late world",
+      "paragraphs": [
+        "In 2013 the cavers Steven Tucker and Rick Hunter squeezed through an 18-centimetre-wide chute in the Rising Star cave system, in South Africa’s Cradle of Humankind, and found bones in a chamber later named Dinaledi. Lee Berger recruited slender scientists able to fit through; by 2015 they had recovered more than 1,500 specimens from at least 15 individuals and named Homo naledi. It stood about 1.4 metres tall, with a brain of 465 to 610 cubic centimetres, human-like hands and feet, curved fingers suited to climbing, and primitive shoulders and hips. The 2017 dating was a shock: between 335,000 and 236,000 years ago, from uranium-series and electron spin resonance dating of teeth and flowstones.",
+        "In 2023 Berger and colleagues went further, arguing in preprints, a popular book and a documentary that Homo naledi buried its dead in pits dug into the cave floor, engraved cross-hatched patterns on the walls, and used fire to light its way. The journal eLife’s reviewers judged the evidence incomplete, citing a lack of sediment analyses showing that pits had been dug and of dates for the engravings. In 2024 a group led by María Martinón-Torres published a critique concluding that there was no scientific evidence for burial or rock art. As of 2026 most specialists regard these claims as unproven."
+      ]
+    },
+    {
+      "heading": "East Asia’s big-headed crania",
+      "paragraphs": [
+        "China holds a rich series of crania that do not fit Homo erectus. The two Yunxian skulls from Hubei, found in 1989 and 1990 and crushed by sediment, are about 1 million years old. In 2025 a team led by Xiaobo Feng and Xijun Ni, with Chris Stringer, published in Science a digital reconstruction of one of them and an analysis placing it near the root of the lineage that includes the Harbin skull and, by implication, the Denisovans. They concluded that the lineages leading to Homo sapiens, Neanderthals and this Asian group had separated more than 1 million years ago, much earlier than most genetic estimates.",
+        "Younger crania include Dali in Shaanxi, found in 1978 and about 260,000 years old; Jinniushan in Liaoning, a partial skeleton of a large-bodied woman with a brain of about 1,300 cubic centimetres; and Hualongdong in Anhui, about 300,000 years old, whose teenage face and jaw mix archaic and modern-looking features. In 2024 Christopher Bae and Xiu-Jie Wu proposed the name Homo juluensis, ‘big head’, for very large-brained fossils from Xujiayao and Xuchang, suggesting Denisovans might belong to it; many colleagues doubt such fragmentary material can support a new species. The Harbin skull, hidden in a well after its discovery in 1933 and named Homo longi in 2021, was identified in 2025 from proteins and DNA as Denisovan, a story told in the Denisovan chapter. In India, the Narmada skull found at Hathnora in 1982 remains the best-known Middle Pleistocene hominin, with a poorly fixed age."
+      ]
+    },
+    {
+      "heading": "The Levant and the genetic clock",
+      "paragraphs": [
+        "In 2021 Israel Hershkovitz, Yossi Zaidner and colleagues described part of a skull and a jaw from Nesher Ramla, found with Levallois tools and dated to about 140,000–120,000 years ago. They combine archaic and Neanderthal-like traits, and the team proposed a long-lived Levantine population that contributed to the Neanderthals of Europe. Others see simply early Neanderthals or a local archaic group.",
+        "Genetics supplies the framework. Comparisons of Neanderthal, Denisovan and modern genomes put the split between the lineage leading to modern humans and that leading to Neanderthals and Denisovans at roughly 765,000–550,000 years ago, and the Neanderthal–Denisovan split at roughly 470,000–380,000 years ago, although the numbers depend on assumed mutation rates. Denisovan genomes also carry traces of an older ‘superarchaic’ population, separated perhaps for more than a million years. The fossils of the middle period are what survives of these branching populations."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "What should these fossils be called?",
+      "views": [
+        {
+          "label": "Keep the existing names",
+          "text": "Chris Stringer, Eric Delson and others argue that Homo heidelbergensis and Homo rhodesiensis, used carefully, are adequate. They note that the rules of zoological nomenclature do not allow names to be dropped for their associations, and that Homo bodoensis would be a junior synonym of rhodesiensis if Bodo and Kabwe belong to the same species."
+        },
+        {
+          "label": "Adopt Homo bodoensis",
+          "text": "Mirjana Roksandic, Predrag Radović, Xiu-Jie Wu and Christopher Bae argue that heidelbergensis has become a catch-all, that many European fossils belong on the Neanderthal line, and that a clean name for the African ancestors of Homo sapiens reduces confusion while avoiding one that recalls Cecil Rhodes."
+        }
+      ],
+      "status": "Homo bodoensis has not been widely adopted. Many researchers use heidelbergensis loosely or avoid species names, describing fossils by site and lineage instead. Better-dated African fossils and ancient proteins will be needed for a consensus."
+    },
+    {
+      "question": "Did the Sima de los Huesos people place their dead in the pit?",
+      "views": [
+        {
+          "label": "A deliberate accumulation",
+          "text": "Juan Luis Arsuaga, Eudald Carbonell and colleagues argue that the absence of herbivores and of living debris, the youthful age profile and the lone handaxe point to bodies deliberately dropped into the shaft, perhaps the oldest funerary behaviour known. Some have suggested Excalibur was an offering."
+        },
+        {
+          "label": "Natural or accidental causes",
+          "text": "Peter Andrews, Yolanda Fernández-Jalvo and others proposed that bodies could have been washed or dragged in by natural processes or carnivores, or that people fell. A single handaxe could have arrived with a body."
+        }
+      ],
+      "status": "The site is widely seen as the strongest candidate for early mortuary behaviour, but intent cannot be demonstrated from bones alone, and there is no consensus."
+    },
+    {
+      "question": "Did Homo naledi bury its dead and make engravings?",
+      "views": [
+        {
+          "label": "Yes",
+          "text": "Lee Berger, John Hawks, Agustín Fuentes and colleagues argue that oval pits holding articulated skeletons cut through the cave layers and were refilled, that cross-hatched marks were engraved on nearby walls, and that the remoteness of the chambers implies intentional transport of the dead by a small-brained species."
+        },
+        {
+          "label": "Not demonstrated",
+          "text": "Critics, including eLife’s reviewers and a 2024 team led by María Martinón-Torres, say the work lacks the sediment analyses, dating and documentation needed to show that pits were dug, and that the engravings are undated and could be much younger. Some also object that the claims were promoted in a book and documentary before peer review."
+        }
+      ],
+      "status": "Unresolved and widely doubted in 2026. Most researchers accept that Homo naledi remains ended up in remote chambers, but not that they were buried or that the species made engravings."
+    },
+    {
+      "question": "How deep are the splits between human lineages?",
+      "views": [
+        {
+          "label": "Deep, over a million years",
+          "text": "Xiaobo Feng, Xijun Ni, Chris Stringer and colleagues argue from the reconstructed Yunxian skull and a Bayesian analysis of anatomy that the lineages leading to Homo sapiens, Neanderthals and the Asian group including Harbin had diverged more than 1 million years ago."
+        },
+        {
+          "label": "Shallower, as genomes suggest",
+          "text": "Most genetic estimates put the split between the sapiens lineage and the Neanderthal–Denisovan lineage at roughly 765,000–550,000 years ago, with Neanderthals and Denisovans as each other’s closest relatives. Critics add that reconstructing a crushed skull involves many choices and that anatomical trees are sensitive to convergent features and to continued interbreeding."
+        }
+      ],
+      "status": "Open. Ancient proteins from Yunxian or other fossils near a million years old, and better-calibrated mutation rates, could reconcile the two approaches or decide between them."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Sima de los Huesos", "value": "about 430,000 years; at least 28 individuals; oldest hominin nuclear DNA"},
+    {"label": "Bodo cranium", "value": "about 600,000 years; cut marks from defleshing"},
+    {"label": "Kabwe 1", "value": "about 299,000 years (Zambia), dated directly in 2020"},
+    {"label": "Homo naledi", "value": "335,000–236,000 years, Rising Star Cave (South Africa)"},
+    {"label": "Sapiens versus Neanderthal–Denisovan split", "value": "roughly 765,000–550,000 years ago (genetic estimates)"},
+    {"label": "Yunxian crania", "value": "about 1 million years; 2025 reconstruction argues for deep lineage splits"}
+  ],
+  "sites": [
+    {
+      "id": "bodo",
+      "name": "Bodo",
+      "country": "Ethiopia",
+      "region": "africa",
+      "lat": 10.25, "lon": 40.55,
+      "start": 600000, "end": 600000,
+      "dateLabel": "about 600,000 years ago",
+      "type": "fossil",
+      "summary": "A large-faced cranium from the Middle Awash with cut marks from defleshing, and the type specimen of the proposed species Homo bodoensis."
+    },
+    {
+      "id": "kabwe",
+      "name": "Kabwe (Broken Hill)",
+      "country": "Zambia",
+      "region": "africa",
+      "lat": -14.45, "lon": 28.43,
+      "start": 299000, "end": 299000,
+      "dateLabel": "about 299,000 years ago",
+      "type": "fossil",
+      "summary": "A heavy-browed skull with severe tooth decay, found by miners in 1921 and dated in 2020, contemporary with early Homo sapiens and Homo naledi."
+    },
+    {
+      "id": "sima-de-los-huesos",
+      "name": "Sima de los Huesos (Atapuerca)",
+      "country": "Spain",
+      "region": "europe",
+      "lat": 42.35, "lon": -3.52,
+      "start": 430000, "end": 430000,
+      "dateLabel": "about 430,000 years ago",
+      "type": "fossil",
+      "summary": "A shaft holding at least 28 early members of the Neanderthal lineage, the handaxe ‘Excalibur’ and the oldest hominin nuclear DNA."
+    },
+    {
+      "id": "rising-star-cave",
+      "name": "Rising Star Cave",
+      "country": "South Africa",
+      "region": "africa",
+      "lat": -26.02, "lon": 27.71,
+      "start": 335000, "end": 236000,
+      "dateLabel": "335,000–236,000 years ago",
+      "type": "fossil",
+      "summary": "Deep chambers holding more than 1,500 bones of Homo naledi, a small-brained species; claims of burial and engraving remain contested."
+    },
+    {
+      "id": "yunxian",
+      "name": "Yunxian",
+      "country": "China",
+      "region": "asia",
+      "lat": 32.82, "lon": 110.62,
+      "start": 1000000, "end": 1000000,
+      "dateLabel": "about 1 million years ago",
+      "type": "fossil",
+      "summary": "Two crushed crania on a Han River terrace; a 2025 reconstruction placed one near the root of the Asian lineage that includes Harbin and the Denisovans."
+    },
+    {
+      "id": "dali",
+      "name": "Dali",
+      "country": "China",
+      "region": "asia",
+      "lat": 34.85, "lon": 109.85,
+      "start": 260000, "end": 260000,
+      "dateLabel": "about 260,000 years ago",
+      "type": "fossil",
+      "summary": "A nearly complete, large-brained cranium found in 1978, one of the key Middle Pleistocene fossils of China."
+    },
+    {
+      "id": "jinniushan",
+      "name": "Jinniushan",
+      "country": "China",
+      "region": "asia",
+      "lat": 40.58, "lon": 122.44,
+      "start": 260000, "end": 260000,
+      "dateLabel": "roughly 260,000 years ago",
+      "type": "fossil",
+      "summary": "A partial skeleton of a large-bodied woman with a brain of about 1,300 cubic centimetres, found in a cave in Liaoning in 1984."
+    },
+    {
+      "id": "hualongdong",
+      "name": "Hualongdong",
+      "country": "China",
+      "region": "asia",
+      "lat": 30.10, "lon": 117.02,
+      "start": 300000, "end": 300000,
+      "dateLabel": "about 300,000 years ago",
+      "type": "fossil",
+      "summary": "Cave in Anhui with the face and jaw of a teenager combining archaic and modern-looking features."
+    },
+    {
+      "id": "xujiayao",
+      "name": "Xujiayao",
+      "country": "China",
+      "region": "asia",
+      "lat": 40.10, "lon": 113.98,
+      "start": 220000, "end": 160000,
+      "dateLabel": "roughly 220,000–160,000 years ago",
+      "type": "fossil",
+      "summary": "Fragments of very large-brained hominins, proposed in 2024 as part of Homo juluensis, a species name many researchers have not accepted."
+    },
+    {
+      "id": "harbin",
+      "name": "Harbin",
+      "country": "China",
+      "region": "asia",
+      "lat": 45.77, "lon": 126.62,
+      "start": 146000, "end": 146000,
+      "dateLabel": "at least 146,000 years ago",
+      "type": "fossil",
+      "summary": "A huge, complete cranium found in 1933 and named Homo longi in 2021; proteins and DNA identified it as Denisovan in 2025."
+    },
+    {
+      "id": "hathnora",
+      "name": "Hathnora (Narmada)",
+      "country": "India",
+      "region": "asia",
+      "lat": 22.87, "lon": 77.97,
+      "start": 300000, "end": 150000,
+      "dateLabel": "Middle Pleistocene, age poorly fixed",
+      "type": "fossil",
+      "summary": "Partial cranium found in 1982 in Narmada river gravels, the best-known Middle Pleistocene hominin fossil from South Asia."
+    },
+    {
+      "id": "nesher-ramla",
+      "name": "Nesher Ramla",
+      "country": "Israel",
+      "region": "asia",
+      "lat": 31.91, "lon": 34.90,
+      "start": 140000, "end": 120000,
+      "dateLabel": "about 140,000–120,000 years ago",
+      "type": "fossil",
+      "summary": "Part of a skull and a jaw with Levallois tools, combining archaic and Neanderthal-like features, published in 2021."
+    }
+  ],
+  "themes": ["species", "genetics", "burial", "violence"],
+  "sources": [
+    {"cite": "Roksandic, M. et al. (2022). Resolving the “muddle in the middle”: the case for Homo bodoensis sp. nov. Evolutionary Anthropology 31, 20–29."},
+    {"cite": "Grün, R. et al. (2020). Dating the skull from Broken Hill, Zambia, and its position in human evolution. Nature 580, 372–375."},
+    {"cite": "Arsuaga, J. L. et al. (2014). Neandertal roots: cranial and chronological evidence from Sima de los Huesos. Science 344, 1358–1363."},
+    {"cite": "Meyer, M. et al. (2014). A mitochondrial genome sequence of a hominin from Sima de los Huesos. Nature 505, 403–406."},
+    {"cite": "Meyer, M. et al. (2016). Nuclear DNA sequences from the Middle Pleistocene Sima de los Huesos hominins. Nature 531, 504–507."},
+    {"cite": "Dirks, P. H. G. M. et al. (2017). The age of Homo naledi and associated sediments in the Rising Star Cave, South Africa. eLife 6, e24231."},
+    {"cite": "Martinón-Torres, M. et al. (2024). No scientific evidence that Homo naledi buried their dead and produced rock art. Journal of Human Evolution."},
+    {"cite": "Feng, X. et al. (2025). The phylogenetic position of the Yunxian cranium elucidates the origin of Dragon Man and the Denisovans. Science."},
+    {"cite": "Bae, C. J. & Wu, X. (2024). Making sense of eastern Asian Late Quaternary hominin variability. Nature Communications 15."},
+    {"cite": "Hershkovitz, I. et al. (2021). A Middle Pleistocene Homo from Nesher Ramla, Israel. Science 372, 1424–1428."}
+  ]
+}

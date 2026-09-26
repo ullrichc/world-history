@@ -1,0 +1,260 @@
+{
+  "id": "sahul-holocene",
+  "order": 39,
+  "act": "transition",
+  "title": "Gardens, Eels and Fire",
+  "subtitle": "New Guinea’s first farmers, Australia’s managed Country and the dingo’s arrival",
+  "era": "Holocene Sahul",
+  "start": 12000,
+  "end": 3000,
+  "dateLabel": "c. 10,000–1000 BCE",
+  "regions": ["oceania"],
+  "focus": [112, -44, 180, 2],
+  "emblem": "fire",
+  "summary": "As rising seas split Sahul into New Guinea, Australia and Tasmania, highland New Guineans invented farming at Kuk Swamp, Aboriginal Australians shaped their Country with fire, stone channels and seed grinding, and the dingo and the Lapita voyagers arrived from the islands to the north.",
+  "narration": [
+    "In south-western Victoria, a lava flow from the volcano Budj Bim runs down towards the sea. For at least 6,600 years the Gunditjmara people have shaped it, cutting channels through the basalt, building stone weirs and ponds, and guiding migrating eels into woven traps. Gunditjmara Traditional Owners still care for the system, and in 2019 it became a World Heritage Site.",
+    "As the Ice Age ended, the sea rose over the plains that had joined Australia to New Guinea and Tasmania, and people who had shared one continent found themselves on separate lands. In the New Guinea highlands, at Kuk Swamp, people dug drains and planted bananas, taro and yams on mounds: one of the few places on Earth where farming was invented independently. In Tasmania, cut off from the mainland for some twelve thousand years, people went their own way, and archaeologists still argue over what their choices mean.",
+    "Across Australia, people managed Country with fire, painted and engraved rock surfaces from the Kimberley to the Pilbara coast, and spread one family of related languages over most of the continent. By about 3,300 years ago the dingo had arrived, probably carried by boat from the islands to the north-west.",
+    "At about the same time, far to the east, people making pottery stamped with fine toothed patterns sailed beyond New Guinea into the open Pacific. They were the Lapita voyagers, and they were heading for islands no human had ever seen."
+  ],
+  "pronounce": {
+    "Budj Bim": "Budge Bim",
+    "Gunditjmara": "Gun-ditch-mah-rah",
+    "Kuk": "Kook",
+    "Lapita": "Lah-pee-tah"
+  },
+  "body": [
+    {
+      "heading": "Seas rise, lands divide",
+      "paragraphs": [
+        "At the height of the last Ice Age, sea level stood some 120 metres lower than today, and New Guinea, Australia and Tasmania formed one landmass, Sahul. As the ice sheets melted, the sea advanced across the Bassian plain, and Tasmania was cut off from the mainland roughly 12,000 years ago. The Torres Strait land bridge went under later, by roughly 8,000 years ago, separating New Guinea from Australia. Coastal people lost great stretches of Country; sea level stabilised near its present height around 7,000 years ago.",
+        "Patrick Nunn and Nicholas Reid have argued that some Aboriginal narratives about drowning coastlines may preserve memories of this flooding over hundreds of generations. The idea is taken seriously but remains debated, because stories change as they are retold and are hard to date."
+      ]
+    },
+    {
+      "heading": "Kuk: gardens in the highlands",
+      "paragraphs": [
+        "Kuk Swamp lies at about 1,560 metres in the upper Wahgi Valley near Mount Hagen, Papua New Guinea. Jack Golson led excavations in its wetland from the early 1970s, and in 2003 Tim Denham and colleagues published a new sequence in Science. About 10,000 years ago people dug pits, set stakes and cut small channels at the swamp margin, and starch grains of taro survive on their stone tools. Between about 6,950 and 6,440 years ago they built mounds for planting crops that do not tolerate waterlogged soil, and phytoliths show that bananas of the Musa section were abundant. From about 4,400 years ago networks of ditches drained the swamp for cultivation.",
+        "Kuk shows that farming was invented independently in highland New Guinea, based on vegetatively propagated crops rather than cereals: bananas, taro, yams and probably sugarcane, which was domesticated on the island. UNESCO inscribed the Kuk Early Agricultural Site in 2008. New Guinea bananas later spread westward across Asia and eventually to Africa. Farming here never produced cities, but it supported some of the densest rural populations in the world, and the pigs that became central to highland life arrived later from Asia."
+      ]
+    },
+    {
+      "heading": "Tasmania alone",
+      "paragraphs": [
+        "For about 12,000 years the ancestors of today’s Palawa people lived without contact with the mainland. Excavations by Rhys Jones at Rocky Cape in the north-west in the 1960s showed that bone points and scale fish disappear from the record around 3,500 years ago. In 1977 Jones called this the “Tasmanian paradox” and wrote of “a slow strangulation of the mind”, a phrase that has been sharply criticised ever since.",
+        "Later archaeologists pointed out that Tasmanians hunted seals, wallabies and birds, harvested shellfish at great scale, built bark canoes to reach offshore islands, and made the shell necklaces still crafted by Palawa women today. Colonial claims that they could not make fire rest on weak evidence. The debate below asks what the losses mean."
+      ]
+    },
+    {
+      "heading": "Caring for Country: fire, eels and seeds",
+      "paragraphs": [
+        "Rhys Jones coined the term “fire-stick farming” in 1969 for the deliberate burning with which Aboriginal people managed Country. Small, patchy, cool fires, lit in the right season, created mosaics of vegetation that favoured game and plant foods and reduced the risk of catastrophic wildfire. Long-term studies by Rebecca Bliege Bird and Douglas Bird with Martu people in the Western Desert show that such burning increases the variety of habitats and the numbers of some small animals. Historian Bill Gammage argued in 2011 that the whole continent was managed as “the biggest estate on earth”, and Aboriginal fire practitioners such as Victor Steffensen now lead a revival of cultural burning.",
+        "At Budj Bim, the Gunditjmara built channels, weirs and holding ponds in the Tyrendarra lava flow to trap and store short-finned eels, or kooyang; a channel dated by Ian McNiven, Gunditjmara Traditional Owners and colleagues is at least 6,600 years old. Remains of stone huts nearby suggest that people stayed at the site for long seasons, at least in recent centuries. At Brewarrina on the Barwon River, the stone fish traps of Baiame’s Ngunnhu are of unknown but considerable age. In the arid interior, grindstones became common in the later Holocene as people harvested native millet and other grass seeds, ground them into flour and baked them as damper."
+      ]
+    },
+    {
+      "heading": "Painted and engraved histories",
+      "paragraphs": [
+        "Australia’s rock art is among the largest and longest records of human imagery on Earth, and dating it has become possible only recently. In the Kimberley, Damien Finch and colleagues radiocarbon-dated fossil mud-wasp nests lying under and over paintings. In 2020 they showed that the elegant Gwion Gwion figures, with tassels, sashes and headdresses, were being painted about 12,000 years ago. In western Arnhem Land, Paul Taçon and colleagues, working with Traditional Owners, described the Maliwawa figures in 2020: large, naturalistic figures of people and animals, including bilbies that no longer live in the region, painted roughly 9,400–6,000 years ago.",
+        "On the Pilbara coast, Murujuga (the Burrup Peninsula and Dampier Archipelago) holds one of the world’s densest concentrations of petroglyphs, perhaps more than a million, including images of thylacines and faces. It was inscribed on the World Heritage List in 2025 after long campaigning by its Traditional Custodians, amid continuing concern about emissions from nearby industry."
+      ]
+    },
+    {
+      "heading": "New tools, new words, a new animal",
+      "paragraphs": [
+        "In the mid to late Holocene, small backed artefacts, stone pieces blunted along one edge and set into spears and knives, spread across southern and eastern Australia; they are most common between about 4,000 and 1,500 years ago. Peter Hiscock has linked them to reliable, easily repaired toolkits in a period of more variable El Niño-driven climate.",
+        "Pama-Nyungan languages cover about seven-eighths of the continent. A 2018 study by Remco Bouckaert, Claire Bowern and Quentin Atkinson traced their origin to the Gulf Plains region about 6,000 years ago, a rare example of a great language expansion without farming. Genetic studies so far suggest that the languages spread largely through contact and intermarriage rather than by replacing the people who adopted them.",
+        "The dingo came last. The oldest firmly dated dingo bones, from Madura Cave on the Nullarbor Plain, are about 3,350–3,100 years old (Jane Balme and colleagues, 2018). Dingoes never reached Tasmania, and on the mainland the thylacine and Tasmanian devil disappeared around 3,000 years ago, possibly through competition with dingoes, a drier and more variable climate and growing human populations."
+      ]
+    },
+    {
+      "heading": "Into the Pacific",
+      "paragraphs": [
+        "Around 3,300 years ago, or roughly 1350 BCE, a new culture appeared in the Bismarck Archipelago north-east of New Guinea. Its people made pottery stamped with toothed tools in intricate patterns, named Lapita after a site in New Caledonia, and moved obsidian from New Britain over long distances. Their ancestors spoke Austronesian languages and had come ultimately from Taiwan through the Philippines and eastern Indonesia.",
+        "Within a few centuries Lapita voyagers crossed the gap beyond the main Solomon Islands into the remote Pacific, which no humans had reached before. At Teouma in Vanuatu, a cemetery about 3,000 years old held burials whose skulls had often been removed. Genomes from Teouma, published by Pontus Skoglund and colleagues in 2016, show that these first settlers had almost entirely Asian-related ancestry; Papuan ancestry arrived in Vanuatu later. By about 2,800 years ago Lapita people had reached Fiji, Tonga and Samoa."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "What happened to technology in isolated Tasmania?",
+      "views": [
+        {
+          "label": "Loss through isolation",
+          "text": "Rhys Jones (1977) saw the abandonment of bone tools and fishing as a decline caused by isolation. The anthropologist Joseph Henrich (2004) recast the idea in cultural-evolution terms: in a small, isolated population fewer skilled experts are available to copy, so complex skills can be lost by chance."
+        },
+        {
+          "label": "Population size is not enough",
+          "text": "Mathematical and cross-cultural studies, such as a 2016 analysis by Krist Vaesen and colleagues, found that population size does not reliably predict toolkit complexity, and critics note that Tasmania’s population was not tiny and that its toolkit remained effective."
+        },
+        {
+          "label": "Adaptive choice",
+          "text": "Many archaeologists and Palawa people argue that dropping fish and bone tools reflected changing environments and choices, such as a shift to seals, shellfish and birds, or a cultural prohibition, while other technologies such as bark canoes and shell necklaces flourished."
+        }
+      ],
+      "status": "Jones’s language of mental decline is now rejected. Whether demography alone can erase skills is still debated in cultural evolution; for Tasmania most researchers see a mix of adaptation and some loss, and emphasise the continuity of Palawa culture."
+    },
+    {
+      "question": "Were Aboriginal Australians farmers? The Dark Emu debate",
+      "views": [
+        {
+          "label": "Agriculture and villages",
+          "text": "Bruce Pascoe’s Dark Emu (2014), drawing on colonial explorers’ journals describing harvested grain stooks, yam fields, stone houses and fish traps, argued that many Aboriginal societies practised agriculture and aquaculture and that colonists hid this to justify dispossession. The book was hugely influential and valued by many readers, Indigenous and not, for challenging the image of aimless nomads."
+        },
+        {
+          "label": "Sophisticated hunter-gatherers",
+          "text": "Anthropologist Peter Sutton and archaeologist Keryn Walshe, in Farmers or Hunter-Gatherers? (2021), argued that the evidence shows skilled hunter-gatherers whose economies were bound up with law, kinship and spiritual obligations to Country, and that calling them farmers measures them against a European yardstick."
+        },
+        {
+          "label": "Beyond the labels",
+          "text": "Many Aboriginal scholars and knowledge holders stress that caring for Country through fire, water and ceremony was its own system, which needs no validation as farming, and that its knowledge is alive today in ranger and cultural burning programmes."
+        }
+      ],
+      "status": "Specialists broadly agree that pre-colonial Aboriginal economies involved deliberate, large-scale management of plants, animals, fire and water, and broadly disagree with calling them agricultural. The lasting result of the debate has been wider public recognition of that management."
+    },
+    {
+      "question": "Did outsiders bring the dingo, backed artefacts and new languages?",
+      "views": [
+        {
+          "label": "An outside impulse",
+          "text": "A 2013 genetic study led by Irina Pugach reported gene flow from India into Australia about 4,200 years ago and suggested it might be linked to the dingo and changes in stone tools."
+        },
+        {
+          "label": "Mostly internal change",
+          "text": "The larger 2016 genome study led by Anna-Sapfo Malaspinas found no such Indian signal. Backed artefacts appear in small numbers long before the dingo, and Pama-Nyungan began in northern Australia, so most researchers see these as local developments, with the dingo brought by seafarers from island Southeast Asia who left little genetic trace."
+        }
+      ],
+      "status": "The internal view is now favoured. Who brought the dingo, and from exactly where, remains open; ancient dingo genomes and more directly dated bones may narrow it down."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Independent farming", "value": "Kuk Swamp, New Guinea: mounds about 6,950–6,440 years ago, drains from about 4,400 years ago"},
+    {"label": "Aquaculture", "value": "Budj Bim eel channels, at least 6,600 years old; UNESCO 2019"},
+    {"label": "Tasmania isolated", "value": "About 12,000 years ago, by the flooding of Bass Strait"},
+    {"label": "Oldest dingo bones", "value": "Madura Cave, about 3,350–3,100 years ago"},
+    {"label": "Pama-Nyungan", "value": "About seven-eighths of Australia; origin about 6,000 years ago"},
+    {"label": "Lapita", "value": "Bismarck Archipelago from about 1350 BCE; Fiji, Tonga and Samoa by about 800 BCE"}
+  ],
+  "sites": [
+    {
+      "id": "kuk-swamp",
+      "name": "Kuk Swamp",
+      "country": "Papua New Guinea",
+      "region": "oceania",
+      "lat": -5.78, "lon": 144.33,
+      "start": 10000, "end": 4000,
+      "dateLabel": "c. 8000–2000 BCE",
+      "type": "farming",
+      "summary": "Highland wetland with pits, planting mounds and drainage ditches showing independent invention of agriculture with bananas, taro and yams. UNESCO World Heritage since 2008."
+    },
+    {
+      "id": "budj-bim",
+      "name": "Budj Bim (Tae Rak, Lake Condah)",
+      "country": "Australia",
+      "region": "oceania",
+      "lat": -38.07, "lon": 141.84,
+      "start": 6600, "end": 150,
+      "dateLabel": "at least 6,600 years ago to the 19th century",
+      "type": "other",
+      "summary": "Gunditjmara channels, weirs and ponds built in a lava flow to trap and hold eels, with remains of stone huts. UNESCO World Heritage since 2019."
+    },
+    {
+      "id": "rocky-cape",
+      "name": "Rocky Cape",
+      "country": "Australia (Tasmania)",
+      "region": "oceania",
+      "lat": -40.86, "lon": 145.52,
+      "start": 8000, "end": 1000,
+      "dateLabel": "c. 8,000 years ago onwards",
+      "type": "settlement",
+      "summary": "Coastal caves whose deposits showed the disappearance of bone points and scale fish around 3,500 years ago, the basis of the Tasmanian debate."
+    },
+    {
+      "id": "brewarrina-fish-traps",
+      "name": "Brewarrina fish traps (Baiame’s Ngunnhu)",
+      "country": "Australia",
+      "region": "oceania",
+      "lat": -29.96, "lon": 146.86,
+      "start": 5000, "end": 150,
+      "dateLabel": "age unknown, possibly thousands of years",
+      "type": "other",
+      "summary": "Stone walls and ponds across the Barwon River used to trap fish, shared by several Aboriginal nations; their age has not been measured."
+    },
+    {
+      "id": "gwion-gwion-kimberley",
+      "name": "Gwion Gwion paintings, north Kimberley",
+      "country": "Australia",
+      "region": "oceania",
+      "lat": -15.10, "lon": 126.70,
+      "start": 12500, "end": 11500,
+      "dateLabel": "about 12,000 years ago",
+      "type": "art",
+      "summary": "Elegant painted human figures dated by radiocarbon on mud-wasp nests lying over and under the paint."
+    },
+    {
+      "id": "murujuga",
+      "name": "Murujuga (Burrup Peninsula)",
+      "country": "Australia",
+      "region": "oceania",
+      "lat": -20.63, "lon": 116.79,
+      "start": 20000, "end": 200,
+      "dateLabel": "possibly tens of thousands of years to recent",
+      "type": "art",
+      "summary": "One of the world’s densest concentrations of petroglyphs, including thylacines and faces; inscribed as a World Heritage Site in 2025."
+    },
+    {
+      "id": "madura-cave",
+      "name": "Madura Cave",
+      "country": "Australia",
+      "region": "oceania",
+      "lat": -31.90, "lon": 127.02,
+      "start": 3350, "end": 3100,
+      "dateLabel": "c. 3,350–3,100 years ago",
+      "type": "fossil",
+      "summary": "Nullarbor cave with the oldest firmly dated dingo bones, directly radiocarbon dated in 2018."
+    },
+    {
+      "id": "teouma",
+      "name": "Teouma",
+      "country": "Vanuatu",
+      "region": "oceania",
+      "lat": -17.78, "lon": 168.39,
+      "start": 3000, "end": 2800,
+      "dateLabel": "c. 1000–800 BCE",
+      "type": "burial",
+      "summary": "Lapita cemetery of the first settlers of Vanuatu, with decorated pots and skull-removal practices; genomes show almost entirely Asian-related ancestry."
+    }
+  ],
+  "routes": [
+    {
+      "id": "dingo-arrival",
+      "label": "Dingo arrives with seafarers",
+      "start": 3600,
+      "end": 3300,
+      "certainty": "debated",
+      "path": [[119.90, -4.00], [123.60, -10.20], [126.60, -14.30]]
+    },
+    {
+      "id": "lapita-voyages",
+      "label": "Lapita voyages",
+      "start": 3350,
+      "end": 2800,
+      "certainty": "established",
+      "path": [[149.60, -1.50], [150.10, -5.50], [166.10, -10.20], [168.30, -17.70], [178.00, -17.80]]
+    }
+  ],
+  "themes": ["farming", "food", "climate", "fire", "art", "animals", "language", "technology", "seafaring", "migration", "society"],
+  "sources": [
+    {"cite": "Denham, T. P. et al. (2003). Origins of agriculture at Kuk Swamp in the highlands of New Guinea. Science 301, 189–193."},
+    {"cite": "McNiven, I. J. et al. (2012). Dating Aboriginal stone-walled fishtraps at Lake Condah, southeast Australia. Journal of Archaeological Science 39."},
+    {"cite": "Jones, R. (1977). The Tasmanian paradox. In R. V. S. Wright (ed.), Stone Tools as Cultural Markers. Canberra: Australian Institute of Aboriginal Studies."},
+    {"cite": "Henrich, J. (2004). Demography and cultural evolution: how adaptive cultural processes can produce maladaptive losses. The Tasmanian case. American Antiquity 69, 197–214."},
+    {"cite": "Pascoe, B. (2014). Dark Emu: Black Seeds, Agriculture or Accident? Broome: Magabala Books."},
+    {"cite": "Sutton, P. and Walshe, K. (2021). Farmers or Hunter-Gatherers? The Dark Emu Debate. Melbourne University Press."},
+    {"cite": "Finch, D. et al. (2020). 12,000-year-old Aboriginal rock art from the Kimberley region, Western Australia. Science Advances 6."},
+    {"cite": "Balme, J., O’Connor, S. and Fallon, S. (2018). New dates on dingo bones from Madura Cave provide oldest firm evidence for arrival of the species in Australia. Scientific Reports 8."},
+    {"cite": "Bouckaert, R. R., Bowern, C. and Atkinson, Q. D. (2018). The origin and expansion of Pama-Nyungan languages across Australia. Nature Ecology & Evolution 2, 741–749."},
+    {"cite": "Skoglund, P. et al. (2016). Genomic insights into the peopling of the Southwest Pacific. Nature 538, 510–513."}
+  ]
+}

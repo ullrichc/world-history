@@ -1,0 +1,282 @@
+{
+  "id": "island-hominins",
+  "order": 8,
+  "act": "toolmakers",
+  "title": "Islanders",
+  "subtitle": "Flores, Luzon, Sulawesi and the first sea crossings",
+  "era": "Early to Late Pleistocene; Lower and Middle Palaeolithic",
+  "start": 1500000,
+  "end": 50000,
+  "dateLabel": "about 1.5 million–50,000 years ago",
+  "regions": ["asia", "oceania", "europe"],
+  "focus": [20, -12, 128, 40],
+  "emblem": "boat",
+  "summary": "Hominins crossed the sea to Sulawesi and Flores more than a million years ago and later reached Luzon. Isolated on islands, some lineages became tiny: Homo floresiensis and Homo luzonensis.",
+  "narration": [
+    "While Europe’s first people battled the cold, hominins in Southeast Asia faced a different barrier: the sea. East of Bali runs one of the sharpest boundaries in biology, the Wallace Line, where deep straits stayed open even when ice ages lowered the oceans. Yet on the island of Flores, beyond that line, stone tools lie in volcanic sediments about a million years old.",
+    "Someone had crossed. Their descendants stayed, and shrank. In 2003, in a limestone cave called Liang Bua, an Indonesian and Australian team uncovered the skeleton of an adult, probably a woman, barely more than a metre tall, with a brain the size of a chimpanzee’s. They named her species Homo floresiensis. She shared the island with dwarf elephant relatives, giant rats, storks taller than she was, and Komodo dragons.",
+    "Flores was not unique. On Luzon, in the Philippines, people butchered a rhinoceros about 709,000 years ago, and a cave there later yielded another small species, Homo luzonensis. On Sulawesi, simple stone flakes are more than a million years old.",
+    "Nobody knows how these first islanders made the journey. Perhaps they drifted on tangles of vegetation torn loose by tsunamis or floods. Perhaps some of them meant to go. Either way, the sea had been crossed again and again, long before our own species existed."
+  ],
+  "pronounce": {
+    "Liang Bua": "Lee-ahng Boo-ah",
+    "Homo floresiensis": "Hoh-moh flor-ess-ee-en-sis",
+    "Homo luzonensis": "Hoh-moh loo-zon-en-sis",
+    "Sulawesi": "Soo-lah-weh-see",
+    "Luzon": "Loo-zon"
+  },
+  "body": [
+    {
+      "heading": "Beyond the Wallace Line",
+      "paragraphs": [
+        "In the late 1850s the naturalist Alfred Russel Wallace noticed that the animals of Bali and Lombok, separated by a strait a few dozen kilometres wide, belong to different worlds: tigers, monkeys and woodpeckers to the west, cockatoos, marsupials and honeyeaters farther east. The reason is geology. In glacial periods, when sea level fell by up to about 120 metres, Java, Sumatra, Borneo and Bali joined mainland Asia in a single landmass, Sundaland. The islands to the east, a zone biologists now call Wallacea that includes Lombok, Sulawesi, Flores and Timor, stayed islands, cut off by deep water. Luzon, in the Philippines, was likewise never joined to the mainland.",
+        "Any hominin reaching Flores, Sulawesi or Luzon therefore crossed open water. These islands became natural experiments: tiny founding populations isolated for hundreds of thousands of years among strange animals."
+      ]
+    },
+    {
+      "heading": "Flores: a million years of toolmakers",
+      "paragraphs": [
+        "Flores has the longest record. In the 1990s Mike Morwood and Indonesian and Dutch colleagues found stone tools with fossils of Stegodon, an extinct elephant relative, in the Soa Basin of central Flores. In 2010 Adam Brumm and colleagues dated tools at Wolo Sege, sealed beneath volcanic ash, to about 1.02 million years using argon dating. At Mata Menge, about 700,000 years old, the team found in 2014 a fragment of an adult lower jaw and several teeth. Published in 2016, they came from hominins as small as or smaller than the later Liang Bua individuals, with teeth resembling those of early Javanese Homo erectus.",
+        "In 2024 Yousuke Kaifu, Gert van den Bergh, Adam Brumm and colleagues described a fragment of an upper arm bone from Mata Menge. It points to an adult only about a metre tall, slightly shorter than the famous Liang Bua skeleton. Tiny bodies had evolved on Flores within roughly 300,000 years of the first arrivals, and then stayed that way for more than half a million years."
+      ]
+    },
+    {
+      "heading": "The hobbit of Liang Bua",
+      "paragraphs": [
+        "Liang Bua, ‘cool cave’ in the local Manggarai language, is a large limestone cave in western Flores. In September 2003 an Indonesian and Australian team led by Mike Morwood and Raden Soejono found a partial skeleton, LB1, about six metres below the floor. Described in Nature in 2004 by Peter Brown and colleagues, it belonged to an adult, probably female, about 1.06 metres tall, with a brain of roughly 400 cubic centimetres, within the chimpanzee range. Its wrist bones were ape-like, its feet long and flat, its jaw chinless. The team named a new species, Homo floresiensis, quickly nicknamed ‘the hobbit’. Further digging recovered bones of several more individuals.",
+        "The first dates put the youngest remains at about 18,000 years, which would have meant hobbits survived long after modern humans reached the region. A decade of further excavation by Thomas Sutikna, Matthew Tocheri and colleagues showed that the layers were more complicated than they looked: an ancient erosion surface separated old deposits from much younger ones. Their 2016 revision put the skeletal remains at about 100,000 to 60,000 years old, and the stone tools attributed to the species at about 190,000 to 50,000 years.",
+        "The hobbits shared Flores with an island menagerie: a dwarf Stegodon, the Flores giant rat (which still survives), Komodo dragons, vultures and an extinct giant marabou stork about 1.8 metres tall. The Stegodon bones in the cave are mostly from juveniles, some with cut marks, which suggests the hominins hunted or scavenged the young."
+      ]
+    },
+    {
+      "heading": "Disease or new species?",
+      "paragraphs": [
+        "The discovery set off one of the fiercest disputes in modern palaeoanthropology. The Indonesian anthropologist Teuku Jacob and others argued that LB1 was a modern human with microcephaly, a condition that produces a very small brain. Later proposals blamed Laron syndrome, iodine-deficiency cretinism and, in 2014, Down syndrome. Each was answered in detail. Studies of the brain’s shape from the inside of the skull by Dean Falk and colleagues did not match microcephaly; the other individuals from the cave were equally small; and the wrist, foot and shoulder resemble early hominins, not any modern condition. The far older and equally small Mata Menge fossils settled the matter for most researchers.",
+        "Genetics answered a related question. Near Liang Bua lives the Rampasasa community, whose members are short. A 2018 genomic study led by Serena Tucci found no trace of Homo floresiensis ancestry in them; their stature arose independently from variation already present in modern humans, a reminder that island settings repeatedly favour small bodies."
+      ]
+    },
+    {
+      "heading": "Luzon: a butchered rhino and a new species",
+      "paragraphs": [
+        "On Luzon, the largest island of the Philippines, stone tools had long been reported with extinct animals in the Cagayan Valley, but without secure dates. In 2018 Thomas Ingicco and colleagues published an excavation at Kalinga: 57 stone tools and a nearly complete skeleton of an extinct rhinoceros, Rhinoceros philippinensis, with 13 cut marks and both upper arm bones smashed open for marrow. Electron spin resonance dating of the rhino’s tooth enamel gave about 709,000 years.",
+        "Clues to the toolmakers came from Callao Cave in northern Luzon. A foot bone found there in 2007 was followed by more fossils from later excavations: teeth, finger and toe bones and part of a thighbone from at least three individuals. In 2019 Florent Détroit, Armand Mijares and colleagues named Homo luzonensis. Its teeth are small, with some primitive traits such as multi-rooted premolars, and its finger and toe bones are curved like those of australopiths. Uranium-series dating gives minimum ages of about 50,000 and 67,000 years."
+      ]
+    },
+    {
+      "heading": "Sulawesi and the oldest island tools",
+      "paragraphs": [
+        "Sulawesi, the sprawling island between Borneo and the Moluccas, has no hominin fossils yet, but its Walanae Basin preserves tools. In 2016 Gerrit van den Bergh and colleagues reported stone artefacts at Talepu at least 118,000 years old. In 2025 a team led by Budianto Hakim and Adam Brumm published a handful of small stone flakes from Calio, in the same basin, dated by palaeomagnetism and by dating of associated animal fossils to between about 1.48 and 1.04 million years ago. Sulawesi was therefore reached at least as early as Flores, which raises the possibility that the Flores hominins came from the north rather than directly from Java."
+      ]
+    },
+    {
+      "heading": "The Mediterranean and the island rule",
+      "paragraphs": [
+        "Early sea crossings are argued for in the Mediterranean too. In 2008 and 2009 Thomas Strasser, Eleni Panagopoulou and colleagues found quartz handaxes, cleavers and picks near Plakias on the south coast of Crete, an island separated from the mainland for about five million years. From the uplifted marine terraces and soils around the tools, they estimated an age of at least 130,000 years. At Stelida on Naxos, Tristan Carter and colleagues reported in 2019 artefacts at least 200,000 years old; at low sea level Naxos was part of a larger Cycladic landmass, and whether reaching it required a sea crossing is debated.",
+        "Islands reshape their inhabitants. The pattern known as the island rule, described by J. Bristol Foster in 1964, holds that large mammals tend to shrink and small ones to grow when isolated, where predators are few and food is limited. The Mediterranean had dwarf elephants about a metre tall on Sicily and Malta and a dwarf mammoth on Crete; Flores had dwarf Stegodon and giant rats. Homo floresiensis and Homo luzonensis suggest that hominins obeyed the same rule."
+      ]
+    }
+  ],
+  "debates": [
+    {
+      "question": "Where did Homo floresiensis come from?",
+      "views": [
+        {
+          "label": "Dwarfed Homo erectus",
+          "text": "Gert van den Bergh, Yousuke Kaifu, Adam Brumm and colleagues argue that Homo erectus from Java, or a close relative, reached Flores about a million years ago and shrank there. The Mata Menge jaw and teeth, about 700,000 years old, look like miniature early Javanese Homo erectus, and the 2024 arm bone shows that dwarfing happened fast. Kaifu’s studies of the LB1 skull also found erectus-like features. Dwarfing of this scale is known in other island mammals."
+        },
+        {
+          "label": "Descendant of a more primitive ancestor",
+          "text": "Debbie Argue, Mike Lee and colleagues found in a 2017 phylogenetic analysis that Homo floresiensis branches off near Homo habilis, before Homo erectus. They point to its ape-like wrist, long feet, shoulder and limb proportions, which would have had to re-evolve if it descended from long-legged erectus. That would imply an otherwise unknown early dispersal of small-bodied hominins out of Africa."
+        }
+      ],
+      "status": "The dwarfed-erectus view gained ground after the Mata Menge finds and is now favoured by many, but the primitive limbs and wrist remain hard to explain. Fossils from Sulawesi, or ancient proteins from Flores teeth, could settle it."
+    },
+    {
+      "question": "How did hominins cross the sea?",
+      "views": [
+        {
+          "label": "Accidental drift",
+          "text": "Robin Dennell and colleagues argued in 2014 that the islands were colonised rarely and by accident, by individuals swept offshore on mats of vegetation or uprooted trees during tsunamis, cyclones or floods, perhaps from Sulawesi to Flores on prevailing currents. Long gaps between arrivals and tiny founding populations fit chance events."
+        },
+        {
+          "label": "Deliberate voyages",
+          "text": "Mike Morwood and the rock-art researcher Robert Bednarik argued that repeated crossings of several straits implied planned trips on rafts, and with them cooperation and perhaps some form of language. Bednarik built bamboo rafts using stone tools to show such voyages were possible."
+        }
+      ],
+      "status": "No raft or boat survives from this period, and a small group drifting ashore could found a population. Most researchers favour occasional accidental crossings for the earliest arrivals, but the growing number of islands reached keeps the question open."
+    },
+    {
+      "question": "Did hominins cross the Mediterranean before modern humans?",
+      "views": [
+        {
+          "label": "Yes, Crete shows it",
+          "text": "Thomas Strasser, Curtis Runnels and colleagues argue that the Plakias handaxes show seafaring by pre-modern hominins at least 130,000 years ago, and possibly much earlier given the Acheulean style of the tools."
+        },
+        {
+          "label": "Not proven",
+          "text": "Sceptics note that the artefacts were not dated directly, that some came from surfaces, and that tools of Acheulean appearance can be made in later periods. Naxos, and Lesbos in the eastern Aegean, were probably reachable by land or short hops at low sea level."
+        }
+      ],
+      "status": "Crete remains an intriguing but contested case. Direct dating of artefact-bearing sediments on the island would test it."
+    }
+  ],
+  "keyFacts": [
+    {"label": "Oldest tools on Flores", "value": "about 1.02 million years, Wolo Sege"},
+    {"label": "Oldest tools on Sulawesi", "value": "about 1.48–1.04 million years, Calio (2025)"},
+    {"label": "Homo floresiensis (LB1)", "value": "about 1.06 m tall, brain about 400 cm³"},
+    {"label": "Liang Bua ages", "value": "skeletons 100,000–60,000 years; tools 190,000–50,000 years"},
+    {"label": "Butchered rhino on Luzon", "value": "about 709,000 years, Kalinga"},
+    {"label": "Homo luzonensis", "value": "at least 50,000–67,000 years, Callao Cave"}
+  ],
+  "sites": [
+    {
+      "id": "wolo-sege",
+      "name": "Wolo Sege",
+      "country": "Indonesia",
+      "region": "oceania",
+      "lat": -8.66, "lon": 121.08,
+      "start": 1020000, "end": 1020000,
+      "dateLabel": "about 1.02 million years ago",
+      "type": "tools",
+      "summary": "Stone tools sealed beneath volcanic ash in the Soa Basin of Flores, argon-dated to about 1.02 million years, the oldest evidence of hominins beyond the Wallace Line on Flores."
+    },
+    {
+      "id": "mata-menge",
+      "name": "Mata Menge",
+      "country": "Indonesia",
+      "region": "oceania",
+      "lat": -8.69, "lon": 121.10,
+      "start": 700000, "end": 700000,
+      "dateLabel": "about 700,000 years ago",
+      "type": "fossil",
+      "summary": "A jaw fragment, teeth and, published in 2024, part of an upper arm bone from tiny hominins, showing that Flores hominins were already about a metre tall 700,000 years ago."
+    },
+    {
+      "id": "liang-bua",
+      "name": "Liang Bua",
+      "country": "Indonesia",
+      "region": "oceania",
+      "lat": -8.53, "lon": 120.46,
+      "start": 190000, "end": 50000,
+      "dateLabel": "tools 190,000–50,000; skeletons 100,000–60,000 years ago",
+      "type": "fossil",
+      "summary": "Limestone cave where the skeleton LB1 of Homo floresiensis was found in 2003, with remains of dwarf Stegodon, giant rats, storks and Komodo dragons."
+    },
+    {
+      "id": "kalinga-luzon",
+      "name": "Kalinga site, Cagayan Valley",
+      "country": "Philippines",
+      "region": "asia",
+      "lat": 17.52, "lon": 121.60,
+      "start": 709000, "end": 709000,
+      "dateLabel": "about 709,000 years ago",
+      "type": "tools",
+      "summary": "Fifty-seven stone tools with a butchered rhinoceros skeleton, the oldest evidence of hominins in the Philippines."
+    },
+    {
+      "id": "callao-cave",
+      "name": "Callao Cave",
+      "country": "Philippines",
+      "region": "asia",
+      "lat": 17.70, "lon": 121.82,
+      "start": 67000, "end": 50000,
+      "dateLabel": "at least 67,000–50,000 years ago",
+      "type": "fossil",
+      "summary": "Teeth and hand and foot bones of at least three individuals, named Homo luzonensis in 2019, with small teeth and curved finger and toe bones."
+    },
+    {
+      "id": "calio",
+      "name": "Calio",
+      "country": "Indonesia",
+      "region": "oceania",
+      "lat": -4.40, "lon": 119.95,
+      "start": 1480000, "end": 1040000,
+      "dateLabel": "about 1.48–1.04 million years ago",
+      "type": "tools",
+      "summary": "A handful of stone flakes in the Walanae Basin of southern Sulawesi, published in 2025 and at least 1.04 million years old, the oldest known evidence of hominins in Wallacea."
+    },
+    {
+      "id": "talepu",
+      "name": "Talepu",
+      "country": "Indonesia",
+      "region": "oceania",
+      "lat": -4.36, "lon": 119.97,
+      "start": 118000, "end": 118000,
+      "dateLabel": "at least 118,000 years ago",
+      "type": "tools",
+      "summary": "Stone artefacts in river deposits of southern Sulawesi, reported in 2016 as at least 118,000 years old, long before modern humans reached the island."
+    },
+    {
+      "id": "plakias",
+      "name": "Plakias",
+      "country": "Greece",
+      "region": "europe",
+      "lat": 35.19, "lon": 24.39,
+      "start": 130000, "end": 130000,
+      "dateLabel": "at least 130,000 years ago (estimated from geological context)",
+      "type": "tools",
+      "summary": "Quartz handaxes and cleavers on the south coast of Crete, used to argue for Lower Palaeolithic sea crossings; the dating is indirect and debated."
+    },
+    {
+      "id": "stelida",
+      "name": "Stelida, Naxos",
+      "country": "Greece",
+      "region": "europe",
+      "lat": 37.08, "lon": 25.36,
+      "start": 200000, "end": 200000,
+      "dateLabel": "at least 200,000 years ago",
+      "type": "tools",
+      "summary": "A chert source on Naxos exploited by pre-modern hominins at least 200,000 years ago; whether reaching it required a sea crossing depends on reconstructions of the ancient Cycladic landmass."
+    }
+  ],
+  "routes": [
+    {
+      "id": "sundaland-to-flores",
+      "label": "Island-hopping from Java to Flores",
+      "start": 1100000, "end": 1000000,
+      "certainty": "debated",
+      "path": [[110.84, -7.46], [114.5, -8.3], [116.1, -8.6], [117.4, -8.6], [119.3, -8.5], [121.08, -8.66]]
+    },
+    {
+      "id": "borneo-to-sulawesi",
+      "label": "Across the Makassar Strait to Sulawesi",
+      "start": 1500000, "end": 1100000,
+      "certainty": "debated",
+      "path": [[115.0, -1.0], [116.8, -1.5], [119.3, -3.4], [119.95, -4.40]]
+    },
+    {
+      "id": "sulawesi-to-flores",
+      "label": "Possible drift from Sulawesi to Flores",
+      "start": 1100000, "end": 1000000,
+      "certainty": "debated",
+      "path": [[119.95, -4.40], [120.4, -6.2], [120.8, -8.4]]
+    },
+    {
+      "id": "to-luzon",
+      "label": "Towards Luzon",
+      "start": 800000, "end": 710000,
+      "certainty": "debated",
+      "path": [[116.5, 6.0], [117.5, 8.8], [119.5, 10.8], [121.0, 13.3], [121.6, 17.5]]
+    },
+    {
+      "id": "aegean-to-crete",
+      "label": "Possible crossing to Crete",
+      "start": 200000, "end": 130000,
+      "certainty": "debated",
+      "path": [[22.5, 36.8], [23.0, 36.2], [23.6, 35.6], [24.39, 35.19]]
+    }
+  ],
+  "themes": ["species", "seafaring", "migration", "animals"],
+  "sources": [
+    {"cite": "Brown, P. et al. (2004). A new small-bodied hominin from the Late Pleistocene of Flores, Indonesia. Nature 431, 1055–1061."},
+    {"cite": "Sutikna, T. et al. (2016). Revised stratigraphy and chronology for Homo floresiensis at Liang Bua in Indonesia. Nature 532, 366–369."},
+    {"cite": "Brumm, A. et al. (2010). Hominins on Flores, Indonesia, by one million years ago. Nature 464, 748–752."},
+    {"cite": "van den Bergh, G. D. et al. (2016). Homo floresiensis-like fossils from the early Middle Pleistocene of Flores. Nature 534, 245–248."},
+    {"cite": "Kaifu, Y. et al. (2024). Early evolution of small body size in Homo floresiensis. Nature Communications 15."},
+    {"cite": "Argue, D. et al. (2017). The affinities of Homo floresiensis based on phylogenetic analyses of cranial, dental, and postcranial characters. Journal of Human Evolution 107, 107–133."},
+    {"cite": "Ingicco, T. et al. (2018). Earliest known hominin activity in the Philippines by 709 thousand years ago. Nature 557, 233–237."},
+    {"cite": "Détroit, F. et al. (2019). A new species of Homo from the Late Pleistocene of the Philippines. Nature 568, 181–186."},
+    {"cite": "Hakim, B. et al. (2025). Hominins on Sulawesi during the Early Pleistocene. Nature."},
+    {"cite": "Strasser, T. F. et al. (2010). Stone Age seafaring in the Mediterranean: evidence from the Plakias region for Lower Palaeolithic and Mesolithic habitation of Crete. Hesperia 79, 145–190."}
+  ]
+}
