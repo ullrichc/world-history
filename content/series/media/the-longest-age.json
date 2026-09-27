@@ -1,0 +1,151 @@
+[
+  {
+    "id": "turkana-sunset",
+    "file": "File:Sunset over Lake Turkana.jpg",
+    "role": "landscape",
+    "note": "Eastern shore of Lake Turkana, Koobi Fora region"
+  },
+  {
+    "id": "turkana-shore",
+    "file": "File:Southern Shore of Lake Turkana, Kenya.jpg",
+    "role": "landscape"
+  },
+  {
+    "id": "turkana-satellite",
+    "file": "File:Lake turkana satellite.jpg",
+    "role": "map",
+    "note": "NASA satellite image of Lake Turkana"
+  },
+  {
+    "id": "lomekwi-site",
+    "file": "File:Kenyanthropus-Lomekwi.jpg",
+    "role": "landscape",
+    "note": "Lomekwi, west of Lake Turkana"
+  },
+  {
+    "id": "turkana-west-sunset",
+    "file": "File:Sunset in Turkana West.jpg",
+    "role": "landscape"
+  },
+  {
+    "id": "kenyanthropus-nairobi",
+    "file": "File:At Nairobi National Museum 2025 083.jpg",
+    "role": "artefact",
+    "note": "Kenyanthropus platyops skull from Lomekwi, Nairobi National Museum"
+  },
+  {
+    "id": "oldowan-toolkit",
+    "file": "File:Oldowan toolkit.jpg",
+    "role": "artefact",
+    "note": "Oldowan hammerstone, core and flakes"
+  },
+  {
+    "id": "thomsen-lithograph",
+    "file": "File:Christian Jürgensen Thomsen. Lithograph by J. W. Tegner. Wellcome V0005808.jpg",
+    "role": "portrait"
+  },
+  {
+    "id": "thomsen-museum",
+    "file": "File:Thomsen.jpg",
+    "role": "document",
+    "note": "Thomsen showing visitors around the museum, drawing of 1848"
+  },
+  {
+    "id": "guide-1848-page",
+    "file": "File:Guide to Northern Archaeology (1848) - illustration - page 108.png",
+    "role": "document"
+  },
+  {
+    "id": "prehistoric-times-1",
+    "file": "File:Pre-historic times BHL34708521.jpg",
+    "role": "document"
+  },
+  {
+    "id": "prehistoric-times-2",
+    "file": "File:Pre-historic times BHL34708540.jpg",
+    "role": "document"
+  },
+  {
+    "id": "boucher-portrait",
+    "file": "File:Boucher de Perthes.jpg",
+    "role": "portrait"
+  },
+  {
+    "id": "boucher-biface",
+    "file": "File:Biface de Boucher de Perthes MHNT.jpg",
+    "role": "artefact",
+    "note": "Handaxe from Menchecourt-les-Abbeville, Boucher de Perthes collection"
+  },
+  {
+    "id": "moulin-quignon-bifaces",
+    "file": "File:Musée de Picardie, bifaces provenant du moulin Quignon (Abbeville) 1.jpg",
+    "role": "artefact"
+  },
+  {
+    "id": "saint-acheul-bifaces",
+    "file": "File:Bifaces Saint-Acheul Nappe de Fréville Archéologie Nationale 01042018.jpg",
+    "role": "artefact"
+  },
+  {
+    "id": "somme-river",
+    "file": "File:Somme et son marais, près de la Vallée Tranquille, Long, 20210918 170514.jpg",
+    "role": "landscape"
+  },
+  {
+    "id": "brixham-entrance",
+    "file": "File:Entrance to Windmill Hill Cavern, Brixham.jpg",
+    "role": "landscape"
+  },
+  {
+    "id": "brixham-postcard",
+    "file": "File:Windmill Hill Cavern postcard circa 1900.jpg",
+    "role": "document"
+  },
+  {
+    "id": "brixham-section",
+    "file": "File:The Ancient Stone Implements Fig. 409.—Brixham Cave.png",
+    "role": "document",
+    "note": "Section of Brixham Cave from John Evans, The Ancient Stone Implements"
+  },
+  {
+    "id": "gran-dolina",
+    "file": "File:Dolina-Pano-3.jpg",
+    "role": "landscape",
+    "note": "Excavation at Gran Dolina, Atapuerca, 2008"
+  },
+  {
+    "id": "selam-collections",
+    "file": "File:Resti di australopithecus afarensis detto selam, di tre anni circa, da dikika (afar), 3,3 milioni di anni fa.jpg",
+    "role": "artefact",
+    "note": "Selam, the Dikika child, National Museum of Ethiopia"
+  },
+  {
+    "id": "alemseged",
+    "file": "File:2024 Zeresenay Alemseged.jpg",
+    "role": "portrait"
+  },
+  {
+    "id": "afar-sites-map",
+    "file": "File:Afarensis Africa.jpg",
+    "role": "map",
+    "note": "Australopithecus afarensis sites in East Africa"
+  },
+  {
+    "id": "olduvai-panorama",
+    "file": "File:Olduvai-Schlucht Mike Krüger 110126 1.jpg",
+    "role": "landscape",
+    "note": "Olduvai Gorge, Tanzania"
+  },
+  {
+    "id": "olduvai-space",
+    "file": "File:Olduvai ast.jpg",
+    "role": "map",
+    "note": "Olduvai Gorge from space"
+  },
+  {
+    "id": "section-drawing",
+    "file": "File:Example section drawing to demonstrate stratigraphic relationships.jpg",
+    "role": "document",
+    "note": "A section drawing showing stratigraphic relationships"
+  }
+]

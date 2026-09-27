@@ -53,6 +53,31 @@ One speaker, one passage of text. Everything else is optional and happens when t
 }
 ```
 
+## Shots
+
+A cue may carry `shots`, a list of full-screen pictures and graphics timed to its sentences. A shot starts at the
+sentence `at` (default 0) and stays until the next shot, in this cue or a later one, or the end of the scene. Scenes
+without shots show the globe, as before.
+
+```jsonc
+{"at": 1, "type": "photo", "media": "turkana-sunset", "move": "push", "caption": "…", "lower": {"name": "…", "sub": "…"}}
+```
+
+* `photo`: `media` (an id from `content/series/media/<episode>.json`), `move` (push, pull, pan-left, pan-right,
+  tilt-up, tilt-down, still), `fit: "contain"` for documents, `caption`, `lower` (a lower third).
+* `montage`: `media` (a list), `captions` (one per picture); the pictures share the shot’s time equally.
+* `globe`: hides the stage and shows the globe; `camera` and `time` as for cues.
+* `diagram`: `diagram` (strata, years, decay, reversals) and `params`; see `js/diagrams.js`.
+* `type`: a quotation or sentence in large type: `text`, `kicker`, `attribution`.
+* `title`: `kicker`, `title`, `sub`.  `number`: `value`, `label`, `kicker` (the number counts up).
+* `split`: a debate as a split screen: `question`, `views` (`label`, `text`, optional `media`), `status`, `stagger`
+  (seconds between the views appearing).
+* `credits`: the pictures used in the episode with author and licence, for the end of the episode.
+
+Pictures come from Wikimedia Commons through `tools/media.py`: list them in `content/series/media/<episode>.json`
+(`id`, `file`, `role`, `note`, optional `crop` as fractions), then run `python tools/media.py fetch`. Only public
+domain, CC0, CC BY and CC BY-SA files are accepted; author and licence are shown on screen and in the credits.
+
 ## Cards
 
 * `title`: `kicker`, `title`, `sub`

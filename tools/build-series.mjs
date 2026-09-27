@@ -9,6 +9,10 @@ const root = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..')
 const read = (p) => JSON.parse(fs.readFileSync(path.join(root, p), 'utf8'));
 const REGIONS = ['africa', 'europe', 'asia', 'oceania', 'americas'];
 const CARD_TYPES = ['title', 'site', 'number', 'quote', 'debate', 'text', 'place', 'species', 'route'];
+const SHOT_TYPES = ['photo', 'montage', 'globe', 'diagram', 'type', 'title', 'number', 'split', 'credits'];
+const MOVES = ['push', 'pull', 'pan-left', 'pan-right', 'tilt-up', 'tilt-down', 'still'];
+const mediaJs = fs.existsSync(path.join(root, 'data/media.js')) ? fs.readFileSync(path.join(root, 'data/media.js'), 'utf8') : '';
+const MEDIA = mediaJs ? JSON.parse(mediaJs.slice(mediaJs.indexOf('=') + 1, mediaJs.lastIndexOf(';'))) : {};
 const STATUS = ['sample', 'draft', 'final'];
 const WORDS_PER_MINUTE = 149;
 
@@ -75,6 +79,29 @@ function validateCard(file, where, card, epSites, epSpecies, epRoutes) {
   }
 }
 
+function validateShot(file, where, sh, epId, epSites) {
+  if (!sh || typeof sh !== 'object') { err(file, `${where}: shot must be an object`); return; }
+  if (!SHOT_TYPES.includes(sh.type)) { err(file, `${where}: shot.type must be one of ${SHOT_TYPES.join(', ')}`); return; }
+  if (sh.at !== undefined && (!Number.isInteger(sh.at) || sh.at < 0)) err(file, `${where}.at must be a sentence index`);
+  const media = MEDIA[epId] || {};
+  const checkMedia = (id) => { if (typeof id !== 'string') err(file, `${where}: media id must be a string`); else if (!media[id]) warn(`${file}: ${where}: picture ${id} is not fetched yet (content/series/media/${epId}.json, then python tools/media.py fetch)`); };
+  if (sh.type === 'photo') { checkMedia(sh.media); if (sh.move !== undefined && !MOVES.includes(sh.move)) err(file, `${where}.move must be one of ${MOVES.join(', ')}`); }
+  if (sh.type === 'montage') { if (!Array.isArray(sh.media) || sh.media.length < 2) err(file, `${where}: montage needs at least two pictures`); else sh.media.forEach(checkMedia); }
+  if (sh.type === 'globe' && sh.camera) validateCamera(file, where, sh.camera);
+  if (sh.type === 'diagram' && !['strata', 'years', 'decay', 'reversals'].includes(sh.diagram)) err(file, `${where}: unknown diagram ${sh.diagram}`);
+  for (const k of ['kicker', 'title', 'sub', 'text', 'attribution', 'value', 'label', 'question', 'status', 'caption']) if (sh[k] !== undefined) text(file, `${where}.${k}`, sh[k]);
+  if (sh.captions !== undefined) sh.captions.forEach((c, i) => text(file, `${where}.captions[${i}]`, c));
+  if (sh.lower) { text(file, `${where}.lower.name`, sh.lower.name); if (sh.lower.sub !== undefined) text(file, `${where}.lower.sub`, sh.lower.sub); }
+  if (sh.type === 'split') {
+    if (!Array.isArray(sh.views) || sh.views.length < 2) err(file, `${where}: split needs at least two views`);
+    else sh.views.forEach((v, i) => { text(file, `${where}.views[${i}].label`, v.label); text(file, `${where}.views[${i}].text`, v.text); if (v.media) checkMedia(v.media); });
+  }
+  if (sh.type === 'diagram' && sh.params) {
+    const walk = (v, w) => { if (typeof v === 'string') text(file, w, v); else if (Array.isArray(v)) v.forEach((x, i) => walk(x, `${w}[${i}]`)); else if (v && typeof v === 'object') for (const [k, x] of Object.entries(v)) walk(x, `${w}.${k}`); };
+    walk(sh.params, `${where}.params`);
+  }
+}
+
 function validateEpisode(file, e) {
   for (const k of ['id', 'number', 'title', 'subtitle', 'summary', 'regions', 'emblem', 'status', 'scenes']) if (!(k in e)) err(file, `missing field ${k}`);
   if (!/^[a-z0-9-]+$/.test(e.id || '')) err(file, 'id must be kebab-case');
@@ -126,6 +153,10 @@ function validateEpisode(file, e) {
       if (cue.card !== undefined) validateCard(file, `${cw}.card`, cue.card, epSites, epSpecies, epRoutes);
       if (cue.route !== undefined && !epRoutes.has(cue.route)) err(file, `${cw}: unknown route ${cue.route}`);
       if (cue.time !== undefined && !num(cue.time)) err(file, `${cw}.time must be a number of years ago`);
+      if (cue.shots !== undefined) {
+        if (!Array.isArray(cue.shots)) err(file, `${cw}.shots must be an array`);
+        else cue.shots.forEach((sh, k) => validateShot(file, `${cw}.shots[${k}]`, sh, e.id, epSites));
+      }
     });
     for (const cam of [sc.camera, ...sc.cues.map((c) => c.camera)]) {
       if (cam && cam.sites) cam.sites.forEach((id) => { if (!(siteIds.has(id) || epSites.has(id))) err(file, `${w}: camera refers to unknown site ${id}`); });

@@ -448,7 +448,15 @@
               "lomekwi-3"
             ],
             "zoom": 4.5
-          }
+          },
+          "shots": [
+            {
+              "type": "photo",
+              "media": "turkana-sunset",
+              "move": "push",
+              "caption": "The eastern shore of Lake Turkana, Kenya"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -456,20 +464,76 @@
           "sites": [
             "lomekwi-3"
           ],
-          "card": {
-            "type": "site",
-            "site": "lomekwi-3"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "lomekwi-site",
+              "move": "pan-left",
+              "caption": "Lomekwi, west of Lake Turkana"
+            },
+            {
+              "at": 1,
+              "type": "globe",
+              "camera": {
+                "sites": [
+                  "lomekwi-3"
+                ],
+                "zoom": 5
+              }
+            }
+          ]
         },
         {
           "speaker": "narrator",
           "text": "Someone had struck these stones from lava cobbles 3.3 million years ago. The layer that held them lies above a volcanic ash dated to 3.32 million years, and the magnetic record in the sediment agrees. If that reading holds, they are the oldest known tools made by breaking stone, 700,000 years older than any found before.",
-          "card": {
-            "type": "number",
-            "value": "3.3 million years",
-            "label": "The oldest known knapped stone, if the context holds",
-            "note": "Harmand and colleagues, Nature, 2015"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "kenyanthropus-nairobi",
+              "move": "tilt-up",
+              "caption": "Kenyanthropus platyops, found at Lomekwi in 1999, about 3.5 million years old"
+            },
+            {
+              "at": 1,
+              "type": "diagram",
+              "diagram": "strata",
+              "params": {
+                "title": "Lomekwi 3, West Turkana",
+                "every": 1.5,
+                "layers": [
+                  {
+                    "label": "Older sediments",
+                    "age": "before 3.32 million years"
+                  },
+                  {
+                    "label": "Toroto Tuff",
+                    "age": "volcanic ash, 3.32 million years",
+                    "color": "#a99a84"
+                  },
+                  {
+                    "label": "Lomekwi 3 horizon",
+                    "age": "about 3.3 million years",
+                    "artefact": "excavated artefacts",
+                    "at": 0.5
+                  },
+                  {
+                    "label": "Younger sediments",
+                    "age": "reversed magnetic field, then normal"
+                  }
+                ],
+                "surface": "Surface finds: 130 or so pieces on the slope"
+              }
+            },
+            {
+              "at": 2,
+              "type": "number",
+              "value": "3.3 million years",
+              "label": "The oldest known knapped stone, if the context holds",
+              "kicker": "Harmand and colleagues, Nature, 2015"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -480,22 +544,36 @@
             "lat": 12,
             "zoom": 1
           },
-          "card": {
-            "type": "number",
-            "value": "99 percent",
-            "label": "of the time since the first known tools falls within the Stone Age",
-            "note": "About 3.3 million years, against about 5,000 years of metal"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "globe",
+              "camera": {
+                "lon": 30,
+                "lat": 12,
+                "zoom": 1
+              }
+            },
+            {
+              "at": 1,
+              "type": "number",
+              "value": "99 percent",
+              "label": "of the time since the first known tools falls within the Stone Age",
+              "kicker": "3.3 million years of stone, about 5,000 of metal"
+            }
+          ]
         },
         {
           "speaker": "narrator",
           "text": "This is the story of that age, on every continent, from the first flaked stones to the first furnaces.",
-          "card": {
-            "type": "title",
-            "kicker": "Before Bronze · Episode 1",
-            "title": "The Longest Age",
-            "sub": "A world history of the Stone Age"
-          }
+          "shots": [
+            {
+              "type": "title",
+              "kicker": "Before Bronze · Episode 1",
+              "title": "The Longest Age",
+              "sub": "A world history of the Stone Age"
+            }
+          ]
         }
       ],
       "sources": [
@@ -600,7 +678,19 @@
       "cues": [
         {
           "speaker": "narrator",
-          "text": "Thomsen’s ages had no dates. In his day the accepted age of humanity was a few thousand years, and the idea that people had lived alongside mammoths was close to heresy. The discovery that the Stone Age was deep took two decades of argument, and it is where this series’ habit of naming who argued what begins."
+          "text": "Thomsen’s ages had no dates. In his day the accepted age of humanity was a few thousand years, and the idea that people had lived alongside mammoths was close to heresy. The discovery that the Stone Age was deep took two decades of argument, and it is where this series’ habit of naming who argued what begins.",
+          "shots": [
+            {
+              "type": "photo",
+              "media": "thomsen-museum",
+              "move": "push",
+              "caption": "Thomsen showing visitors around the museum in Copenhagen, drawing of 1848",
+              "lower": {
+                "name": "Christian Jürgensen Thomsen",
+                "sub": "Copenhagen, 1788 to 1865"
+              }
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -610,16 +700,37 @@
             "lat": 50.1,
             "zoom": 5
           },
-          "card": {
-            "type": "place",
-            "kicker": "Abbeville, 1830s to 1847",
-            "title": "Jacques Boucher de Perthes",
-            "items": [
-              "Handaxes from the Somme gravels, with bones of extinct animals",
-              "Antiquités celtiques et antédiluviennes, printed 1847",
-              "Ignored by the Paris academies for a decade"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "boucher-portrait",
+              "move": "pull",
+              "lower": {
+                "name": "Jacques Boucher de Perthes",
+                "sub": "Abbeville, customs officer and antiquarian"
+              }
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "boucher-biface",
+              "move": "pan-right",
+              "caption": "A flint handaxe from Menchecourt near Abbeville, from Boucher de Perthes’ collection"
+            },
+            {
+              "at": 2,
+              "type": "montage",
+              "media": [
+                "moulin-quignon-bifaces",
+                "somme-river"
+              ],
+              "captions": [
+                "Handaxes from the Moulin Quignon pit at Abbeville",
+                "The Somme valley today"
+              ]
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -634,35 +745,108 @@
               "saint-acheul"
             ]
           },
-          "card": {
-            "type": "site",
-            "site": "saint-acheul"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "brixham-entrance",
+              "move": "push",
+              "caption": "The entrance to Windmill Hill Cavern, Brixham, Devon"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "brixham-section",
+              "move": "pan-right",
+              "fit": "contain",
+              "caption": "Section through Brixham Cave, from John Evans, The Ancient Stone Implements, 1872"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "brixham-postcard",
+              "move": "tilt-up",
+              "caption": "Windmill Hill Cavern as a show cave, before 1906"
+            },
+            {
+              "at": 3,
+              "type": "montage",
+              "media": [
+                "prestwich-portrait",
+                "evans-portrait"
+              ],
+              "captions": [
+                "Joseph Prestwich, geologist",
+                "John Evans, paper manufacturer and antiquarian"
+              ]
+            },
+            {
+              "at": 4,
+              "type": "photo",
+              "media": "saint-acheul-bifaces",
+              "move": "pull",
+              "caption": "Handaxes from the Saint-Acheul gravels, Amiens"
+            }
+          ]
         },
         {
           "speaker": "source",
           "text": "Lying in the gravel at a depth of 17 feet from the original surface, and six and a half feet from the chalk.",
-          "card": {
-            "type": "quote",
-            "text": "Lying in the gravel at a depth of 17 feet from the original surface, and six and a half feet from the chalk.",
-            "attribution": "Joseph Prestwich on the Saint-Acheul handaxe, paper read to the Royal Society, 26 May 1859"
-          }
+          "shots": [
+            {
+              "type": "type",
+              "kicker": "Joseph Prestwich, read to the Royal Society, 26 May 1859",
+              "text": "Lying in the gravel at a depth of 17 feet from the original surface, and six and a half feet from the chalk."
+            }
+          ]
         },
         {
           "speaker": "narrator",
           "text": "Prestwich read the results to the Royal Society on the 26th of May 1859, and Evans to the Society of Antiquaries a week later. That November Darwin published On the Origin of Species, and in 1863 Charles Lyell’s Geological Evidences of the Antiquity of Man gathered the case. Within five years the human past had grown from a few thousand years to an unmeasured depth. It would take another century, and the clocks you will hear about shortly, to put numbers on it.",
-          "card": {
-            "type": "text",
-            "kicker": "1858 to 1863",
-            "title": "Five years that deepened the past",
-            "items": [
-              "1858: Brixham Cave excavated under Pengelly",
-              "April 1859: Prestwich and Evans at Abbeville and Amiens",
-              "26 May 1859: Prestwich reads the evidence to the Royal Society",
-              "November 1859: Darwin, On the Origin of Species",
-              "1863: Lyell, The Geological Evidences of the Antiquity of Man"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "diagram",
+              "diagram": "years",
+              "params": {
+                "title": "Five years that deepened the past",
+                "from": 1857,
+                "to": 1864,
+                "tick": 1,
+                "every": 2.2,
+                "events": [
+                  {
+                    "year": 1858,
+                    "label": "Brixham Cave|excavated"
+                  },
+                  {
+                    "year": 1859.3,
+                    "label": "Prestwich and Evans|at Abbeville"
+                  },
+                  {
+                    "year": 1859.9,
+                    "label": "Darwin,|On the Origin of Species"
+                  },
+                  {
+                    "year": 1863,
+                    "label": "Lyell, The Antiquity|of Man"
+                  }
+                ]
+              }
+            },
+            {
+              "at": 3,
+              "type": "montage",
+              "media": [
+                "darwin-1859",
+                "lyell-portrait"
+              ],
+              "captions": [
+                "Charles Darwin",
+                "Charles Lyell"
+              ]
+            }
+          ]
         }
       ],
       "sources": [
@@ -893,17 +1077,49 @@
         {
           "speaker": "narrator",
           "text": "Before the clocks, a word about ground. Archaeology reads layers. Sediment settles in order, oldest at the bottom, and an object sealed in an undisturbed layer belongs to the time of that layer. Most arguments about early sites, Lomekwi included, are arguments about whether a layer really was undisturbed, and whether the objects in it are what they seem.",
-          "card": {
-            "type": "text",
-            "kicker": "Stratigraphy",
-            "title": "Reading layers",
-            "items": [
-              "Layers settle in order: the deeper, the older, unless something disturbed them",
-              "An object sealed in an undisturbed layer dates with the layer",
-              "Surface finds can come from anywhere above",
-              "Burrows, roots, floods and collapses move things"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "gran-dolina",
+              "move": "tilt-up",
+              "caption": "Excavation at Gran Dolina, Atapuerca, Spain, 2008: a million years of layers"
+            },
+            {
+              "at": 2,
+              "type": "diagram",
+              "diagram": "strata",
+              "params": {
+                "title": "Reading layers",
+                "every": 1.3,
+                "layers": [
+                  {
+                    "label": "Bedrock",
+                    "age": "the floor of the record"
+                  },
+                  {
+                    "label": "River gravels",
+                    "age": "older, laid down first"
+                  },
+                  {
+                    "label": "Fine silt",
+                    "age": "with an object sealed in place",
+                    "artefact": "excavated in place",
+                    "at": 0.6
+                  },
+                  {
+                    "label": "Later sediments",
+                    "age": "younger, laid down last"
+                  },
+                  {
+                    "label": "Topsoil",
+                    "age": "today"
+                  }
+                ],
+                "surface": "Surface finds: anything from any layer above, washed down"
+              }
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -911,25 +1127,50 @@
           "sites": [
             "dikika"
           ],
-          "card": {
-            "type": "debate",
-            "question": "Were the Dikika bones butchered 3.39 million years ago?",
-            "views": [
-              {
-                "label": "Cut marks",
-                "text": "McPherron, Alemseged and colleagues (2010): the shape, position and internal features of the marks match stone-tool cuts and percussion, not trampling."
-              },
-              {
-                "label": "Trampling",
-                "text": "Domínguez-Rodrigo, Pickering and Bunn (2010): the marks match experimental damage from bones trampled in abrasive sand, and no tools were found."
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "selam-collections",
+              "move": "pan-right",
+              "caption": "Selam, the Dikika child, about 3.3 million years old, National Museum of Ethiopia"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "alemseged",
+              "move": "still",
+              "lower": {
+                "name": "Zeresenay Alemseged",
+                "sub": "Dikika Research Project"
               }
-            ],
-            "status": "Still open. Methods that separate cut marks from trampling statistically have improved, but two bones are a small sample."
-          }
+            }
+          ]
         },
         {
           "speaker": "research",
-          "text": "Manuel Domínguez-Rodrigo, Travis Pickering and Henry Bunn answered the same year that the marks matched damage from bones trampled in abrasive sand, and that no tools had been found. McPherron’s team replied that the shape, position and internal features of the marks matched experimental cuts rather than trampling. Statistical methods that separate cut marks from trampling have improved since, but two bones are a small sample, and the question is still open."
+          "text": "Manuel Domínguez-Rodrigo, Travis Pickering and Henry Bunn answered the same year that the marks matched damage from bones trampled in abrasive sand, and that no tools had been found. McPherron’s team replied that the shape, position and internal features of the marks matched experimental cuts rather than trampling. Statistical methods that separate cut marks from trampling have improved since, but two bones are a small sample, and the question is still open.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "split",
+              "question": "Were the Dikika bones butchered 3.39 million years ago?",
+              "stagger": 6,
+              "views": [
+                {
+                  "label": "Cut marks",
+                  "text": "McPherron, Alemseged and colleagues, 2010: the shape, position and internal features of the marks match stone-tool cuts and percussion, not trampling.",
+                  "media": "selam-collections"
+                },
+                {
+                  "label": "Trampling",
+                  "text": "Domínguez-Rodrigo, Pickering and Bunn, 2010: the marks match experimental damage from bones trampled in abrasive sand, and no tools were found.",
+                  "media": "afar-sites-map"
+                }
+              ],
+              "status": "Still open. Methods that separate cut marks from trampling statistically have improved, but two bones are a small sample."
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -938,11 +1179,40 @@
             "lon": 40,
             "lat": 0,
             "zoom": 1
-          }
+          },
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "olduvai-panorama",
+              "move": "pan-left",
+              "caption": "Olduvai Gorge, Tanzania, where rivers, lakes and volcanic ash sorted bones and stones for two million years"
+            }
+          ]
         },
         {
           "speaker": "narrator",
-          "text": "Context is why archaeologists dig slowly, record every find in three dimensions, and are wary of objects picked up from the surface. When you hear that a find was excavated in place, or that it was a surface find, you now know why the words matter."
+          "text": "Context is why archaeologists dig slowly, record every find in three dimensions, and are wary of objects picked up from the surface. When you hear that a find was excavated in place, or that it was a surface find, you now know why the words matter.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "section-drawing",
+              "move": "push",
+              "fit": "contain",
+              "caption": "A section drawing: the record of what lay above what"
+            },
+            {
+              "at": 1,
+              "type": "globe",
+              "camera": {
+                "sites": [
+                  "dikika"
+                ],
+                "zoom": 4
+              }
+            }
+          ]
         }
       ],
       "sources": [
@@ -2267,12 +2537,20 @@
             "lat": 5,
             "zoom": 1.3
           },
-          "card": {
-            "type": "title",
-            "kicker": "Next",
-            "title": "Africa: the Cradle",
-            "sub": "Episode 2"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "title",
+              "kicker": "Next",
+              "title": "Africa: the Cradle",
+              "sub": "Episode 2"
+            },
+            {
+              "at": 1,
+              "type": "credits",
+              "kicker": "Pictures in this episode"
+            }
+          ]
         }
       ],
       "sources": [

@@ -379,6 +379,7 @@
       this.appeared = new Map();
       this.sceneSites = new Set(sc.cues.flatMap((c) => c.sites || []).concat(sc.camera && sc.camera.sites ? sc.camera.sites : []));
       this.showCard(null);
+      this.clearStage();
       $('#badge-region').textContent = `Episode ${ep.number} · ${sc.title}`;
       $('#wt-scene').innerHTML = `<b>${BB.esc(sc.title)}</b> <span>· scene ${i + 1} of ${ep.scenes.length}</span>`;
       $('#watch-caption').innerHTML = '';
@@ -409,6 +410,7 @@
     },
     onSentence(ci, si) {
       const cap = $('#watch-caption');
+      if (ci >= 0 && si >= 0) this.syncShots(ci, si);
       if (ci < 0 || si < 0) { cap.classList.remove('on'); return; }
       const cue = this.player.sceneObj().cues[ci];
       const sp = speakers.get(cue.speaker) || { label: cue.speaker, color: '#eee5d4' };
@@ -416,6 +418,7 @@
       cap.classList.add('on');
     },
     onTime(years, local) {
+      if (this.shot && this.shot.update) this.shot.update(local);
       BB.setTime(years);
       this.refreshSites(years);
       if (this.routeCue) {
@@ -460,6 +463,148 @@
       } else if (cam.box) target = g.fitBox(cam.box);
       else target = { lon: cam.lon, lat: cam.lat, zoom: cam.zoom };
       g.flyTo(target);
+    },
+
+    /* Stage: full-screen shots (pictures, montages, diagrams, graphics) timed to sentences ------------------- */
+    shotList(sc) {
+      // [{shot, cue, at, start}] in play order, with start times from the audio model
+      const m = this.player.model();
+      const out = [];
+      sc.cues.forEach((cue, c) => (cue.shots || []).forEach((shot) => {
+        const at = BB.clamp(shot.at || 0, 0, cue.sentences.length - 1);
+        const sent = m.cues[c].sentences[at];
+        out.push({ shot, cue: c, at, start: sent ? sent[0] : m.cues[c].start });
+      }));
+      out.sort((a, b) => a.start - b.start);
+      return out;
+    },
+    syncShots(ci, si) {
+      const sc = this.player.sceneObj();
+      const list = this.shotList(sc);
+      if (!list.length) return;
+      let active = null, idx = -1;
+      list.forEach((e, i) => { if (e.cue < ci || (e.cue === ci && e.at <= si)) { active = e; idx = i; } });
+      if (active === this.activeEntry) return;
+      if (!active) { this.clearStage(); return; }
+      const end = idx + 1 < list.length ? list[idx + 1].start : this.player.model().duration;
+      this.activeEntry = active;
+      this.showShot(active.shot, active.start, end);
+    },
+    clearStage() {
+      const stage = $('#watch-stage');
+      this.activeEntry = null;
+      this.shot = null;
+      stage.classList.remove('on');
+      stage.querySelectorAll('.shot').forEach((el) => { el.classList.add('out'); setTimeout(() => el.remove(), 1000); });
+      this.lowerThird(null);
+    },
+    mediaFor(id) {
+      const ep = this.player.episode;
+      const m = window.LD_MEDIA && window.LD_MEDIA[ep.id];
+      return (m && m[id]) || null;
+    },
+    creditFor(m) {
+      if (!m) return '';
+      const who = (m.author || '').replace(/^User:/, '').slice(0, 60);
+      return `${who ? who + ' · ' : ''}${m.licence} · Wikimedia Commons`;
+    },
+    showShot(shot, start, end) {
+      const stage = $('#watch-stage');
+      const old = stage.querySelectorAll('.shot');
+      old.forEach((el) => { el.classList.remove('in'); el.classList.add('out'); setTimeout(() => el.remove(), 1000); });
+      this.shot = null;
+      this.lowerThird(shot.lower || null);
+      if (shot.type === 'globe') {
+        stage.classList.remove('on');
+        if (shot.camera) this.flyTo(shot.camera);
+        if (shot.time != null) BB.animateTime(shot.time, 1500);
+        return;
+      }
+      const dur = Math.max(1, end - start);
+      const el = BB.el('div', { class: `shot ${shot.type}` });
+      const S = { el, start, end, update: null };
+      const prog = (local) => BB.clamp((local - start) / dur, 0, 1);
+      if (shot.type === 'photo') {
+        const m = this.mediaFor(shot.media);
+        if (m) {
+          const img = BB.el('img', { src: m.src, alt: m.description || '' });
+          el.append(img, BB.el('div', { class: 'credit' }, shot.caption ? BB.el('b', {}, shot.caption) : null, this.creditFor(m)));
+          if (shot.fit === 'contain') el.classList.add('contain');
+          const move = shot.move || 'push';
+          const K = { push: [1, 1.14, 0, 0, 0, 0], pull: [1.14, 1, 0, 0, 0, 0], 'pan-left': [1.12, 1.12, 3, -3, 0, 0], 'pan-right': [1.12, 1.12, -3, 3, 0, 0], 'tilt-up': [1.12, 1.12, 0, 0, 3, -3], 'tilt-down': [1.12, 1.12, 0, 0, -3, 3], still: [1.04, 1.04, 0, 0, 0, 0] }[move] || [1, 1.14, 0, 0, 0, 0];
+          S.update = (local) => { const u = prog(local); const e = u * u * (3 - 2 * u); img.style.transform = `translate(${BB.lerp(K[2], K[3], e)}%, ${BB.lerp(K[4], K[5], e)}%) scale(${BB.lerp(K[0], K[1], e)})`; };
+        } else el.append(BB.el('div', { class: 'inner' }, BB.el('div', { class: 'kicker' }, 'picture missing'), BB.el('p', {}, shot.media || '')));
+      } else if (shot.type === 'montage') {
+        const items = (shot.media || []).map((id) => this.mediaFor(id)).filter(Boolean);
+        const imgs = items.map((m) => BB.el('img', { src: m.src, alt: m.description || '' }));
+        const credit = BB.el('div', { class: 'credit' });
+        el.append(...imgs, credit);
+        let cur = -1;
+        S.update = (local) => {
+          const u = prog(local);
+          const i = Math.min(imgs.length - 1, Math.floor(u * imgs.length));
+          imgs.forEach((im, k) => im.classList.toggle('on', k === i));
+          const f = (u * imgs.length) % 1;
+          if (imgs[i]) imgs[i].style.transform = `scale(${1.02 + 0.1 * f})`;
+          if (i !== cur) { cur = i; credit.innerHTML = ''; const cap = (shot.captions || [])[i]; if (cap) credit.append(BB.el('b', {}, cap)); credit.append(this.creditFor(items[i])); }
+        };
+      } else if (shot.type === 'diagram') {
+        const canvas = BB.el('canvas');
+        el.append(canvas);
+        const fn = BB.diagrams && BB.diagrams[shot.diagram];
+        const draw = (t) => {
+          const r = canvas.getBoundingClientRect();
+          const dpr = Math.min(2, window.devicePixelRatio || 1);
+          if (canvas.width !== Math.round(r.width * dpr) || canvas.height !== Math.round(r.height * dpr)) { canvas.width = Math.round(r.width * dpr); canvas.height = Math.round(r.height * dpr); }
+          const ctx = canvas.getContext('2d');
+          ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+          if (fn) fn(ctx, r.width, r.height, t, shot.params || {});
+        };
+        S.update = (local) => draw(Math.max(0, local - start));
+        setTimeout(() => S.update(this.player.local()), 30);
+      } else if (shot.type === 'type') {
+        el.append(BB.el('div', { class: 'inner' }, shot.kicker ? BB.el('div', { class: 'kicker' }, shot.kicker) : null, BB.el('p', {}, shot.text || ''), shot.attribution ? BB.el('div', { class: 'attr' }, shot.attribution) : null));
+      } else if (shot.type === 'title') {
+        el.append(BB.el('div', { class: 'inner' }, shot.kicker ? BB.el('div', { class: 'kicker' }, shot.kicker) : null, BB.el('h1', {}, shot.title || ''), shot.sub ? BB.el('div', { class: 'sub' }, shot.sub) : null));
+      } else if (shot.type === 'number') {
+        const big = BB.el('div', { class: 'big' }, shot.value);
+        el.append(BB.el('div', { class: 'inner' }, shot.kicker ? BB.el('div', { class: 'kicker' }, shot.kicker) : null, big, BB.el('div', { class: 'lbl' }, shot.label || '')));
+        const mnum = String(shot.value).match(/^([\d.,]+)(.*)$/);
+        if (mnum) {
+          const target = parseFloat(mnum[1].replace(/,/g, '')), dec = (mnum[1].split('.')[1] || '').length;
+          S.update = (local) => { const u = Math.min(1, (local - start) / Math.min(3, dur * 0.6)); const v = target * (1 - Math.pow(1 - u, 3)); big.textContent = (dec ? v.toFixed(dec) : BB.num(Math.round(v))) + mnum[2]; };
+        }
+      } else if (shot.type === 'split') {
+        const cols = (shot.views || []).map((v, i) => {
+          const m = v.media ? this.mediaFor(v.media) : null;
+          return BB.el('div', { class: 'col', style: `--vc:${['var(--yellow-ochre)', 'var(--cat-monument)', 'var(--cat-burial)', 'var(--lichen)'][i % 4]}` }, m ? BB.el('img', { src: m.src, alt: '' }) : null, BB.el('b', {}, v.label), BB.el('p', {}, v.text));
+        });
+        const status = shot.status ? BB.el('div', { class: 'status' }, shot.status) : null;
+        el.append(BB.el('div', { class: 'inner' }, BB.el('h2', {}, shot.question || ''), BB.el('div', { class: 'cols' }, ...cols), status));
+        const n = cols.length;
+        S.update = (local) => { const t = local - start; cols.forEach((c, i) => c.classList.toggle('on', t > 0.6 + i * (shot.stagger || 2.5))); if (status) status.classList.toggle('on', t > 0.6 + n * (shot.stagger || 2.5)); };
+      } else if (shot.type === 'credits') {
+        const ep = this.player.episode;
+        const used = new Map();
+        for (const sc of ep.scenes) for (const cue of sc.cues) for (const sh of cue.shots || []) {
+          const ids = sh.type === 'photo' ? [sh.media] : sh.type === 'montage' ? sh.media : sh.type === 'split' ? (sh.views || []).map((v) => v.media) : [];
+          for (const id of ids || []) { const m = id && this.mediaFor(id); if (m) used.set(id, m); }
+        }
+        const rows = [...used.values()].map((m) => BB.el('div', {}, BB.el('b', {}, (m.description || m.file).slice(0, 70)), ` ${(m.author || '').replace(/^User:/, '')}, ${m.licence}, Wikimedia Commons`));
+        el.append(BB.el('div', { class: 'inner' }, BB.el('div', { class: 'kicker', style: 'column-span:all' }, shot.kicker || 'Pictures'), ...rows));
+      }
+      stage.append(el);
+      stage.classList.add('on');
+      requestAnimationFrame(() => el.classList.add('in'));
+      if (S.update) S.update(this.player.local());
+      this.shot = S;
+    },
+    lowerThird(lt) {
+      let el = $('#lower-third');
+      if (!el) { el = BB.el('div', { class: 'lower-third', id: 'lower-third' }); $('#app').append(el); }
+      if (!lt) { el.classList.remove('on'); return; }
+      el.innerHTML = `<b>${BB.esc(lt.name || '')}</b>${lt.sub ? `<span>${BB.esc(lt.sub)}</span>` : ''}`;
+      el.classList.add('on');
     },
 
     /* Cards */
