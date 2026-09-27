@@ -120,8 +120,7 @@ These came from research agents or memory and could not be checked online at the
   pacing, card density and the handling of contested views in episode 1, before episodes 2 to 8 are written.
 * Known limits: a debate card on a phone is tall and scrolls inside its box; the timeline keyframes of a scene run
   through cue `time` values, so a scene that jumps back and forth in time (the dating methods) should keep
-  `start` equal to `end`; the `.venv/` directory was committed and then untracked in this branch, so the history
-  of `claude/before-bronze-series` carries about 100 MB it does not need (a history rewrite needs the user’s consent).
+  `start` equal to `end`; the local Python environment lives in `.venv/`, which is ignored by git (an early commit that included it was rewritten out of the branch with the user’s consent).
 * Facts in episode 1 that came from search snippets rather than the papers themselves and deserve a second look
   when the episode is finalised: the exact wording of the Prestwich quotation of 26 May 1859; the Muna Island hand
   stencil age of 67,800 years (from chapter 19); the Thackeray 2024 biochronological estimate for Little Foot;
