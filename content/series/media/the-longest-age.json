@@ -147,5 +147,37 @@
     "file": "File:Example section drawing to demonstrate stratigraphic relationships.jpg",
     "role": "document",
     "note": "A section drawing showing stratigraphic relationships"
+  },
+  {
+    "id": "prestwich-portrait",
+    "file": "File:PSM V52 D158 Joseph Prestwich.jpg",
+    "role": "portrait"
+  },
+  {
+    "id": "evans-portrait",
+    "file": "File:Portrait of Sir John Evans (1823-1908) Wellcome M0002315.jpg",
+    "role": "portrait"
+  },
+  {
+    "id": "pengelly-portrait",
+    "file": "File:William Pengelly. Photomechanical print. Wellcome V0026999.jpg",
+    "role": "portrait"
+  },
+  {
+    "id": "lyell-portrait",
+    "file": "File:Charles Lyell slnsw.jpg",
+    "role": "portrait",
+    "note": "Charles Lyell, about 1863, by Ernest Edwards"
+  },
+  {
+    "id": "darwin-1859",
+    "file": "File:Charles Darwin by Maull and Polyblank, 1855a.jpg",
+    "role": "portrait",
+    "note": "Charles Darwin in 1855, by Maull and Polyblank"
+  },
+  {
+    "id": "origin-title",
+    "file": "File:On the Origin of Species 1859 - Titlepage.png",
+    "role": "document"
   }
 ]

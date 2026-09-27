@@ -198,7 +198,7 @@ const out = {
     emblem: e.emblem, status: e.status, statusNote: e.statusNote || '', words: e.words, minutes: e.minutes,
     sites: e.sites || [], routes: e.routes || [],
     scenes: e.scenes.map((sc) => ({
-      id: sc.id, title: sc.title, start: sc.start, end: sc.end, camera: sc.camera,
+      id: sc.id, title: sc.title, start: sc.start, end: sc.end, camera: sc.camera, clock: sc.clock !== false,
       cues: sc.cues.map((c) => ({ ...c, sentences: sentences(c.text) })),
       sources: sc.sources || [],
     })),

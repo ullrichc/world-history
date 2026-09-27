@@ -380,6 +380,7 @@
       this.sceneSites = new Set(sc.cues.flatMap((c) => c.sites || []).concat(sc.camera && sc.camera.sites ? sc.camera.sites : []));
       this.showCard(null);
       this.clearStage();
+      $('#badge').classList.toggle('noclock', sc.clock === false);
       $('#badge-region').textContent = `Episode ${ep.number} · ${sc.title}`;
       $('#wt-scene').innerHTML = `<b>${BB.esc(sc.title)}</b> <span>· scene ${i + 1} of ${ep.scenes.length}</span>`;
       $('#watch-caption').innerHTML = '';
@@ -495,6 +496,7 @@
       this.activeEntry = null;
       this.shot = null;
       stage.classList.remove('on');
+      delete stage.dataset.shot;
       stage.querySelectorAll('.shot').forEach((el) => { el.classList.add('out'); setTimeout(() => el.remove(), 1000); });
       this.lowerThird(null);
     },
@@ -516,6 +518,7 @@
       this.lowerThird(shot.lower || null);
       if (shot.type === 'globe') {
         stage.classList.remove('on');
+        delete stage.dataset.shot;
         if (shot.camera) this.flyTo(shot.camera);
         if (shot.time != null) BB.animateTime(shot.time, 1500);
         return;
@@ -594,6 +597,7 @@
         el.append(BB.el('div', { class: 'inner' }, BB.el('div', { class: 'kicker', style: 'column-span:all' }, shot.kicker || 'Pictures'), ...rows));
       }
       stage.append(el);
+      stage.dataset.shot = shot.type;
       stage.classList.add('on');
       requestAnimationFrame(() => el.classList.add('in'));
       if (S.update) S.update(this.player.local());
