@@ -63,6 +63,7 @@ def get(url, binary=False, pause=1.6):
 
 
 def strip(x):
+    x = re.sub(r'<style[^>]*>.*?</style>', ' ', x, flags=re.S)
     return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', x)).strip()
 
 
@@ -102,7 +103,23 @@ def file_page(title):
     if not rec['description']:
         m = re.search(r'id="fileinfotpl_art_title"[^>]*>.*?</td>\s*<td[^>]*>(.*?)</td>', s, re.S)
         rec['description'] = strip(m.group(1))[:300] if m else ''
+    rec['author'] = tidy_author(rec['author'])
     return rec
+
+
+def tidy_author(a):
+    """Shorten the author field to a credit line: drop 'I, ', 'User:', and long explanations after the name."""
+    a = re.sub(r'^(I|Me|Myself),\s*', '', a.strip())
+    a = re.sub(r'^(Unknown author)(\s+Unknown author)+', r'\1', a, flags=re.I)
+    a = re.sub(r'^User:', '', a)
+    a = re.sub(r'\s*\(talk\)', '', a)
+    if len(a) > 48:
+        parts = re.split(r',|;| created | - | \(| / ', a)
+        cut = parts[0].strip()
+        if cut and re.match(r'^[^,;]+[,;]', a) and len(re.split(r'[,;]', a)) >= 3:
+            cut += ' and others'   # an author list: first name and a note that there are more
+        a = cut if cut else a[:48]
+    return a[:80]
 
 
 def show(rec):
@@ -189,12 +206,13 @@ def download_urls(rec):
     orig = rec['original']
     width = rec['width'] or 0
     m = re.match(r'(https://upload\.wikimedia\.org/wikipedia/commons)/(\w/\w\w)/(.+)$', orig)
-    if not m or width <= 1000:
-        return [orig]   # small originals are served without throttling; a thumbnail would only lose pixels
+    if not m:
+        return [orig]
     name = m.group(3)
     suffix = name if re.search(r'\.(jpe?g|png|gif|webp)$', name, re.I) else name + ('.png' if name.lower().endswith('.svg') else '.jpg')
     urls = [f'{m.group(1)}/thumb/{m.group(2)}/{name}/{w}px-{suffix}' for w in THUMB_SIZES if w < width and w <= MAX_SIDE]
-    return urls + [orig]
+    # Small originals first (a thumbnail would only lose pixels), large ones last (originals are throttled)
+    return [orig] + urls if width <= 1000 else urls + [orig]
 
 
 def download_url(rec):

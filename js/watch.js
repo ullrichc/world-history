@@ -588,13 +588,27 @@
         S.update = (local) => { const t = local - start; cols.forEach((c, i) => c.classList.toggle('on', t > 0.6 + i * (shot.stagger || 2.5))); if (status) status.classList.toggle('on', t > 0.6 + n * (shot.stagger || 2.5)); };
       } else if (shot.type === 'credits') {
         const ep = this.player.episode;
-        const used = new Map();
+        const used = new Map();   // id -> { m, caption }: the caption the episode gave the picture, if any
+        const note = (id, cap) => { const m = id && this.mediaFor(id); if (m && (!used.has(id) || (cap && !used.get(id).cap))) used.set(id, { m, cap: cap || used.get(id)?.cap }); };
         for (const sc of ep.scenes) for (const cue of sc.cues) for (const sh of cue.shots || []) {
-          const ids = sh.type === 'photo' ? [sh.media] : sh.type === 'montage' ? sh.media : sh.type === 'split' ? (sh.views || []).map((v) => v.media) : [];
-          for (const id of ids || []) { const m = id && this.mediaFor(id); if (m) used.set(id, m); }
+          if (sh.type === 'photo') note(sh.media, sh.caption || (sh.lower && sh.lower.name));
+          else if (sh.type === 'montage') (sh.media || []).forEach((id, i) => note(id, (sh.captions || [])[i]));
+          else if (sh.type === 'split') (sh.views || []).forEach((v) => note(v.media, v.label));
         }
-        const rows = [...used.values()].map((m) => BB.el('div', {}, BB.el('b', {}, (m.description || m.file).slice(0, 70)), ` ${(m.author || '').replace(/^User:/, '')}, ${m.licence}, Wikimedia Commons`));
-        el.append(BB.el('div', { class: 'inner' }, BB.el('div', { class: 'kicker', style: 'column-span:all' }, shot.kicker || 'Pictures'), ...rows));
+        const title = ({ m, cap }) => {
+          let t = cap || m.note || m.description || m.file.replace(/^File:/, '').replace(/\.[a-z]+$/i, '');
+          t = t.replace(/^[A-Za-zÀ-ž ]{2,12}:\s*/, '');   // language prefixes such as “English: ”
+          return t.length > 72 ? t.slice(0, 70).replace(/\s+\S*$/, '') + '…' : t;
+        };
+        const rows = [...used.values()].map((u) => BB.el('div', {}, BB.el('b', {}, title(u)), `${u.m.author || 'unknown author'} · ${u.m.licence}`));
+        const roll = BB.el('div', { class: 'roll' }, BB.el('div', { class: 'kicker' }, shot.kicker || 'Pictures in this episode'), BB.el('div', { class: 'roll-grid' }, ...rows), BB.el('div', { class: 'tail' }, 'All pictures come from Wikimedia Commons and are used under the licences shown.'));
+        const area = BB.el('div', { class: 'area' }, roll);
+        el.append(area);
+        S.update = (local) => {
+          const u = BB.clamp((prog(local) - 0.06) / 0.88, 0, 1);
+          const over = Math.max(0, roll.scrollHeight - area.clientHeight);
+          roll.style.transform = `translateY(${(-over * u).toFixed(1)}px)`;
+        };
       }
       stage.append(el);
       stage.dataset.shot = shot.type;
