@@ -113,7 +113,6 @@ function validateEpisode(file, e) {
     if (!num(sc.start) || !num(sc.end) || sc.start < sc.end) err(file, `${w}: start/end must be years ago with start >= end`);
     validateCamera(file, w, sc.camera);
     if (!Array.isArray(sc.cues) || !sc.cues.length) { err(file, `${w}: cues must be a non-empty array`); return; }
-    let lastTime = sc.start;
     sc.cues.forEach((cue, ci) => {
       const cw = `${w}.cues[${ci}]`;
       if (!speakers.has(cue.speaker)) err(file, `${cw}: unknown speaker ${cue.speaker}`);
@@ -126,11 +125,7 @@ function validateEpisode(file, e) {
       if (cue.camera !== undefined) validateCamera(file, cw, cue.camera);
       if (cue.card !== undefined) validateCard(file, `${cw}.card`, cue.card, epSites, epSpecies, epRoutes);
       if (cue.route !== undefined && !epRoutes.has(cue.route)) err(file, `${cw}: unknown route ${cue.route}`);
-      if (cue.time !== undefined) {
-        if (!num(cue.time)) err(file, `${cw}.time must be a number of years ago`);
-        else if (cue.time > lastTime && sc.start >= sc.end) warn(`${file}: ${cw}: time ${cue.time} runs backwards within the scene`);
-        else lastTime = cue.time;
-      }
+      if (cue.time !== undefined && !num(cue.time)) err(file, `${cw}.time must be a number of years ago`);
     });
     for (const cam of [sc.camera, ...sc.cues.map((c) => c.camera)]) {
       if (cam && cam.sites) cam.sites.forEach((id) => { if (!(siteIds.has(id) || epSites.has(id))) err(file, `${w}: camera refers to unknown site ${id}`); });

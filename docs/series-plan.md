@@ -109,6 +109,24 @@ These came from research agents or memory and could not be checked online at the
 * Pınarbaşı as the oldest genetically confirmed dog, about 15,800 years ago, reported 2026 (chapter 24).
 * Any other 2025 and 2026 findings cited in the chapters; recheck them while writing the matching episode.
 
+## State of work (2026-09-27, end of the second session)
+
+* Done: the script format (`content/series/SCHEMA.md`), the validator and compiler (`tools/build-series.mjs`),
+  the multi-voice renderer (`tools/narrate-series.py`), the Watch mode (`js/watch.js`, styles in `css/app.css`,
+  wiring in `js/app.js` and `index.html`), voice audition clips, and a full draft of episode 1 (18 scenes, about
+  6,200 words, about 42 minutes with pauses) with default voices af_heart (narrator), bm_george (research) and
+  bf_emma (sources).
+* Waiting for the user: choice of voices (the Watch page has an audition of 14 voices), and feedback on tone,
+  pacing, card density and the handling of contested views in episode 1, before episodes 2 to 8 are written.
+* Known limits: a debate card on a phone is tall and scrolls inside its box; the timeline keyframes of a scene run
+  through cue `time` values, so a scene that jumps back and forth in time (the dating methods) should keep
+  `start` equal to `end`; the `.venv/` directory was committed and then untracked in this branch, so the history
+  of `claude/before-bronze-series` carries about 100 MB it does not need (a history rewrite needs the user’s consent).
+* Facts in episode 1 that came from search snippets rather than the papers themselves and deserve a second look
+  when the episode is finalised: the exact wording of the Prestwich quotation of 26 May 1859; the Muna Island hand
+  stencil age of 67,800 years (from chapter 19); the Thackeray 2024 biochronological estimate for Little Foot;
+  the reasons given in the PLOS One retractions of February 2026.
+
 ## Suggested order of work
 
 1. Research and design the script format and the Watch mode; build a short sample (two or three minutes of

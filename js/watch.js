@@ -31,7 +31,7 @@
     // Keyframes for the timeline: scene start, cue times, scene end (log-interpolated)
     const keys = [[0, sc.start]];
     sc.cues.forEach((cue, i) => { if (cue.time != null) keys.push([cues[i].start, cue.time]); });
-    keys.push([duration, sc.end]);
+    if (sc.end !== sc.start) keys.push([duration, sc.end]);
     return { rec, file: rec ? rec.file : null, duration, cues, keys };
   }
 

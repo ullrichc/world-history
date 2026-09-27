@@ -10,6 +10,10 @@ grow and melt, the continental shelves appear and drown, and archaeological site
 * **Journey**: 44 narrated chapters (about 70 minutes) that play through time and across the continents. The globe
   flies to each region, the timeline advances with the narrator, and captions follow the voice sentence by sentence.
   Cinema mode hides the panels.
+* **Watch**: a documentary series in eight episodes of about 45 minutes, told with several voices (a narrator, a
+  voice for what researchers argue, a voice for the historical sources) over the moving globe, with on-screen cards
+  for sites, numbers, quotations and debates, a scrubber with scene markers, and the option to pause and explore the
+  map at the current time and place. Episode 1 is a draft; the others are in preparation.
 * **Explore**: drag the timeline to any moment and see which sites and which kinds of humans existed then. Filter by
   region and type of evidence, search sites, open any site for details.
 * **Read**: every chapter as a full article (about 57,000 words in all), with key facts, a table of sites and, where
@@ -60,6 +64,17 @@ python tools/narrate.py                 # only chapters whose text changed are r
 python tools/narrate.py --check         # print the phonemes of every sentence that uses the lexicon
 ```
 
+### The series
+
+The episodes of the Watch mode live in `content/series/` (format: `content/series/SCHEMA.md`). Each scene is one
+audio file with several voices and cue timings:
+
+```sh
+node tools/build-series.mjs             # validate and compile content/series into data/series.js
+python tools/narrate-series.py          # render changed scenes to audio/series/<episode>/ and data/series-audio.js
+python tools/narrate-series.py --audition   # short clips of candidate voices for the episode list
+```
+
 ### Replacing the voice with a human narrator
 
 1. Record each chapter’s `narration` text (see `content/chapters/*.json`, or `tools/raw/narration-script.json` after
@@ -78,6 +93,7 @@ All text lives in `content/`:
 
 * `chapters/NN-id.json`: 44 chapters with narration, article sections, debates, key facts, sites, routes and sources.
   The format and the style rules are described in `content/SCHEMA.md`.
+* `series/NN-id.json` and `series/series.json`: the episodes of the documentary series and its speakers.
 * `species.json`: hominin species and gene flow for the family tree.
 * `glossary.json` and `methods.json`: terms and dating methods for the Sources page.
 
@@ -91,7 +107,7 @@ index.html            the page
 css/                  styles and self-hosted font faces
 js/                   app code: globe, timeline, narrator, reader, tree, sources, emblems
 data/                 generated data: content, map geometry, climate curve, narration timings
-audio/                narration, one MP3 per chapter
+audio/                narration, one MP3 per chapter; audio/series/ holds one MP3 per episode scene
 content/              the source text (JSON)
 tools/                build scripts: content, map data, vendor files, narration
 vendor/, fonts/       D3, TopoJSON client and the fonts, copied from npm packages
