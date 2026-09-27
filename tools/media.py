@@ -131,7 +131,11 @@ def fetch(episode=None):
             prev = epman.get(it['id'])
             if prev and prev.get('file') == it['file'] and os.path.exists(dest):
                 continue
-            rec = file_page(it['file'])
+            try:
+                rec = file_page(it['file'])
+            except urllib.error.HTTPError as ex:
+                print(f"SKIP {it['id']}: file page {it['file']!r} returned HTTP {ex.code}")
+                continue
             if not rec['licence']:
                 print(f"SKIP {it['id']}: licence not accepted: {rec['licences']}")
                 continue
@@ -185,8 +189,8 @@ def download_urls(rec):
     orig = rec['original']
     width = rec['width'] or 0
     m = re.match(r'(https://upload\.wikimedia\.org/wikipedia/commons)/(\w/\w\w)/(.+)$', orig)
-    if not m or width <= 250:
-        return [orig]
+    if not m or width <= 1000:
+        return [orig]   # small originals are served without throttling; a thumbnail would only lose pixels
     name = m.group(3)
     suffix = name if re.search(r'\.(jpe?g|png|gif|webp)$', name, re.I) else name + ('.png' if name.lower().endswith('.svg') else '.jpg')
     urls = [f'{m.group(1)}/thumb/{m.group(2)}/{name}/{w}px-{suffix}' for w in THUMB_SIZES if w < width and w <= MAX_SIDE]

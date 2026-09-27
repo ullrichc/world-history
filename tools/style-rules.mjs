@@ -1,7 +1,7 @@
 // The user’s style rules for every piece of text in the app, shared by the content and series validators.
 // checkText: prose shown on screen. checkSpeech: text that is also read aloud by the speech engine.
 
-const CAPS_OK = /\b(UNESCO|ORCID|BCE|FOXP2|EPAS1|MIS|LGM|DNA|OSL|ESR|IRSL|TT-OSL|AMS|PPNA|PPNB|LBK|MSA|LSA|IUP|NASA|CNRS|MNHN|EPICA|PLOS|GISP)\b/g;
+const CAPS_OK = /\b(UNESCO|ORCID|BCE|FOXP2|EPAS1|MIS|LGM|DNA|OSL|ESR|IRSL|TT-OSL|AMS|PPNA|PPNB|LBK|MSA|LSA|IUP|NASA|CNRS|MNHN|EPICA|PLOS|GISP|JOIDES)\b/g;
 
 export function checkText(err, warn, file, where, s) {
   if (typeof s !== 'string') { err(file, `${where} is not a string`); return; }

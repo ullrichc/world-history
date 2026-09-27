@@ -1,183 +1,901 @@
 [
-  {
-    "id": "turkana-sunset",
-    "file": "File:Sunset over Lake Turkana.jpg",
-    "role": "landscape",
-    "note": "Eastern shore of Lake Turkana, Koobi Fora region"
-  },
-  {
-    "id": "turkana-shore",
-    "file": "File:Southern Shore of Lake Turkana, Kenya.jpg",
-    "role": "landscape"
-  },
-  {
-    "id": "turkana-satellite",
-    "file": "File:Lake turkana satellite.jpg",
-    "role": "map",
-    "note": "NASA satellite image of Lake Turkana"
-  },
-  {
-    "id": "lomekwi-site",
-    "file": "File:Kenyanthropus-Lomekwi.jpg",
-    "role": "landscape",
-    "note": "Lomekwi, west of Lake Turkana"
-  },
-  {
-    "id": "turkana-west-sunset",
-    "file": "File:Sunset in Turkana West.jpg",
-    "role": "landscape"
-  },
-  {
-    "id": "kenyanthropus-nairobi",
-    "file": "File:At Nairobi National Museum 2025 083.jpg",
-    "role": "artefact",
-    "note": "Kenyanthropus platyops skull from Lomekwi, Nairobi National Museum"
-  },
-  {
-    "id": "oldowan-toolkit",
-    "file": "File:Oldowan toolkit.jpg",
-    "role": "artefact",
-    "note": "Oldowan hammerstone, core and flakes"
-  },
-  {
-    "id": "thomsen-lithograph",
-    "file": "File:Christian Jürgensen Thomsen. Lithograph by J. W. Tegner. Wellcome V0005808.jpg",
-    "role": "portrait"
-  },
-  {
-    "id": "thomsen-museum",
-    "file": "File:Thomsen.jpg",
-    "role": "document",
-    "note": "Thomsen showing visitors around the museum, drawing of 1848"
-  },
-  {
-    "id": "guide-1848-page",
-    "file": "File:Guide to Northern Archaeology (1848) - illustration - page 108.png",
-    "role": "document"
-  },
-  {
-    "id": "prehistoric-times-1",
-    "file": "File:Pre-historic times BHL34708521.jpg",
-    "role": "document"
-  },
-  {
-    "id": "prehistoric-times-2",
-    "file": "File:Pre-historic times BHL34708540.jpg",
-    "role": "document"
-  },
-  {
-    "id": "boucher-portrait",
-    "file": "File:Boucher de Perthes.jpg",
-    "role": "portrait"
-  },
-  {
-    "id": "boucher-biface",
-    "file": "File:Biface de Boucher de Perthes MHNT.jpg",
-    "role": "artefact",
-    "note": "Handaxe from Menchecourt-les-Abbeville, Boucher de Perthes collection"
-  },
-  {
-    "id": "moulin-quignon-bifaces",
-    "file": "File:Musée de Picardie, bifaces provenant du moulin Quignon (Abbeville) 1.jpg",
-    "role": "artefact"
-  },
-  {
-    "id": "saint-acheul-bifaces",
-    "file": "File:Bifaces Saint-Acheul Nappe de Fréville Archéologie Nationale 01042018.jpg",
-    "role": "artefact"
-  },
-  {
-    "id": "somme-river",
-    "file": "File:Somme et son marais, près de la Vallée Tranquille, Long, 20210918 170514.jpg",
-    "role": "landscape"
-  },
-  {
-    "id": "brixham-entrance",
-    "file": "File:Entrance to Windmill Hill Cavern, Brixham.jpg",
-    "role": "landscape"
-  },
-  {
-    "id": "brixham-postcard",
-    "file": "File:Windmill Hill Cavern postcard circa 1900.jpg",
-    "role": "document"
-  },
-  {
-    "id": "brixham-section",
-    "file": "File:The Ancient Stone Implements Fig. 409.—Brixham Cave.png",
-    "role": "document",
-    "note": "Section of Brixham Cave from John Evans, The Ancient Stone Implements"
-  },
-  {
-    "id": "gran-dolina",
-    "file": "File:Dolina-Pano-3.jpg",
-    "role": "landscape",
-    "note": "Excavation at Gran Dolina, Atapuerca, 2008"
-  },
-  {
-    "id": "selam-collections",
-    "file": "File:Resti di australopithecus afarensis detto selam, di tre anni circa, da dikika (afar), 3,3 milioni di anni fa.jpg",
-    "role": "artefact",
-    "note": "Selam, the Dikika child, National Museum of Ethiopia"
-  },
-  {
-    "id": "alemseged",
-    "file": "File:2024 Zeresenay Alemseged.jpg",
-    "role": "portrait"
-  },
-  {
-    "id": "afar-sites-map",
-    "file": "File:Afarensis Africa.jpg",
-    "role": "map",
-    "note": "Australopithecus afarensis sites in East Africa"
-  },
-  {
-    "id": "olduvai-panorama",
-    "file": "File:Olduvai-Schlucht Mike Krüger 110126 1.jpg",
-    "role": "landscape",
-    "note": "Olduvai Gorge, Tanzania"
-  },
-  {
-    "id": "olduvai-space",
-    "file": "File:Olduvai ast.jpg",
-    "role": "map",
-    "note": "Olduvai Gorge from space"
-  },
-  {
-    "id": "section-drawing",
-    "file": "File:Example section drawing to demonstrate stratigraphic relationships.jpg",
-    "role": "document",
-    "note": "A section drawing showing stratigraphic relationships"
-  },
-  {
-    "id": "prestwich-portrait",
-    "file": "File:PSM V52 D158 Joseph Prestwich.jpg",
-    "role": "portrait"
-  },
-  {
-    "id": "evans-portrait",
-    "file": "File:Portrait of Sir John Evans (1823-1908) Wellcome M0002315.jpg",
-    "role": "portrait"
-  },
-  {
-    "id": "pengelly-portrait",
-    "file": "File:William Pengelly. Photomechanical print. Wellcome V0026999.jpg",
-    "role": "portrait"
-  },
-  {
-    "id": "lyell-portrait",
-    "file": "File:Charles Lyell slnsw.jpg",
-    "role": "portrait",
-    "note": "Charles Lyell, about 1863, by Ernest Edwards"
-  },
-  {
-    "id": "darwin-1859",
-    "file": "File:Charles Darwin by Maull and Polyblank, 1855a.jpg",
-    "role": "portrait",
-    "note": "Charles Darwin in 1855, by Maull and Polyblank"
-  },
-  {
-    "id": "origin-title",
-    "file": "File:On the Origin of Species 1859 - Titlepage.png",
-    "role": "document"
-  }
+ {
+  "id": "turkana-sunset",
+  "file": "File:Sunset over Lake Turkana.jpg",
+  "role": "landscape",
+  "note": "Eastern shore of Lake Turkana, Koobi Fora region"
+ },
+ {
+  "id": "turkana-shore",
+  "file": "File:Southern Shore of Lake Turkana, Kenya.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "turkana-satellite",
+  "file": "File:Lake turkana satellite.jpg",
+  "role": "map",
+  "note": "NASA satellite image of Lake Turkana"
+ },
+ {
+  "id": "lomekwi-site",
+  "file": "File:Kenyanthropus-Lomekwi.jpg",
+  "role": "landscape",
+  "note": "Lomekwi, west of Lake Turkana"
+ },
+ {
+  "id": "turkana-west-sunset",
+  "file": "File:Sunset in Turkana West.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "kenyanthropus-nairobi",
+  "file": "File:At Nairobi National Museum 2025 083.jpg",
+  "role": "artefact",
+  "note": "Kenyanthropus platyops skull from Lomekwi, Nairobi National Museum"
+ },
+ {
+  "id": "oldowan-toolkit",
+  "file": "File:Oldowan toolkit.jpg",
+  "role": "artefact",
+  "note": "Oldowan hammerstone, core and flakes"
+ },
+ {
+  "id": "thomsen-lithograph",
+  "file": "File:Christian Jürgensen Thomsen. Lithograph by J. W. Tegner. Wellcome V0005808.jpg",
+  "role": "portrait"
+ },
+ {
+  "id": "thomsen-museum",
+  "file": "File:Thomsen.jpg",
+  "role": "document",
+  "note": "Thomsen showing visitors around the museum, drawing of 1848"
+ },
+ {
+  "id": "guide-1848-page",
+  "file": "File:Guide to Northern Archaeology (1848) - illustration - page 108.png",
+  "role": "document"
+ },
+ {
+  "id": "prehistoric-times-1",
+  "file": "File:Pre-historic times BHL34708521.jpg",
+  "role": "document"
+ },
+ {
+  "id": "prehistoric-times-2",
+  "file": "File:Pre-historic times BHL34708540.jpg",
+  "role": "document"
+ },
+ {
+  "id": "boucher-portrait",
+  "file": "File:Boucher de Perthes.jpg",
+  "role": "portrait"
+ },
+ {
+  "id": "boucher-biface",
+  "file": "File:Biface de Boucher de Perthes MHNT.jpg",
+  "role": "artefact",
+  "note": "Handaxe from Menchecourt-les-Abbeville, Boucher de Perthes collection"
+ },
+ {
+  "id": "moulin-quignon-bifaces",
+  "file": "File:Musée de Picardie, bifaces provenant du moulin Quignon (Abbeville) 1.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "saint-acheul-bifaces",
+  "file": "File:Bifaces Saint-Acheul Nappe de Fréville Archéologie Nationale 01042018.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "somme-river",
+  "file": "File:Somme et son marais, près de la Vallée Tranquille, Long, 20210918 170514.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "brixham-entrance",
+  "file": "File:Entrance to Windmill Hill Cavern, Brixham.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "brixham-postcard",
+  "file": "File:Windmill Hill Cavern postcard circa 1900.jpg",
+  "role": "document"
+ },
+ {
+  "id": "brixham-section",
+  "file": "File:The Ancient Stone Implements Fig. 409.—Brixham Cave.png",
+  "role": "document",
+  "note": "Section of Brixham Cave from John Evans, The Ancient Stone Implements"
+ },
+ {
+  "id": "gran-dolina",
+  "file": "File:Dolina-Pano-3.jpg",
+  "role": "landscape",
+  "note": "Excavation at Gran Dolina, Atapuerca, 2008"
+ },
+ {
+  "id": "selam-collections",
+  "file": "File:Resti di australopithecus afarensis detto selam, di tre anni circa, da dikika (afar), 3,3 milioni di anni fa.jpg",
+  "role": "artefact",
+  "note": "Selam, the Dikika child, National Museum of Ethiopia"
+ },
+ {
+  "id": "alemseged",
+  "file": "File:2024 Zeresenay Alemseged.jpg",
+  "role": "portrait"
+ },
+ {
+  "id": "afar-sites-map",
+  "file": "File:Afarensis Africa.jpg",
+  "role": "map",
+  "note": "Australopithecus afarensis sites in East Africa"
+ },
+ {
+  "id": "olduvai-panorama",
+  "file": "File:Olduvai-Schlucht Mike Krüger 110126 1.jpg",
+  "role": "landscape",
+  "note": "Olduvai Gorge, Tanzania"
+ },
+ {
+  "id": "olduvai-space",
+  "file": "File:Olduvai ast.jpg",
+  "role": "map",
+  "note": "Olduvai Gorge from space"
+ },
+ {
+  "id": "section-drawing",
+  "file": "File:Example section drawing to demonstrate stratigraphic relationships.jpg",
+  "role": "document",
+  "note": "A section drawing showing stratigraphic relationships"
+ },
+ {
+  "id": "prestwich-portrait",
+  "file": "File:PSM V52 D158 Joseph Prestwich.jpg",
+  "role": "portrait"
+ },
+ {
+  "id": "evans-portrait",
+  "file": "File:Portrait of Sir John Evans (1823-1908) Wellcome M0002315.jpg",
+  "role": "portrait"
+ },
+ {
+  "id": "pengelly-portrait",
+  "file": "File:William Pengelly. Photomechanical print. Wellcome V0026999.jpg",
+  "role": "portrait"
+ },
+ {
+  "id": "lyell-portrait",
+  "file": "File:Charles Lyell slnsw.jpg",
+  "role": "portrait",
+  "note": "Charles Lyell, about 1863, by Ernest Edwards"
+ },
+ {
+  "id": "darwin-1859",
+  "file": "File:Charles Darwin by Maull and Polyblank, 1855a.jpg",
+  "role": "portrait",
+  "note": "Charles Darwin in 1855, by Maull and Polyblank"
+ },
+ {
+  "id": "origin-title",
+  "file": "File:On the Origin of Species 1859 - Titlepage.png",
+  "role": "document"
+ },
+ {
+  "id": "nationalmuseet",
+  "file": "File:Prinsens Palae Copenhagen.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "danish-flint-dagger",
+  "file": "File:Scandinavian Stone Age axe and knife, original.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "danish-lur",
+  "file": "File:Nationalmuseet - lur - 1020004.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "jomon-pot",
+  "file": "File:Flame-style Pottery - Niigata Prefectural Museum of History 01.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "clovis-point",
+  "file": "File:Clovis point, 11500-9000 BC, Sevier County, Utah, chert - Natural History Museum of Utah - DSC07376.JPG",
+  "role": "artefact"
+ },
+ {
+  "id": "kanjera-site",
+  "file": "File:Kanjera (site).jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "kanjera-cutmarks",
+  "file": "File:Kanjera Bone D.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "knapping-demo",
+  "file": "File:Phil Harding knapping flint.jpg",
+  "role": "photo"
+ },
+ {
+  "id": "schoningen-museum",
+  "file": "File:00-paläon-schöningen.JPG",
+  "role": "landscape"
+ },
+ {
+  "id": "hohle-fels-rope-tool",
+  "file": "File:Over 35,000-years-old perforated baton made from mammoth ivory from Hohle Fels Cave, Germany.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "hohle-fels-cave",
+  "file": "File:Hohler Fels.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "abri-du-maras-cord",
+  "file": "File:Abri du Maras cord a.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "abri-du-maras-photo",
+  "file": "File:Abri du Maras 5.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "kalambo-falls-photo",
+  "file": "File:235 meters of single drop waterfall, the second largest waterfall in Africa.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "cattail",
+  "file": "File:Zaadpluizen grote lisdodde (Typha latifolia). (d.j.b.).jpg",
+  "role": "photo"
+ },
+ {
+  "id": "clacton-spear",
+  "file": "File:Clacton Spear 2018.JPG",
+  "role": "artefact"
+ },
+ {
+  "id": "libby",
+  "file": "File:Willard Libby in Lab.jpg",
+  "role": "portrait"
+ },
+ {
+  "id": "mary-leakey",
+  "file": "File:Mary Douglas Nicol Leakey (1913-1996) and her husband Louis Seymour Bazett Leakey (1903-1972).jpg",
+  "role": "portrait"
+ },
+ {
+  "id": "zinj-skull",
+  "file": "File:Nutcracker Man.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "curtis",
+  "file": "File:Garniss Curtis in the Wyoming backcountry, 2001 - journal.pbio.1001650.g002.png",
+  "role": "portrait"
+ },
+ {
+  "id": "mass-spectrometer",
+  "file": "File:HR-ICP-MS, high-resolution inductively coupled plasma ionization mass spectrometer used for multi-element analysis, in CAFIA laboratory, Czech Republic.png",
+  "role": "photo"
+ },
+ {
+  "id": "ams-lab",
+  "file": "File:Liquid chromatograph with mass spectrometer, in CAFIA laboratory, Czech Republic.png",
+  "role": "photo"
+ },
+ {
+  "id": "stalagmite-cave",
+  "file": "File:Postojna-Cave-2-2021-Luka-Peternel.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "sterkfontein-caves",
+  "file": "File:Sterkfontein Caves 46.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "little-foot",
+  "file": "File:Littlle Foot-1.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "little-foot-skull",
+  "file": "File:Litte Foot, Skull.JPG",
+  "role": "artefact"
+ },
+ {
+  "id": "tree-rings",
+  "file": "File:1937. Ponderosa pine stump section showing tree growth rings and fire scars from 1255-1930. Deming Creek. Bly, Oregon. (34049124174).jpg",
+  "role": "photo"
+ },
+ {
+  "id": "la-pasiega",
+  "file": "File:Cueva de la Pasiega.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "la-pasiega-art",
+  "file": "File:La Pasiega-Galeria A-panel 16.png",
+  "role": "art"
+ },
+ {
+  "id": "ardales",
+  "file": "File:Cueva de Ardales 2.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "nerja-cave",
+  "file": "File:Cueva de Nerja 2020.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "leang-karampuang",
+  "file": "File:Karampuang, a cave which has world's oldest cave painting.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "paabo",
+  "file": "File:Svante Paabo at University of Tokyo in 2023.jpg",
+  "role": "portrait"
+ },
+ {
+  "id": "feldhofer-skull",
+  "file": "File:Neandertal 1856.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "mpi-leipzig",
+  "file": "File:MPI für Evolutionäre Anthropologie.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "denisova-cave-photo",
+  "file": "File:Известная на весь Мир Денисова пещера. 01.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "sima-skull-5",
+  "file": "File:Homo heidelbergensis-Cranium -5.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "sima-section",
+  "file": "File:Cross-section Sima de los Huesos.jpg",
+  "role": "document"
+ },
+ {
+  "id": "steppe-mammoth",
+  "file": "File:Steppe mammoth skeleton, Azov Museum (2).jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "kap-kobenhavn",
+  "file": "File:Kap Kobenhavn Formation.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "antecessor",
+  "file": "File:Homo antecessor child cast Natural History Museum London.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "sk48",
+  "file": "File:Australopithecus robustus SK 48 IMG 5610 BMNH.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "harbin-skull",
+  "file": "File:Homo longi holotype.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "harbin-face",
+  "file": "File:Homo longi - forensic facial approximation.jpg",
+  "role": "art"
+ },
+ {
+  "id": "penghu",
+  "file": "File:The Fossil of Mandible of Penghu 1.jpg",
+  "role": "artefact"
+ },
+ {
+  "id": "foraminifera",
+  "file": "File:Foraminifera - Rotaliida - Planorbulinacea - Planulinidae - Planulina Limbata.jpg",
+  "role": "photo"
+ },
+ {
+  "id": "sediment-core",
+  "file": "File:Sediment core collection and processing.jpg",
+  "role": "photo"
+ },
+ {
+  "id": "dsdp-microfossils",
+  "file": "File:Deep Sea Drilling Project microfossils.jpg",
+  "role": "photo"
+ },
+ {
+  "id": "joides-resolution",
+  "file": "File:JOIDES Resolution, Fremantle, 2015 (04).JPG",
+  "role": "photo"
+ },
+ {
+  "id": "ice-core-section",
+  "file": "File:The EastGRIP ice core in core buffer.jpg",
+  "role": "photo"
+ },
+ {
+  "id": "concordia",
+  "file": "File:Concordia dish (17379131156).jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "sahara-satellite",
+  "file": "File:ISS-42 Lake Chad and arid landscapes of the Sahara.jpg",
+  "role": "map"
+ },
+ {
+  "id": "lake-chad",
+  "file": "File:Lake Chad (MODIS 2018-06-07).jpg",
+  "role": "map"
+ },
+ {
+  "id": "ounianga",
+  "file": "File:ISS-64 Sahara Desert, Ounianga, Chad.jpg",
+  "role": "map"
+ },
+ {
+  "id": "lake-yoa",
+  "file": "File:Lake Yoa 2018 01.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "milankovitch",
+  "file": "File:Earth's orbit parameters for the Milankovitch cycles.png",
+  "role": "document"
+ },
+ {
+  "id": "laurentide-map",
+  "file": "File:Laurentide ice sheet map.jpg",
+  "role": "map"
+ },
+ {
+  "id": "lgm-map",
+  "file": "File:Mollweide Paleogeographic Map of Earth, 0Ma (Last Glacial Maximum).jpg",
+  "role": "map"
+ },
+ {
+  "id": "greenland-ice-aerial",
+  "file": "File:The Secrets in Greenland's Ice Sheet (23067100035).jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "summit-camp",
+  "file": "File:Summit Camp Greenland, overview, aerial photography.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "doggerland-map",
+  "file": "File:Doggerland 10,000 BP.jpg",
+  "role": "map"
+ },
+ {
+  "id": "beringia-map",
+  "file": "File:Beringia tjuly 16000bp 1.png",
+  "role": "map"
+ },
+ {
+  "id": "sundaland-map",
+  "file": "File:Sundaland-at-the-Last-Glacial-Maximum-showing-the-modern-distribution-of-land-in-dark.png",
+  "role": "map"
+ },
+ {
+  "id": "sahul-map",
+  "file": "File:Sahul map.jpg",
+  "role": "map"
+ },
+ {
+  "id": "vatnajokull",
+  "file": "File:Vatnajökull glacier.jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "glacier-cave",
+  "file": "File:Glacier-cave-man-iceland (Unsplash).jpg",
+  "role": "landscape"
+ },
+ {
+  "id": "tahiti-reef",
+  "file": "File:Récif corallien (Vairao, Tahiti) (Ifremer 00789-90140 - 50516).jpg",
+  "role": "photo"
+ },
+ {
+  "id": "dryas-flower",
+  "file": "File:Dryas octopetala RF.jpg",
+  "role": "photo"
+ },
+ {
+  "id": "storegga-map",
+  "file": "File:StoreggaDépotsTsunamiStoreggaData2020.png",
+  "role": "map",
+  "note": "Storegga slide and tsunami deposit sites (Dawson and Dawson)"
+ },
+ {
+  "id": "storegga-deposit",
+  "file": "File:Storegga tsunami deposits, Montrose basin (Maryton).jpg",
+  "role": "landscape",
+  "note": "Storegga tsunami sand bracketed by peat, Montrose Basin, Scotland"
+ },
+ {
+  "id": "dogger-bank",
+  "file": "File:Doggerbank.jpg",
+  "role": "map",
+  "note": "Doggerland and the Dogger Bank"
+ },
+ {
+  "id": "tassili",
+  "file": "File:The Tanzoumaitak cave painting in Tassili n'ajjer.jpg",
+  "role": "artefact",
+  "note": "Tassili n’Ajjer rock art"
+ },
+ {
+  "id": "tassili-cattle",
+  "file": "File:Cave painting from the Tassili n'Ajjer mountains.jpg",
+  "role": "artefact",
+  "note": "Cattle in Tassili n’Ajjer rock art"
+ },
+ {
+  "id": "mega-chad",
+  "file": "File:Mega-Chad.jpg",
+  "role": "map",
+  "note": "Extent of Lake Mega-Chad"
+ },
+ {
+  "id": "spencer-gulf",
+  "file": "File:Spencer Gulf (MODIS 2019-08-22).jpg",
+  "role": "landscape",
+  "note": "Spencer Gulf from orbit"
+ },
+ {
+  "id": "lake-agassiz-map",
+  "file": "File:USGS map of Lake Agassiz.jpg",
+  "role": "map",
+  "note": "USGS map of glacial Lake Agassiz"
+ },
+ {
+  "id": "agassiz-ojibway",
+  "file": "File:7,900 Glacial Lake Agassiz & Glacial Lake Ojibway (7900) use fileTeller and Leverington, 2004.jpg",
+  "role": "map",
+  "note": "Lakes Agassiz and Ojibway about 7,900 radiocarbon years ago"
+ },
+ {
+  "id": "mackenzie-delta",
+  "file": "File:Mackenzie River Delta, Canada (ASTER).jpg",
+  "role": "landscape",
+  "note": "Mackenzie delta from orbit"
+ },
+ {
+  "id": "broecker",
+  "file": "File:Wally Broecker, c. 2010.jpg",
+  "role": "portrait",
+  "note": "Wallace Broecker"
+ },
+ {
+  "id": "black-mat",
+  "file": "File:Murray Springs Clovis site, Clanton clay black mat 1.JPG",
+  "role": "landscape",
+  "note": "The black mat at Murray Springs, Arizona"
+ },
+ {
+  "id": "abu-hureyra",
+  "file": "File:Abu Hureyra grinding stones Ashmolean Museum.jpg",
+  "role": "artefact",
+  "note": "Grinding stones from Abu Hureyra"
+ },
+ {
+  "id": "abu-hureyra-meltglass",
+  "file": "File:Abu Hureyra meltglass.png",
+  "role": "artefact",
+  "note": "Meltglass from Abu Hureyra as published by the impact team"
+ },
+ {
+  "id": "kennett",
+  "file": "File:James P. Kennett in the Antarctic, summer of 1962-63.jpg",
+  "role": "portrait",
+  "note": "James Kennett"
+ },
+ {
+  "id": "tall-el-hammam",
+  "file": "File:Tall el-Hammam overlooking the Jordan Valley 2007.jpg",
+  "role": "landscape",
+  "note": "Tall el-Hammam"
+ },
+ {
+  "id": "baffin-bay",
+  "file": "File:Scenic view of Greenland icebergs in Baffin Bay in Disko Bay 07.jpg",
+  "role": "landscape",
+  "note": "Icebergs, Baffin Bay"
+ },
+ {
+  "id": "lake-toba",
+  "file": "File:Lake Toba from Simalem, North Sumatra.jpg",
+  "role": "landscape",
+  "note": "Lake Toba"
+ },
+ {
+  "id": "toba-satellite",
+  "file": "File:Toba Caldera, Sumatra (ASTER).jpg",
+  "role": "landscape",
+  "note": "Toba caldera from orbit"
+ },
+ {
+  "id": "jwalapuram",
+  "file": "File:Pre Historic Mid Krishna-Tungabhadra Valley sites.jpg",
+  "role": "map",
+  "note": "Sites of the middle Krishna and Tungabhadra valleys, including Jwalapuram"
+ },
+ {
+  "id": "pinnacle-point",
+  "file": "File:A view from Pinnacle Point, Mossel Bay, South Africa.jpg",
+  "role": "landscape",
+  "note": "Pinnacle Point"
+ },
+ {
+  "id": "chaine-des-puys",
+  "file": "File:Le Jour ni l’Heure 5525 , le puy de Dôme vu de la plaine de Laschamps, Puy-de-Dôme, Auvergne, mardi 5 mars 2019, 12-07-43 - Flickr - Renaud Camus.jpg",
+  "role": "landscape",
+  "note": "Puy de Dôme from the Laschamps plain"
+ },
+ {
+  "id": "aurora",
+  "file": "File:Aurora Australis Over the Tasman Sea from SouthWest National Park.jpg",
+  "role": "landscape",
+  "note": "Aurora australis"
+ },
+ {
+  "id": "toumai",
+  "file": "File:Sahelanthropus tchadensis (Toumaï).JPG",
+  "role": "artefact",
+  "note": "Toumaï cranium"
+ },
+ {
+  "id": "orrorin",
+  "file": "File:Orrorin NMNH.jpg",
+  "role": "artefact",
+  "note": "Orrorin tugenensis"
+ },
+ {
+  "id": "ardi",
+  "file": "File:Ardipithecus ramidus Ardi IMG 5604 BMNH.jpg",
+  "role": "artefact",
+  "note": "Ardipithecus ramidus"
+ },
+ {
+  "id": "lucy",
+  "file": "File:Lucy Skeleton.jpg",
+  "role": "artefact",
+  "note": "Lucy, Australopithecus afarensis"
+ },
+ {
+  "id": "laetoli-footprints",
+  "file": "File:Laetoli footprints replica.jpg",
+  "role": "artefact",
+  "note": "Laetoli footprints"
+ },
+ {
+  "id": "turkana-boy",
+  "file": "File:The Nariokotome Boy, World Museum Liverpool.JPG",
+  "role": "artefact",
+  "note": "Turkana Boy"
+ },
+ {
+  "id": "dmanisi-skull",
+  "file": "File:Dmanisi skull.JPG",
+  "role": "artefact",
+  "note": "Dmanisi skull"
+ },
+ {
+  "id": "floresiensis-skull",
+  "file": "File:Homo Florensiensis-MGL 95216-P5030051-black.jpg",
+  "role": "artefact",
+  "note": "Homo floresiensis"
+ },
+ {
+  "id": "naledi-skeleton",
+  "file": "File:Homo naledi skeletal specimens (cropped).jpg",
+  "role": "artefact",
+  "note": "Homo naledi"
+ },
+ {
+  "id": "jebel-irhoud-skull",
+  "file": "File:Jebel Irhoud 1. Homo Sapiens.jpg",
+  "role": "artefact",
+  "note": "Jebel Irhoud 1"
+ },
+ {
+  "id": "chauvet",
+  "file": "File:Lions painting, Chauvet Cave (museum replica).jpg",
+  "role": "artefact",
+  "note": "Chauvet lions"
+ },
+ {
+  "id": "lascaux",
+  "file": "File:Lascaux 026.jpg",
+  "role": "artefact",
+  "note": "Lascaux"
+ },
+ {
+  "id": "lion-man",
+  "file": "File:Loewenmensch1.jpg",
+  "role": "artefact",
+  "note": "Löwenmensch"
+ },
+ {
+  "id": "white-sands-footprints",
+  "file": "File:Human fossil tracks at White Sands New Mexico.jpg",
+  "role": "artefact",
+  "note": "White Sands footprints"
+ },
+ {
+  "id": "gobekli-pillars",
+  "file": "File:Göbekli Tepe Pillar.JPG",
+  "role": "artefact",
+  "note": "Göbekli Tepe pillar"
+ },
+ {
+  "id": "catalhoyuk",
+  "file": "File:Çatalhöyük overview.jpg",
+  "role": "landscape",
+  "note": "Çatalhöyük"
+ },
+ {
+  "id": "varna-gold",
+  "file": "File:Varna Necropolis Gold Display.jpg",
+  "role": "artefact",
+  "note": "Varna gold"
+ },
+ {
+  "id": "lapita-pottery",
+  "file": "File:Decorated piece of Lapita pottery from the Bourewa site in Fiji.jpg",
+  "role": "artefact",
+  "note": "Lapita pottery"
+ },
+ {
+  "id": "hokulea",
+  "file": "File:Hokulea Homecoming 2017 (35269942172).jpg",
+  "role": "landscape",
+  "note": "Hōkūleʻa"
+ },
+ {
+  "id": "maori-waka",
+  "file": "File:Te Paranihi - Māori waka taua (war canoe) from the Otago Museum 06.jpg",
+  "role": "artefact",
+  "note": "Māori waka"
+ },
+ {
+  "id": "chimp-bonobo",
+  "file": "File:Hominidae Pan paniscus 5.1.jpg",
+  "role": "landscape",
+  "note": "Bonobo"
+ },
+ {
+  "id": "human-lineages",
+  "file": "File:Human lineages Sima de los Huesos.png",
+  "role": "diagram",
+  "note": "Hominin lineages"
+ },
+ {
+  "id": "la-chapelle-skeleton",
+  "file": "File:Reconstitution sepulture Chapelle-aux-Saints.jpg",
+  "role": "artefact",
+  "note": "La Chapelle-aux-Saints burial reconstruction"
+ },
+ {
+  "id": "boule-portrait",
+  "file": "File:1929 Marcellin Boule.jpg",
+  "role": "portrait",
+  "note": "Marcellin Boule"
+ },
+ {
+  "id": "hadza",
+  "file": "File:Back view of hunters walking single-file bush paths in Tanzania.jpg",
+  "role": "landscape",
+  "note": "Hadza hunters, Tanzania"
+ },
+ {
+  "id": "san-people",
+  "file": "File:Naro Bushmen hunting in the Central Kalahari Game Reserve, Botswana 2008.jpg",
+  "role": "landscape",
+  "note": "Naro hunters, Kalahari"
+ },
+ {
+  "id": "neanderthal-reconstruction",
+  "file": "File:Neanderthal man reconstruction, Natural History Museum, London.jpg",
+  "role": "artefact",
+  "note": "Neanderthal reconstruction"
+ },
+ {
+  "id": "erlitou-bronze",
+  "file": "File:Bronze bells and jade clappers. Erlitou culture, Erlitou site, Yanshi, Henan.jpg",
+  "role": "artefact",
+  "note": "Erlitou bronze"
+ },
+ {
+  "id": "chavin-gold",
+  "file": "File:Brustschmuck Peru Chavin Slg Ebnöther.jpg",
+  "role": "artefact",
+  "note": "Chavín gold"
+ },
+ {
+  "id": "flint-sickle",
+  "file": "File:Three sickle blades mounted on a modern handle, flint, wood - Museo Egizio Turin P 3747 p01.jpg",
+  "role": "artefact",
+  "note": "Flint sickle"
+ },
+ {
+  "id": "obsidian-blade",
+  "file": "File:Obsidian blade MET DP322101.jpg",
+  "role": "artefact",
+  "note": "Obsidian blade"
+ },
+ {
+  "id": "aboriginal-stone-tools",
+  "file": "File:Australian aboriginal stone knife mounted in handle. Wellcome M0015066.jpg",
+  "role": "artefact",
+  "note": "Hafted stone knife, Australia"
+ },
+ {
+  "id": "dinaledi",
+  "file": "File:Cartoon illustrating the geological and taphonomic context and distribution of fossils, sediments and flowstones within the Dinaledi Chamber.jpg",
+  "role": "diagram",
+  "note": "Dinaledi Chamber section"
+ },
+ {
+  "id": "gunung-padang",
+  "file": "File:Situs Megalitikum Gunung Padang Cianjur.jpg",
+  "role": "landscape",
+  "note": "Gunung Padang"
+ },
+ {
+  "id": "solutrean-point",
+  "file": "File:Pointe à cran Silex MHNT PRE .2009.0.226.4 (2).jpg",
+  "role": "artefact",
+  "note": "Solutrean shouldered point"
+ },
+ {
+  "id": "rift-valley",
+  "file": "File:View northeast into Great Rift Valley from Subukia lookout, Kenya.jpg",
+  "role": "landscape",
+  "note": "Great Rift Valley"
+ },
+ {
+  "id": "schoningen-spear",
+  "file": "File:Schöningen wooden artifacts Lower Palaeolithic.jpg",
+  "role": "artefact",
+  "note": "Schöningen spears and throwing sticks"
+ },
+ {
+  "id": "nydam-sword",
+  "file": "File:Nydam Mose swords.png",
+  "role": "artefact",
+  "note": "Iron swords from Nydam Mose"
+ },
+ {
+  "id": "maltravieso",
+  "file": "File:Cueva de Maltravieso 01.jpg",
+  "role": "landscape",
+  "note": "Maltravieso cave"
+ },
+ {
+  "id": "sulawesi-hand-stencil",
+  "file": "File:Hands in Pettakere Cave detail.jpg",
+  "role": "artefact",
+  "note": "Hand stencils, Pettakere cave, Sulawesi"
+ }
 ]

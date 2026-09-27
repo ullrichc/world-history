@@ -109,13 +109,23 @@ These came from research agents or memory and could not be checked online at the
 * Pınarbaşı as the oldest genetically confirmed dog, about 15,800 years ago, reported 2026 (chapter 24).
 * Any other 2025 and 2026 findings cited in the chapters; recheck them while writing the matching episode.
 
-## State of work (2026-09-27, end of the second session)
+## State of work (2026-09-27, end of the third session)
 
 * Done: the script format (`content/series/SCHEMA.md`), the validator and compiler (`tools/build-series.mjs`),
   the multi-voice renderer (`tools/narrate-series.py`), the Watch mode (`js/watch.js`, styles in `css/app.css`,
   wiring in `js/app.js` and `index.html`), voice audition clips, and a full draft of episode 1 (18 scenes, about
   6,200 words, about 42 minutes with pauses) with default voices af_heart (narrator), bm_george (research) and
   bf_emma (sources).
+* Third session: the user judged the voices, pacing and handling of contested views good but the presentation
+  (a globe with a few cards) boring. Episode 1 is now picture-driven: every scene has `shots` on its cues (photos
+  with slow camera moves, montages, portraits with lower thirds, animated diagrams from `js/diagrams.js`, typed
+  quotations, counting numbers, split screens for debates, a title and credits). Pictures come from Wikimedia
+  Commons through `tools/media.py` (licence-checked, resized, credited on screen); the list per episode lives in
+  `content/series/media/<episode>.json`. About 160 pictures were selected for episode 1. Commons’ API is
+  rate-limited for this environment, so the tool reads file pages as HTML and asks for standard thumbnail widths.
+* Still to decide with the user: whether the picture density is right (roughly one new shot every one or two
+  sentences), and whether episodes 2 to 8 should be written with shots from the start (recommended: write the
+  script and the picture list together, then fetch, then render).
 * Waiting for the user: choice of voices (the Watch page has an audition of 14 voices), and feedback on tone,
   pacing, card density and the handling of contested views in episode 1, before episodes 2 to 8 are written.
 * Known limits: a debate card on a phone is tall and scrolls inside its box; the timeline keyframes of a scene run
