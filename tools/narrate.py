@@ -62,15 +62,17 @@ def words99(n):
 
 
 def say_year(m):
-    """Years and BCE dates the way people say them: 1836 as eighteen thirty-six, 2300 BCE as twenty-three hundred."""
+    """Years and BCE dates the way people say them: 1836 as eighteen thirty-six, 2300 BCE as twenty-three hundred, 2015 as twenty fifteen."""
     n, era = int(m.group(1)), m.group(2) or ''
     hi, lo = divmod(n, 100)
     if era and n % 1000 == 0:
         spoken = words99(n // 1000) + ' thousand'
+    elif not era and n >= 2100:
+        return m.group(0)
+    elif not era and n >= 2000:
+        spoken = 'twenty ' + words99(lo) if lo >= 10 else 'two thousand' + (' ' + ONES[lo] if lo else '')
     elif lo == 0:
         spoken = words99(hi) + ' hundred'
-    elif not era and n >= 2000:
-        return m.group(0)
     else:
         spoken = words99(hi) + (' oh ' + ONES[lo] if lo < 10 else ' ' + words99(lo))
     return spoken + era
@@ -116,27 +118,27 @@ class Phonemizer:
         if bad:
             raise SystemExit(f'lexicon entries with symbols outside the model vocabulary: {bad}')
 
-    def __call__(self, sentence):
+    def __call__(self, sentence, lang=LANG):
         pieces, pos = [], 0  # (phonemes, preceded by a space in the text)
         for m in self.pattern.finditer(sentence):
-            pieces.append(self.text_piece(sentence[pos:m.start()]))
+            pieces.append(self.text_piece(sentence[pos:m.start()], lang))
             ipa = self.lex[m.group(1)]
             pieces.append((possessive(ipa) if m.group(2) else ipa, m.start() == 0 or sentence[m.start() - 1].isspace()))
             pos = m.end()
-        pieces.append(self.text_piece(sentence[pos:]))
+        pieces.append(self.text_piece(sentence[pos:], lang))
         out = ''
         for ph, space in pieces:
             if ph:
                 out += (' ' if space and out else '') + ph
         return out
 
-    def text_piece(self, text):
+    def text_piece(self, text, lang=LANG):
         # Leading punctuation (a comma after a spliced name) is passed through as is: the phonemizer misaligns its
         # punctuation when a text starts with it, which garbles decimals such as 1.8 later in the sentence.
         lead = re.match(r'[\s,.;:!?)”’]*', text).group(0)
         punct = ''.join(c for c in lead if not c.isspace())
         body = text[len(lead):].strip()
-        ph = self.tok.phonemize(plain(body), LANG) if body else ''
+        ph = self.tok.phonemize(plain(body), lang) if body else ''
         out = punct + (' ' if punct and ph else '') + ph
         return out, text[:1].isspace()
 

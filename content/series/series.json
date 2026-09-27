@@ -1,0 +1,34 @@
+{
+  "title": "Before Bronze",
+  "tagline": "A documentary series in eight episodes",
+  "speakers": [
+    {
+      "id": "narrator",
+      "label": "Narrator",
+      "role": "Tells the story.",
+      "voice": "af_heart",
+      "lang": "en-us",
+      "color": "#eee5d4"
+    },
+    {
+      "id": "research",
+      "label": "Research",
+      "role": "States what named researchers argue, in their own terms, on every side of a question.",
+      "voice": "bm_george",
+      "lang": "en-gb",
+      "color": "#e3b15c"
+    },
+    {
+      "id": "source",
+      "label": "From the sources",
+      "role": "Reads historical texts: Thomsen, Lubbock, explorers, excavation diaries.",
+      "voice": "bf_emma",
+      "lang": "en-gb",
+      "color": "#c893b6"
+    }
+  ],
+  "audition": {
+    "text": "In 1836 a Copenhagen museum keeper sorted the past into stone, bronze and iron. The name stuck, though stone is simply what survives.",
+    "voices": ["af_heart", "af_bella", "af_nicole", "af_sarah", "am_michael", "am_fenrir", "bf_emma", "bf_isabella", "bf_alice", "bf_lily", "bm_george", "bm_lewis", "bm_daniel", "bm_fable"]
+  }
+}

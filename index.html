@@ -20,6 +20,7 @@
     <a class="wordmark" href="#" aria-label="Before Bronze, home"><b>Before Bronze</b><span>A world history of the Stone Age</span></a>
     <nav class="modes" role="tablist" aria-label="Views">
       <button role="tab" data-mode="journey" aria-selected="true">Journey</button>
+      <button role="tab" data-mode="watch" aria-selected="false">Watch</button>
       <button role="tab" data-mode="explore" aria-selected="false">Explore</button>
       <button role="tab" data-mode="read" aria-selected="false">Chapters</button>
       <button role="tab" data-mode="tree" aria-selected="false">Family tree</button>
@@ -45,6 +46,8 @@
   </aside>
 
   <div class="subtitle" id="subtitle" aria-hidden="true"></div>
+  <div class="watch-cards" id="watch-cards" aria-live="polite"></div>
+  <div class="watch-caption" id="watch-caption" aria-live="off"></div>
   <div class="site-card" id="site-card" role="dialog" aria-label="Site details" hidden></div>
   <div class="popover" id="settings" role="dialog" aria-label="Narration settings" hidden></div>
 
@@ -69,12 +72,14 @@
         <button class="chip-btn" id="btn-cinema" aria-pressed="false" title="Hide the text panel and show subtitles over the globe">Cinema</button>
       </div>
     </div>
+    <div class="transport watch-transport" id="watch-transport"></div>
     <svg id="timeline" role="group"></svg>
   </footer>
 
   <section class="overlay" id="ov-read" aria-label="Chapters" hidden></section>
   <section class="overlay" id="ov-tree" aria-label="Family tree" hidden></section>
   <section class="overlay" id="ov-about" aria-label="Sources and methods" hidden></section>
+  <section class="overlay" id="ov-watch" aria-label="Watch the series" hidden></section>
 
   <section class="intro" id="intro" aria-labelledby="intro-title">
     <div class="intro-inner">
@@ -85,6 +90,7 @@
       <div class="numbers" id="intro-numbers"></div>
       <div class="cta">
         <button class="btn primary" id="intro-begin"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M7 4.5v15l13-7.5z"/></svg>Begin the narrated journey</button>
+        <button class="btn" id="intro-watch">Watch the series</button>
         <button class="btn" id="intro-explore">Explore the map</button>
         <button class="btn" id="intro-read">Read the chapters</button>
       </div>
@@ -99,6 +105,8 @@
 <script src="data/climate.js"></script>
 <script src="data/content.js"></script>
 <script src="data/narration.js"></script>
+<script src="data/series.js"></script>
+<script src="data/series-audio.js"></script>
 <script src="js/util.js"></script>
 <script src="js/emblems.js"></script>
 <script src="js/hand.js"></script>
@@ -108,6 +116,7 @@
 <script src="js/reader.js"></script>
 <script src="js/tree.js"></script>
 <script src="js/about.js"></script>
+<script src="js/watch.js"></script>
 <script src="js/app.js"></script>
 </body>
 </html>

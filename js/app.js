@@ -35,6 +35,7 @@
     BB.globe = globe; BB.narrator = narrator; BB.timeline = timeline;
     makeGrain();
     buildTransport();
+    if (BB.Watch) BB.Watch.init();
     buildExplorePanel();
     buildSettings();
     wireModes();
@@ -52,10 +53,11 @@
       goToChapter(chapters.indexOf(ch), { autoplay: narrator.playing || state.started });
     });
     timeline.events.on('scrub', (t, phase) => {
-      if (state.mode === 'journey') {
+      if (state.mode === 'journey' || state.mode === 'watch') {
+        const wasWatch = state.mode === 'watch';
         narrator.pause();
         setMode('explore');
-        if (phase === 'start') BB.toast('Exploring freely. Pick a chapter or press play to resume the journey.');
+        if (phase === 'start') BB.toast(wasWatch ? 'Exploring freely. Open Watch to return to the episode.' : 'Exploring freely. Pick a chapter or press play to resume the journey.');
       }
       stopTimeAnim();
       setTime(t);
@@ -86,6 +88,8 @@
       else if (h === 'tree') { dismissIntro(); goToChapter(0, {}); openOverlay('tree'); }
       else if (h === 'sources') { dismissIntro(); goToChapter(0, {}); openOverlay('about'); }
       else if (h === 'chapters') { dismissIntro(); goToChapter(0, {}); openOverlay('read', chapters[0].id); }
+      else if (h === 'watch') { dismissIntro(); goToChapter(0, {}); openOverlay('watch'); }
+      else if (h.startsWith('watch/') && BB.Watch) { goToChapter(0, {}); dismissIntro(); openOverlay('watch'); const ep = h.slice(6); const ov = $('#ov-watch').querySelector(`[data-play="${ep}"]`); if (ov) BB.toast('Press Watch to start the episode.'); }
     }
   }
 
@@ -114,11 +118,11 @@
     const introOn = !$('#intro').classList.contains('gone');
     if (isNarrow()) {
       const pr = panel.getBoundingClientRect();
-      const bottom = introOn || state.cinema ? dockTop : pr.top - app.top;
+      const bottom = introOn || state.cinema || state.mode === 'watch' ? dockTop : pr.top - app.top;
       rect = { x: 0, y: top, w: app.width, h: Math.max(160, bottom - top) };
     } else if (introOn) {
       rect = { x: app.width * 0.4, y: top, w: app.width * 0.6 - 20, h: dockTop - top };
-    } else if (state.cinema) {
+    } else if (state.cinema || state.mode === 'watch') {
       rect = { x: 20, y: top, w: app.width - 40, h: dockTop - top - 60 };
     } else {
       const pr = panel.getBoundingClientRect();
@@ -157,6 +161,8 @@
   }
 
   function setMode(m) {
+    if (state.mode === 'watch' && m !== 'watch' && BB.Watch) BB.Watch.pause();
+    if (m === 'watch') { narrator.pause(); closeSiteCard(); }
     state.mode = m;
     $('#app').dataset.mode = m;
     $('#panel-journey').hidden = m !== 'journey';
@@ -164,15 +170,18 @@
     document.querySelectorAll('.modes button').forEach((b) => b.setAttribute('aria-selected', String(b.dataset.mode === (state.overlay || m))));
     globe.labelAll = m === 'explore';
     if (m === 'explore') { narrator.pause(); refreshExplore(); }
-    else refreshJourneySites();
+    else if (m === 'journey') refreshJourneySites();
+    else globe.setRoutes([]);
     layout();
   }
+  BB.setMode = setMode;
 
   function openOverlay(name, arg) {
     closeSiteCard();
     state.overlay = name;
-    for (const o of ['read', 'tree', 'about']) $(`#ov-${o}`).hidden = o !== name;
+    for (const o of ['read', 'tree', 'about', 'watch']) $(`#ov-${o}`).hidden = o !== name;
     if (name === 'read') BB.Reader.open(arg);
+    if (name === 'watch') BB.Watch.open();
     if (name === 'tree') BB.Tree.open(state.time);
     if (name === 'about') BB.About.open();
     document.querySelectorAll('.modes button').forEach((b) => b.setAttribute('aria-selected', String(b.dataset.mode === name)));
@@ -188,6 +197,7 @@
   }
   BB.openOverlay = openOverlay;
   BB.closeOverlay = closeOverlay;
+  BB.dismissIntro = (...a) => dismissIntro(...a);
 
   /* Time ------------------------------------------------------------------------------------------- */
   function setTime(t) {
@@ -211,6 +221,8 @@
     timeAnim = requestAnimationFrame(step);
   }
   function stopTimeAnim() { if (timeAnim) cancelAnimationFrame(timeAnim); timeAnim = null; }
+  BB.setTime = (t) => { stopTimeAnim(); setTime(t); };
+  BB.animateTime = animateTime;
 
   function updateBadge() {
     const t = state.time;
@@ -339,7 +351,7 @@
     $('#btn-play').addEventListener('click', () => {
       dismissIntro();
       if (state.overlay) closeOverlay();
-      if (state.mode !== 'journey') { setMode('journey'); goToChapter(state.index, { autoplay: true }); return; }
+      if (state.mode !== 'journey') { closeSiteCard(); setMode('journey'); goToChapter(state.index, { autoplay: true }); return; }
       state.started = true;
       narrator.toggle();
     });
@@ -561,6 +573,7 @@
       if (state.cinema) { toggleCinema(false); return; }
     }
     if (state.overlay) return;
+    if (state.mode === 'watch' && BB.Watch && !e.target.closest('button, a, [role=button], [role=slider]')) { if (BB.Watch.key(e)) return; }
     if (e.key === ' ' && !e.target.closest('button, a, [role=button]')) { e.preventDefault(); $('#btn-play').click(); }
     if (e.target.closest('#timeline')) return;
     if (e.key === 'ArrowRight' && state.mode === 'journey') $('#btn-next').click();
@@ -580,6 +593,7 @@
     setTime(3300000);
     globe.setSites(C.sites.map((s) => ({ site: s, color: s.cat.color, emphasis: 0, alpha: 0.5 })));
     $('#intro-begin').addEventListener('click', () => { dismissIntro(); setMode('journey'); goToChapter(0, { autoplay: true }); });
+    $('#intro-watch').addEventListener('click', () => { dismissIntro(); goToChapter(0, {}); openOverlay('watch'); });
     $('#intro-explore').addEventListener('click', () => { dismissIntro(); goToChapter(0, {}); setMode('explore'); setTime(1800000); globe.flyTo({ lon: 30, lat: 10, zoom: 1 }, 1000); });
     $('#intro-read').addEventListener('click', () => { dismissIntro(); goToChapter(0, {}); openOverlay('read', chapters[0].id); });
     BB.drawHand($('#hand-canvas'));

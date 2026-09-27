@@ -1,0 +1,138 @@
+{
+  "id": "the-longest-age",
+  "number": 1,
+  "title": "The Longest Age",
+  "subtitle": "What the Stone Age is, why the name misleads, and how we can know anything about it",
+  "summary": "The oldest tools, the museum keeper who named the age, and the clocks, molecules and ice that let us read three million years.",
+  "regions": ["africa", "europe", "asia", "oceania", "americas"],
+  "emblem": "chopper",
+  "status": "sample",
+  "statusNote": "Sample: the first three scenes, about three minutes, to test voices, tone, pacing and on-screen cards before the full episode is written.",
+  "scenes": [
+    {
+      "id": "an-edge-in-the-desert",
+      "title": "An edge in the desert",
+      "start": 3300000,
+      "end": 3300000,
+      "camera": { "lon": 30, "lat": 8, "zoom": 1 },
+      "cues": [
+        {
+          "speaker": "narrator",
+          "text": "On the morning of the ninth of July 2011, a team of archaeologists took a wrong turn.",
+          "camera": { "sites": ["lomekwi-3"], "zoom": 4.5 }
+        },
+        {
+          "speaker": "narrator",
+          "text": "They were looking for a fossil site west of Lake Turkana, in northern Kenya, and found instead a hillside scattered with broken stones. Sonia Harmand and Jason Lewis of Stony Brook University named the place Lomekwi 3.",
+          "sites": ["lomekwi-3"],
+          "card": { "type": "site", "site": "lomekwi-3" }
+        },
+        {
+          "speaker": "narrator",
+          "text": "Someone had struck these stones from lava cobbles 3.3 million years ago. The layer that held them lies above a volcanic ash dated to 3.32 million years, and the magnetic record in the sediment agrees. If that reading holds, they are the oldest known tools made by breaking stone, 700,000 years older than any found before.",
+          "card": { "type": "number", "value": "3.3 million years", "label": "The oldest known knapped stone, if the context holds", "note": "Harmand and colleagues, Nature, 2015" }
+        },
+        {
+          "speaker": "narrator",
+          "text": "From that moment until metal arrived, only 5,000 to 7,000 years ago in the places that had it first, our ancestors and their relatives lived in what we call the Stone Age. It covers more than 99 percent of the human technological past.",
+          "time": 5000,
+          "camera": { "lon": 30, "lat": 12, "zoom": 1 },
+          "card": { "type": "number", "value": "99 percent", "label": "of the time since the first known tools falls within the Stone Age", "note": "About 3.3 million years, against about 5,000 years of metal" }
+        },
+        {
+          "speaker": "narrator",
+          "text": "This is the story of that age, on every continent, from the first flaked stones to the first furnaces.",
+          "card": { "type": "title", "kicker": "Before Bronze · Episode 1", "title": "The Longest Age", "sub": "A world history of the Stone Age" }
+        }
+      ],
+      "sources": [
+        { "cite": "Harmand, S. et al. (2015). 3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya. Nature 521, 310–315.", "doi": "10.1038/nature14464" }
+      ]
+    },
+    {
+      "id": "a-museum-filing-system",
+      "title": "A museum’s filing system",
+      "start": 5000,
+      "end": 5000,
+      "camera": { "lon": 12.58, "lat": 55.68, "zoom": 5 },
+      "cues": [
+        {
+          "speaker": "narrator",
+          "text": "The name was born in a museum. In 1816 Christian Jürgensen Thomsen, a Copenhagen merchant’s son and a self-taught antiquarian, took charge of Denmark’s collection of antiquities. He sorted its cutting tools by material, and noticed which objects turned up together in graves and hoards: first stone, then bronze, then iron. His guidebook of 1836 put the three ages into print.",
+          "card": { "type": "place", "kicker": "Copenhagen, 1816 to 1836", "title": "Christian Jürgensen Thomsen", "items": ["Age of Stone", "Age of Bronze", "Age of Iron"], "note": "Ledetraad til Nordisk Oldkyndighed, 1836; English edition 1848" }
+        },
+        {
+          "speaker": "source",
+          "text": "The Age of Stone, or that period when weapons and implements were made of stone, wood, bone, or some such material, and during which very little or nothing at all was known of metals.",
+          "card": { "type": "quote", "text": "The Age of Stone, or that period when weapons and implements were made of stone, wood, bone, or some such material, and during which very little or nothing at all was known of metals.", "attribution": "Guide to Northern Archaeology, London, 1848, translated from Thomsen’s Danish guidebook of 1836" }
+        },
+        {
+          "speaker": "narrator",
+          "text": "Thirty years later the English banker and naturalist John Lubbock split the stone part in two, in a book he called Pre-historic Times.",
+          "camera": { "lon": -0.1, "lat": 51.5, "zoom": 5 }
+        },
+        {
+          "speaker": "source",
+          "text": "First, that of the Drift; when man shared the possession of Europe with the Mammoth, the Cave bear, the Woolly-haired rhinoceros, and other extinct animals. This we may call the Palaeolithic period.",
+          "card": { "type": "quote", "text": "First, that of the Drift; when man shared the possession of Europe with the Mammoth, the Cave bear, the Woolly-haired rhinoceros, and other extinct animals.", "attribution": "John Lubbock, Pre-historic Times, 1865" }
+        },
+        {
+          "speaker": "narrator",
+          "text": "Lubbock’s Palaeolithic and Neolithic, the old and the new stone ages, are still the words we use. But the label misleads. Stone is simply what survives. Wood, bone, hide, plant fibre and string did much of the work, and nearly all of it has rotted away.",
+          "card": { "type": "text", "kicker": "Why the name misleads", "title": "Stone is what survives", "items": ["Wooden spears survive at one site in Germany, Schöningen, out of thousands", "A three-ply cord 50,000 years old survived stuck to a Neanderthal tool at Abri du Maras", "Most of every Stone Age toolkit was never stone"] }
+        }
+      ],
+      "sources": [
+        { "cite": "Thomsen, C. J. (1836). Ledetraad til Nordisk Oldkyndighed. Copenhagen. English edition: Guide to Northern Archaeology, ed. the Earl of Ellesmere, London, 1848." },
+        { "cite": "Lubbock, J. (1865). Pre-historic Times, as Illustrated by Ancient Remains, and the Manners and Customs of Modern Savages. London: Williams and Norgate." },
+        { "cite": "Hardy, B. L. et al. (2020). Direct evidence of Neanderthal fibre technology and its cognitive and behavioral implications. Scientific Reports 10, 4889.", "doi": "10.1038/s41598-020-61839-w" }
+      ]
+    },
+    {
+      "id": "an-argument-at-the-beginning",
+      "title": "An argument at the beginning",
+      "start": 3300000,
+      "end": 2600000,
+      "camera": { "sites": ["lomekwi-3", "nyayanga", "ledi-geraru", "gona"], "zoom": 3.4 },
+      "cues": [
+        {
+          "speaker": "narrator",
+          "text": "Even the beginning of the age is argued over. Lomekwi 3 is a single site, and a claim this old draws hard questions. Throughout this series, each side will be stated as its supporters put it.",
+          "sites": ["lomekwi-3"]
+        },
+        {
+          "speaker": "research",
+          "text": "Sonia Harmand, Jason Lewis and their colleagues, writing in Nature in 2015, describe 149 artefacts, about twenty of them excavated from undisturbed sediment. The cores and flakes carry the scars that repeated, deliberate striking produces, and several flakes fit back onto their cores.",
+          "card": { "type": "debate", "question": "Are the Lomekwi 3 stones the oldest tools?", "views": [
+            { "label": "Yes, 3.3 million years", "text": "Harmand, Lewis and colleagues (2015): artefacts excavated in place, knapping scars and refits, a layer above an ash dated to 3.32 million years, and a matching magnetic record." },
+            { "label": "Not yet shown", "text": "Domínguez-Rodrigo and Alcalá (2016, 2019): most pieces were surface finds, the excavated sample is small, and natural breakage can imitate knapping. Archer, Aldeias and McPherron (2020): the paper stretched the meaning of in situ." }
+          ], "status": "Widely cited as the oldest evidence of knapping, but still one site. A second site of similar age, or new excavation at Lomekwi, would settle it." }
+        },
+        {
+          "speaker": "research",
+          "text": "Manuel Domínguez-Rodrigo and Luis Alcalá, in 2016 and again in 2019, answer that most of the pieces lay on the surface, where they could have arrived from younger layers, and that natural processes can break stone in ways that imitate knapping. In 2020 Will Archer, Vera Aldeias and Shannon McPherron argued that the original paper had stretched the meaning of the words in situ. Harmand and her colleagues replied that the excavated pieces came from an intact layer, and that the surface finds share the same raw materials and the same style."
+        },
+        {
+          "speaker": "narrator",
+          "text": "Where does the field stand? The 3.3-million-year date is widely cited, and no second site that old has been found. The continuous record of flaked tools begins between 3 and 2.6 million years ago, at Nyayanga in Kenya and at Ledi-Geraru and Gona in Ethiopia.",
+          "sites": ["nyayanga", "ledi-geraru", "gona"],
+          "time": 2600000
+        },
+        {
+          "speaker": "narrator",
+          "text": "Either way, the Stone Age did not begin with one invention, but with a slow change in how our relatives used stone. We will return to Lomekwi in the next episode. First, a question this whole series depends on: how can we know any of this?",
+          "card": { "type": "text", "kicker": "Coming up", "title": "How we know", "items": ["Clocks in volcanic ash, cave crystals and sand", "DNA from bones and cave dirt", "Proteins from teeth two million years old", "Ice and ocean mud that remember the climate"] }
+        }
+      ],
+      "sources": [
+        { "cite": "Harmand, S. et al. (2015). 3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya. Nature 521, 310–315.", "doi": "10.1038/nature14464" },
+        { "cite": "Domínguez-Rodrigo, M. & Alcalá, L. (2016). 3.3-Million-Year-Old Stone Tools and Butchery Traces? More Evidence Needed. PaleoAnthropology 2016, 46–53." },
+        { "cite": "Domínguez-Rodrigo, M. & Alcalá, L. (2019). Pliocene Archaeology at Lomekwi 3? New Evidence Fuels More Skepticism. Journal of African Archaeology 17, 173–176." },
+        { "cite": "Harmand, S. et al. (2019). Reply to Domínguez-Rodrigo and Alcalá: Interpretation without accurate evidence is fantasy. Journal of African Archaeology 17, 177–181." },
+        { "cite": "Archer, W., Aldeias, V. & McPherron, S. P. (2020). What is ‘in situ’? A reply to Harmand et al. (2015). Journal of Human Evolution 142, 102740.", "doi": "10.1016/j.jhevol.2020.102740" },
+        { "cite": "Plummer, T. W. et al. (2023). Expanded geographic distribution and dietary strategies of the earliest Oldowan hominins and Paranthropus. Science 379, 561–566.", "doi": "10.1126/science.abo7452" },
+        { "cite": "Williams, E. M., Key, A., de la Torre, I. & Wood, B. (2025). Who made the Oldowan? Reviewing African hominin fossils and archaeological sites from 3.5 million years ago. Journal of Anthropological Archaeology 79, 101704.", "doi": "10.1016/j.jaa.2025.101704" }
+      ]
+    }
+  ]
+}

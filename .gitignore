@@ -4,3 +4,4 @@ tools/raw/
 *.wav
 __pycache__/
 .preview-local.html
+.venv/
