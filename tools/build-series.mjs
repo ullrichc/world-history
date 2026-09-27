@@ -88,7 +88,7 @@ function validateShot(file, where, sh, epId, epSites) {
   if (sh.type === 'photo') { checkMedia(sh.media); if (sh.move !== undefined && !MOVES.includes(sh.move)) err(file, `${where}.move must be one of ${MOVES.join(', ')}`); }
   if (sh.type === 'montage') { if (!Array.isArray(sh.media) || sh.media.length < 2) err(file, `${where}: montage needs at least two pictures`); else sh.media.forEach(checkMedia); }
   if (sh.type === 'globe' && sh.camera) validateCamera(file, where, sh.camera);
-  if (sh.type === 'diagram' && !['strata', 'years', 'decay', 'reversals'].includes(sh.diagram)) err(file, `${where}: unknown diagram ${sh.diagram}`);
+  if (sh.type === 'diagram' && !['strata', 'years', 'decay', 'reversals', 'sealevel', 'bottleneck'].includes(sh.diagram)) err(file, `${where}: unknown diagram ${sh.diagram}`);
   for (const k of ['kicker', 'title', 'sub', 'text', 'attribution', 'value', 'label', 'question', 'status', 'caption']) if (sh[k] !== undefined) text(file, `${where}.${k}`, sh[k]);
   if (sh.captions !== undefined) sh.captions.forEach((c, i) => text(file, `${where}.captions[${i}]`, c));
   if (sh.lower) { text(file, `${where}.lower.name`, sh.lower.name); if (sh.lower.sub !== undefined) text(file, `${where}.lower.sub`, sh.lower.sub); }

@@ -175,5 +175,71 @@
     ctx.fillText('LIGHT: FIELD AS TODAY   DARK: REVERSED', left, top - 16);
   };
 
+  /* Sea level through time, drawn like a heart monitor from the app's climate curve. p.from, p.to in years ago
+     (log axis), p.secs to draw, p.marks: [{year, label}] */
+  D.sealevel = function (ctx, w, h, t, p) {
+    ctx.fillStyle = '#0f0e0c'; ctx.fillRect(0, 0, w, h);
+    const from = p.from || 800000, to = p.to || 2000, secs = p.secs || 10;
+    const pad = w * 0.09, left = pad, right = w - pad, top = h * 0.2, bottom = h * 0.8;
+    const lx = (y) => left + ((Math.log(from) - Math.log(y)) / (Math.log(from) - Math.log(to))) * (right - left);
+    const ly = (m) => bottom - ((m + 140) / 160) * (bottom - top);
+    ctx.strokeStyle = C.line; ctx.beginPath();
+    for (const m of [0, -40, -80, -120]) { ctx.moveTo(left, ly(m)); ctx.lineTo(right, ly(m)); }
+    ctx.stroke();
+    ctx.fillStyle = C.ink3; ctx.font = mono(Math.max(10, h * 0.015)); ctx.textAlign = 'right'; ctx.textBaseline = 'middle';
+    for (const m of [0, -40, -80, -120]) ctx.fillText(m === 0 ? 'today' : `${m} m`, left - 10, ly(m));
+    ctx.textAlign = 'center'; ctx.textBaseline = 'top';
+    for (const y of [500000, 200000, 100000, 50000, 20000, 10000, 5000]) if (y < from && y > to) ctx.fillText(BB.shortAge(y), lx(y), bottom + 10);
+    const u = ease(t / secs);
+    const n = 600;
+    ctx.strokeStyle = '#8fb7c7'; ctx.lineWidth = 2; ctx.beginPath();
+    let last = null;
+    for (let i = 0; i <= n * u; i++) {
+      const y = Math.exp(BB.lerp(Math.log(from), Math.log(to), i / n));
+      const px = lx(y), py = ly(BB.seaLevel(y));
+      i ? ctx.lineTo(px, py) : ctx.moveTo(px, py);
+      last = [px, py, y];
+    }
+    ctx.stroke();
+    if (last) {
+      ctx.fillStyle = '#d7e5ec'; ctx.beginPath(); ctx.arc(last[0], last[1], 5, 0, Math.PI * 2); ctx.fill();
+      ctx.fillStyle = C.ink; ctx.font = display(Math.max(14, h * 0.028)); ctx.textAlign = 'left'; ctx.textBaseline = 'bottom';
+      if (u < 1) ctx.fillText(`${BB.formatAge(last[2])}: ${Math.round(BB.seaLevel(last[2]))} m`, Math.min(last[0] + 12, right - 220), top - 8);
+    }
+    (p.marks || []).forEach((mk) => {
+      if (lx(mk.year) > left + (right - left) * u) return;
+      const x = lx(mk.year);
+      ctx.strokeStyle = C.ochre; ctx.setLineDash([3, 4]); ctx.beginPath(); ctx.moveTo(x, top); ctx.lineTo(x, bottom); ctx.stroke(); ctx.setLineDash([]);
+      ctx.fillStyle = C.ochre; ctx.font = mono(Math.max(9, h * 0.014)); ctx.textAlign = 'center'; ctx.textBaseline = 'bottom';
+      ctx.fillText(mk.label.toUpperCase(), x, top - 6);
+    });
+    if (p.title) { ctx.fillStyle = C.ink3; ctx.font = mono(Math.max(10, h * 0.015)); ctx.textAlign = 'left'; ctx.textBaseline = 'alphabetic'; ctx.fillText(p.title.toUpperCase(), left, h * 0.1); }
+  };
+
+  /* Population size through time for the bottleneck claim: a band that narrows to a neck. p.secs */
+  D.bottleneck = function (ctx, w, h, t, p) {
+    ctx.fillStyle = '#0f0e0c'; ctx.fillRect(0, 0, w, h);
+    const pad = w * 0.1, left = pad, right = w - pad, mid = h * 0.5, amp = h * 0.28;
+    const from = 1200000, to = 600000;
+    const lx = (y) => left + ((from - y) / (from - to)) * (right - left);
+    const width = (y) => (y < 930000 && y > 813000 ? 0.02 : y >= 930000 ? 1 : Math.min(1, 0.02 + (813000 - y) / 300000));
+    const u = ease(t / (p.secs || 8));
+    ctx.fillStyle = 'rgba(227,177,92,0.35)'; ctx.strokeStyle = C.ochre; ctx.lineWidth = 1.5;
+    ctx.beginPath();
+    const n = 400;
+    for (let i = 0; i <= n * u; i++) { const y = from - (from - to) * (i / n); ctx.lineTo(lx(y), mid - amp * width(y)); }
+    for (let i = Math.floor(n * u); i >= 0; i--) { const y = from - (from - to) * (i / n); ctx.lineTo(lx(y), mid + amp * width(y)); }
+    ctx.closePath(); ctx.fill(); ctx.stroke();
+    ctx.fillStyle = C.ink3; ctx.font = mono(Math.max(10, h * 0.015)); ctx.textAlign = 'center'; ctx.textBaseline = 'top';
+    for (const y of [1200000, 1000000, 930000, 813000, 700000, 600000]) ctx.fillText(BB.formatAge(y).replace(' years ago', ''), lx(y), mid + amp + 14);
+    if (u > 0.6) {
+      ctx.fillStyle = C.red; ctx.font = display(Math.max(16, h * 0.034)); ctx.textAlign = 'center'; ctx.textBaseline = 'bottom';
+      ctx.fillText(p.label || 'about 1,280 breeding individuals', lx(870000), mid - amp * 0.3);
+      ctx.fillStyle = C.ink2; ctx.font = mono(Math.max(10, h * 0.015)); ctx.textBaseline = 'top';
+      ctx.fillText((p.note || 'as inferred by FitCoal, Hu and colleagues 2023; disputed').toUpperCase(), lx(870000), mid + amp * 0.3);
+    }
+    if (p.title) { ctx.fillStyle = C.ink3; ctx.font = mono(Math.max(10, h * 0.015)); ctx.textAlign = 'left'; ctx.textBaseline = 'alphabetic'; ctx.fillText(p.title.toUpperCase(), left, h * 0.12); }
+  };
+
   BB.diagrams = D;
 })();

@@ -597,26 +597,59 @@
         {
           "speaker": "narrator",
           "text": "The name was born in a museum. In 1816 Christian Jürgensen Thomsen, a Copenhagen merchant’s son and a self-taught antiquarian, took charge of Denmark’s collection of antiquities. He sorted its cutting tools by material, and noticed which objects turned up together in graves and hoards: first stone, then bronze, then iron. His guidebook of 1836 put the three ages into print.",
-          "card": {
-            "type": "place",
-            "kicker": "Copenhagen, 1816 to 1836",
-            "title": "Christian Jürgensen Thomsen",
-            "items": [
-              "Age of Stone",
-              "Age of Bronze",
-              "Age of Iron"
-            ],
-            "note": "Ledetraad til Nordisk Oldkyndighed, 1836; English edition 1848"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "nationalmuseet",
+              "move": "push",
+              "caption": "The Prince’s Palace in Copenhagen, home of the collection Thomsen arranged"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "thomsen-lithograph",
+              "move": "still",
+              "lower": {
+                "name": "Christian Jürgensen Thomsen",
+                "sub": "Copenhagen, 1788 to 1865"
+              }
+            },
+            {
+              "at": 2,
+              "type": "montage",
+              "media": [
+                "danish-flint-dagger",
+                "danish-lur",
+                "nydam-sword"
+              ],
+              "captions": [
+                "Stone: a flint dagger from Denmark",
+                "Bronze: lurs from Denmark",
+                "Iron: swords from the Nydam bog, Denmark"
+              ]
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "guide-1848-page",
+              "move": "pan-right",
+              "caption": "A page of the English edition of 1848",
+              "fit": "contain"
+            }
+          ]
         },
         {
           "speaker": "source",
           "text": "The Age of Stone, or that period when weapons and implements were made of stone, wood, bone, or some such material, and during which very little or nothing at all was known of metals.",
-          "card": {
-            "type": "quote",
-            "text": "The Age of Stone, or that period when weapons and implements were made of stone, wood, bone, or some such material, and during which very little or nothing at all was known of metals.",
-            "attribution": "Guide to Northern Archaeology, London, 1848, translated from Thomsen’s Danish guidebook of 1836"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "type",
+              "text": "The Age of Stone, or that period when weapons and implements were made of stone, wood, bone, or some such material, and during which very little or nothing at all was known of metals.",
+              "kicker": "Guide to Northern Archaeology, London, 1848"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -625,31 +658,76 @@
             "lon": -0.1,
             "lat": 51.5,
             "zoom": 5
-          }
+          },
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "prehistoric-times-1",
+              "move": "tilt-up",
+              "caption": "Pre-historic Times, 1865",
+              "lower": {
+                "name": "John Lubbock",
+                "sub": "Banker, naturalist and antiquarian, 1834 to 1913"
+              }
+            }
+          ]
         },
         {
           "speaker": "source",
           "text": "First, that of the Drift; when man shared the possession of Europe with the Mammoth, the Cave bear, the Woolly-haired rhinoceros, and other extinct animals. This we may call the Palaeolithic period.",
-          "card": {
-            "type": "quote",
-            "text": "First, that of the Drift; when man shared the possession of Europe with the Mammoth, the Cave bear, the Woolly-haired rhinoceros, and other extinct animals.",
-            "attribution": "John Lubbock, Pre-historic Times, 1865"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "type",
+              "text": "First, that of the Drift; when man shared the possession of Europe with the Mammoth, the Cave bear, the Woolly-haired rhinoceros, and other extinct animals.",
+              "kicker": "John Lubbock, Pre-historic Times, 1865"
+            }
+          ]
         },
         {
           "speaker": "narrator",
           "text": "Lubbock’s Palaeolithic and Neolithic, the old and the new stone ages, are still the words we use. In 1929 John Goodwin and Clarence van Riet Lowe, finding the European terms a poor fit for southern Africa, divided the African record into an Earlier, Middle and Later Stone Age instead. Every region now has its own sequence. But the label misleads. Stone is simply what survives.",
-          "card": {
-            "type": "text",
-            "kicker": "One age, many names",
-            "title": "Regional sequences",
-            "items": [
-              "Europe and West Asia: Lower, Middle and Upper Palaeolithic, then Mesolithic and Neolithic",
-              "Africa: Earlier, Middle and Later Stone Age (Goodwin and van Riet Lowe, 1929)",
-              "Japan: Jōmon, the age of cord-marked pottery",
-              "The Americas: Paleoindian and Archaic"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "prehistoric-times-2",
+              "move": "pan-left",
+              "caption": "Pre-historic Times, 1865",
+              "fit": "contain"
+            },
+            {
+              "at": 1,
+              "type": "globe",
+              "camera": {
+                "box": [
+                  10,
+                  -36,
+                  42,
+                  -20
+                ]
+              }
+            },
+            {
+              "at": 2,
+              "type": "montage",
+              "media": [
+                "jomon-pot",
+                "clovis-point"
+              ],
+              "captions": [
+                "Jōmon pottery, Japan: an age named after cord-marked pots",
+                "A Clovis point, North America: the Paleoindian period"
+              ]
+            },
+            {
+              "at": 3,
+              "type": "type",
+              "text": "Stone is simply what survives.",
+              "kicker": "Why the name misleads"
+            }
+          ]
         }
       ],
       "sources": [
@@ -894,30 +972,77 @@
           "text": "Even the beginning of the age is argued over. Lomekwi 3 is a single site, and a claim this old draws hard questions. Throughout this series, each side will be stated as its supporters put it.",
           "sites": [
             "lomekwi-3"
+          ],
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "lomekwi-site",
+              "move": "pull",
+              "caption": "Lomekwi, west of Lake Turkana"
+            },
+            {
+              "at": 1,
+              "type": "globe",
+              "camera": {
+                "sites": [
+                  "lomekwi-3"
+                ],
+                "zoom": 5
+              }
+            },
+            {
+              "at": 2,
+              "type": "type",
+              "text": "Each side, as its supporters put it.",
+              "kicker": "The rule of this series"
+            }
           ]
         },
         {
           "speaker": "research",
           "text": "Sonia Harmand, Jason Lewis and their colleagues, writing in Nature in 2015, describe 149 artefacts, about twenty of them excavated from undisturbed sediment. The cores and flakes carry the scars that repeated, deliberate striking produces, and several flakes fit back onto their cores.",
-          "card": {
-            "type": "debate",
-            "question": "Are the Lomekwi 3 stones the oldest tools?",
-            "views": [
-              {
-                "label": "Yes, 3.3 million years",
-                "text": "Harmand, Lewis and colleagues (2015): artefacts excavated in place, knapping scars and refits, a layer above an ash dated to 3.32 million years, and a matching magnetic record."
-              },
-              {
-                "label": "Not yet shown",
-                "text": "Domínguez-Rodrigo and Alcalá (2016, 2019): most pieces were surface finds, the excavated sample is small, and natural breakage can imitate knapping. Archer, Aldeias and McPherron (2020): the paper stretched the meaning of in situ."
-              }
-            ],
-            "status": "Widely cited as the oldest evidence of knapping, but still one site. A second site of similar age, or new excavation at Lomekwi, would settle it."
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "oldowan-chopper",
+              "move": "push",
+              "caption": "The marks of knapping on an early core (an Oldowan example)"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "refitting",
+              "move": "pan-right",
+              "caption": "Refitting: flakes fitted back onto the core they were struck from"
+            }
+          ]
         },
         {
           "speaker": "research",
-          "text": "Manuel Domínguez-Rodrigo and Luis Alcalá, in 2016 and again in 2019, answer that most of the pieces lay on the surface, where they could have arrived from younger layers, and that natural processes can break stone in ways that imitate knapping. In 2020 Will Archer, Vera Aldeias and Shannon McPherron argued that the original paper had stretched the meaning of the words in situ. Harmand and her colleagues replied that the excavated pieces came from an intact layer, and that the surface finds share the same raw materials and the same style."
+          "text": "Manuel Domínguez-Rodrigo and Luis Alcalá, in 2016 and again in 2019, answer that most of the pieces lay on the surface, where they could have arrived from younger layers, and that natural processes can break stone in ways that imitate knapping. In 2020 Will Archer, Vera Aldeias and Shannon McPherron argued that the original paper had stretched the meaning of the words in situ. Harmand and her colleagues replied that the excavated pieces came from an intact layer, and that the surface finds share the same raw materials and the same style.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "split",
+              "question": "Are the Lomekwi 3 stones the oldest tools?",
+              "views": [
+                {
+                  "label": "Yes, 3.3 million years",
+                  "text": "Harmand, Lewis and colleagues, 2015: artefacts excavated in place, knapping scars and refits, a layer above an ash dated to 3.32 million years, and a matching magnetic record.",
+                  "media": "lomekwi-site"
+                },
+                {
+                  "label": "Not yet shown",
+                  "text": "Domínguez-Rodrigo and Alcalá, 2016 and 2019: most pieces were surface finds, the excavated sample is small, and natural breakage can imitate knapping. Archer, Aldeias and McPherron, 2020: the paper stretched the meaning of in situ.",
+                  "media": "kenyanthropus-nairobi"
+                }
+              ],
+              "status": "Widely cited as the oldest evidence of knapping, but still one site. A second site of similar age, or new excavation at Lomekwi, would settle it.",
+              "stagger": 9
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -927,22 +1052,53 @@
             "ledi-geraru",
             "gona"
           ],
-          "time": 2600000
+          "time": 2600000,
+          "shots": [
+            {
+              "at": 0,
+              "type": "globe",
+              "camera": {
+                "sites": [
+                  "lomekwi-3",
+                  "nyayanga",
+                  "ledi-geraru",
+                  "gona"
+                ],
+                "zoom": 3.4
+              }
+            },
+            {
+              "at": 2,
+              "type": "montage",
+              "media": [
+                "nyayanga-site",
+                "gona-tools"
+              ],
+              "captions": [
+                "Nyayanga, Kenya: Oldowan tools of 3 to 2.6 million years",
+                "Oldowan tools from Gona, Ethiopia"
+              ]
+            }
+          ]
         },
         {
           "speaker": "narrator",
           "text": "Either way, the Stone Age did not begin with one invention, but with a slow change in how our relatives used stone. We will return to Lomekwi in the next episode. First, a question this whole series depends on: how can we know any of this?",
-          "card": {
-            "type": "text",
-            "kicker": "Coming up",
-            "title": "How we know",
-            "items": [
-              "Clocks in volcanic ash, cave crystals and sand",
-              "DNA from bones and cave dirt",
-              "Proteins from teeth two million years old",
-              "Ice and ocean mud that remember the climate"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "turkana-shore",
+              "move": "push",
+              "caption": "The southern shore of Lake Turkana"
+            },
+            {
+              "at": 2,
+              "type": "type",
+              "text": "How can we know any of this?",
+              "kicker": "Coming up"
+            }
+          ]
         }
       ],
       "sources": [
@@ -987,7 +1143,23 @@
       "cues": [
         {
           "speaker": "narrator",
-          "text": "Stone dominates museum cases for one reason: it survives. Almost everything else rots. Where conditions are exceptional, glimpses of the rest appear."
+          "text": "Stone dominates museum cases for one reason: it survives. Almost everything else rots. Where conditions are exceptional, glimpses of the rest appear.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "saint-acheul-bifaces",
+              "move": "pull",
+              "caption": "What survives: flint from Saint-Acheul"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "schoningen-spear",
+              "move": "pan-right",
+              "caption": "A wooden spear from Schöningen, Germany"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -996,14 +1168,59 @@
             "schoningen"
           ],
           "time": 200000,
-          "card": {
-            "type": "site",
-            "site": "schoningen"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "schoningen-museum",
+              "move": "push",
+              "caption": "The Schöningen research museum, beside the open-cast mine"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "schoningen-spear",
+              "move": "tilt-up",
+              "caption": "The spears were sealed in lakeshore mud"
+            },
+            {
+              "at": 2,
+              "type": "number",
+              "value": "300,000 years",
+              "label": "The spears’ age, as published until 2025",
+              "kicker": "Schöningen"
+            },
+            {
+              "at": 3,
+              "type": "number",
+              "value": "200,000 years",
+              "label": "The 2025 amino acid age, which would make the hunters Neanderthals",
+              "kicker": "Hutson and colleagues, Science Advances, 2025"
+            }
+          ]
         },
         {
           "speaker": "research",
-          "text": "The two dates rest on different evidence. The older figure came from the sequence of glacial deposits above and below the finds; the newer one from amino acids, whose rate of change depends on the temperatures the shells experienced over thousands of years. The two lines of evidence do not yet agree, and both dates appear in the literature."
+          "text": "The two dates rest on different evidence. The older figure came from the sequence of glacial deposits above and below the finds; the newer one from amino acids, whose rate of change depends on the temperatures the shells experienced over thousands of years. The two lines of evidence do not yet agree, and both dates appear in the literature.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "split",
+              "question": "How old are the Schöningen spears?",
+              "views": [
+                {
+                  "label": "About 300,000 years",
+                  "text": "The sequence of glacial deposits above and below the finds, matched to the marine isotope stages."
+                },
+                {
+                  "label": "About 200,000 years",
+                  "text": "Hutson and colleagues, 2025: amino acids sealed in snail shells from the same layer, whose rate of change depends on the temperatures they experienced."
+                }
+              ],
+              "status": "Both dates appear in the literature; the two lines of evidence do not yet agree.",
+              "stagger": 5
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1019,17 +1236,29 @@
             ]
           },
           "time": 40000,
-          "card": {
-            "type": "text",
-            "kicker": "Invisible technologies",
-            "title": "What cord implies",
-            "items": [
-              "Nets, snares and fishing lines",
-              "Bags, baskets and slings",
-              "Lashings for hafted tools and shelters",
-              "Almost none of it survives"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "cattail",
+              "move": "push",
+              "caption": "Cattail: the fibre twisted into rope in the Hohle Fels experiments"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "abri-du-maras-photo",
+              "move": "pan-left",
+              "caption": "Abri du Maras, Ardèche, where a Neanderthal cord survived on a stone tool"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "hohle-fels-cave",
+              "move": "tilt-up",
+              "caption": "Hohle Fels in the Swabian Jura, where the ivory rope-making tool was found"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1044,10 +1273,21 @@
             "zoom": 3.5
           },
           "time": 476000,
-          "card": {
-            "type": "site",
-            "site": "kalambo-falls"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "kalambo-falls-photo",
+              "move": "push",
+              "caption": "Kalambo Falls, Zambia"
+            },
+            {
+              "at": 1,
+              "type": "type",
+              "text": "The record we have is a record of what lasts.",
+              "kicker": "More than stones"
+            }
+          ]
         }
       ],
       "sources": [
@@ -1248,18 +1488,66 @@
       "cues": [
         {
           "speaker": "narrator",
-          "text": "How can anyone know that a spear is 200,000 years old, or a stone tool 3.3 million? Most of the dates in this series come from physics: from clocks that started ticking when an ash fell, a grain of sand was buried, or a plant died."
+          "text": "How can anyone know that a spear is 200,000 years old, or a stone tool 3.3 million? Most of the dates in this series come from physics: from clocks that started ticking when an ash fell, a grain of sand was buried, or a plant died.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "tree-rings",
+              "move": "push",
+              "caption": "Tree rings: the calendar against which radiocarbon is calibrated"
+            },
+            {
+              "at": 1,
+              "type": "montage",
+              "media": [
+                "mass-spectrometer",
+                "stalagmite-cave",
+                "sterkfontein-caves"
+              ],
+              "captions": [
+                "Clocks in the laboratory",
+                "Clocks in cave calcite",
+                "Clocks in buried quartz"
+              ]
+            }
+          ]
         },
         {
           "speaker": "narrator",
           "text": "The most familiar clock is radiocarbon. Cosmic rays make a radioactive form of carbon in the upper air, and every living thing takes it up. When it dies, the intake stops and the carbon-14 decays, halving every 5,730 years. Willard Libby published the first dates in 1949 and received the Nobel Prize in Chemistry in 1960. After about 50,000 years too little carbon-14 remains to measure, so radiocarbon covers only the last hundredth of the story. Raw ages also have to be calibrated against tree rings, cave deposits and lake sediments, because the amount of carbon-14 in the air has varied; the international calibration curve was last revised in 2020 and reaches back 55,000 years.",
           "time": 50000,
-          "card": {
-            "type": "number",
-            "value": "5,730 years",
-            "label": "The half-life of carbon-14. After about 50,000 years too little is left to measure.",
-            "note": "Libby, 1949; IntCal20 calibration curve, Reimer and colleagues, 2020"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "libby",
+              "move": "still",
+              "lower": {
+                "name": "Willard Libby",
+                "sub": "Nobel Prize in Chemistry, 1960"
+              }
+            },
+            {
+              "at": 1,
+              "type": "diagram",
+              "diagram": "decay",
+              "params": {
+                "title": "Radiocarbon: carbon-14 halves every 5,730 years",
+                "halfLife": 5730,
+                "halves": 9,
+                "secPerHalf": 1.7,
+                "limit": "After about 50,000 years too little is left to measure"
+              }
+            },
+            {
+              "at": 5,
+              "type": "photo",
+              "media": "ams-lab",
+              "move": "pan-right",
+              "caption": "An accelerator mass spectrometer counts carbon-14 atoms directly"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1274,21 +1562,59 @@
             "zoom": 4
           },
           "time": 1750000,
-          "card": {
-            "type": "site",
-            "site": "olduvai-gorge"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "olduvai-panorama",
+              "move": "pan-left",
+              "caption": "Olduvai Gorge, Tanzania"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "curtis",
+              "move": "still",
+              "lower": {
+                "name": "Garniss Curtis",
+                "sub": "Potassium-argon dating, Berkeley"
+              }
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "zinj-skull",
+              "move": "push",
+              "caption": "OH 5, the skull Mary Leakey found at Olduvai in 1959",
+              "lower": {
+                "name": "Mary Leakey",
+                "sub": "Olduvai Gorge, 1959"
+              }
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "olduvai-space",
+              "move": "tilt-up",
+              "caption": "Olduvai Gorge from space: layers of ash and lake sediment"
+            }
+          ]
         },
         {
           "speaker": "narrator",
           "text": "Earth’s magnetic field has flipped many times. Magnetic minerals in cooling lava or settling mud record the direction of the field, and the last full reversal, about 773,000 years ago, is a marker recognisable in sediments worldwide. A layer magnetised the wrong way round must be older than that.",
           "time": 773000,
-          "card": {
-            "type": "number",
-            "value": "773,000 years",
-            "label": "The last full reversal of Earth’s magnetic field, a marker found in sediments worldwide",
-            "note": "The Matuyama–Brunhes boundary"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "diagram",
+              "diagram": "reversals",
+              "params": {
+                "secs": 9,
+                "maxMa": 3.5
+              }
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1303,45 +1629,66 @@
             "zoom": 4
           },
           "time": 3670000,
-          "card": {
-            "type": "site",
-            "site": "sterkfontein"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "stalagmite-cave",
+              "move": "tilt-up",
+              "caption": "Stalagmites and crusts: clocks of uranium and thorium"
+            },
+            {
+              "at": 4,
+              "type": "photo",
+              "media": "sterkfontein-caves",
+              "move": "push",
+              "caption": "The Sterkfontein caves, South Africa"
+            },
+            {
+              "at": 5,
+              "type": "photo",
+              "media": "little-foot",
+              "move": "pan-right",
+              "caption": "Little Foot, the most complete australopith skeleton, Sterkfontein"
+            }
+          ]
         },
         {
           "speaker": "research",
           "text": "The Little Foot date shows how dating arguments run. Jan Kramers and Paul Dirks argued in 2017 that the quartz grains could have been washed in long before the skeleton, and that flowstones in the cave point to an age nearer 2.2 million years. Granger’s team answered that the flowstones had formed in later cavities and could not date the bones. In 2024 Francis Thackeray compared the fossil primates of the deposit with dated sequences elsewhere and arrived at about 3.6 million years, though earlier comparisons of the same kind had suggested between 2 and 2.6 million. Most researchers now accept an age near 3.7 million, with the caveat that a single site dated by one main method invites doubt.",
-          "card": {
-            "type": "debate",
-            "question": "How old is Little Foot?",
-            "views": [
-              {
-                "label": "About 3.67 million years",
-                "text": "Granger and colleagues (2015, 2022): cosmogenic isotopes in quartz grains buried with the skeleton, on an isochron that corrects for reworked grains."
-              },
-              {
-                "label": "Nearer 2.2 million years",
-                "text": "Kramers and Dirks (2017): the grains may predate the skeleton, and flowstones in the chamber give younger ages."
-              }
-            ],
-            "status": "Thackeray (2024) reached about 3.6 million years from the fossil primates; the older age is the majority view, but it rests mainly on one method at one site."
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "split",
+              "question": "How old is Little Foot?",
+              "views": [
+                {
+                  "label": "About 3.67 million years",
+                  "text": "Granger and colleagues, 2015 and 2022: cosmogenic isotopes in quartz grains buried with the skeleton, on an isochron that corrects for reworked grains.",
+                  "media": "little-foot"
+                },
+                {
+                  "label": "Nearer 2.2 million years",
+                  "text": "Kramers and Dirks, 2017: the grains may predate the skeleton, and flowstones in the chamber give younger ages.",
+                  "media": "sterkfontein-caves"
+                }
+              ],
+              "status": "Thackeray, 2024, reached about 3.6 million years from the fossil primates; the older age is the majority view, but it rests mainly on one method at one site.",
+              "stagger": 8
+            }
+          ]
         },
         {
           "speaker": "narrator",
           "text": "No method is perfect, so a well-dated site is dated by several, and this series gives dates as ranges, naming the method where it matters.",
-          "card": {
-            "type": "text",
-            "kicker": "The clocks",
-            "title": "Which clock for which age",
-            "items": [
-              "Radiocarbon: to about 50,000 years",
-              "Luminescence and electron spin resonance: to a few hundred thousand years, sometimes more",
-              "Uranium-thorium: to about 500,000 years in cave calcite",
-              "Argon and palaeomagnetism: hundreds of thousands to millions of years",
-              "Cosmogenic burial: about 200,000 to 5 million years"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "type",
+              "text": "No method is perfect, so a well-dated site is dated by several.",
+              "kicker": "The rule for dates"
+            }
+          ]
         }
       ],
       "sources": [
@@ -1389,26 +1736,62 @@
             "la-pasiega",
             "maltravieso",
             "ardales"
+          ],
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "la-pasiega",
+              "move": "push",
+              "caption": "La Pasiega, Cantabria"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "maltravieso",
+              "move": "pan-right",
+              "caption": "Hand stencils at Maltravieso, Extremadura"
+            },
+            {
+              "at": 2,
+              "type": "number",
+              "value": "64,800 years",
+              "label": "Minimum age of the calcite over the paint at La Pasiega",
+              "kicker": "Hoffmann and colleagues, Science, 2018"
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "ardales",
+              "move": "tilt-up",
+              "caption": "Cueva de Ardales, Málaga"
+            }
           ]
         },
         {
           "speaker": "research",
           "text": "The team argued that calcite can only grow after the paint beneath it is in place, so its age is a minimum age for the art, and that they had sampled many crusts, at three caves, with consistent results.",
-          "card": {
-            "type": "debate",
-            "question": "Did Neanderthals paint Spanish caves 65,000 years ago?",
-            "views": [
-              {
-                "label": "Yes: the crusts are minimum ages",
-                "text": "Hoffmann, Pike and colleagues (2018): uranium-thorium dates on calcite over the paint at three caves, consistent and older than any modern human presence in Spain."
-              },
-              {
-                "label": "The dates may be too old",
-                "text": "White and 43 colleagues (2020), Pons-Branchu and colleagues (2020): flowing water leaches uranium and inflates ages; some samples were beside the pigment; no other Neanderthal painting is known."
-              }
-            ],
-            "status": "Published and contested. No independent method has confirmed or refuted the dates, and the authors stand by them."
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "split",
+              "question": "Did Neanderthals paint Spanish caves 65,000 years ago?",
+              "views": [
+                {
+                  "label": "Yes: the crusts are minimum ages",
+                  "text": "Hoffmann, Pike and colleagues, 2018: uranium-thorium dates on calcite over the paint at three caves, consistent and older than any modern human presence in Spain.",
+                  "media": "la-pasiega"
+                },
+                {
+                  "label": "The dates may be too old",
+                  "text": "White and 43 colleagues, 2020; Pons-Branchu and colleagues, 2020: flowing water leaches uranium and inflates ages; some samples were beside the pigment; no other Neanderthal painting is known.",
+                  "media": "nerja-cave"
+                }
+              ],
+              "status": "Published and contested. No independent method has confirmed or refuted the dates, and the authors stand by them.",
+              "stagger": 7
+            }
+          ]
         },
         {
           "speaker": "research",
@@ -1428,7 +1811,34 @@
             ],
             "zoom": 4
           },
-          "time": 51200
+          "time": 51200,
+          "shots": [
+            {
+              "at": 0,
+              "type": "globe",
+              "camera": {
+                "sites": [
+                  "la-pasiega",
+                  "maltravieso",
+                  "ardales"
+                ],
+                "zoom": 5
+              }
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "sulawesi-hand-stencil",
+              "move": "push",
+              "caption": "Hand stencils in Sulawesi, Indonesia, dated by the same method"
+            },
+            {
+              "at": 4,
+              "type": "type",
+              "text": "A date is an argument until other methods and other sites agree.",
+              "kicker": "Dating"
+            }
+          ]
         }
       ],
       "sources": [
@@ -1470,10 +1880,39 @@
           "sites": [
             "denisova-cave"
           ],
-          "card": {
-            "type": "site",
-            "site": "denisova-cave"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "feldhofer-skull",
+              "move": "push",
+              "caption": "Neanderthal 1, found in 1856 in the Neander valley"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "paabo",
+              "move": "still",
+              "lower": {
+                "name": "Svante Pääbo",
+                "sub": "Max Planck Institute for Evolutionary Anthropology, Leipzig"
+              }
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "denisova-cave-photo",
+              "move": "pan-left",
+              "caption": "Denisova Cave in the Altai, where a finger bone revealed a new human group"
+            },
+            {
+              "at": 4,
+              "type": "photo",
+              "media": "mpi-leipzig",
+              "move": "push",
+              "caption": "The Max Planck Institute for Evolutionary Anthropology, Leipzig"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1489,16 +1928,47 @@
             ]
           },
           "time": 430000,
-          "card": {
-            "type": "number",
-            "value": "2 million years",
-            "label": "The oldest DNA yet read, from frozen sediment in northern Greenland",
-            "note": "Kjær and colleagues, Nature, 2022. Oldest human DNA: Sima de los Huesos, about 430,000 years"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "clean-lab",
+              "move": "push",
+              "caption": "A clean laboratory for ancient DNA"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "sima-skull-5",
+              "move": "pan-right",
+              "caption": "Skull 5 from the Sima de los Huesos, Atapuerca, about 430,000 years old"
+            },
+            {
+              "at": 2,
+              "type": "montage",
+              "media": [
+                "mammoth-tooth",
+                "kap-kobenhavn"
+              ],
+              "captions": [
+                "A mammoth tooth from Siberian permafrost: DNA more than a million years old",
+                "Kap København, northern Greenland: DNA from two-million-year-old sediment"
+              ]
+            }
+          ]
         },
         {
           "speaker": "narrator",
-          "text": "DNA no longer needs a bone. In 2017 Viviane Slon and colleagues extracted Neanderthal and Denisovan DNA from the dirt of cave floors, and sediment DNA has since revealed who lived in caves that never yielded a fossil."
+          "text": "DNA no longer needs a bone. In 2017 Viviane Slon and colleagues extracted Neanderthal and Denisovan DNA from the dirt of cave floors, and sediment DNA has since revealed who lived in caves that never yielded a fossil.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "denisova-cave-photo",
+              "move": "tilt-up",
+              "caption": "Cave floors hold DNA without bones"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1513,12 +1983,22 @@
             "zoom": 4
           },
           "time": 2000000,
-          "card": {
-            "type": "number",
-            "value": "2 million years",
-            "label": "The oldest hominin proteins: four Paranthropus teeth from Swartkrans",
-            "note": "Madupe and colleagues, Science, 2025. Mammal enamel proteins reach 18 million years (Green and colleagues, Nature, 2025)"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "antecessor",
+              "move": "push",
+              "caption": "Homo antecessor, Gran Dolina, about 800,000 years old"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "sk48",
+              "move": "pan-right",
+              "caption": "SK 48, Paranthropus robustus from Swartkrans, South Africa"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1535,33 +2015,60 @@
             ]
           },
           "time": 146000,
-          "card": {
-            "type": "site",
-            "site": "harbin"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "harbin-skull",
+              "move": "push",
+              "caption": "The Harbin cranium, at least 146,000 years old, now a Denisovan"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "penghu",
+              "move": "pan-left",
+              "caption": "The Penghu jaw, dredged from the Taiwan Strait: a Denisovan man"
+            }
+          ]
         },
         {
           "speaker": "research",
           "text": "How far can molecules reach? Researchers in palaeoproteomics expect enamel proteins to help sort out relationships among hominins that will never yield DNA. Others caution that enamel preserves only a handful of proteins, so each fragment carries few informative differences; that contamination and chemical damage are hard to rule out; and that hominin DNA has not been recovered from anything older than about 430,000 years, with warm climates destroying it far faster.",
-          "card": {
-            "type": "debate",
-            "question": "How far back can molecules take us?",
-            "views": [
-              {
-                "label": "A deep molecular record",
-                "text": "Enamel proteins now reach 2 million years for hominins and 18 million for other mammals; proteomics may sort out early hominin relationships that anatomy cannot."
-              },
-              {
-                "label": "A thin signal",
-                "text": "Few proteins survive in enamel, each with few informative differences; contamination and damage are hard to exclude; DNA stops at about 430,000 years for humans."
-              }
-            ],
-            "status": "Proteins reliably give sex and broad relationships for some species older than 2 million years; detailed family trees still rest mainly on anatomy."
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "split",
+              "question": "How far back can molecules take us?",
+              "views": [
+                {
+                  "label": "A deep molecular record",
+                  "text": "Enamel proteins now reach 2 million years for hominins and 18 million for other mammals; proteomics may sort out early hominin relationships that anatomy cannot.",
+                  "media": "sk48"
+                },
+                {
+                  "label": "A thin signal",
+                  "text": "Few proteins survive in enamel, each with few informative differences; contamination and damage are hard to exclude; DNA stops at about 430,000 years for humans.",
+                  "media": "harbin-skull"
+                }
+              ],
+              "status": "Proteins reliably give sex and broad relationships for some species older than 2 million years; detailed family trees still rest mainly on anatomy.",
+              "stagger": 8
+            }
+          ]
         },
         {
           "speaker": "narrator",
-          "text": "Chemistry also tells us what people ate and where they grew up. Carbon isotopes in tooth enamel separate diets of leaves and fruit from diets of grasses and sedges; nitrogen tracks meat; strontium matches a tooth to the geology of the place where its owner spent childhood, and so reveals who moved."
+          "text": "Chemistry also tells us what people ate and where they grew up. Carbon isotopes in tooth enamel separate diets of leaves and fruit from diets of grasses and sedges; nitrogen tracks meat; strontium matches a tooth to the geology of the place where its owner spent childhood, and so reveals who moved.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "mass-spectrometer",
+              "move": "push",
+              "caption": "Isotopes in tooth enamel record diet and childhood home"
+            }
+          ]
         }
       ],
       "sources": [
@@ -1624,16 +2131,50 @@
         {
           "speaker": "narrator",
           "text": "The people in this story lived through climates that swung wildly. We know because the ocean floor and the ice remember. Tiny shelled creatures called foraminifera build their shells from seawater, and the ratio of oxygen isotopes in those shells tracks how much water was locked up in ice. In 2005 Lorraine Lisiecki and Maureen Raymo stacked 57 deep-sea records into a single curve covering 5.3 million years. Its numbered warm and cold stages, odd for warm, even for cold, are the calendar of the ice ages, and the sea-level curve along the bottom of this screen is built from records like it.",
-          "card": {
-            "type": "text",
-            "kicker": "The calendar of the ice ages",
-            "title": "Marine isotope stages",
-            "items": [
-              "Odd numbers: warm stages. Stage 1 is the Holocene, stage 5e the last interglacial about 125,000 years ago",
-              "Even numbers: cold stages. Stage 2 holds the Last Glacial Maximum",
-              "The LR04 stack of Lisiecki and Raymo (2005) covers 5.3 million years"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "joides-resolution",
+              "move": "push",
+              "caption": "The drilling ship JOIDES Resolution, which recovered deep-sea sediment cores for decades"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "foraminifera",
+              "move": "pan-right",
+              "caption": "Foraminifera: shells whose chemistry records the ice"
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "sediment-core",
+              "move": "tilt-up",
+              "caption": "A deep-sea sediment core"
+            },
+            {
+              "at": 4,
+              "type": "diagram",
+              "diagram": "sealevel",
+              "params": {
+                "title": "Sea level through the ice ages, from the LR04 stack and coral records",
+                "from": 800000,
+                "to": 2000,
+                "secs": 14,
+                "marks": [
+                  {
+                    "year": 125000,
+                    "label": "Last interglacial"
+                  },
+                  {
+                    "year": 20000,
+                    "label": "Last Glacial Maximum"
+                  }
+                ]
+              }
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1642,26 +2183,68 @@
             "little-dome-c"
           ],
           "time": 1200000,
-          "card": {
-            "type": "site",
-            "site": "little-dome-c"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "ice-core-section",
+              "move": "push",
+              "caption": "A section of ice core: bubbles of ancient air"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "concordia",
+              "move": "pan-left",
+              "caption": "Concordia Station at Dome C, Antarctica"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "beyond-epica-drill",
+              "move": "push",
+              "caption": "Beyond EPICA drilling at Little Dome C"
+            },
+            {
+              "at": 3,
+              "type": "number",
+              "value": "1.2 million years",
+              "label": "The oldest continuous ice core, reached at Little Dome C in January 2025",
+              "kicker": "Beyond EPICA"
+            }
+          ]
         },
         {
           "speaker": "narrator",
           "text": "That core targets a puzzle. Between about 1.25 million and 700,000 years ago the rhythm of the ice ages changed: cycles of roughly 41,000 years, set by the tilt of Earth’s axis, gave way to longer and deeper cycles of about 100,000 years. The change is called the Mid-Pleistocene Transition, and nobody yet agrees why it happened. Proposals include the slow scouring of loose sediment from beneath the northern ice sheets, which let them grow thicker and more stable, and a long-term decline in carbon dioxide. Hominins had already lived in Europe and Asia for a million years when it began.",
           "time": 700000,
-          "card": {
-            "type": "text",
-            "kicker": "Why the ice ages swing",
-            "title": "Orbital rhythms",
-            "items": [
-              "Tilt of the axis: about 41,000 years",
-              "Wobble of the axis: about 21,000 years, which drives the monsoons",
-              "Shape of the orbit: about 100,000 years",
-              "After the Mid-Pleistocene Transition the 100,000-year beat dominates"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "type",
+              "text": "Cycles of about 41,000 years gave way to cycles of about 100,000 years.",
+              "kicker": "The Mid-Pleistocene Transition, about 1.25 million to 700,000 years ago"
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "greenland-ice-aerial",
+              "move": "pan-right",
+              "caption": "Ice sheets grew thicker and more stable"
+            },
+            {
+              "at": 4,
+              "type": "globe",
+              "camera": {
+                "box": [
+                  -10,
+                  30,
+                  120,
+                  60
+                ]
+              }
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1673,7 +2256,39 @@
               50,
               35
             ]
-          }
+          },
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "sahara-satellite",
+              "move": "pull",
+              "caption": "The Sahara from space"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "tassili",
+              "move": "push",
+              "caption": "Rock art at Tassili n’Ajjer, Algeria, from a greener Sahara"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "lake-yoa",
+              "move": "pan-left",
+              "caption": "Lake Yoa, Chad, whose sediments record the drying of the Sahara"
+            },
+            {
+              "at": 3,
+              "type": "globe",
+              "camera": {
+                "lon": 20,
+                "lat": 15,
+                "zoom": 1
+              }
+            }
+          ]
         }
       ],
       "sources": [
@@ -1706,17 +2321,60 @@
         {
           "speaker": "narrator",
           "text": "Twenty thousand years ago, at the Last Glacial Maximum, you could have walked from England to Denmark, from Siberia to Alaska, and from New Guinea to Tasmania. Ice sheets up to three kilometres thick covered most of Canada and Scandinavia. So much water was locked up in them that the sea stood about 120 to 130 metres lower than today. Watch the coastlines on this globe as the timeline moves: the shelves that appear were dry land, and people lived on them.",
-          "time": 21000
+          "time": 21000,
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "lgm-map",
+              "move": "pull",
+              "caption": "The world at the Last Glacial Maximum: ice sheets and exposed shelves",
+              "fit": "contain"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "greenland-ice-aerial",
+              "move": "pan-right",
+              "caption": "Greenland’s ice sheet today; Canada and Scandinavia looked like this"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "vatnajokull",
+              "move": "push",
+              "caption": "Vatnajökull, Iceland"
+            },
+            {
+              "at": 3,
+              "type": "globe",
+              "camera": {
+                "lon": 0,
+                "lat": 45,
+                "zoom": 1
+              }
+            }
+          ]
         },
         {
           "speaker": "narrator",
           "text": "A 2020 study led by Jessica Tierney estimated that the world was about six degrees colder than before industrial times, with carbon dioxide near 190 parts per million, against more than 420 today. It was drier and dustier; tropical forests shrank and deserts grew.",
-          "card": {
-            "type": "number",
-            "value": "6 degrees colder",
-            "label": "Global mean temperature at the Last Glacial Maximum, compared with pre-industrial times",
-            "note": "Tierney and colleagues, Nature, 2020. Sea level about 120 to 130 metres lower (Lambeck and colleagues, 2014)"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "number",
+              "value": "6 degrees colder",
+              "label": "Global mean temperature at the Last Glacial Maximum, compared with pre-industrial times",
+              "kicker": "Tierney and colleagues, Nature, 2020"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "mammoth-steppe",
+              "move": "pan-left",
+              "caption": "The mammoth steppe: dry, dusty and grassy (reconstruction)"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1732,21 +2390,71 @@
             "lat": 20,
             "zoom": 1
           },
-          "card": {
-            "type": "text",
-            "kicker": "Lands now under the sea",
-            "title": "The drowned lowlands",
-            "items": [
-              "Beringia: Siberia to Alaska, cut by about 11,000 years ago",
-              "Sundaland: mainland Asia to Borneo and Java, largely drowned by 7,000 years ago",
-              "Sahul: Australia with New Guinea and Tasmania",
-              "Doggerland: Britain to the continent, gone by about 7,500 years ago"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "globe",
+              "camera": {
+                "lon": 100,
+                "lat": 20,
+                "zoom": 1
+              }
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "beringia-map",
+              "move": "pull",
+              "caption": "Beringia",
+              "fit": "contain"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "sundaland-map",
+              "move": "pull",
+              "caption": "Sundaland",
+              "fit": "contain"
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "sahul-map",
+              "move": "pull",
+              "caption": "Sahul",
+              "fit": "contain"
+            },
+            {
+              "at": 4,
+              "type": "photo",
+              "media": "doggerland-map",
+              "move": "pull",
+              "caption": "Doggerland",
+              "fit": "contain"
+            }
+          ]
         },
         {
           "speaker": "narrator",
-          "text": "Every one of those lands is now sea floor, and the archaeology of the people who lived on them is mostly lost, or reachable only by dredging and seismic survey. That loss shapes everything we think we know about coastlines and boats, and it will come up on every continent in this series."
+          "text": "Every one of those lands is now sea floor, and the archaeology of the people who lived on them is mostly lost, or reachable only by dredging and seismic survey. That loss shapes everything we think we know about coastlines and boats, and it will come up on every continent in this series.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "dogger-bank",
+              "move": "push",
+              "caption": "The North Sea over the Dogger Bank, once dry land"
+            },
+            {
+              "at": 1,
+              "type": "globe",
+              "camera": {
+                "lon": 0,
+                "lat": 45,
+                "zoom": 1
+              }
+            }
+          ]
         }
       ],
       "sources": [
@@ -1777,18 +2485,47 @@
       "cues": [
         {
           "speaker": "narrator",
-          "text": "Then the ice began to melt, but not smoothly. Deglaciation was paced by changes in Earth’s orbit that increased northern summer sunshine from about 20,000 years ago, amplified by rising carbon dioxide. The path was jagged because meltwater disturbed the Atlantic circulation that carries heat north."
+          "text": "Then the ice began to melt, but not smoothly. Deglaciation was paced by changes in Earth’s orbit that increased northern summer sunshine from about 20,000 years ago, amplified by rising carbon dioxide. The path was jagged because meltwater disturbed the Atlantic circulation that carries heat north.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "vatnajokull",
+              "move": "push",
+              "caption": "Meltwater from a retreating glacier, Iceland"
+            },
+            {
+              "at": 2,
+              "type": "globe",
+              "camera": {
+                "sites": [
+                  "northgrip"
+                ],
+                "zoom": 2
+              }
+            }
+          ]
         },
         {
           "speaker": "narrator",
           "text": "About 14,700 years ago the circulation strengthened and Greenland warmed by around ten degrees within decades. The sea surged: corals drilled off Tahiti record a rise of some 14 to 18 metres in about three and a half centuries, four centimetres a year.",
           "time": 14700,
-          "card": {
-            "type": "number",
-            "value": "10 degrees in decades",
-            "label": "The warming over Greenland at the start of the Bølling interstadial, about 14,700 years ago",
-            "note": "Meltwater Pulse 1A: about 14 to 18 metres of sea-level rise in about 350 years (Deschamps and colleagues, 2012)"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "number",
+              "value": "10 degrees in decades",
+              "label": "The warming over Greenland at the start of the Bølling interstadial, about 14,700 years ago",
+              "kicker": "Greenland ice cores"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "tahiti-reef",
+              "move": "pan-right",
+              "caption": "Corals off Tahiti record the sea rising four centimetres a year"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1797,10 +2534,29 @@
             "northgrip"
           ],
           "time": 11700,
-          "card": {
-            "type": "site",
-            "site": "northgrip"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "dryas-flower",
+              "move": "push",
+              "caption": "Dryas octopetala, the mountain avens that named the cold relapse"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "ngrip-drilling",
+              "move": "pan-left",
+              "caption": "Drilling the NorthGRIP core in Greenland"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "ice-core-section",
+              "move": "tilt-up",
+              "caption": "The base of the Holocene is defined at 1,492 metres depth in this core"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1816,10 +2572,45 @@
             ]
           },
           "time": 8150,
-          "card": {
-            "type": "site",
-            "site": "shetland-storegga"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "globe",
+              "camera": {
+                "sites": [
+                  "shetland-storegga",
+                  "dogger-bank"
+                ]
+              }
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "storegga-map",
+              "move": "pull",
+              "caption": "The Storegga slide and the reach of its tsunami",
+              "fit": "contain"
+            },
+            {
+              "at": 2,
+              "type": "globe",
+              "camera": {
+                "box": [
+                  110,
+                  -45,
+                  155,
+                  -5
+                ]
+              }
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "spencer-gulf",
+              "move": "push",
+              "caption": "Spencer Gulf, South Australia, one of the drowned coasts in Aboriginal stories"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1832,7 +2623,32 @@
               35
             ]
           },
-          "time": 8000
+          "time": 8000,
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "tassili",
+              "move": "pan-right",
+              "caption": "A greener Sahara: cattle and herders at Tassili n’Ajjer"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "lake-chad",
+              "move": "pull",
+              "caption": "Lake Chad, remnant of a lake once the size of the Caspian Sea"
+            },
+            {
+              "at": 2,
+              "type": "globe",
+              "camera": {
+                "lon": 20,
+                "lat": 15,
+                "zoom": 1
+              }
+            }
+          ]
         }
       ],
       "sources": [
@@ -1867,7 +2683,23 @@
       "cues": [
         {
           "speaker": "narrator",
-          "text": "What caused the Younger Dryas? The question has produced one of the longest arguments in Quaternary science, and one that has crossed into popular culture. Here are the positions."
+          "text": "What caused the Younger Dryas? The question has produced one of the longest arguments in Quaternary science, and one that has crossed into popular culture. Here are the positions.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "lake-agassiz-map",
+              "move": "pull",
+              "caption": "Glacial Lake Agassiz at its greatest extent",
+              "fit": "contain"
+            },
+            {
+              "at": 2,
+              "type": "type",
+              "text": "Here are the positions.",
+              "kicker": "Two explanations"
+            }
+          ]
         },
         {
           "speaker": "research",
@@ -1875,10 +2707,43 @@
           "sites": [
             "lake-agassiz"
           ],
-          "card": {
-            "type": "site",
-            "site": "lake-agassiz"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "broecker",
+              "move": "still",
+              "lower": {
+                "name": "Wallace Broecker",
+                "sub": "Lamont-Doherty Earth Observatory"
+              }
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "lake-agassiz-map",
+              "move": "push",
+              "caption": "Lake Agassiz, larger than any lake today",
+              "fit": "contain"
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "mackenzie-delta",
+              "move": "pan-right",
+              "caption": "The Mackenzie delta, where the flood reached the Arctic Ocean"
+            },
+            {
+              "at": 4,
+              "type": "globe",
+              "camera": {
+                "sites": [
+                  "lake-agassiz"
+                ],
+                "zoom": 2.4
+              }
+            }
+          ]
         },
         {
           "speaker": "research",
@@ -1894,29 +2759,64 @@
             ],
             "zoom": 2.2
           },
-          "card": {
-            "type": "debate",
-            "question": "What caused the Younger Dryas?",
-            "views": [
-              {
-                "label": "Meltwater",
-                "text": "Broecker (1989), Murton and colleagues (2010), Keigwin and colleagues (2018): Lake Agassiz drained north through the Mackenzie valley, freshened the Arctic and North Atlantic and weakened the ocean circulation. The majority view."
-              },
-              {
-                "label": "A cosmic impact",
-                "text": "Firestone, Kennett and colleagues (2007); Petaev (2013); Moore (2020); Sweatman (2021): microspherules, nanodiamonds, meltglass and platinum at a boundary layer on several continents mark a comet airburst."
-              },
-              {
-                "label": "The critics",
-                "text": "Meltzer and colleagues (2014): the layers are not securely dated. Holliday and 12 colleagues (2023): the markers are not unique to impacts, no crater exists, and the extinctions and Clovis show no sudden break."
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "kennett",
+              "move": "still",
+              "lower": {
+                "name": "James Kennett",
+                "sub": "University of California, Santa Barbara"
               }
-            ],
-            "status": "Most Quaternary scientists favour meltwater and regard the impact as unproven; its proponents regard it as prematurely dismissed. Three of the group’s papers were retracted in 2025 and 2026."
-          }
+            },
+            {
+              "at": 1,
+              "type": "montage",
+              "media": [
+                "black-mat",
+                "clovis-point"
+              ],
+              "captions": [
+                "The black mat at Murray Springs, Arizona, above the last mammoth bones",
+                "A Clovis point"
+              ]
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "abu-hureyra",
+              "move": "push",
+              "caption": "Abu Hureyra, Syria, excavated before the Tabqa reservoir covered it"
+            }
+          ]
         },
         {
           "speaker": "research",
-          "text": "Critics answer on several fronts. Independent teams failed to find nanodiamonds or spherules at the same levels, or found them at many other levels too. A 2014 study led by David Meltzer argued that most of the claimed boundary layers were not securely dated to 12,900 years. No crater of the right age is known: the Hiawatha crater under the Greenland ice, once a candidate, was dated in 2022 to 58 million years. And the mammoths and the Clovis culture show no sudden break. In 2023 Vance Holliday and twelve co-authors published a long review in Earth-Science Reviews under the title of a comprehensive refutation. Proponents replied in 2024 that the review misrepresented their studies, and Holliday’s group rebutted in turn."
+          "text": "Critics answer on several fronts. Independent teams failed to find nanodiamonds or spherules at the same levels, or found them at many other levels too. A 2014 study led by David Meltzer argued that most of the claimed boundary layers were not securely dated to 12,900 years. No crater of the right age is known: the Hiawatha crater under the Greenland ice, once a candidate, was dated in 2022 to 58 million years. And the mammoths and the Clovis culture show no sudden break. In 2023 Vance Holliday and twelve co-authors published a long review in Earth-Science Reviews under the title of a comprehensive refutation. Proponents replied in 2024 that the review misrepresented their studies, and Holliday’s group rebutted in turn.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "split",
+              "question": "What caused the Younger Dryas?",
+              "views": [
+                {
+                  "label": "Meltwater",
+                  "text": "Broecker, 1989; Murton and colleagues, 2010; Keigwin and colleagues, 2018: Lake Agassiz drained north through the Mackenzie valley, freshened the Arctic and North Atlantic and weakened the ocean circulation. The majority view."
+                },
+                {
+                  "label": "A cosmic impact",
+                  "text": "Firestone, Kennett and colleagues, 2007; Petaev, 2013; Moore, 2020; Sweatman, 2021: microspherules, nanodiamonds, meltglass and platinum at a boundary layer on several continents mark a comet airburst."
+                },
+                {
+                  "label": "The critics",
+                  "text": "Meltzer and colleagues, 2014: the layers are not securely dated. Holliday and 12 colleagues, 2023: the markers are not unique to impacts, no crater exists, and the extinctions and Clovis show no sudden break."
+                }
+              ],
+              "status": "Most Quaternary scientists favour meltwater and regard the impact as unproven; its proponents regard it as prematurely dismissed.",
+              "stagger": 10
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -1926,21 +2826,48 @@
               "abu-hureyra"
             ],
             "zoom": 3.5
-          }
+          },
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "tall-el-hammam",
+              "move": "push",
+              "caption": "Tall el-Hammam, Jordan: the 2021 airburst paper was retracted in 2025"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "baffin-bay",
+              "move": "pan-left",
+              "caption": "Baffin Bay: the 2025 sediment core paper was retracted in 2026"
+            },
+            {
+              "at": 3,
+              "type": "type",
+              "text": "The group disputes the retractions and continues to publish.",
+              "kicker": "2025 to 2026"
+            }
+          ]
         },
         {
           "speaker": "narrator",
           "text": "Where does the field stand? Most Quaternary scientists regard the meltwater explanation as the best supported, and the impact hypothesis as unproven. Its proponents regard it as prematurely dismissed. The lost-civilisation reading of the same event, popularised by Graham Hancock, is a further step, which we will examine alongside Göbekli Tepe in episode 5. In this series each claim is weighed by its evidence, and the evidence is what you have just heard.",
-          "card": {
-            "type": "text",
-            "kicker": "Where it stands",
-            "title": "The Younger Dryas",
-            "items": [
-              "Meltwater from Lake Agassiz: the majority explanation, with a flood path identified in 2010 and 2018",
-              "Cosmic impact: published since 2007, replicated by its proponents, disputed by independent teams, three papers retracted in 2025 and 2026",
-              "No crater of the right age is known"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "type",
+              "text": "Most Quaternary scientists favour meltwater and regard the impact as unproven. Its proponents regard it as prematurely dismissed.",
+              "kicker": "Where it stands"
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "gobekli-pillars",
+              "move": "push",
+              "caption": "Göbekli Tepe, where the lost-civilisation reading is examined in episode 5"
+            }
+          ]
         }
       ],
       "sources": [
@@ -2000,37 +2927,55 @@
       "cues": [
         {
           "speaker": "narrator",
-          "text": "Some of the most dramatic stories about our past come from single studies. Three examples show how the field tests them."
+          "text": "Some of the most dramatic stories about our past come from single studies. Three examples show how the field tests them.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "lake-toba",
+              "move": "push",
+              "caption": "Lake Toba, Sumatra: the crater of the eruption of 74,000 years ago"
+            }
+          ]
         },
         {
           "speaker": "narrator",
           "text": "In 2023 Wangjie Hu, Haipeng Li and colleagues published a method called FitCoal, which reads past population size from the pattern of genetic variants in living people. Applied to more than 3,000 modern genomes, it indicated that between about 930,000 and 813,000 years ago the ancestors of modern humans fell to about 1,280 breeding individuals and stayed there for more than 100,000 years.",
           "time": 930000,
-          "card": {
-            "type": "number",
-            "value": "1,280",
-            "label": "Breeding individuals in the claimed bottleneck of 930,000 to 813,000 years ago",
-            "note": "Hu and colleagues, Science, 2023. Disputed."
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "diagram",
+              "diagram": "bottleneck",
+              "params": {
+                "title": "A claimed bottleneck, 930,000 to 813,000 years ago",
+                "secs": 8
+              }
+            }
+          ]
         },
         {
           "speaker": "research",
           "text": "Other population geneticists could not reproduce the result. In 2025 Yun Deng, Rasmus Nielsen and Yun Song argued that the bottleneck was likely a statistical artefact, and Trevor Cousins and Arun Durvasula concluded that the evidence was insufficient: established methods applied to the same genomes show nothing, a model without any bottleneck fits the data better, a population split into groups that exchanged migrants can mimic a crash, and the signal fails to appear in people outside Africa, who should carry it too. Hu and Li’s group replied in 2026 with simulations in which their method recovered sharp bottlenecks that the competing method smoothed away. The question is open; most specialists currently doubt the crash.",
-          "card": {
-            "type": "debate",
-            "question": "Did our ancestors nearly die out 900,000 years ago?",
-            "views": [
-              {
-                "label": "A severe bottleneck",
-                "text": "Hu, Li and colleagues (2023, 2026): FitCoal finds a drop to about 1,280 breeding individuals lasting more than 100,000 years, and recovers such events in simulations."
-              },
-              {
-                "label": "A statistical artefact",
-                "text": "Deng, Nielsen and Song (2025), Cousins and Durvasula (2025): other methods see nothing, a model without a bottleneck fits better, population structure can mimic a crash, and non-Africans lack the signal."
-              }
-            ],
-            "status": "Unresolved; most population geneticists doubt the bottleneck. Ancient proteins from fossils of that age may eventually help."
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "split",
+              "question": "Did our ancestors nearly die out 900,000 years ago?",
+              "views": [
+                {
+                  "label": "A severe bottleneck",
+                  "text": "Hu, Li and colleagues, 2023 and 2026: FitCoal finds a drop to about 1,280 breeding individuals lasting more than 100,000 years, and recovers such events in simulations."
+                },
+                {
+                  "label": "A statistical artefact",
+                  "text": "Deng, Nielsen and Song, 2025; Cousins and Durvasula, 2025: other methods see nothing, a model without a bottleneck fits better, population structure can mimic a crash, and non-Africans lack the signal."
+                }
+              ],
+              "status": "Unresolved; most population geneticists doubt the bottleneck. Ancient proteins from fossils of that age may eventually help.",
+              "stagger": 8
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -2050,10 +2995,55 @@
             ]
           },
           "time": 74000,
-          "card": {
-            "type": "site",
-            "site": "toba-caldera"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "toba-satellite",
+              "move": "pull",
+              "caption": "The Toba caldera from space"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "lake-toba",
+              "move": "pan-right",
+              "caption": "The eruption was one of the largest of the past two million years"
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "jwalapuram",
+              "move": "push",
+              "caption": "Jwalapuram, India: tools below and above the Toba ash"
+            },
+            {
+              "at": 4,
+              "type": "photo",
+              "media": "pinnacle-point",
+              "move": "pan-left",
+              "caption": "Pinnacle Point, South Africa, where life went on through the ash fall"
+            },
+            {
+              "at": 5,
+              "type": "globe",
+              "camera": {
+                "sites": [
+                  "shinfa-metema-1",
+                  "pinnacle-point",
+                  "jwalapuram",
+                  "toba-caldera"
+                ]
+              }
+            },
+            {
+              "at": 7,
+              "type": "number",
+              "value": "74,000 years ago",
+              "label": "Toba: a regional disaster, not a near-extinction",
+              "kicker": "Petraglia 2007, Smith 2018, Clarkson 2020, Kappelman 2024"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -2069,25 +3059,53 @@
             ]
           },
           "time": 41000,
-          "card": {
-            "type": "debate",
-            "question": "Did the magnetic excursion of 41,000 years ago change human history?",
-            "views": [
-              {
-                "label": "A global crisis",
-                "text": "Cooper, Turney and colleagues (2021): ozone loss and climate shifts contributed to extinctions, Neanderthal decline and new behaviours; Mukhopadhyay and colleagues (2025) add a possible advantage for clothed, ochre-using Homo sapiens."
-              },
-              {
-                "label": "Coincidence",
-                "text": "Picin, Hawks and others (2021): the extinctions and the Neanderthal decline began earlier, and ice cores and cave records show no distinct climate event at the time."
-              }
-            ],
-            "status": "Most researchers remain unconvinced of major effects on people. Precise dating of sites against the radiocarbon record of the excursion is the test."
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "chaine-des-puys",
+              "move": "push",
+              "caption": "The Chaîne des Puys, Auvergne: the lava flows of Laschamps recorded the excursion"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "kauri-swamp",
+              "move": "pan-right",
+              "caption": "Swamp kauri from Northland, New Zealand, dated the event to the decade"
+            },
+            {
+              "at": 2,
+              "type": "split",
+              "question": "Did the magnetic excursion of 41,000 years ago change human history?",
+              "views": [
+                {
+                  "label": "A global crisis",
+                  "text": "Cooper, Turney and colleagues, 2021: ozone loss and climate shifts contributed to extinctions, Neanderthal decline and new behaviours; Mukhopadhyay and colleagues, 2025, add a possible advantage for clothed, ochre-using Homo sapiens.",
+                  "media": "aurora"
+                },
+                {
+                  "label": "Coincidence",
+                  "text": "Picin, Hawks and others, 2021: the extinctions and the Neanderthal decline began earlier, and ice cores and cave records show no distinct climate event at the time.",
+                  "media": "chaine-des-puys"
+                }
+              ],
+              "status": "Most researchers remain unconvinced of major effects on people.",
+              "stagger": 6
+            }
+          ]
         },
         {
           "speaker": "narrator",
-          "text": "The pattern across all three is the same: a striking claim, a search for the evidence that would have to exist if it were true, and a field that moves slowly toward an answer. It is how every argument in this series will be handled."
+          "text": "The pattern across all three is the same: a striking claim, a search for the evidence that would have to exist if it were true, and a field that moves slowly toward an answer. It is how every argument in this series will be handled.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "type",
+              "text": "A striking claim, a search for the evidence that would have to exist if it were true, and a field that moves slowly toward an answer.",
+              "kicker": "The pattern"
+            }
+          ]
         }
       ],
       "sources": [
@@ -2155,16 +3173,38 @@
             ],
             "zoom": 2.6
           },
-          "card": {
-            "type": "text",
-            "kicker": "7 to 4 million years ago",
-            "title": "Upright apes",
-            "items": [
-              "Sahelanthropus, Chad, about 7 million years",
-              "Orrorin, Kenya, about 6 million years",
-              "Ardipithecus, Ethiopia, 4.4 million years"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "globe",
+              "camera": {
+                "lon": 25,
+                "lat": 5,
+                "zoom": 1
+              }
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "rift-valley",
+              "move": "push",
+              "caption": "The Great Rift Valley, Kenya"
+            },
+            {
+              "at": 2,
+              "type": "montage",
+              "media": [
+                "toumai",
+                "orrorin",
+                "ardi"
+              ],
+              "captions": [
+                "Sahelanthropus, Chad, about 7 million years",
+                "Orrorin, Kenya, about 6 million years",
+                "Ardipithecus, Ethiopia, 4.4 million years"
+              ]
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -2176,17 +3216,39 @@
             "ledi-geraru"
           ],
           "time": 2000000,
-          "card": {
-            "type": "text",
-            "kicker": "3.5 to 2 million years ago",
-            "title": "Australopiths and the first Homo",
-            "items": [
-              "Lucy, Hadar, 3.2 million years",
-              "Laetoli footprints, 3.66 million years",
-              "Oldest Homo jaw, Ledi-Geraru, 2.8 million years",
-              "Handaxes by 1.76 million years"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "montage",
+              "media": [
+                "lucy",
+                "laetoli-footprints"
+              ],
+              "captions": [
+                "Lucy, Hadar, 3.2 million years",
+                "The Laetoli footprints, 3.66 million years"
+              ]
+            },
+            {
+              "at": 1,
+              "type": "globe",
+              "camera": {
+                "sites": [
+                  "hadar",
+                  "laetoli",
+                  "sterkfontein",
+                  "ledi-geraru"
+                ]
+              }
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "turkana-boy",
+              "move": "push",
+              "caption": "Turkana Boy, Homo erectus, about 1.5 million years"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -2206,7 +3268,33 @@
             ]
           },
           "route": "sweep-erectus",
-          "time": 1500000
+          "time": 1500000,
+          "shots": [
+            {
+              "at": 0,
+              "type": "globe",
+              "camera": {
+                "box": [
+                  -10,
+                  -10,
+                  130,
+                  55
+                ]
+              }
+            },
+            {
+              "at": 1,
+              "type": "montage",
+              "media": [
+                "dmanisi-skull",
+                "floresiensis-skull"
+              ],
+              "captions": [
+                "A skull from Dmanisi, Georgia, 1.8 million years",
+                "Homo floresiensis, the island dwarf of Flores"
+              ]
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -2220,17 +3308,34 @@
           ],
           "route": "sweep-erectus-south",
           "time": 315000,
-          "card": {
-            "type": "text",
-            "kicker": "430,000 to 100,000 years ago",
-            "title": "Many ways of being human",
-            "items": [
-              "Neanderthals: Europe and western Asia",
-              "Denisovans: Siberia to Tibet and Taiwan",
-              "Homo naledi: South Africa, 335,000 to 236,000 years",
-              "Homo sapiens: Jebel Irhoud, about 315,000 years"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "montage",
+              "media": [
+                "neanderthal-skull",
+                "denisova-cave-photo",
+                "naledi-skeleton"
+              ],
+              "captions": [
+                "A Neanderthal skull",
+                "Denisova Cave, Siberia",
+                "Homo naledi, South Africa"
+              ]
+            },
+            {
+              "at": 2,
+              "type": "montage",
+              "media": [
+                "jebel-irhoud-skull",
+                "blombos-ochre"
+              ],
+              "captions": [
+                "Jebel Irhoud, Morocco, about 315,000 years",
+                "Engraved ochre from Blombos Cave, South Africa"
+              ]
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -2249,12 +3354,27 @@
           },
           "route": "sweep-sapiens",
           "time": 45000,
-          "card": {
-            "type": "number",
-            "value": "1 to 2 percent",
-            "label": "Neanderthal DNA in people outside Africa; Denisovan DNA reaches several percent in New Guinea and Australia",
-            "note": "Green and colleagues, 2010; Reich and colleagues, 2010"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "globe",
+              "camera": {
+                "box": [
+                  -10,
+                  -45,
+                  150,
+                  60
+                ]
+              }
+            },
+            {
+              "at": 2,
+              "type": "number",
+              "value": "1 to 2 percent",
+              "label": "Neanderthal DNA in people outside Africa; Denisovan DNA reaches several percent in New Guinea and Australia",
+              "kicker": "Green and colleagues, 2010; Reich and colleagues, 2010"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -2270,7 +3390,32 @@
             "zoom": 1
           },
           "route": "sweep-europe",
-          "time": 11000
+          "time": 11000,
+          "shots": [
+            {
+              "at": 0,
+              "type": "montage",
+              "media": [
+                "chauvet",
+                "lion-man",
+                "white-sands-footprints"
+              ],
+              "captions": [
+                "Chauvet Cave, France",
+                "The Lion Man of Hohlenstein-Stadel",
+                "The White Sands footprints, New Mexico"
+              ]
+            },
+            {
+              "at": 1,
+              "type": "globe",
+              "camera": {
+                "lon": -60,
+                "lat": 20,
+                "zoom": 1
+              }
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -2288,17 +3433,48 @@
           },
           "route": "sweep-americas",
           "time": 700,
-          "card": {
-            "type": "text",
-            "kicker": "11,500 to 700 years ago",
-            "title": "Towns, metal and the last voyages",
-            "items": [
-              "Göbekli Tepe, about 11,500 years ago",
-              "Copper smelting in the Balkans, about 7,000 years ago",
-              "Bronze common in Mesopotamia, about 5,000 years ago",
-              "Lapita in Fiji and Tonga, about 2,800 years ago; New Zealand, about 700"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "catalhoyuk",
+              "move": "push",
+              "caption": "Çatalhöyük, Anatolia: a town of several thousand people"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "gobekli-pillars",
+              "move": "pan-right",
+              "caption": "Göbekli Tepe, about 11,500 years ago"
+            },
+            {
+              "at": 2,
+              "type": "montage",
+              "media": [
+                "varna-gold",
+                "uruk"
+              ],
+              "captions": [
+                "Gold from the Varna necropolis, Bulgaria",
+                "Uruk, Mesopotamia"
+              ]
+            },
+            {
+              "at": 3,
+              "type": "montage",
+              "media": [
+                "lapita-pottery",
+                "hokulea",
+                "maori-waka"
+              ],
+              "captions": [
+                "Lapita pottery",
+                "A Polynesian voyaging canoe",
+                "A Māori waka"
+              ]
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -2323,7 +3499,18 @@
               "7. The Americas",
               "8. Sahul and the Pacific"
             ]
-          }
+          },
+          "shots": [
+            {
+              "at": 0,
+              "type": "globe",
+              "camera": {
+                "lon": 20,
+                "lat": 10,
+                "zoom": 1
+              }
+            }
+          ]
         }
       ],
       "sources": [
@@ -2359,20 +3546,42 @@
         {
           "speaker": "narrator",
           "text": "A word this series uses constantly needs a definition. A hominin is a human or any extinct relative more closely related to us than to chimpanzees and bonobos. The word says nothing about brains, tools or speech; it is about a branch of the family tree.",
-          "card": {
-            "type": "text",
-            "kicker": "A definition",
-            "title": "Hominin",
-            "items": [
-              "Humans and all extinct relatives closer to us than to chimpanzees and bonobos",
-              "Includes australopiths, Paranthropus, Homo erectus, Neanderthals, Denisovans and us",
-              "Says nothing about intelligence or tools"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "chimp-bonobo",
+              "move": "push",
+              "caption": "Chimpanzees and bonobos, our closest living relatives"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "hominin-tree",
+              "move": "pull",
+              "caption": "The hominin family tree: a branch, not a ladder",
+              "fit": "contain"
+            }
+          ]
         },
         {
           "speaker": "narrator",
-          "text": "Species names are working hypotheses. Two researchers looking at the same jaw may place it in different species, and the record is thin: the whole story of the first three million years rests on a few thousand fragments. This series will name arguments as arguments and say who holds each view. Where genetics has changed the picture, as it has for the Neanderthals, the Denisovans and our own origins, it will say how."
+          "text": "Species names are working hypotheses. Two researchers looking at the same jaw may place it in different species, and the record is thin: the whole story of the first three million years rests on a few thousand fragments. This series will name arguments as arguments and say who holds each view. Where genetics has changed the picture, as it has for the Neanderthals, the Denisovans and our own origins, it will say how.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "dmanisi-skull",
+              "move": "pan-right",
+              "caption": "One skull, several opinions: Dmanisi"
+            },
+            {
+              "at": 2,
+              "type": "type",
+              "text": "This series will name arguments as arguments, and say who holds each view.",
+              "kicker": "How to read the series"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -2380,10 +3589,41 @@
           "sites": [
             "la-chapelle-aux-saints"
           ],
-          "card": {
-            "type": "site",
-            "site": "la-chapelle-aux-saints"
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "neanderthal-reconstruction",
+              "move": "push",
+              "caption": "A modern reconstruction of a Neanderthal"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "prehistoric-times-1",
+              "move": "pan-left",
+              "caption": "Lubbock’s Pre-historic Times, 1865",
+              "fit": "contain"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "boule-1911",
+              "move": "pull",
+              "caption": "Boule’s reconstruction of the La Chapelle-aux-Saints Neanderthal, 1911 to 1913",
+              "lower": {
+                "name": "Marcellin Boule",
+                "sub": "Muséum national d’Histoire naturelle, Paris"
+              }
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "la-chapelle-skeleton",
+              "move": "tilt-up",
+              "caption": "The La Chapelle-aux-Saints skeleton: an old man with severe arthritis"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -2395,11 +3635,61 @@
               45,
               0
             ]
-          }
+          },
+          "shots": [
+            {
+              "at": 0,
+              "type": "globe",
+              "camera": {
+                "box": [
+                  10,
+                  -35,
+                  45,
+                  0
+                ]
+              }
+            },
+            {
+              "at": 2,
+              "type": "montage",
+              "media": [
+                "hadza",
+                "san-people"
+              ],
+              "captions": [
+                "Hadza people, Tanzania",
+                "San people, Kalahari"
+              ]
+            },
+            {
+              "at": 4,
+              "type": "type",
+              "text": "The Stone Age is a label for tools, not for the worth of the people who used them."
+            }
+          ]
         },
         {
           "speaker": "narrator",
-          "text": "The people of the Stone Age crossed seas, painted caves, made music, cared for the sick and injured, and shaped whole landscapes with fire. Their descendants include everyone alive today."
+          "text": "The people of the Stone Age crossed seas, painted caves, made music, cared for the sick and injured, and shaped whole landscapes with fire. Their descendants include everyone alive today.",
+          "shots": [
+            {
+              "at": 0,
+              "type": "montage",
+              "media": [
+                "lascaux",
+                "chauvet"
+              ],
+              "captions": [
+                "Lascaux",
+                "Chauvet"
+              ]
+            },
+            {
+              "at": 1,
+              "type": "type",
+              "text": "Their descendants include everyone alive today."
+            }
+          ]
         }
       ],
       "sources": [
@@ -2437,18 +3727,67 @@
             "erlitou"
           ],
           "time": 3000,
-          "card": {
-            "type": "text",
-            "kicker": "When metal arrived",
-            "title": "A patchwork ending",
-            "items": [
-              "Balkans and Iran: smelted copper by about 7,000 years ago",
-              "Mesopotamia and the Aegean: bronze common by about 5,000 years ago",
-              "China: bronze on a large scale from about 4,000 years ago",
-              "Sub-Saharan Africa: stone to iron, mostly in the last 3,000 years",
-              "Australia and the Pacific: no metal before European contact"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "globe",
+              "camera": {
+                "lon": 40,
+                "lat": 25,
+                "zoom": 1
+              }
+            },
+            {
+              "at": 2,
+              "type": "montage",
+              "media": [
+                "belovode-photo",
+                "varna-gold"
+              ],
+              "captions": [
+                "Belovode, Serbia: copper smelting about 7,000 years ago",
+                "Varna, Bulgaria: the oldest gold hoard"
+              ]
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "erlitou-bronze",
+              "move": "push",
+              "caption": "A bronze vessel from Erlitou, China"
+            },
+            {
+              "at": 4,
+              "type": "globe",
+              "camera": {
+                "box": [
+                  -20,
+                  -35,
+                  55,
+                  20
+                ]
+              }
+            },
+            {
+              "at": 5,
+              "type": "montage",
+              "media": [
+                "old-copper",
+                "chavin-gold"
+              ],
+              "captions": [
+                "Hammered native copper from the Great Lakes",
+                "Gold from Chavín, Peru"
+              ]
+            },
+            {
+              "at": 6,
+              "type": "photo",
+              "media": "aboriginal-stone-tools",
+              "move": "pan-right",
+              "caption": "Stone tools from Australia, used until European contact"
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -2459,7 +3798,35 @@
             ],
             "zoom": 2.5
           },
-          "time": 2500
+          "time": 2500,
+          "shots": [
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "flint-sickle",
+              "move": "push",
+              "caption": "A flint sickle, still in use in the Bronze Age"
+            },
+            {
+              "at": 2,
+              "type": "photo",
+              "media": "new-guinea-axe",
+              "move": "pan-left",
+              "caption": "A ground stone axe from highland New Guinea"
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "obsidian-blade",
+              "move": "tilt-up",
+              "caption": "An obsidian blade: an edge finer than a scalpel"
+            },
+            {
+              "at": 4,
+              "type": "type",
+              "text": "The skills did not leave."
+            }
+          ]
         }
       ],
       "sources": [
@@ -2498,20 +3865,55 @@
               "madjedbebe"
             ]
           },
-          "card": {
-            "type": "text",
-            "kicker": "Open questions",
-            "title": "What the series will follow",
-            "items": [
-              "First people in the Americas: 23,000 years ago, or after 16,000?",
-              "First Australians: 65,000 or 50,000 years ago?",
-              "Who made the first tools?",
-              "What did the Denisovans look like?",
-              "Did Homo naledi bury its dead?",
-              "Why did only our species survive?",
-              "How did farming, and inequality, begin?"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "white-sands-footprints",
+              "move": "push",
+              "caption": "The White Sands footprints, New Mexico"
+            },
+            {
+              "at": 1,
+              "type": "photo",
+              "media": "madjedbebe",
+              "move": "pan-right",
+              "caption": "Madjedbebe rock shelter, Arnhem Land"
+            },
+            {
+              "at": 2,
+              "type": "globe",
+              "camera": {
+                "sites": [
+                  "lomekwi-3"
+                ],
+                "zoom": 3
+              }
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "denisovan-reconstruction",
+              "move": "pull",
+              "caption": "A reconstruction of a Denisovan"
+            },
+            {
+              "at": 4,
+              "type": "photo",
+              "media": "dinaledi",
+              "move": "tilt-up",
+              "caption": "The Dinaledi chamber, Rising Star Cave"
+            },
+            {
+              "at": 5,
+              "type": "globe",
+              "camera": {
+                "lon": 20,
+                "lat": 10,
+                "zoom": 1
+              }
+            }
+          ]
         },
         {
           "speaker": "narrator",
@@ -2523,18 +3925,29 @@
             "zoom": 1.6
           },
           "time": 11500,
-          "card": {
-            "type": "text",
-            "kicker": "Contested views",
-            "title": "Weighed the same way",
-            "items": [
-              "The Younger Dryas comet",
-              "Göbekli Tepe as an astronomical record",
-              "A lost civilisation of the ice age",
-              "Gunung Padang as a buried pyramid",
-              "The Solutrean crossing of the Atlantic"
-            ]
-          }
+          "shots": [
+            {
+              "at": 0,
+              "type": "photo",
+              "media": "gobekli-pillars",
+              "move": "push",
+              "caption": "Göbekli Tepe"
+            },
+            {
+              "at": 3,
+              "type": "photo",
+              "media": "gunung-padang",
+              "move": "pan-left",
+              "caption": "Gunung Padang, Java"
+            },
+            {
+              "at": 4,
+              "type": "photo",
+              "media": "solutrean-point",
+              "move": "pull",
+              "caption": "A Solutrean point, France, about 20,000 years old"
+            }
+          ]
         },
         {
           "speaker": "narrator",
